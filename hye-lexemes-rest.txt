@@ -1,0 +1,3640 @@
+﻿-lexeme
+ lex: ալ
+ stem: ալ.
+ gramm: PART
+ gloss: red
+ paradigm: Empty
+ trans_en: red
+
+-lexeme
+ lex: ալո
+ stem: ալո.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: ախ
+ stem: ախ.
+ gramm: INTJ
+ gloss: ah!_oh!
+ paradigm: Empty
+ trans_en: ah!, oh!
+
+-lexeme
+ lex: ախ-վախ
+ stem: ախ-վախ.
+ gramm: INTJ
+ gloss: ah!_oh!_alas!
+ paradigm: Empty
+ trans_en: ah!, oh!, alas!
+
+-lexeme
+ lex: ախր
+ stem: ախր.
+ gramm: PART
+ gloss: but
+ paradigm: Empty
+ trans_en: but, why
+
+-lexeme
+ lex: ահ
+ stem: ահ.
+ gramm: INTJ
+ gloss: oh
+ paradigm: Empty
+ trans_en: o!, oh!, ah!
+
+-lexeme
+ lex: ահա
+ stem: ահա.
+ gramm: PART
+ gloss: here
+ paradigm: Empty
+ trans_en: here!, here you are!, here is...
+
+-lexeme
+ lex: ահավասիկ
+ stem: ահավասիկ.
+ gramm: PART
+ gloss: here
+ paradigm: Empty
+ trans_en: here!, here you are!, here is...
+
+-lexeme
+ lex: աղու
+ stem: աղու.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: աման
+ stem: աման.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: ամբողջ
+ stem: ամբողջ.
+ gramm: PRON,A
+ gloss: all
+ paradigm: N12
+ trans_en: all, whole
+
+-lexeme
+ lex: ամեն
+ stem: ամեն.
+ gramm: PART
+ gloss: amen
+ paradigm: Empty
+ trans_en: amen
+
+-lexeme
+ lex: ամեն
+ stem: ամեն.
+ gramm: PRON,A
+ gloss: each
+ paradigm: N12
+ trans_en: each
+
+-lexeme
+ lex: ամենա
+ stem: ամենա.
+ gramm: PART
+ gloss: (the).most
+ paradigm: Empty
+ trans_en: (the) most
+
+-lexeme
+ lex: ամենայն
+ stem: ամենայն.
+ gramm: PRON,A
+ gloss: all
+ paradigm: N12
+ trans_en: all
+
+-lexeme
+ lex: ամենք
+ stem: ամենք.
+ gramm: PRON,S,hum
+ gloss: all
+ paradigm: N12
+ trans_en: all, everybody
+
+-lexeme
+ lex: այ
+ stem: այ.
+ gramm: INTJ
+ gloss: holla
+ paradigm: Empty
+ trans_en: holla
+
+-lexeme
+ lex: այ-այ
+ stem: այ-այ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: այ-վայ
+ stem: այ-վայ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: այդ
+ stem: այդ.
+ gramm: PRON,dem
+ gloss: that
+ paradigm: Empty
+ trans_en: that
+
+-lexeme
+ lex: այդմ
+ stem: այդմ.
+ gramm: Pron
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: այդուամենայնիվ
+ stem: այդուամենայնիվ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: այդուհանդերձ
+ stem: այդուհանդերձ.
+ gramm: PART
+ gloss: still
+ paradigm: Empty
+ trans_en: still, all the same, nevertheless
+
+-lexeme
+ lex: այդչափ
+ stem: այդչափ.
+ gramm: PRON,ADV
+ gloss: so_that.much_so.few_little
+ paradigm: Empty
+ trans_en: so/that much, so few/little
+
+-lexeme
+ lex: այդպես
+ stem: այդպես.
+ gramm: PRON,ADV
+ gloss: so
+ paradigm: Empty
+ trans_en: so
+
+-lexeme
+ lex: այդպիսի
+ stem: այդպիսի.
+ gramm: PRON,A
+ gloss: such
+ paradigm: N12a
+ trans_en: such
+
+-lexeme
+ lex: այդպիսիք
+ stem: այդպիսիք.
+ gramm: PRON,A,intrg
+ gloss: STEM
+ paradigm: N12
+ trans_en: 
+
+-lexeme
+ lex: այդպիսով
+ stem: այդպիսով.
+ gramm: CONJ
+ gloss: so
+ paradigm: Empty
+ trans_en: so, thus
+
+-lexeme
+ lex: այդտեղ
+ stem: այդտեղ.
+ gramm: PRON,ADV
+ gloss: there
+ paradigm: N12
+ trans_en: there, yonder
+
+-lexeme
+ lex: այդքան
+ stem: այդքան.
+ gramm: PRON,ADV
+ gloss: such
+ paradigm: N12
+ trans_en: so/that much, so few/little
+
+-lexeme
+ lex: այլ
+ stem: այլ.
+ gramm: PRON,A
+ gloss: other
+ paradigm: N11
+ trans_en: other, but
+
+-lexeme
+ lex: այլ
+ stem: այ.
+ gramm: PRON,A
+ gloss: other
+ paradigm: N81b
+ trans_en: other, but
+
+-lexeme
+ lex: այլեւ
+ stem: այլեւ.
+ gramm: CONJ
+ gloss: also
+ paradigm: Empty
+ trans_en: also, but
+
+-lexeme
+ lex: այն
+ stem: այն.
+ gramm: PRON,dem
+ gloss: that
+ paradigm: Empty
+ trans_en: that
+
+-lexeme
+ lex: այնինչ
+ stem: այնինչ.
+ gramm: PART
+ gloss: whereas
+ paradigm: Empty
+ trans_en: so-and-so, whereas, whilst
+
+-lexeme
+ lex: այնուամենայնիվ
+ stem: այնուամենայնիվ.
+ gramm: CONJ
+ gloss: however
+ paradigm: Empty
+ trans_en: none the less, however, in spite of
+
+-lexeme
+ lex: այնուհանդերձ
+ stem: այնուհանդերձ.
+ gramm: CONJ
+ gloss: for.all.that
+ paradigm: Empty
+ trans_en: for all that
+
+-lexeme
+ lex: այնչափ
+ stem: այնչափ.
+ gramm: PRON,ADV
+ gloss: so.much_many
+ paradigm: Empty
+ trans_en: so much/many
+
+-lexeme
+ lex: այնպես
+ stem: այնպես.
+ gramm: PRON,ADV
+ gloss: so
+ paradigm: Empty
+ trans_en: so
+
+-lexeme
+ lex: այնպիսի
+ stem: այնպիսի.
+ gramm: PRON,A
+ gloss: such
+ paradigm: N12a
+ trans_en: such
+
+-lexeme
+ lex: այնքան
+ stem: այնքան.
+ gramm: PRON,ADV
+ gloss: so.much
+ paradigm: N12
+ trans_en: so much/many
+
+-lexeme
+ lex: այո
+ stem: այո.
+ gramm: PART
+ gloss: yes
+ paradigm: Empty
+ trans_en: yes
+
+-lexeme
+ lex: այս
+ stem: այս.
+ gramm: PRON,dem
+ gloss: this
+ paradigm: Empty
+ trans_en: this
+
+-lexeme
+ lex: այսինչ
+ stem: այսինչ.
+ gramm: PRON,A
+ gloss: such-and-such_so-and-so
+ paradigm: Empty
+ trans_en: such-and-such, so-and-so
+
+-lexeme
+ lex: այսինչ-այնինչ
+ stem: այսինչ-այնինչ.
+ gramm: PRON,A
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: այսինքն
+ stem: այսինքն.
+ gramm: CONJ
+ gloss: that.is
+ paradigm: Empty
+ trans_en: that is
+
+-lexeme
+ lex: այսու
+ stem: այսու.
+ gramm: PRON,A
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: այսուամենայնիվ
+ stem: այսուամենայնիվ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: այսուհանդերձ
+ stem: այսուհանդերձ.
+ gramm: CONJ
+ gloss: nevertheless
+ paradigm: Empty
+ trans_en: nevertheless, nonetheless
+
+-lexeme
+ lex: այսչափ
+ stem: այսչափ.
+ gramm: PRON,ADV
+ gloss: so
+ paradigm: Empty
+ trans_en: so
+
+-lexeme
+ lex: այսպես
+ stem: այսպես.
+ gramm: PRON,ADV
+ gloss: so
+ paradigm: Empty
+ trans_en: so
+
+-lexeme
+ lex: այսպիսի
+ stem: այսպիսի.
+ gramm: PRON,A
+ gloss: such
+ paradigm: N12a
+ trans_en: such, the same
+
+-lexeme
+ lex: այսպիսով
+ stem: այսպիսով.
+ gramm: CONJ
+ gloss: so
+ paradigm: Empty
+ trans_en: so
+
+-lexeme
+ lex: այսքան
+ stem: այսքան.
+ gramm: PRON,ADV
+ gloss: so
+ paradigm: N12
+ trans_en: so, this much
+
+-lexeme
+ lex: ան
+ stem: ան.
+ gramm: PRON,S,hum,sg
+ gloss: he
+ paradigm: Empty
+ trans_en: he, she, it
+
+-lexeme
+ lex: անգամ
+ stem: անգամ.
+ gramm: PART
+ gloss: even
+ paradigm: Empty
+ trans_en: even
+
+-lexeme
+ lex: անկասկած
+ stem: անկասկած.
+ gramm: PART
+ gloss: undoubtedly
+ paradigm: Empty
+ trans_en: undoubtedly, beyond all question, certainly
+
+-lexeme
+ lex: անշուշտ
+ stem: անշուշտ.
+ gramm: PART
+ gloss: of.course
+ paradigm: Empty
+ trans_en: undoubtedly, of course
+
+-lexeme
+ lex: անց
+ stem: անց.
+ gramm: CONJ
+ gloss: after
+ paradigm: Empty
+ trans_en: after, over
+
+-lexeme
+ lex: ապաքեն
+ stem: ապաքեն.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: առ
+ stem: առ.
+ gramm: PREP
+ gloss: up.to
+ paradigm: Empty
+ trans_en: up to
+
+-lexeme
+ lex: առանց
+ stem: առանց.
+ gramm: PREP
+ gloss: without
+ paradigm: Empty
+ trans_en: without, minus, except
+
+-lexeme
+ lex: առաջ
+ stem: առաջ.
+ gramm: POST
+ gloss: before
+ paradigm: N12
+ trans_en: before, front side, ahead
+
+-lexeme
+ lex: առաջ
+ stem: առաջ.
+ gramm: POST
+ gloss: before
+ paradigm: N51
+ trans_en: before, front side, ahead
+
+-lexeme
+ lex: առընթեր
+ stem: առընթեր.
+ gramm: POST
+ gloss: attached.to
+ paradigm: N12
+ trans_en: attached to, by, close by
+
+-lexeme
+ lex: առթիվ
+ stem: առթիվ.
+ gramm: POST
+ gloss: in.view.of
+ paradigm: Empty
+ trans_en: in view of, on the occasion (of), in connection with
+
+-lexeme
+ lex: առջեւ
+ stem: առջեւ.
+ gramm: POST
+ gloss: before
+ paradigm: N12
+ trans_en: before
+
+-lexeme
+ lex: ավաղ
+ stem: ավաղ.
+ gramm: INTJ
+ gloss: alas!.oh!.what.a.pity!
+ paradigm: Empty
+ trans_en: alas! oh! what a pity!
+
+-lexeme
+ lex: ավել
+ stem: ավել.
+ gramm: CONJ
+ gloss: more
+ paradigm: Empty
+ trans_en: more, besides
+
+-lexeme
+ lex: արար
+ stem: արար.
+ gramm: PRON,A
+ gloss: whole_all.over
+ paradigm: N12
+ trans_en: whole, all over
+
+-lexeme
+ lex: արդարեւ
+ stem: արդարեւ.
+ gramm: PART
+ gloss: indeed
+ paradigm: Empty
+ trans_en: indeed, truly, really
+
+-lexeme
+ lex: արդյոք
+ stem: արդյոք.
+ gramm: PART
+ gloss: whether
+ paradigm: Empty
+ trans_en: whether, really?, is it possible?
+
+-lexeme
+ lex: ափսոս
+ stem: ափսոս.
+ gramm: PART
+ gloss: alas
+ paradigm: Empty
+ trans_en: alas!
+
+-lexeme
+ lex: բա
+ stem: բա.
+ gramm: CONJ
+ gloss: INTERJ
+ paradigm: Empty
+ trans_en: pooh! pshaw! well! like that! I told you didn't you know?
+
+-lexeme
+ lex: բահ
+ stem: բահ.
+ gramm: INTJ
+ gloss: INTERJ
+ paradigm: Empty
+ trans_en: oho! ugh! ouch! wow!
+
+-lexeme
+ lex: բամ
+ stem: բամ.
+ gramm: INTJ
+ gloss: bang!
+ paradigm: Empty
+ trans_en: bang!
+
+-lexeme
+ lex: բայց
+ stem: բայց.
+ gramm: CONJ
+ gloss: but
+ paradigm: Empty
+ trans_en: but, however
+
+-lexeme
+ lex: բաս
+ stem: բաս.
+ gramm: PART
+ gloss: that's.the.way
+ paradigm: Empty
+ trans_en: that's the way
+
+-lexeme
+ lex: բարեւ
+ stem: բարեւ.
+ gramm: PART
+ gloss: hello
+ paradigm: N12
+ trans_en: hello
+
+-lexeme
+ lex: բացի
+ stem: բացի.
+ gramm: PREP
+ gloss: besides
+ paradigm: Empty
+ trans_en: besides, except
+
+-lexeme
+ lex: բո
+ stem: բո.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: բոլորք
+ stem: բոլորք.
+ gramm: POST
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: բուլի-բուլի
+ stem: բուլի-բուլի.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: բուհ
+ stem: բուհ.
+ gramm: INTJ
+ gloss: university
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: գեթ
+ stem: գեթ.
+ gramm: PART
+ gloss: if.only
+ paradigm: Empty
+ trans_en: if only
+
+-lexeme
+ lex: գլգըլ
+ stem: գլգըլ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: գուցե
+ stem: գուցե.
+ gramm: PART
+ gloss: perhaps
+ paradigm: Empty
+ trans_en: perhaps
+
+-lexeme
+ lex: դա
+ stem: դա.|դրա.
+ gramm: PRON,dem
+ gloss: that
+ paradigm: P21
+ trans_en: this, that, it
+
+-lexeme
+ lex: դահ
+ stem: դահ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: դե
+ stem: դե.
+ gramm: PART
+ gloss: well
+ paradigm: Empty
+ trans_en: now, come, well
+
+-lexeme
+ lex: դեմ-դիմաց
+ stem: դեմ-դիմաց.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: դեմ-հանդիման
+ stem: դեմ-հանդիման.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: դեն
+ stem: դեն.
+ gramm: CONJ
+ gloss: outside
+ paradigm: Empty
+ trans_en: outside, away
+
+-lexeme
+ lex: դեպ
+ stem: դեպ.
+ gramm: PREP
+ gloss: case
+ paradigm: Empty
+ trans_en: case
+
+-lexeme
+ lex: դեպի
+ stem: դեպի.
+ gramm: PREP
+ gloss: to
+ paradigm: Empty
+ trans_en: to, meet
+
+-lexeme
+ lex: դըմբ
+ stem: դըմբ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: դըմփ
+ stem: դըմփ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: դիմաց
+ stem: դիմաց.
+ gramm: POST
+ gloss: opposite
+ paradigm: N12
+ trans_en: opposite, in front of, instead/in place of
+
+-lexeme
+ lex: դիցուք
+ stem: դիցուք.
+ gramm: PART
+ gloss: let.us.assume_admit
+ paradigm: Empty
+ trans_en: let us assume/admit
+
+-lexeme
+ lex: դոմփ
+ stem: դոմփ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: դու
+ stem: դու.
+ gramm: PRON,S,hum,sg
+ gloss: thou
+ paradigm: P31b
+ trans_en: you, thou
+
+-lexeme
+ lex: դում
+ stem: դում.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: դուն
+ stem: դուն.
+ gramm: PRON,S,hum,sg
+ gloss: you
+ paradigm: Empty
+ trans_en: you
+
+-lexeme
+ lex: դուրս
+ stem: դուրս.|դրս.
+ gramm: POST
+ gloss: outside
+ paradigm: N13
+ trans_en: outside, apart from
+
+-lexeme
+ lex: դուք
+ stem: դուք.
+ gramm: PRON,S,hum,pl
+ gloss: you
+ paradigm: P31d
+ trans_en: you
+
+-lexeme
+ lex: դրըխկ
+ stem: դրըխկ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: դրըմփ
+ stem: դրըմփ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: եթե
+ stem: եթե.
+ gramm: CONJ
+ gloss: if
+ paradigm: Empty
+ trans_en: if
+
+-lexeme
+ lex: եղուկ
+ stem: եղուկ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: ես
+ stem: ես.
+ gramm: PRON,S,hum,sg
+ gloss: me
+ paradigm: P31a
+ trans_en: I
+
+-lexeme
+ lex: եսիմ
+ stem: եսիմ.
+ gramm: PART
+ gloss: I.don't.know
+ paradigm: Empty
+ trans_en: I don't know
+
+-lexeme
+ lex: երանի
+ stem: երանի.
+ gramm: PART
+ gloss: blessed
+ paradigm: Empty
+ trans_en: blessed
+
+-lexeme
+ lex: երբ
+ stem: երբ.
+ gramm: CONJ
+ gloss: when
+ paradigm: Empty
+ trans_en: when, while
+
+-lexeme
+ lex: երեխա
+ stem: երեխա.|երեխ.
+ gramm: 
+ gloss: STEM
+ paradigm: N26
+ trans_en: 
+
+-lexeme
+ lex: երեխա
+ stem: երեխա.
+ gramm: 
+ gloss: STEM
+ paradigm: N12
+ trans_en: 
+
+-lexeme
+ lex: երեսից
+ stem: երեսից.
+ gramm: CONJ
+ gloss: through.smb.'s.fault_on_from.the.outside
+ paradigm: Empty
+ trans_en: through smb.'s fault, on/from the outside
+
+-lexeme
+ lex: երեւի
+ stem: երեւի.
+ gramm: PART
+ gloss: apparently
+ paradigm: Empty
+ trans_en: apparently, evidently
+
+-lexeme
+ lex: երից
+ stem: երից.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: երնեկ
+ stem: երնեկ.
+ gramm: PART
+ gloss: blessed
+ paradigm: Empty
+ trans_en: blessed
+
+-lexeme
+ lex: եւ
+ stem: եւ.
+ gramm: CONJ
+ gloss: and
+ paradigm: Empty
+ trans_en: and, too, either
+
+-lexeme
+ lex: եւեթ
+ stem: եւեթ.
+ gramm: PART
+ gloss: just
+ paradigm: Empty
+ trans_en: just
+
+-lexeme
+ lex: եւս
+ stem: եւս.
+ gramm: CONJ
+ gloss: also
+ paradigm: Empty
+ trans_en: more, also, too
+
+-lexeme
+ lex: զանց
+ stem: զանց.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: զեթ
+ stem: զեթ.
+ gramm: 
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: զերդ
+ stem: զերդ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: N11
+ trans_en: 
+
+-lexeme
+ lex: զըխկ
+ stem: զըխկ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: զընգ
+ stem: զընգ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: զի
+ stem: զի.
+ gramm: PREP
+ gloss: since
+ paradigm: Empty
+ trans_en: since
+
+-lexeme
+ lex: զուգընթաց
+ stem: զուգընթաց.
+ gramm: POST
+ gloss: at.the.same.time
+ paradigm: Empty
+ trans_en: at the same time
+
+-lexeme
+ lex: զրընգ
+ stem: զրընգ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: էդ
+ stem: էդ.
+ gramm: PRON,dem,oral
+ gloss: that
+ paradigm: Empty
+ trans_en: that
+
+-lexeme
+ lex: էդի
+ stem: էդի.
+ gramm: PRON,oral
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: էդի
+ stem: էդի.
+ gramm: PRON,dem,oral
+ gloss: that
+ paradigm: Empty
+ trans_en: that
+
+-lexeme
+ lex: էդպես
+ stem: էդպես.
+ gramm: PRON,ADV,oral
+ gloss: like.this
+ paradigm: N12
+ trans_en: like this, so
+
+-lexeme
+ lex: էդպիսի
+ stem: էդպիսի.
+ gramm: PRON,A,oral
+ gloss: such
+ paradigm: N12
+ trans_en: such
+
+-lexeme
+ lex: էդտեղ
+ stem: էդտեղ.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+
+-lexeme
+ lex: էդքան
+ stem: էդքան.
+ gramm: PRON,ADV,oral
+ gloss: so.much
+ paradigm: N12
+ trans_en: so much, so many
+
+-lexeme
+ lex: էլ
+ stem: էլ.
+ gramm: PART
+ gloss: also
+ paradigm: Empty
+ trans_en: also, too, either
+
+-lexeme
+ lex: էհ
+ stem: էհ.
+ gramm: INTJ
+ gloss: ah!.well!
+ paradigm: Empty
+ trans_en: ah! well!
+
+-lexeme
+ lex: էյ
+ stem: էյ.
+ gramm: INTJ
+ gloss: hey!.I.say!.look.here!.hello!
+ paradigm: Empty
+ trans_en: hey! I say! look here! hello!
+
+-lexeme
+ lex: էն
+ stem: էն.
+ gramm: PRON,dem,oral
+ gloss: that
+ paradigm: Empty
+ trans_en: that
+
+-lexeme
+ lex: էնդե
+ stem: էնդե.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+
+-lexeme
+ lex: էնդեղ
+ stem: էնդեղ.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+
+-lexeme
+ lex: էնենց
+ stem: էնենց.
+ gramm: PRON,ADV,oral
+ gloss: so
+ paradigm: N12
+ trans_en: so
+
+-lexeme
+ lex: էնի
+ stem: էնի.
+ gramm: PRON,oral
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: էնի
+ stem: էնի.
+ gramm: PRON,dem,oral
+ gloss: that
+ paradigm: Empty
+ trans_en: that
+
+-lexeme
+ lex: էնպես
+ stem: էնպես.
+ gramm: PRON,ADV,oral
+ gloss: like.this
+ paradigm: N12
+ trans_en: like this
+
+-lexeme
+ lex: էնպիսի
+ stem: էնպիսի.
+ gramm: PRON,A,oral
+ gloss: such
+ paradigm: N12
+ trans_en: such
+
+-lexeme
+ lex: էնտե
+ stem: էնտե.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+
+-lexeme
+ lex: էնտեղ
+ stem: էնտեղ.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+
+-lexeme
+ lex: էնքան
+ stem: էնքան.
+ gramm: PRON,ADV,oral
+ gloss: so.many
+ paradigm: N12
+ trans_en: so many, so much
+
+-lexeme
+ lex: էս
+ stem: էս.
+ gramm: PRON,dem,oral
+ gloss: this
+ paradigm: Empty
+ trans_en: this
+
+-lexeme
+ lex: էսենց
+ stem: էսենց.
+ gramm: PRON,dem,oral
+ gloss: like.this
+ paradigm: N12
+ trans_en: like this
+
+-lexeme
+ lex: էսի
+ stem: էսի.
+ gramm: PRON,oral
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: էսի
+ stem: էսի.
+ gramm: PRON,dem,oral
+ gloss: this
+ paradigm: Empty
+ trans_en: this
+
+-lexeme
+ lex: էսինչ
+ stem: էսինչ.
+ gramm: PRON,A,oral
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: էսչափ
+ stem: էսչափ.
+ gramm: PRON,ADV,oral
+ gloss: this.much
+ paradigm: Empty
+ trans_en: this much
+
+-lexeme
+ lex: էսպես
+ stem: էսպես.
+ gramm: PRON,ADV,oral
+ gloss: like.this
+ paradigm: N12
+ trans_en: like this
+
+-lexeme
+ lex: էսպիսի
+ stem: էսպիսի.
+ gramm: PRON,A,oral
+ gloss: such
+ paradigm: N12
+ trans_en: such
+
+-lexeme
+ lex: էսպիսով
+ stem: էսպիսով.
+ gramm: CONJ,oral
+ gloss: so_thus
+ paradigm: Empty
+ trans_en: so, thus
+
+-lexeme
+ lex: էստե
+ stem: էստե.
+ gramm: PRON,ADV,oral
+ gloss: here
+ paradigm: N11
+ trans_en: here
+
+-lexeme
+ lex: էստեղ
+ stem: էստեղ.
+ gramm: PRON,ADV,oral
+ gloss: here
+ paradigm: N11
+ trans_en: here
+
+-lexeme
+ lex: էստեղ-էնտեղ
+ stem: էստեղ-էնտեղ.
+ gramm: PRON,ADV,oral
+ gloss: here-there
+ paradigm: N11+N11
+ trans_en: here-there
+
+-lexeme
+ lex: էսքան
+ stem: էսքան.
+ gramm: PRON,ADV
+ gloss: this.much
+ paradigm: Empty
+ trans_en: this much/many, so much/many
+
+-lexeme
+ lex: էտ
+ stem: էտ.
+ gramm: PRON,dem,oral
+ gloss: that
+ paradigm: Empty
+ trans_en: that
+
+-lexeme
+ lex: էտենց
+ stem: էտենց.
+ gramm: PRON,ADV,oral
+ gloss: like.that
+ paradigm: N12
+ trans_en: like that
+
+-lexeme
+ lex: էտքան
+ stem: էտքան.
+ gramm: PRON,ADV,oral
+ gloss: su.much_so.many
+ paradigm: N12
+ trans_en: su much, so many
+
+-lexeme
+ lex: էրնեկ
+ stem: էրնեկ.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: ը
+ stem: ը.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: ըը
+ stem: ըը.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: ըհ
+ stem: ըհ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: ըհը
+ stem: ըհը.
+ gramm: INTJ
+ gloss: aha!.oho!.really!.indeed!.is.that.so?.is.that.right?.that's.the.way_right_no.way!
+ paradigm: Empty
+ trans_en: aha! oho! really! indeed! is that so? is that right? that's the way/right, no way!
+
+-lexeme
+ lex: ըհըն
+ stem: ըհըն.
+ gramm: INTJ,oral
+ gloss: here.you.are
+ paradigm: Empty
+ trans_en: here you are
+
+-lexeme
+ lex: ընդ
+ stem: ընդ.
+ gramm: PREP
+ gloss: with
+ paradigm: Empty
+ trans_en: with
+
+-lexeme
+ lex: ընդդեմ
+ stem: ընդդեմ.
+ gramm: PREP
+ gloss: against
+ paradigm: Empty
+ trans_en: against, notwithstanding/despite/against (smb.'s desire), despite
+
+-lexeme
+ lex: ընդե
+ stem: ընդե.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+
+-lexeme
+ lex: ընդեղ
+ stem: ընդեղ.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+
+-lexeme
+ lex: ընդմեջ
+ stem: ընդմեջ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: ընդնմին
+ stem: ընդնմին.
+ gramm: Conj
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: ընդսմին
+ stem: ընդսմին.
+ gramm: Conj
+ gloss: for.all.that
+ paradigm: Empty
+ trans_en: for all that
+
+-lexeme
+ lex: ընենց
+ stem: ընենց.
+ gramm: PRON,ADV,oral
+ gloss: like.that
+ paradigm: N12
+ trans_en: like that
+
+-lexeme
+ lex: ընտեղ
+ stem: ընտեղ.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+
+-lexeme
+ lex: ըսենց
+ stem: ըսենց.
+ gramm: PRON,ADV,oral
+ gloss: like.this
+ paradigm: N12
+ trans_en: like this
+
+-lexeme
+ lex: ըսկի
+ stem: ըսկի.
+ gramm: PART,oral
+ gloss: at.all_absolutely
+ paradigm: Empty
+ trans_en: at all, absolutely
+
+-lexeme
+ lex: ըստ
+ stem: ըստ.
+ gramm: PREP
+ gloss: according
+ paradigm: Empty
+ trans_en: according to
+
+-lexeme
+ lex: ըստե
+ stem: ըստե.
+ gramm: PRON,ADV,oral
+ gloss: here
+ paradigm: N11
+ trans_en: here
+
+-lexeme
+ lex: ըստեղ
+ stem: ըստեղ.
+ gramm: PRON,ADV,oral
+ gloss: here
+ paradigm: N11
+ trans_en: here
+
+-lexeme
+ lex: ըտե
+ stem: ըտե.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+
+-lexeme
+ lex: ըտեղ
+ stem: ըտեղ.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+
+-lexeme
+ lex: ըտենց
+ stem: ըտենց.
+ gramm: PRON,ADV,oral
+ gloss: like.that
+ paradigm: N12
+ trans_en: like that
+
+-lexeme
+ lex: թախկ
+ stem: թախկ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: թաք
+ stem: թաք.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: թե
+ stem: թե.
+ gramm: CONJ
+ gloss: that
+ paradigm: Empty
+ trans_en: that, or
+
+-lexeme
+ lex: թեեւ
+ stem: թեեւ.
+ gramm: CONJ
+ gloss: though
+ paradigm: Empty
+ trans_en: though
+
+-lexeme
+ lex: թեկուզ
+ stem: թեկուզ.
+ gramm: CONJ
+ gloss: even
+ paradigm: Empty
+ trans_en: even
+
+-lexeme
+ lex: թեպետ
+ stem: թեպետ.
+ gramm: CONJ
+ gloss: though
+ paradigm: Empty
+ trans_en: though
+
+-lexeme
+ lex: թեպետեւ
+ stem: թեպետեւ.
+ gramm: CONJ
+ gloss: though
+ paradigm: Empty
+ trans_en: though
+
+-lexeme
+ lex: թերեւս
+ stem: թերեւս.
+ gramm: PART
+ gloss: perhaps
+ paradigm: Empty
+ trans_en: perhaps, probably, maybe
+
+-lexeme
+ lex: թըմբ
+ stem: թըմբ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: թըմփ
+ stem: թըմփ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: թըշշ
+ stem: թըշշ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: թըռռ
+ stem: թըռռ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: թըփ
+ stem: թըփ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: թխկ
+ stem: թխկ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: թյու
+ stem: թյու.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: թող
+ stem: թող.
+ gramm: PART
+ gloss: let
+ paradigm: Empty
+ trans_en: let
+
+-lexeme
+ lex: թու
+ stem: թու.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: թրախկ
+ stem: թրախկ.
+ gramm: INTJ
+ gloss: bang!
+ paradigm: Empty
+ trans_en: bang!
+
+-lexeme
+ lex: թրըխկ
+ stem: թրըխկ.
+ gramm: INTJ
+ gloss: bang!
+ paradigm: Empty
+ trans_en: bang!
+
+-lexeme
+ lex: թրըմփ
+ stem: թրըմփ.
+ gramm: INTJ
+ gloss: bang!
+ paradigm: Empty
+ trans_en: bang!
+
+-lexeme
+ lex: թրըփ
+ stem: թրըփ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: թքած
+ stem: թքած.
+ gramm: PART
+ gloss: spit.(upon)
+ paradigm: Empty
+ trans_en: spit (upon)
+
+-lexeme
+ lex: ի
+ stem: ի.
+ gramm: PREP
+ gloss: for
+ paradigm: Empty
+ trans_en: for
+
+-lexeme
+ lex: իբր
+ stem: իբր.
+ gramm: CONJ
+ gloss: as
+ paradigm: Empty
+ trans_en: as if/though, as
+
+-lexeme
+ lex: իբրեւ
+ stem: իբրեւ.
+ gramm: CONJ
+ gloss: as
+ paradigm: Empty
+ trans_en: as
+
+-lexeme
+ lex: իհ
+ stem: իհ.
+ gramm: INTJ
+ gloss: tut-tut!_shame.upon.you!
+ paradigm: Empty
+ trans_en: tut-tut!, shame upon you!
+
+-lexeme
+ lex: իհարկե
+ stem: իհարկե.
+ gramm: PART
+ gloss: certainly
+ paradigm: Empty
+ trans_en: certainly, to be sure, sure
+
+-lexeme
+ lex: իյա
+ stem: իյա.
+ gramm: INTJ,oral
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: ինձի
+ stem: ինձի.
+ gramm: PRON,oral
+ gloss: STEM
+ paradigm: P31a
+ trans_en: 
+
+-lexeme
+ lex: ինչ
+ stem: ինչ.
+ gramm: PRON,S,intrg,sg
+ gloss: what
+ paradigm: N11
+ trans_en: what, that
+
+-lexeme
+ lex: ինչ-ինչ
+ stem: ինչ-ինչ.
+ gramm: PRON,A
+ gloss: whatsoever
+ paradigm: Empty
+ trans_en: whatsoever
+
+-lexeme
+ lex: ինչ-որ
+ stem: ինչ-որ.
+ gramm: PRON,A
+ gloss: some
+ paradigm: P11
+ trans_en: some
+
+-lexeme
+ lex: ինչեւէ
+ stem: ինչեւէ.
+ gramm: PART
+ gloss: anyhow
+ paradigm: Empty
+ trans_en: anyhow, after all, one way or another
+
+-lexeme
+ lex: ինչեւիցե
+ stem: ինչեւիցե.
+ gramm: PART
+ gloss: anyhow_after.all_one.way.or.another
+ paradigm: Empty
+ trans_en: anyhow, after all, one way or another
+
+-lexeme
+ lex: ինչի
+ stem: ինչի.
+ gramm: PRON,ADV,intrg
+ gloss: why
+ paradigm: Empty
+ trans_en: why
+
+-lexeme
+ lex: ինչու
+ stem: ինչու.
+ gramm: PRON,ADV,intrg
+ gloss: why
+ paradigm: Empty
+ trans_en: why, for what reason
+
+-lexeme
+ lex: ինչպես
+ stem: ինչպես.
+ gramm: PRON,ADV,intrg
+ gloss: how
+ paradigm: Empty
+ trans_en: how
+
+-lexeme
+ lex: ինչպիսի
+ stem: ինչպիսի.
+ gramm: PRON,A,intrg
+ gloss: what
+ paradigm: N12
+ trans_en: what
+
+-lexeme
+ lex: ինչպիսիք
+ stem: ինչպիսիք.
+ gramm: PRON,A,intrg
+ gloss: STEM
+ paradigm: N12
+ trans_en: 
+
+-lexeme
+ lex: ինչքան
+ stem: ինչքան.
+ gramm: PRON,ADV,intrg
+ gloss: how.much
+ paradigm: N12
+ trans_en: how many/much
+
+-lexeme
+ lex: ինքը
+ stem: ինք.|իր.
+ gramm: PRON,S,hum,sg
+ gloss: oneself
+ paradigm: P23
+ trans_en: (he) himself
+
+-lexeme
+ lex: իս
+ stem: իս.
+ gramm: PRON,S,hum,sg
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: իսկ
+ stem: իսկ.
+ gramm: CONJ
+ gloss: while
+ paradigm: Empty
+ trans_en: while, but
+
+-lexeme
+ lex: իսկ
+ stem: իսկ.
+ gramm: PART
+ gloss: true
+ paradigm: Empty
+ trans_en: namely, true
+
+-lexeme
+ lex: իրար
+ stem: իրար.
+ gramm: PRON,S,hum
+ gloss: each.other
+ paradigm: N12
+ trans_en: each other
+
+-lexeme
+ lex: իցիվ
+ stem: իցիվ.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: լայ-լայ
+ stem: լայ-լայ.
+ gramm: INTJ
+ gloss: bye-bye_hushaby
+ paradigm: Empty
+ trans_en: bye-bye, hushaby
+
+-lexeme
+ lex: խաթեր
+ stem: խաթեր.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: խաթրին
+ stem: խաթրին.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: խաթրու
+ stem: խաթրու.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: խըշ
+ stem: խըշ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: խի
+ stem: խի.
+ gramm: PRON,ADV,intrg
+ gloss: why
+ paradigm: Empty
+ trans_en: why
+
+-lexeme
+ lex: խո
+ stem: խո.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: խոմ
+ stem: խոմ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: ծը
+ stem: ծը.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: ծիկ-ծիկ
+ stem: ծիկ-ծիկ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: ծիվ-ծիվ
+ stem: ծիվ-ծիվ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: ծլինգ
+ stem: ծլինգ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: ծուղրուղու
+ stem: ծուղրուղու.
+ gramm: INTJ
+ gloss: cock-a-doodle-do
+ paradigm: Empty
+ trans_en: cock-a-doodle-do
+
+-lexeme
+ lex: կակ
+ stem: կակ.
+ gramm: PRON,oral,rus
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: կակ
+ stem: կակ.
+ gramm: PRON,ADV,oral,rus
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: կամ
+ stem: կամ.
+ gramm: CONJ
+ gloss: or
+ paradigm: Empty
+ trans_en: or
+
+-lexeme
+ lex: կեցցե
+ stem: կեցցե.
+ gramm: INTJ
+ gloss: bravo
+ paradigm: Empty
+ trans_en: bravo
+
+-lexeme
+ lex: կեցցես
+ stem: կեցցես.
+ gramm: INTJ
+ gloss: bravo
+ paradigm: Empty
+ trans_en: bravo
+
+-lexeme
+ lex: կռլու
+ stem: կռլու.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: հա
+ stem: հա.
+ gramm: PART
+ gloss: yes
+ paradigm: Empty
+ trans_en: yes
+
+-lexeme
+ lex: հաա
+ stem: հաա.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: հաղագս
+ stem: հաղագս.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: համ
+ stem: համ.
+ gramm: CONJ
+ gloss: co
+ paradigm: Empty
+ trans_en: co-
+
+-lexeme
+ lex: համա
+ stem: համա.
+ gramm: CONJ
+ gloss: co
+ paradigm: Empty
+ trans_en: co-
+
+-lexeme
+ lex: համա-համա
+ stem: համա-համա.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: համար
+ stem: համար.
+ gramm: POST
+ gloss: for
+ paradigm: Empty
+ trans_en: for, in order to, for the sake of
+
+-lexeme
+ lex: համեմատ
+ stem: համեմատ.
+ gramm: POST
+ gloss: comparable
+ paradigm: Empty
+ trans_en: conformable (to), comparable, suitable
+
+-lexeme
+ lex: համենայն
+ stem: համենայն.
+ gramm: PRON
+ gloss: any
+ paradigm: Empty
+ trans_en: any
+
+-lexeme
+ lex: համենայն
+ stem: համենայն.
+ gramm: PRON,NP
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: համեցեք
+ stem: համեցեք.
+ gramm: PART
+ gloss: if.you.please
+ paradigm: Empty
+ trans_en: if you please
+
+-lexeme
+ lex: համմե
+ stem: համմե.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: հայ-հայ
+ stem: հայ-հայ.
+ gramm: INTJ
+ gloss: so.that's.it
+ paradigm: Empty
+ trans_en: so that's it
+
+-lexeme
+ lex: հայ-հարայ
+ stem: հայ-հարայ.
+ gramm: INTJ
+ gloss: help
+ paradigm: N12
+ trans_en: help
+
+-lexeme
+ lex: հայ-հույ
+ stem: հայ-հույ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: հայդա
+ stem: հայդա.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: հայդե
+ stem: հայդե.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: հանդեպ
+ stem: հանդեպ.
+ gramm: POST
+ gloss: in.front.of
+ paradigm: Empty
+ trans_en: in front of, instead of, with respect (to)
+
+-lexeme
+ lex: հանդերձ
+ stem: հանդերձ.
+ gramm: POST
+ gloss: together
+ paradigm: Empty
+ trans_en: together
+
+-lexeme
+ lex: հանդիման
+ stem: հանդիման.
+ gramm: POST
+ gloss: opposite
+ paradigm: Empty
+ trans_en: opposite
+
+-lexeme
+ lex: հանձին
+ stem: հանձին.
+ gramm: CONJ
+ gloss: in.smb.
+ paradigm: Empty
+ trans_en: in smb.
+
+-lexeme
+ lex: հանձինս
+ stem: հանձինս.
+ gramm: CONJ
+ gloss: in.smb.
+ paradigm: Empty
+ trans_en: in smb.
+
+-lexeme
+ lex: հանուն
+ stem: հանուն.
+ gramm: PREP
+ gloss: in.the.name
+ paradigm: Empty
+ trans_en: in the name (of)
+
+-lexeme
+ lex: հապա
+ stem: հապա.
+ gramm: CONJ
+ gloss: but
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: հապա
+ stem: հապա.
+ gramm: INTJ
+ gloss: now
+ paradigm: Empty
+ trans_en: now! now then! come!
+
+-lexeme
+ lex: հապօն
+ stem: հապօն.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: հառաջ
+ stem: հառաջ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: հարայ
+ stem: հարայ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: N12
+ trans_en: 
+
+-lexeme
+ lex: հե
+ stem: հե.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: հեյ
+ stem: հեյ.
+ gramm: INTJ
+ gloss: hey!.hi!.I.say!.look.here!
+ paradigm: Empty
+ trans_en: hey! hi! I say! look here!
+
+-lexeme
+ lex: հեյ-հեյ
+ stem: հեյ-հեյ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: հեյ-վախ
+ stem: հեյ-վախ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: հեյվախ
+ stem: հեյվախ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: հենա
+ stem: հենա.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: հեսա
+ stem: հեսա.
+ gramm: PART,oral
+ gloss: here_now
+ paradigm: Empty
+ trans_en: here, now
+
+-lexeme
+ lex: հետ
+ stem: հետ.
+ gramm: POST
+ gloss: back
+ paradigm: N12
+ trans_en: back
+
+-lexeme
+ lex: հետե
+ stem: հետե.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: հետը
+ stem: հետը.
+ gramm: 
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: հետս
+ stem: հետս.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: հըմ
+ stem: հըմ.
+ gramm: INTJ
+ gloss: hm
+ paradigm: Empty
+ trans_en: hm
+
+-lexeme
+ lex: հիս
+ stem: հիս.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: հիրավի
+ stem: հիրավի.
+ gramm: PART
+ gloss: really
+ paradigm: Empty
+ trans_en: really, indeed, in reality
+
+-lexeme
+ lex: հո
+ stem: հո.
+ gramm: PART,oral
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: հուշտ
+ stem: հուշտ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: N11
+ trans_en: 
+
+-lexeme
+ lex: հօգուտ
+ stem: հօգուտ.
+ gramm: CONJ
+ gloss: favour
+ paradigm: Empty
+ trans_en: favour (of)
+
+-lexeme
+ lex: ղըռ
+ stem: ղըռ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: մասին
+ stem: մասին.
+ gramm: POST
+ gloss: about
+ paradigm: Empty
+ trans_en: about, concerning
+
+-lexeme
+ lex: մեկնումեկ
+ stem: մեկնումեկ.
+ gramm: PRON,S,hum,sg
+ gloss: someone_something_some
+ paradigm: N11
+ trans_en: someone, something, some
+
+-lexeme
+ lex: մեղա
+ stem: մեղա.
+ gramm: INTJ
+ gloss: I.confess
+ paradigm: Empty
+ trans_en: I confess
+
+-lexeme
+ lex: մենք
+ stem: մենք.
+ gramm: PRON,S,hum,pl
+ gloss: we
+ paradigm: P31c
+ trans_en: we
+
+-lexeme
+ lex: մեջ
+ stem: մեջ.|միջ.
+ gramm: POST
+ gloss: in
+ paradigm: N13
+ trans_en: in, inside, middle
+
+-lexeme
+ lex: մեջ
+ stem: մեջ.
+ gramm: POST
+ gloss: in
+ paradigm: N11
+ trans_en: in, inside, middle
+
+-lexeme
+ lex: մի
+ stem: մի.
+ gramm: PART
+ gloss: PROH
+ paradigm: Empty
+ trans_en: don't; now!
+
+-lexeme
+ lex: միգուցե
+ stem: միգուցե.
+ gramm: PART
+ gloss: perhaps
+ paradigm: Empty
+ trans_en: perhaps, maybe, very likely
+
+-lexeme
+ lex: միթե
+ stem: միթե.
+ gramm: PART
+ gloss: really
+ paradigm: Empty
+ trans_en: really? indeed? is it possible? could it be that..?
+
+-lexeme
+ lex: միմյանց
+ stem: միմյանց.
+ gramm: PRON,S,hum
+ gloss: each.other
+ paradigm: N12
+ trans_en: each other
+
+-lexeme
+ lex: մինչեւ
+ stem: մինչեւ.
+ gramm: CONJ
+ gloss: to
+ paradigm: Empty
+ trans_en: to, as far as, till
+
+-lexeme
+ lex: միջեւ
+ stem: միջեւ.
+ gramm: POST
+ gloss: between
+ paradigm: Empty
+ trans_en: between, among
+
+-lexeme
+ lex: մոտ
+ stem: մոտ.
+ gramm: POST
+ gloss: near
+ paradigm: N11
+ trans_en: near, nearest, next
+
+-lexeme
+ lex: մոտ
+ stem: մոտ.
+ gramm: POST
+ gloss: near
+ paradigm: N12
+ trans_en: near, nearest, next
+
+-lexeme
+ lex: մոտ
+ stem: մոտ.|մոտ.
+ gramm: POST
+ gloss: near
+ paradigm: N26
+ trans_en: near, nearest, next
+
+-lexeme
+ lex: յա
+ stem: յա.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: յանի
+ stem: յանի.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: յոլա
+ stem: յոլա.
+ gramm: PART
+ gloss: manage_get.on.(with)
+ paradigm: Empty
+ trans_en: manage, get on (with)
+
+-lexeme
+ lex: յուր
+ stem: յուր.
+ gramm: PRON,A,sg
+ gloss: his
+ paradigm: Empty
+ trans_en: his
+
+-lexeme
+ lex: յուրք
+ stem: յուրք.
+ gramm: PRON,A,pl
+ gloss: their
+ paradigm: Empty
+ trans_en: their
+
+-lexeme
+ lex: նա
+ stem: նա.|նրա.
+ gramm: PRON,S,hum
+ gloss: it
+ paradigm: P21
+ trans_en: he, she, it
+
+-lexeme
+ lex: նաեւ
+ stem: նաեւ.
+ gramm: CONJ
+ gloss: also
+ paradigm: Empty
+ trans_en: also, either, including
+
+-lexeme
+ lex: նդե
+ stem: նդե.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+
+-lexeme
+ lex: նդեղ
+ stem: նդեղ.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+
+-lexeme
+ lex: նե
+ stem: նե.
+ gramm: PRON,S,hum,sg
+ gloss: she
+ paradigm: Empty
+ trans_en: she
+
+-lexeme
+ lex: նենց
+ stem: նենց.
+ gramm: PRON,ADV,oral
+ gloss: so_such
+ paradigm: N12
+ trans_en: so, such
+
+-lexeme
+ lex: ներքո
+ stem: ներքո.
+ gramm: CONJ
+ gloss: under
+ paradigm: Empty
+ trans_en: under
+
+-lexeme
+ lex: նկատմամբ
+ stem: նկատմամբ.
+ gramm: POST
+ gloss: in.respect.to
+ paradigm: Empty
+ trans_en: with respect (to), in respect (of, to)
+
+-lexeme
+ lex: նորա
+ stem: նորա.
+ gramm: PRON,S,hum,sg,gen/dat
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: նորան
+ stem: նորան.
+ gramm: PRON,S,hum,sg,def,gen/dat
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: նորին
+ stem: նորին.
+ gramm: PRON,S,hum,sg
+ gloss: His.Excellence
+ paradigm: Empty
+ trans_en: His Excellence, His Majesty
+
+-lexeme
+ lex: նու
+ stem: նու.
+ gramm: PART,oral,rus
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: նույնիսկ
+ stem: նույնիսկ.
+ gramm: PART
+ gloss: even
+ paradigm: Empty
+ trans_en: even
+
+-lexeme
+ lex: նույնքան
+ stem: նույնքան.
+ gramm: PRON,ADV
+ gloss: as.much
+ paradigm: Empty
+ trans_en: as much/many as
+
+-lexeme
+ lex: շնորհավոր
+ stem: շնորհավոր.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: շնորհիվ
+ stem: շնորհիվ.
+ gramm: PREP/POST
+ gloss: thanks
+ paradigm: Empty
+ trans_en: thanks/owing to, in virtue of
+
+-lexeme
+ lex: շտո
+ stem: շտո.
+ gramm: PRON,oral,rus
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: շտո
+ stem: շտո.
+ gramm: PRON,ADV,intrg,oral,rus
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: ոհ
+ stem: ոհ.
+ gramm: INTJ
+ gloss: ah!.oh!
+ paradigm: Empty
+ trans_en: ah! oh!
+
+-lexeme
+ lex: ողորմի
+ stem: ողորմի.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: ողորմիս
+ stem: ողորմիս.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: ողջույն
+ stem: ողջույն.
+ gramm: PART
+ gloss: hi
+ paradigm: Empty
+ trans_en: salute, greetings! hail! hi!
+
+-lexeme
+ lex: ոմն
+ stem: ոմ.
+ gramm: PRON,A,hum,sg
+ gloss: some_certain
+ paradigm: P24
+ trans_en: some, certain
+
+-lexeme
+ lex: ոնց
+ stem: ոնց.
+ gramm: PRON,ADV,intrg
+ gloss: how
+ paradigm: Empty
+ trans_en: how
+
+-lexeme
+ lex: ոչ
+ stem: ոչ.
+ gramm: PART
+ gloss: no
+ paradigm: Empty
+ trans_en: no
+
+-lexeme
+ lex: ոչինչ
+ stem: ոչինչ.
+ gramm: PRON,S,negat
+ gloss: nothing
+ paradigm: N12
+ trans_en: nothing, not bad
+
+-lexeme
+ lex: ոչինչ
+ stem: ոչինչ.|ոչնչ.
+ gramm: PRON,S,negat
+ gloss: nothing
+ paradigm: N14
+ trans_en: nothing, not bad
+
+-lexeme
+ lex: ով
+ stem: ով.|ուն.
+ gramm: PRON,S,intrg,hum,sg
+ gloss: who
+ paradigm: P22
+ trans_en: who
+
+-lexeme
+ lex: ովեւէ
+ stem: ովեւէ.
+ gramm: PRON,A,hum,sg
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: ովեւիցե
+ stem: ովեւիցե.
+ gramm: PRON,A,hum,sg
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: որ
+ stem: որ.
+ gramm: CONJ
+ gloss: if
+ paradigm: Empty
+ trans_en: in order that/to, so that, if
+
+-lexeme
+ lex: որ
+ stem: որ.
+ gramm: PRON,A,intrg
+ gloss: which
+ paradigm: P11
+ trans_en: which
+
+-lexeme
+ lex: որեւէ
+ stem: որեւէ.
+ gramm: PRON,A
+ gloss: some
+ paradigm: Empty
+ trans_en: some
+
+-lexeme
+ lex: որեւիցե
+ stem: որեւիցե.
+ gramm: PRON,A
+ gloss: some
+ paradigm: Empty
+ trans_en: some
+
+-lexeme
+ lex: որովհետեւ
+ stem: որովհետեւ.
+ gramm: CONJ
+ gloss: since
+ paradigm: Empty
+ trans_en: because, since
+
+-lexeme
+ lex: որչափ
+ stem: որչափ.
+ gramm: PRON,ADV,intrg
+ gloss: how.much_how.many
+ paradigm: Empty
+ trans_en: how much, how many
+
+-lexeme
+ lex: որպես
+ stem: որպես.
+ gramm: PRON,ADV,intrg
+ gloss: as
+ paradigm: Empty
+ trans_en: as, in the capacity of
+
+-lexeme
+ lex: որպեսզի
+ stem: որպեսզի.
+ gramm: CONJ
+ gloss: in.order.to
+ paradigm: Empty
+ trans_en: in order to
+
+-lexeme
+ lex: որպիսի
+ stem: որպիսի.
+ gramm: PRON,A
+ gloss: what
+ paradigm: N12
+ trans_en: what
+
+-lexeme
+ lex: որտեղ
+ stem: որտեղ.
+ gramm: PRON,ADV,intrg
+ gloss: where
+ paradigm: N11
+ trans_en: where
+
+-lexeme
+ lex: որտեւ
+ stem: որտեւ.
+ gramm: CONJ,oral
+ gloss: because
+ paradigm: Empty
+ trans_en: because
+
+-lexeme
+ lex: որտև
+ stem: որտև.
+ gramm: CONJ,oral
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: որքան
+ stem: որքան.
+ gramm: PRON,ADV,intrg
+ gloss: how.much
+ paradigm: N12
+ trans_en: how much, how many
+
+-lexeme
+ lex: ու
+ stem: ու.
+ gramm: CONJ
+ gloss: and
+ paradigm: Empty
+ trans_en: and
+
+-lexeme
+ lex: ուխ
+ stem: ուխ.
+ gramm: INTJ
+ gloss: tee-hee!
+ paradigm: Empty
+ trans_en: tee-hee!
+
+-lexeme
+ lex: ուխայ
+ stem: ուխայ.
+ gramm: INTJ
+ gloss: hmm.oh!
+ paradigm: Empty
+ trans_en: hmm oh!
+
+-lexeme
+ lex: ուհ
+ stem: ուհ.
+ gramm: INTJ
+ gloss: damn!_ouch!.gosh!.gee!.gee-whiz!
+ paradigm: Empty
+ trans_en: damn!, ouch! gosh! gee! gee-whiz!
+
+-lexeme
+ lex: ուստի
+ stem: ուստի.
+ gramm: CONJ
+ gloss: consequently
+ paradigm: Empty
+ trans_en: consequently
+
+-lexeme
+ lex: ուր
+ stem: ուր.
+ gramm: PRON,ADV,intrg
+ gloss: where
+ paradigm: Empty
+ trans_en: where
+
+-lexeme
+ lex: ուրեմն
+ stem: ուրեմն.
+ gramm: PART
+ gloss: therefore
+ paradigm: Empty
+ trans_en: therefore, accordingly, consequently
+
+-lexeme
+ lex: ուրիշ
+ stem: ուրիշ.
+ gramm: PRON,A
+ gloss: other
+ paradigm: N12
+ trans_en: other, another, somebody
+
+-lexeme
+ lex: ուֆ
+ stem: ուֆ.
+ gramm: INTJ
+ gloss: ouch!_oh!_gee!
+ paradigm: Empty
+ trans_en: ouch!, oh!, gee!
+
+-lexeme
+ lex: ուֆֆ
+ stem: ուֆֆ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: ոք
+ stem: ոք.
+ gramm: PRON,S,hum,sg
+ gloss: one
+ paradigm: N11
+ trans_en: one, body
+
+-lexeme
+ lex: չափ-չուփ
+ stem: չափ-չուփ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: չէ
+ stem: չէ.
+ gramm: PART
+ gloss: no
+ paradigm: Empty
+ trans_en: no
+
+-lexeme
+ lex: չըփ-չըփ
+ stem: չըփ-չըփ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: չիցե
+ stem: չիցե.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: չիփ-չափ
+ stem: չիփ-չափ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: չիք
+ stem: չիք.
+ gramm: PART
+ gloss: STEM
+ paradigm: N11
+ trans_en: 
+
+-lexeme
+ lex: չլնեմ-չիմանամ
+ stem: չլնեմ-չիմանամ.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: չլոմփ
+ stem: չլոմփ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: չնայած
+ stem: չնայած.
+ gramm: PREP
+ gloss: in.spite.of
+ paradigm: Empty
+ trans_en: in spite of
+
+-lexeme
+ lex: չնայելով
+ stem: չնայելով.
+ gramm: CONJ
+ gloss: in.spite.of
+ paradigm: Empty
+ trans_en: in spite of
+
+-lexeme
+ lex: չպետք
+ stem: չպետք.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: չրըխկ
+ stem: չրըխկ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: պա
+ stem: պա.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: պահո
+ stem: պահո.
+ gramm: INTJ
+ gloss: well
+ paradigm: Empty
+ trans_en: well
+
+-lexeme
+ lex: պես
+ stem: պես.
+ gramm: CONJ
+ gloss: as
+ paradigm: Empty
+ trans_en: as, as soon as
+
+-lexeme
+ lex: պիտի
+ stem: պիտի.
+ gramm: PART
+ gloss: must
+ paradigm: NEG
+ trans_en: must
+
+-lexeme
+ lex: պիտո
+ stem: պիտո.
+ gramm: PART
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: պո-պոպո
+ stem: պո-պոպո.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: պտի
+ stem: պտի.
+ gramm: PART,oral
+ gloss: must
+ paradigm: NEG
+ trans_en: must
+
+-lexeme
+ lex: սա
+ stem: սա.|սրա.
+ gramm: PRON,dem
+ gloss: this
+ paradigm: P21
+ trans_en: this
+
+-lexeme
+ lex: սակայն
+ stem: սակայն.
+ gramm: CONJ
+ gloss: but
+ paradigm: Empty
+ trans_en: but, though
+
+-lexeme
+ lex: սենց
+ stem: սենց.
+ gramm: PRON,ADV,oral
+ gloss: like.this
+ paradigm: N12
+ trans_en: like this
+
+-lexeme
+ lex: սիթի
+ stem: սիթի.
+ gramm: 
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: սիրուն
+ stem: սիրուն.
+ gramm: POST
+ gloss: for.the.sake.of
+ paradigm: Empty
+ trans_en: for the sake of
+
+-lexeme
+ lex: սույն
+ stem: սույն.
+ gramm: PRON,dem
+ gloss: this
+ paradigm: Empty
+ trans_en: this
+
+-lexeme
+ lex: ստե
+ stem: ստե.
+ gramm: PRON,ADV,oral
+ gloss: here
+ paradigm: N11
+ trans_en: here
+
+-lexeme
+ lex: ստեղ
+ stem: ստեղ.
+ gramm: PRON,ADV,oral
+ gloss: here
+ paradigm: N11
+ trans_en: here
+
+-lexeme
+ lex: վա
+ stem: վա.
+ gramm: INTJ
+ gloss: oh!.well!.gosh!.wow!.oh
+ paradigm: Empty
+ trans_en: oh! well! gosh! wow! oh
+
+-lexeme
+ lex: վահ
+ stem: վահ.
+ gramm: INTJ
+ gloss: ah!.oh!.oh_hullo!_tut-tut!
+ paradigm: Empty
+ trans_en: ah! oh! oh, hullo!, tut-tut!
+
+-lexeme
+ lex: վայ
+ stem: վայ.
+ gramm: INTJ
+ gloss: oh!_o!
+ paradigm: Empty
+ trans_en: oh!, o!
+
+-lexeme
+ lex: վասն
+ stem: վասն.
+ gramm: PREP
+ gloss: for_about
+ paradigm: Empty
+ trans_en: for, about
+
+-lexeme
+ lex: վասնզի
+ stem: վասնզի.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: վերա
+ stem: վերա.
+ gramm: POST
+ gloss: on
+ paradigm: Empty
+ trans_en: on
+
+-lexeme
+ lex: վերաբերմամբ
+ stem: վերաբերմամբ.
+ gramm: POST
+ gloss: regarding
+ paradigm: Empty
+ trans_en: regarding
+
+-lexeme
+ lex: վերաբերյալ
+ stem: վերաբերյալ.
+ gramm: POST
+ gloss: concerning
+ paradigm: Empty
+ trans_en: concerning
+
+-lexeme
+ lex: վույ
+ stem: վույ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: վուշ
+ stem: վուշ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: վուշ-վուշ
+ stem: վուշ-վուշ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: վրա
+ stem: վրա.
+ gramm: POST
+ gloss: on
+ paradigm: N12
+ trans_en: on
+
+-lexeme
+ lex: վրա
+ stem: վրա.|վր.
+ gramm: POST
+ gloss: on
+ paradigm: N26
+ trans_en: on
+
+-lexeme
+ lex: տակ
+ stem: տակ.
+ gramm: POST
+ gloss: under
+ paradigm: N12
+ trans_en: under
+
+-lexeme
+ lex: տակ
+ stem: տակ.
+ gramm: POST
+ gloss: under
+ paradigm: N11
+ trans_en: under
+
+-lexeme
+ lex: տե
+ stem: տե.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+
+-lexeme
+ lex: տեղ
+ stem: տեղ.
+ gramm: PRON,ADV,oral
+ gloss: there
+ paradigm: N11
+ trans_en: there
+
+-lexeme
+ lex: տեղակ
+ stem: տեղակ.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: տենց
+ stem: տենց.
+ gramm: PRON,ADV,oral
+ gloss: like.that
+ paradigm: N12
+ trans_en: like that
+
+-lexeme
+ lex: տո
+ stem: տո.
+ gramm: PART,oral
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: ցավոք
+ stem: ցավոք.
+ gramm: PART
+ gloss: it's.a.pity
+ paradigm: Empty
+ trans_en: it's a pity
+
+-lexeme
+ lex: ցտեսություն
+ stem: ցտեսություն.|ցտեսության.|ցտեսությամ.
+ gramm: PART
+ gloss: good.bye
+ paradigm: N41
+ trans_en: good-bye
+
+-lexeme
+ lex: փահ
+ stem: փահ.
+ gramm: INTJ
+ gloss: ah!.oh!.gosh!_wow!_pshaw!
+ paradigm: Empty
+ trans_en: ah! oh! gosh!, wow!, pshaw!
+
+-lexeme
+ lex: փիշի-փիշի
+ stem: փիշի-փիշի.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: N12
+ trans_en: 
+
+-lexeme
+ lex: փիշտ
+ stem: փիշտ.
+ gramm: INTJ
+ gloss: shoo!
+ paradigm: Empty
+ trans_en: shoo!
+
+-lexeme
+ lex: փիսի-փիսի
+ stem: փիսի-փիսի.
+ gramm: INTJ
+ gloss: puss
+ paradigm: Empty
+ trans_en: puss
+
+-lexeme
+ lex: փիսիփիսի
+ stem: փիսիփիսի.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: փշի-փշի
+ stem: փշի-փշի.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: N12
+ trans_en: 
+
+-lexeme
+ lex: փոխանակ
+ stem: փոխանակ.
+ gramm: POST
+ gloss: instead.of
+ paradigm: Empty
+ trans_en: instead of
+
+-lexeme
+ lex: փոխարեն
+ stem: փոխարեն.
+ gramm: POST
+ gloss: instead.of
+ paradigm: N12
+ trans_en: instead of, in return for
+
+-lexeme
+ lex: փու
+ stem: փու.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: փուհ
+ stem: փուհ.
+ gramm: INTJ
+ gloss: damn!.hell!_bother!.blast!
+ paradigm: Empty
+ trans_en: damn! hell!, bother! blast!
+
+-lexeme
+ lex: քան
+ stem: քան.
+ gramm: CONJ
+ gloss: than
+ paradigm: Empty
+ trans_en: than
+
+-lexeme
+ lex: քանզի
+ stem: քանզի.
+ gramm: CONJ
+ gloss: for
+ paradigm: Empty
+ trans_en: for
+
+-lexeme
+ lex: քանի
+ stem: քանի.
+ gramm: PRON,A,intrg
+ gloss: how.many
+ paradigm: Empty
+ trans_en: how many, while
+
+-lexeme
+ lex: քանիս
+ stem: քանիս.
+ gramm: PRON
+ gloss: STEM
+ paradigm: N12
+ trans_en: 
+
+-lexeme
+ lex: քանիս
+ stem: քանիս.
+ gramm: PRON,A,intrg
+ gloss: how.many
+ paradigm: N12
+ trans_en: how many
+
+-lexeme
+ lex: քանց
+ stem: քանց.
+ gramm: CONJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: քավ
+ stem: քավ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: N11
+ trans_en: 
+
+-lexeme
+ lex: քեզի
+ stem: քեզի.
+ gramm: PRON,oral
+ gloss: STEM
+ paradigm: P31b
+ trans_en: 
+
+-lexeme
+ lex: քըխ
+ stem: քըխ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: քըշ
+ stem: քըշ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: քըշա
+ stem: քըշա.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: N12
+ trans_en: 
+
+-lexeme
+ lex: քըս
+ stem: քըս.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: քըս-քըս
+ stem: քըս-քըս.
+ gramm: INTJ
+ gloss: tally-ho!.halloo!
+ paradigm: Empty
+ trans_en: tally-ho! halloo!
+
+-lexeme
+ lex: քիշ
+ stem: քիշ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: քով
+ stem: քով.
+ gramm: POST
+ gloss: STEM
+ paradigm: N11
+ trans_en: 
+
+-lexeme
+ lex: քու
+ stem: քու.
+ gramm: PRON,oral
+ gloss: STEM
+ paradigm: 31b
+ trans_en: 
+
+-lexeme
+ lex: օհ
+ stem: օհ.
+ gramm: INTJ
+ gloss: oh!
+ paradigm: Empty
+ trans_en: oh!
+
+-lexeme
+ lex: օհո
+ stem: օհո.
+ gramm: INTJ
+ gloss: oho!
+ paradigm: Empty
+ trans_en: oho!
+
+-lexeme
+ lex: օյ
+ stem: օյ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: օրոք
+ stem: օրոք.
+ gramm: POST
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+
+-lexeme
+ lex: օֆ
+ stem: օֆ.
+ gramm: INTJ
+ gloss: STEM
+ paradigm: Empty
+ trans_en: 
+

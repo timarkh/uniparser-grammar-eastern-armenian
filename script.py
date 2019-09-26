@@ -9,85 +9,6 @@ def create(cells):
     nom = cells[0]
     lexeme = ''
     for num in nums:
-        if num == 'N11' or num == 'N12' or num == 'P11':
-            lexeme = wr_lexeme(cells, __e_a_o(nom), num)
-        if num == 'N12a':
-            lexeme = wr_lexeme(cells, __n_stem(nom), num)
-        if num == 'N12c' or num == 'N52a':
-            lexeme = wr_lexeme(cells, shwa__0_stem(nom), num)
-        if num == 'N13':
-            lexeme = wr_lexeme(cells, i_u_uy__0_stem(nom), num)
-        if num == 'N13a' or \
-           num == 'N64':
-            lexeme = wr_lexeme(cells, e__i_stem(nom), num)
-        if num == 'N14':
-            lexeme = wr_lexeme(cells, i_u__0___e_a_stem(nom), num)
-        if num == 'N14a' or \
-           num == 'N22' or \
-           num == 'N32' or num == 'N32a' or num == 'N32b' or num == 'N32e' or \
-           num == 'N33' or \
-           num == 'N34' or \
-           num == 'N52' or \
-           num == 'N54' or \
-           num == 'N63':
-            lexeme = wr_lexeme(cells, i_u__0_stem(nom), num)
-        if num == 'N23' or num == 'N23a':
-            lexeme = wr_lexeme(cells, i_u__0___e_stem(nom), num)
-        if num == 'N15' or num == 'N15a':
-            lexeme = wr_lexeme(cells, __ye_stem(nom), num)
-        if num == 'N16' or num == 'N16a' or num == 'N17':
-            lexeme = wr_lexeme(cells, u_i__v_stem(nom), num)
-        if num == 'N18' or \
-           num == 'N62':
-            lexeme = wr_lexeme(cells, uy__0_stem(nom), num)
-        if num == 'N18a':
-            lexeme = wr_lexeme(cells, uy__u_stem(nom), num)
-        if num == 'N26':
-            lexeme = wr_lexeme(cells, a__0_stem(nom), num)
-        if num == 'N36':
-            lexeme = wr_lexeme(cells, ik__z_0_stem(nom), num)
-        if num == 'N41' or num == 'N41a':
-            lexeme = wr_lexeme(cells, un__an_am_stem(nom), num)
-        if num == 'N42':
-            lexeme = wr_lexeme(cells, un__van_stem(nom), num)
-        if num == 'N43':
-            lexeme = wr_lexeme(cells, un__an_n_stem(nom), num)
-        if num == 'N51' or \
-           num == 'N81a' or num == 'N81b':
-            lexeme = wr_lexeme(cells, stem(nom), num)
-        if num == 'N62a':
-            lexeme = wr_lexeme(cells, a__e_stem(nom), num)
-        if num == 'N62b':
-            lexeme = wr_lexeme(cells, i__0_a_stem(nom), num)
-        if num == 'N71' or num == 'N71a':
-            lexeme = wr_lexeme(cells, ay__o_stem(nom), num)
-        if num == 'N72':
-            lexeme = wr_lexeme(cells, e__o_stem(nom), num)
-        if num == 'N73':
-            lexeme = wr_lexeme(cells, __e_stem(nom), num)
-        if num == 'N73a':
-            lexeme = wr_lexeme(cells, dustr_dstr_dster(nom), num)
-        if num == 'N81':
-            lexeme = wr_lexeme(cells, k__0_stem(nom), num)
-        if num == 'N91':
-            lexeme = wr_lexeme(cells, va__0_stem(nom), num)
-        if num == 'N92':
-            lexeme = wr_lexeme(cells, ser__sir_sug__sg_stem(nom), num)
-        if num == 'P21':
-            lexeme = wr_lexeme(cells, a__ra_ran(nom), num)\
-                     + wr_with_glosses(cells, a__ra(nom), 'sg,gen', '.GEN')\
-                     + wr_with_glosses(cells, a__ran(nom), 'sg,dat', '.DAT')
-        if num == 'P22':
-            lexeme = wr_lexeme(cells, 'ով.|ուն.', num)\
-                     + wr_with_glosses(cells, 'ով.', 'sg,nom', '')\
-                     + wr_with_glosses(cells, 'ուն.', 'sg,gen', '.OBL')
-        if num == 'P23':
-            lexeme = wr_lexeme(cells, 'ինք.|իրե.|իրա.', num)\
-                     + wr_with_glosses(cells, 'ինք', 'sg,nom', '')\
-                     + wr_with_glosses(cells, 'իր', 'sg,gen', '.GEN')\
-                     + wr_with_glosses(cells, 'իրա', 'sg,gen', '.GEN')\
-                     + wr_with_glosses(cells, 'իրեն', 'sg,dat', '.DAT')\
-                     + wr_with_glosses(cells, 'իրան', 'sg,dat', '.DAT')
         if num == 'P31a':
             lexeme = wr_lexeme(cells, 'ես.|իմ.|ինձ.|ինձն.|ինձնա.|ընձ', num)\
                      + wr_with_glosses(cells, 'ես.', 'sg,nom', '')\
@@ -393,17 +314,121 @@ def stem(nom):
     return nom + '.'
 
 
-def make_lexeme(dictLex):
+def make_stems(lexeme, ft):
+    """
+    Return the stem (with all variants) for a lexeme,
+    taking into account its flextype.
+    """
+    lex = lexeme['lex'].lower()
+    if ft in ['N12c', 'N52a', 'N54', 'N81', 'N81b', 'P24']:
+        return [lex[:-1] + '.']
+    if ft in ['N13', 'N14', 'N14a', 'N18', 'N22', 'N23',
+              'N23a', 'N32', 'N32a', 'N32b', 'N32e', 'N33',
+              'N34', 'N52', 'N62', 'N63']:
+        return [lex + '.|' +
+                re.sub('(?:[իո]|ու|ույ(?=[^իու]))([^իու]*$)', '\\1', lex) + '.']
+    if ft in ['N13a', 'N64', 'N92']:
+        return [lex + '.|' + re.sub('ե([^ե]*)$', 'ի\\1', lex) + '.']
+    if ft in ['N72']:
+        return [lex + '.|' + re.sub('ե([^ե]*)$', 'ո\\1', lex) + '.']
+    if ft in ['N16', 'N16a']:
+        return [lex + '.|' + re.sub('ու([^ու]*)$', 'վ\\1', lex) + '.']
+    if ft in ['N17', 'N17/N23']:
+        return [lex + '.|' + re.sub('ի([^ի]*)$', '\\1', lex) + '.|'
+                + re.sub('ի([^ի]*)$', 'վ\\1', lex) + '.']
+    if ft in ['N18a']:
+        return [lex + '.|' +
+                re.sub('յ([^յ]*$)', '\\1', lex) + '.']
+    if ft in ['N26']:
+        return [lex + '.|' + re.sub('ա([^ա]*)$', '\\1', lex) + '.']
+    if ft in ['N32c', 'N32d']:
+        return [lex + '.|' + lex[:-1] + 'ա' + lex[-1] + '.']
+    if ft in ['N36']:
+        return [lex + '.|' + lex[:-2] + 'գ.|'
+                + lex[:-2] + '.']
+    if ft in ['N41']:
+        return [lex + '.|' + lex[:-3] + 'ան.|' + lex[:-3] + 'ամ.']
+    if ft in ['N41a']:
+        return [lex + '.|' + lex[:-3] + 'ան.']
+    if ft in ['N42']:
+        return [lex + '.|' + lex[:-3] + 'վան.|' + lex[:-3] + 'վամ.']
+    if ft in ['N43']:
+        return [lex + '.|' + lex[:-3] + 'ան.|' + lex[:-3] + 'ն.']
+    if ft in ['N62a']:
+        return [lex + '.|' + re.sub('ա([^ա]*)$', 'ե\\1', lex) + '.']
+    if ft in ['N63']:
+        return [lex + '.|' + re.sub('ի([^ի]*)$', '\\1', lex) + '.|'
+                + re.sub('ի([^ի]*)$', '\\1', lex) + '.']
+    if ft in ['N63a']:
+        return [lex + '.|' + re.sub('ի([^ի]*)$', '\\1', lex) + '.|'
+                + re.sub('ի([^ի]*)$', 'ա\\1', lex) + '.']
+    if ft in ['N63b', 'N81a']:
+        return [lex[:-3] + '.']
+    if ft in ['N71', 'N71a']:
+        return [lex + '.|' + re.sub('այ([^ա]*)$', 'ո\\1', lex) + '.']
+    if ft in ['N72']:
+        return [lex + '.|' + re.sub('ե([^ե]*)$', 'ո\\1', lex) + '.']
+    if ft in ['N73']:
+        return [lex + '.|' + lex[:-1] + 'ե' + lex[-1] + '.']
+    if ft in ['N73a']:
+        return [lex + '.|' + lex.replace('ու', '')
+                + '.|' + lex.replace('ու', '')[:-1] + 'ե' + lex[-1] + '.']
+    if ft in ['N91']:
+        return [lex + '.|' + lex[:-3] + lex[-1] + '.']
+    if ft in ['P21']:
+        return [lex + '.|' + lex[:-1] + 'ր' + lex[-1] + '.']
+    if ft in ['P22']:
+        return [lex + '.|' + lex[:-2] + 'ուն.']
+    if ft in ['P23']:
+        return [lex[:-1] + '.|' + lex[:-3] + 'ր.']
+    return [lex + '.']
+
+
+def make_lexemes(dictLex):
     gramm = dictLex['pos'] + ',' + dictLex['grams'] + ',' + dictLex['grams2']
     gramm = re.sub('(?<=,),+(?=.)|,+$', '', gramm)
-    strLex = '-lexeme\n'
-    strLex += ' lex: ' + dictLex['lex'] + '\n'
-    strLex += ' stem: ' + dictLex['lex'] + '.\n'
-    strLex += ' gramm: ' + gramm + '\n'
-    strLex += ' gloss: ' + dictLex['gloss'] + '\n'
-    strLex += ' paradigm: ' + dictLex['flextype'] + '\n'
-    strLex += ' trans_en: ' + dictLex['trans'] + '\n\n'
-    return strLex
+    lexemesOut = []
+    paraCollation = {
+        'N13a': 'N13',
+        'N15': 'N12',
+        'N15a': 'N11',
+        'N16': 'N14',
+        'N16a': 'N13',
+        'N18': 'N14a',
+        'N42': 'N41',
+        'N63a': 'N63',
+        'N72': 'N71'
+    }
+    for para in dictLex['flextype'].split('/'):
+        for stem in make_stems(dictLex, para):
+            if para in paraCollation:
+                para = paraCollation[para]
+            paradigms = [para]
+            if para in ['N11', 'N12', 'N13', 'N14'] and gramm.startswith('A'):
+                para = 'A' + para[1:]
+                stem = '.' + stem.replace('|', '|.').replace('//', '//.')
+            if 'apl' in gramm:
+                gramm = re.sub(',apl\\+?', '', gramm)
+                if dictLex['flextype'] in ['N11']:
+                    paradigms.append('apl_o')
+                if dictLex['flextype'] in ['N11', 'N12']:
+                    paradigms.append('apl_a')
+                if dictLex['flextype'] in ['N14']:
+                    paradigms.append('apl_2a')
+                    paradigms.append('apl_2e')
+                else:
+                    paradigms.append('apl_e')
+
+            strLex = '-lexeme\n'
+            strLex += ' lex: ' + dictLex['lex'] + '\n'
+            strLex += ' stem: ' + stem + '\n'
+            strLex += ' gramm: ' + gramm + '\n'
+            strLex += ' gloss: ' + dictLex['gloss'] + '\n'
+            for para in paradigms:
+                strLex += ' paradigm: ' + para + '\n'
+            strLex += ' trans_en: ' + dictLex['trans'] + '\n\n'
+            lexemesOut.append(strLex)
+    return lexemesOut
 
 
 def process_source():
@@ -419,6 +444,8 @@ def process_source():
         line += '\t' * 15
         rev, lex, lex_freq, homonym, pos, grams, grams2, flextype,\
             number, form2, form3, trans, comment, labels, gloss, rest = line.split('\t', 15)
+        if flextype == 'N11/N18a':
+            flextype = 'N18a'
         lexID = (lex, pos, homonym, grams, grams2)
         if lexID in lexemes:
             print('Duplicate lexeme: ' + line)
@@ -456,11 +483,29 @@ def process_source():
     fInFull.close()
     fInShort.close()
 
-    fOutLex = open('lexemes.txt', 'w', encoding='utf-8-sig')
+    fOutLexN = open('hye-lexemes-N.txt', 'w', encoding='utf-8-sig')
+    fOutLexV = open('hye-lexemes-V.txt', 'w', encoding='utf-8-sig')
+    fOutLexA = open('hye-lexemes-A.txt', 'w', encoding='utf-8-sig')
+    fOutLexADV = open('hye-lexemes-ADV.txt', 'w', encoding='utf-8-sig')
+    fOutLexRest = open('hye-lexemes-rest.txt', 'w', encoding='utf-8-sig')
     print(len(lexemes), 'lexemes will be written.')
     for lexID in sorted(lexemes):
-        fOutLex.write(make_lexeme(lexemes[lexID]))
-    fOutLex.close()
+        for l in make_lexemes(lexemes[lexID]):
+            if 'gramm: N' in l:
+                fOutLexN.write(l)
+            elif 'gramm: ADV' in l:
+                fOutLexADV.write(l)
+            elif 'gramm: V' in l:
+                fOutLexV.write(l)
+            elif 'gramm: A' in l:
+                fOutLexA.write(l)
+            else:
+                fOutLexRest.write(l)
+    fOutLexN.close()
+    fOutLexV.close()
+    fOutLexA.close()
+    fOutLexADV.close()
+    fOutLexRest.close()
 
 
 if __name__ == '__main__':
