@@ -224,7 +224,7 @@
 
 -lexeme
  lex: ակներեւաբար
- stem: ակներեւաբար.
+ stem: ակներեւաբար.//ակներևաբար.
  gramm: ADV
  gloss: evidently
  paradigm: Empty
@@ -232,7 +232,7 @@
 
 -lexeme
  lex: ակներեւապես
- stem: ակներեւապես.
+ stem: ակներեւապես.//ակներևապես.
  gramm: ADV
  gloss: evidently
  paradigm: Empty
@@ -240,7 +240,7 @@
 
 -lexeme
  lex: ակներեւորեն
- stem: ակներեւորեն.
+ stem: ակներեւորեն.//ակներևորեն.
  gramm: ADV
  gloss: evidently
  paradigm: Empty
@@ -472,7 +472,7 @@
 
 -lexeme
  lex: ամենեւին
- stem: ամենեւին.
+ stem: ամենեւին.//ամենևին.
  gramm: ADV
  gloss: at.all
  paradigm: Empty
@@ -576,7 +576,7 @@
 
 -lexeme
  lex: այլեւս
- stem: այլեւս.
+ stem: այլեւս.//այլևս.
  gramm: ADV
  gloss: no.more
  paradigm: Empty
@@ -616,7 +616,7 @@
 
 -lexeme
  lex: այնուհետեւ
- stem: այնուհետեւ.
+ stem: այնուհետեւ.//այնուհետև.
  gramm: ADV
  gloss: then
  paradigm: Empty
@@ -632,7 +632,7 @@
 
 -lexeme
  lex: այսուհետեւ
- stem: այսուհետեւ.
+ stem: այսուհետեւ.//այսուհետև.
  gramm: ADV
  gloss: from.now.on
  paradigm: Empty
@@ -1960,7 +1960,7 @@
 
 -lexeme
  lex: անհետեւողաբար
- stem: անհետեւողաբար.
+ stem: անհետեւողաբար.//անհետևողաբար.
  gramm: ADV
  gloss: inconsistently_inconsistent_inconsequent
  paradigm: Empty
@@ -3320,7 +3320,7 @@
 
 -lexeme
  lex: առերեւութապես
- stem: առերեւութապես.
+ stem: առերեւութապես.//առերևութապես.
  gramm: ADV
  gloss: STEM
  paradigm: Empty
@@ -4640,7 +4640,7 @@
 
 -lexeme
  lex: բոլշեւիկաբար
- stem: բոլշեւիկաբար.
+ stem: բոլշեւիկաբար.//բոլշևիկաբար.
  gramm: ADV
  gloss: STEM
  paradigm: Empty
@@ -4648,7 +4648,7 @@
 
 -lexeme
  lex: բոլշեւիկորեն
- stem: բոլշեւիկորեն.
+ stem: բոլշեւիկորեն.//բոլշևիկորեն.
  gramm: ADV
  gloss: STEM
  paradigm: Empty
@@ -5792,7 +5792,7 @@
 
 -lexeme
  lex: դեռեւս
- stem: դեռեւս.
+ stem: դեռեւս.//դեռևս.
  gramm: ADV
  gloss: still
  paradigm: Empty
@@ -5840,7 +5840,7 @@
 
 -lexeme
  lex: դերեւ
- stem: դերեւ.
+ stem: դերեւ.//դերև.
  gramm: ADV
  gloss: STEM
  paradigm: Empty
@@ -6280,7 +6280,7 @@
 
 -lexeme
  lex: ետեւից
- stem: ետեւից.
+ stem: ետեւից.//ետևից.
  gramm: ADV
  gloss: from.behind
  paradigm: Empty
@@ -6384,7 +6384,7 @@
 
 -lexeme
  lex: երբեւէ
- stem: երբեւէ.
+ stem: երբեւէ.//երբևէ.
  gramm: ADV
  gloss: ever
  paradigm: Empty
@@ -6392,7 +6392,7 @@
 
 -lexeme
  lex: երբեւիցե
- stem: երբեւիցե.
+ stem: երբեւիցե.//երբևիցե.
  gramm: ADV
  gloss: ever_some.time_day
  paradigm: Empty
@@ -6512,7 +6512,7 @@
 
 -lexeme
  lex: երեւութապես
- stem: երեւութապես.
+ stem: երեւութապես.//երևութապես.
  gramm: ADV
  gloss: STEM
  paradigm: Empty
@@ -7368,7 +7368,7 @@
 
 -lexeme
  lex: թեթեւաբար
- stem: թեթեւաբար.
+ stem: թեթեւաբար.//թեթևաբար.
  gramm: ADV
  gloss: easily_gently
  paradigm: Empty
@@ -7376,7 +7376,7 @@
 
 -lexeme
  lex: թեթեւակիորեն
- stem: թեթեւակիորեն.
+ stem: թեթեւակիորեն.//թեթևակիորեն.
  gramm: ADV
  gloss: slightly_somewhat
  paradigm: Empty
@@ -7384,7 +7384,7 @@
 
 -lexeme
  lex: թեթեւամտաբար
- stem: թեթեւամտաբար.
+ stem: թեթեւամտաբար.//թեթևամտաբար.
  gramm: ADV
  gloss: light-mindedly
  paradigm: Empty
@@ -7392,7 +7392,7 @@
 
 -lexeme
  lex: թեթեւամտորեն
- stem: թեթեւամտորեն.
+ stem: թեթեւամտորեն.//թեթևամտորեն.
  gramm: ADV
  gloss: light-mindedly
  paradigm: Empty
@@ -7400,7 +7400,7 @@
 
 -lexeme
  lex: թեթեւապես
- stem: թեթեւապես.
+ stem: թեթեւապես.//թեթևապես.
  gramm: ADV
  gloss: STEM
  paradigm: Empty
@@ -7432,7 +7432,7 @@
 
 -lexeme
  lex: թեւ-թեւի
- stem: թեւ-թեւի.
+ stem: թեւ-թեւի.//թև-թևի.
  gramm: ADV
  gloss: STEM
  paradigm: Empty
@@ -7440,7 +7440,7 @@
 
 -lexeme
  lex: թեւանցուկ
- stem: թեւանցուկ.
+ stem: թեւանցուկ.//թևանցուկ.
  gramm: ADV
  gloss: arm-in-arm
  paradigm: Empty
@@ -7448,7 +7448,7 @@
 
 -lexeme
  lex: թեւիթեւ
- stem: թեւիթեւ.
+ stem: թեւիթեւ.//թևիթև.
  gramm: ADV
  gloss: STEM
  paradigm: Empty
@@ -11760,7 +11760,7 @@
 
 -lexeme
  lex: հարատեւորեն
- stem: հարատեւորեն.
+ stem: հարատեւորեն.//հարատևորեն.
  gramm: ADV
  gloss: STEM
  paradigm: Empty
@@ -11768,7 +11768,7 @@
 
 -lexeme
  lex: հարեւանաբար
- stem: հարեւանաբար.
+ stem: հարեւանաբար.//հարևանաբար.
  gramm: ADV
  gloss: neighbourly_in.a.neighbourly.manner
  paradigm: Empty
@@ -11776,7 +11776,7 @@
 
 -lexeme
  lex: հարեւանցիորեն
- stem: հարեւանցիորեն.
+ stem: հարեւանցիորեն.//հարևանցիորեն.
  gramm: ADV
  gloss: superficially
  paradigm: Empty
@@ -12000,7 +12000,7 @@
 
 -lexeme
  lex: հեվհեւկոտ
- stem: հեվհեւկոտ.
+ stem: հեվհեւկոտ.//հեվհևկոտ.
  gramm: ADV
  gloss: STEM
  paradigm: Empty
@@ -12008,7 +12008,7 @@
 
 -lexeme
  lex: հեվհեւուն
- stem: հեվհեւուն.
+ stem: հեվհեւուն.//հեվհևուն.
  gramm: ADV
  gloss: STEM
  paradigm: Empty
@@ -12048,7 +12048,7 @@
 
 -lexeme
  lex: հետեւաբար
- stem: հետեւաբար.
+ stem: հետեւաբար.//հետևաբար.
  gramm: ADV
  gloss: thus
  paradigm: Empty
@@ -12056,7 +12056,7 @@
 
 -lexeme
  lex: հետեւապես
- stem: հետեւապես.
+ stem: հետեւապես.//հետևապես.
  gramm: ADV
  gloss: consequently_therefore_thus
  paradigm: Empty
@@ -12064,7 +12064,7 @@
 
 -lexeme
  lex: հետեւողաբար
- stem: հետեւողաբար.
+ stem: հետեւողաբար.//հետևողաբար.
  gramm: ADV
  gloss: consistently_successively
  paradigm: Empty
@@ -12072,7 +12072,7 @@
 
 -lexeme
  lex: հետեւողականորեն
- stem: հետեւողականորեն.
+ stem: հետեւողականորեն.//հետևողականորեն.
  gramm: ADV
  gloss: consistently_successively
  paradigm: Empty
@@ -12136,7 +12136,7 @@
 
 -lexeme
  lex: հեւիհեւ
- stem: հեւիհեւ.
+ stem: հեւիհեւ.//հևիհև.
  gramm: ADV
  gloss: breathlessly
  paradigm: Empty
@@ -12680,7 +12680,7 @@
 
 -lexeme
  lex: ձեւականապես
- stem: ձեւականապես.
+ stem: ձեւականապես.//ձևականապես.
  gramm: ADV
  gloss: formally
  paradigm: Empty
@@ -12688,7 +12688,7 @@
 
 -lexeme
  lex: ձեւականորեն
- stem: ձեւականորեն.
+ stem: ձեւականորեն.//ձևականորեն.
  gramm: ADV
  gloss: formally
  paradigm: Empty
@@ -12928,7 +12928,7 @@
 
 -lexeme
  lex: մակերեւութորեն
- stem: մակերեւութորեն.
+ stem: մակերեւութորեն.//մակերևութորեն.
  gramm: ADV
  gloss: STEM
  paradigm: Empty
@@ -13152,7 +13152,7 @@
 
 -lexeme
  lex: մարդամեջ
- stem: .մարդամեջ.|.մարդամիջ.
+ stem: .մարդամէջ.//.մարդամէջ.//.մարդամէջ.|.մարդամիջ.
  gramm: ADV
  gloss: human_social.environment
  paradigm: N13
@@ -13456,7 +13456,7 @@
 
 -lexeme
  lex: մեջընդմեջ
- stem: .մեջընդմեջ.|.մեջընդմիջ.
+ stem: .մեջընդմէջ.//.մեջընդմէջ.//.մեջընդմէջ.|.մեջընդմիջ.
  gramm: ADV
  gloss: STEM
  paradigm: N13
@@ -14089,7 +14089,7 @@
 
 -lexeme
  lex: ներքեւ
- stem: .ներքեւ.
+ stem: .ներքեւ.//.ներքև.
  gramm: ADV
  gloss: down
  paradigm: N12
@@ -14937,7 +14937,7 @@
 
 -lexeme
  lex: ութաձեւ
- stem: ութաձեւ.
+ stem: ութաձեւ.//ութաձև.
  gramm: ADV
  gloss: STEM
  paradigm: Empty
@@ -15017,7 +15017,7 @@
 
 -lexeme
  lex: ուղխաձեւ
- stem: ուղխաձեւ.
+ stem: ուղխաձեւ.//ուղխաձև.
  gramm: ADV
  gloss: STEM
  paradigm: Empty
@@ -15257,7 +15257,7 @@
 
 -lexeme
  lex: ուրեւէ
- stem: ուրեւէ.
+ stem: ուրեւէ.//ուրևէ.
  gramm: ADV
  gloss: somewhere
  paradigm: Empty
@@ -15265,7 +15265,7 @@
 
 -lexeme
  lex: ուրեւիցե
- stem: ուրեւիցե.
+ stem: ուրեւիցե.//ուրևիցե.
  gramm: ADV
  gloss: somewhere
  paradigm: Empty
@@ -16561,7 +16561,7 @@
 
 -lexeme
  lex: սեթեւեթաբար
- stem: սեթեւեթաբար.
+ stem: սեթեւեթաբար.//սեթևեթաբար.
  gramm: ADV
  gloss: STEM
  paradigm: Empty
@@ -16609,7 +16609,7 @@
 
 -lexeme
  lex: սեւեռաբիբ
- stem: սեւեռաբիբ.
+ stem: սեւեռաբիբ.//սևեռաբիբ.
  gramm: ADV
  gloss: STEM
  paradigm: Empty
@@ -16617,7 +16617,7 @@
 
 -lexeme
  lex: սեւեռահայաց
- stem: սեւեռահայաց.
+ stem: սեւեռահայաց.//սևեռահայաց.
  gramm: ADV
  gloss: STEM
  paradigm: Empty
@@ -16625,7 +16625,7 @@
 
 -lexeme
  lex: սեւեռամիտ
- stem: սեւեռամիտ.
+ stem: սեւեռամիտ.//սևեռամիտ.
  gramm: ADV
  gloss: STEM
  paradigm: Empty
@@ -16986,7 +16986,7 @@
 
 -lexeme
  lex: ստորեւ
- stem: ստորեւ.
+ stem: ստորեւ.//ստորև.
  gramm: ADV
  gloss: below
  paradigm: Empty
@@ -17602,7 +17602,7 @@
 
 -lexeme
  lex: վերեւ
- stem: .վերեւ.
+ stem: .վերեւ.//.վերև.
  gramm: ADV
  gloss: top
  paradigm: N12
@@ -17874,7 +17874,7 @@
 
 -lexeme
  lex: տակեւանց
- stem: տակեւանց.
+ stem: տակեւանց.//տակևանց.
  gramm: ADV
  gloss: STEM
  paradigm: Empty
@@ -18283,7 +18283,7 @@
 
 -lexeme
  lex: տեւաբար
- stem: տեւաբար.
+ stem: տեւաբար.//տևաբար.
  gramm: ADV
  gloss: STEM
  paradigm: Empty
@@ -18291,7 +18291,7 @@
 
 -lexeme
  lex: տեւականորեն
- stem: տեւականորեն.
+ stem: տեւականորեն.//տևականորեն.
  gramm: ADV
  gloss: long_continually_endlessly
  paradigm: Empty
@@ -18299,7 +18299,7 @@
 
 -lexeme
  lex: տեւապես
- stem: տեւապես.
+ stem: տեւապես.//տևապես.
  gramm: ADV
  gloss: STEM
  paradigm: Empty
@@ -18307,7 +18307,7 @@
 
 -lexeme
  lex: տեւողաբար
- stem: տեւողաբար.
+ stem: տեւողաբար.//տևողաբար.
  gramm: ADV
  gloss: STEM
  paradigm: Empty

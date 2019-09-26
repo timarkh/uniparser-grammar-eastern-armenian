@@ -256,7 +256,7 @@
 
 -lexeme
  lex: այլեւ
- stem: այլեւ.
+ stem: այլեւ.//այլև.
  gramm: CONJ
  gloss: also
  paradigm: Empty
@@ -528,7 +528,7 @@
 
 -lexeme
  lex: առջեւ
- stem: առջեւ.
+ stem: առջեւ.//առջև.
  gramm: POST
  gloss: before
  paradigm: N12
@@ -560,7 +560,7 @@
 
 -lexeme
  lex: արդարեւ
- stem: արդարեւ.
+ stem: արդարեւ.//արդարև.
  gramm: PART
  gloss: indeed
  paradigm: Empty
@@ -624,7 +624,7 @@
 
 -lexeme
  lex: բարեւ
- stem: բարեւ.
+ stem: բարեւ.//բարև.
  gramm: PART
  gloss: hello
  paradigm: N12
@@ -696,7 +696,7 @@
 
 -lexeme
  lex: դա
- stem: դա.|դրա.
+ stem: դա.|դր.
  gramm: PRON,dem
  gloss: that
  paradigm: P21
@@ -903,22 +903,6 @@
  trans_en: when, while
 
 -lexeme
- lex: երեխա
- stem: երեխա.|երեխ.
- gramm: 
- gloss: STEM
- paradigm: N26
- trans_en: 
-
--lexeme
- lex: երեխա
- stem: երեխա.
- gramm: 
- gloss: STEM
- paradigm: N12
- trans_en: 
-
--lexeme
  lex: երեսից
  stem: երեսից.
  gramm: CONJ
@@ -928,7 +912,7 @@
 
 -lexeme
  lex: երեւի
- stem: երեւի.
+ stem: երեւի.//երևի.
  gramm: PART
  gloss: apparently
  paradigm: Empty
@@ -952,7 +936,7 @@
 
 -lexeme
  lex: եւ
- stem: եւ.
+ stem: եւ.//և.
  gramm: CONJ
  gloss: and
  paradigm: Empty
@@ -960,7 +944,7 @@
 
 -lexeme
  lex: եւեթ
- stem: եւեթ.
+ stem: եւեթ.//ևեթ.
  gramm: PART
  gloss: just
  paradigm: Empty
@@ -968,7 +952,7 @@
 
 -lexeme
  lex: եւս
- stem: եւս.
+ stem: եւս.//ևս.
  gramm: CONJ
  gloss: also
  paradigm: Empty
@@ -1544,7 +1528,7 @@
 
 -lexeme
  lex: թեեւ
- stem: թեեւ.
+ stem: թեեւ.//թեև.
  gramm: CONJ
  gloss: though
  paradigm: Empty
@@ -1568,7 +1552,7 @@
 
 -lexeme
  lex: թեպետեւ
- stem: թեպետեւ.
+ stem: թեպետեւ.//թեպետև.
  gramm: CONJ
  gloss: though
  paradigm: Empty
@@ -1576,7 +1560,7 @@
 
 -lexeme
  lex: թերեւս
- stem: թերեւս.
+ stem: թերեւս.//թերևս.
  gramm: PART
  gloss: perhaps
  paradigm: Empty
@@ -1712,7 +1696,7 @@
 
 -lexeme
  lex: իբրեւ
- stem: իբրեւ.
+ stem: իբրեւ.//իբրև.
  gramm: CONJ
  gloss: as
  paradigm: Empty
@@ -1776,7 +1760,7 @@
 
 -lexeme
  lex: ինչեւէ
- stem: ինչեւէ.
+ stem: ինչեւէ.//ինչևէ.
  gramm: PART
  gloss: anyhow
  paradigm: Empty
@@ -1784,7 +1768,7 @@
 
 -lexeme
  lex: ինչեւիցե
- stem: ինչեւիցե.
+ stem: ինչեւիցե.//ինչևիցե.
  gramm: PART
  gloss: anyhow_after.all_one.way.or.another
  paradigm: Empty
@@ -2440,7 +2424,7 @@
 
 -lexeme
  lex: մեջ
- stem: մեջ.|միջ.
+ stem: մէջ.//մէջ.//մէջ.|միջ.
  gramm: POST
  gloss: in
  paradigm: N13
@@ -2488,7 +2472,7 @@
 
 -lexeme
  lex: մինչեւ
- stem: մինչեւ.
+ stem: մինչեւ.//մինչև.
  gramm: CONJ
  gloss: to
  paradigm: Empty
@@ -2496,7 +2480,7 @@
 
 -lexeme
  lex: միջեւ
- stem: միջեւ.
+ stem: միջեւ.//միջև.
  gramm: POST
  gloss: between
  paradigm: Empty
@@ -2568,7 +2552,7 @@
 
 -lexeme
  lex: նա
- stem: նա.|նրա.
+ stem: նա.|նր.
  gramm: PRON,S,hum
  gloss: it
  paradigm: P21
@@ -2576,7 +2560,7 @@
 
 -lexeme
  lex: նաեւ
- stem: նաեւ.
+ stem: նաեւ.//նաև.
  gramm: CONJ
  gloss: also
  paradigm: Empty
@@ -2792,7 +2776,7 @@
 
 -lexeme
  lex: ովեւէ
- stem: ովեւէ.
+ stem: ովեւէ.//ովևէ.
  gramm: PRON,A,hum,sg
  gloss: STEM
  paradigm: Empty
@@ -2800,7 +2784,7 @@
 
 -lexeme
  lex: ովեւիցե
- stem: ովեւիցե.
+ stem: ովեւիցե.//ովևիցե.
  gramm: PRON,A,hum,sg
  gloss: STEM
  paradigm: Empty
@@ -2824,7 +2808,7 @@
 
 -lexeme
  lex: որեւէ
- stem: որեւէ.
+ stem: որեւէ.//որևէ.
  gramm: PRON,A
  gloss: some
  paradigm: Empty
@@ -2832,7 +2816,7 @@
 
 -lexeme
  lex: որեւիցե
- stem: որեւիցե.
+ stem: որեւիցե.//որևիցե.
  gramm: PRON,A
  gloss: some
  paradigm: Empty
@@ -2840,7 +2824,7 @@
 
 -lexeme
  lex: որովհետեւ
- stem: որովհետեւ.
+ stem: որովհետեւ.//որովհետև.
  gramm: CONJ
  gloss: since
  paradigm: Empty
@@ -2888,7 +2872,7 @@
 
 -lexeme
  lex: որտեւ
- stem: որտեւ.
+ stem: որտեւ.//որտև.
  gramm: CONJ,oral
  gloss: because
  paradigm: Empty
@@ -3152,7 +3136,7 @@
 
 -lexeme
  lex: սա
- stem: սա.|սրա.
+ stem: սա.|սր.
  gramm: PRON,dem
  gloss: this
  paradigm: P21
@@ -3384,7 +3368,7 @@
 
 -lexeme
  lex: ցտեսություն
- stem: ցտեսություն.|ցտեսության.|ցտեսությամ.
+ stem: ցտեսությւն.//ցտեսությւն.//ցտեսությւն.|ցտեսության.|ցտեսությամ.
  gramm: PART
  gloss: good.bye
  paradigm: N41
@@ -3595,7 +3579,7 @@
  stem: քու.
  gramm: PRON,oral
  gloss: STEM
- paradigm: 31b
+ paradigm: P31b
  trans_en: 
 
 -lexeme

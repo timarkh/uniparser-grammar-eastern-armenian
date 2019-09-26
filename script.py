@@ -328,7 +328,7 @@ def make_stems(lexeme, ft):
         return [lex + '.|' +
                 re.sub('(?:[իո]|ու|ույ(?=[^իու]))([^իու]*$)', '\\1', lex) + '.']
     if ft in ['N13a', 'N64', 'N92']:
-        return [lex + '.|' + re.sub('ե([^ե]*)$', 'ի\\1', lex) + '.']
+        return [lex + './/' + re.sub('ե([^ե]*)$', 'է\\1', lex) + '.|' + re.sub('ե([^ե]*)$', 'ի\\1', lex) + '.']
     if ft in ['N72']:
         return [lex + '.|' + re.sub('ե([^ե]*)$', 'ո\\1', lex) + '.']
     if ft in ['N16', 'N16a']:
@@ -347,7 +347,7 @@ def make_stems(lexeme, ft):
         return [lex + '.|' + lex[:-2] + 'գ.|'
                 + lex[:-2] + '.']
     if ft in ['N41']:
-        return [lex + '.|' + lex[:-3] + 'ան.|' + lex[:-3] + 'ամ.']
+        return [lex + './/' + lex[:-3] + lex[-2:] + '.|' + lex[:-3] + 'ան.|' + lex[:-3] + 'ամ.']
     if ft in ['N41a']:
         return [lex + '.|' + lex[:-3] + 'ան.']
     if ft in ['N42']:
@@ -376,12 +376,56 @@ def make_stems(lexeme, ft):
     if ft in ['N91']:
         return [lex + '.|' + lex[:-3] + lex[-1] + '.']
     if ft in ['P21']:
-        return [lex + '.|' + lex[:-1] + 'ր' + lex[-1] + '.']
+        return [lex + '.|' + lex[:-1] + 'ր.']
     if ft in ['P22']:
         return [lex + '.|' + lex[:-2] + 'ուն.']
     if ft in ['P23']:
         return [lex[:-1] + '.|' + lex[:-3] + 'ր.']
+    if ft in ['V12', 'V13', 'V14', 'V22', 'V12a', 'V12b',
+              'V14a', 'V14b', 'V14c', 'V14d', 'V22a']:
+        return ['.' + lex[:-3] + '.']
+    if ft in ['V32c']:
+        return ['.' + lex[:-1] + '.']
+    if ft in ['V22b']:
+        return ['.' + lex[:-3] + '.|.' + lex[:-4] + 'րձ.']
+    if ft in ['V22c']:
+        return ['.' + lex[:-2] + '.|.' + lex[:-4] + 'աց.|.' + lex[:-4] + 'ան.']
+    if ft in ['V31a']:
+        return ['.' + lex[:-2] + '.|.կեր.']
+    if ft in ['V31b'] and lexeme['lex'] == 'լինել':
+        return ['.' + lex[:-2] + '.|.եղ.']
+    if ft in ['V31b'] and lexeme['lex'] == 'ըլնել':
+        return ['.' + lex[:-2] + '.|.էղ.']
+    if ft in ['V32a']:
+        return ['.' + lex[:-2] + '.|.եկ.//.էկ.|.արի.']
+    if ft in ['V32b']:
+        return ['.' + lex[:-2] + '.|.' + lex[:-2] + 'վ.|.' + lex[:-2] + 'ու.']
+    if ft in ['V41']:
+        return ['.է.|.ե.']
+    if ft in ['V42']:
+        return ['.' + lex + '.']
+    if ft in ['V43']:
+        return ['.' + lex[:-4] + '.']
+    if ft.startswith('V'):
+        return ['.' + lex[:-2] + '.']
     return [lex + '.']
+
+
+def add_orth_variation(stems):
+    newStems = ''
+    for stem in stems.split('|'):
+        for stemVar in stem.split('//'):
+            newVars = [stemVar]
+            varYun = re.sub('(?<=[աիօը]է)վ', 'ւ', stemVar)
+            if varYun != stem:
+                newVars.append(varYun)
+            varEw = re.sub('եւ', 'և', stemVar)
+            if varEw != stem:
+                newVars.append(varEw)
+        if len(newStems) > 0:
+            newStems += '|'
+        newStems += '//'.join(newVars)
+    return newStems
 
 
 def make_lexemes(dictLex):
@@ -389,6 +433,10 @@ def make_lexemes(dictLex):
     gramm = re.sub('(?<=,),+(?=.)|,+$', '', gramm)
     lexemesOut = []
     paraCollation = {
+        '0': 'Empty',
+        '31b': 'P31b',
+        'N11-onk\'': 'N11',
+        'N11-ank\'': 'N11',
         'N13a': 'N13',
         'N15': 'N12',
         'N15a': 'N11',
@@ -409,9 +457,9 @@ def make_lexemes(dictLex):
                 stem = '.' + stem.replace('|', '|.').replace('//', '//.')
             if 'apl' in gramm:
                 gramm = re.sub(',apl\\+?', '', gramm)
-                if dictLex['flextype'] in ['N11']:
+                if dictLex['flextype'] in ['N11', 'N11-onk\'']:
                     paradigms.append('apl_o')
-                if dictLex['flextype'] in ['N11', 'N12']:
+                if dictLex['flextype'] in ['N11', 'N12', 'N11-ank\'']:
                     paradigms.append('apl_a')
                 if dictLex['flextype'] in ['N14']:
                     paradigms.append('apl_2a')
@@ -421,7 +469,7 @@ def make_lexemes(dictLex):
 
             strLex = '-lexeme\n'
             strLex += ' lex: ' + dictLex['lex'] + '\n'
-            strLex += ' stem: ' + stem + '\n'
+            strLex += ' stem: ' + add_orth_variation(stem) + '\n'
             strLex += ' gramm: ' + gramm + '\n'
             strLex += ' gloss: ' + dictLex['gloss'] + '\n'
             for para in paradigms:
