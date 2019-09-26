@@ -560,7 +560,7 @@
 
 -lexeme
  lex: արդարեւ
- stem: արդարեւ.//արդարև.
+ stem: արդարև.//արդարեւ.
  gramm: PART
  gloss: indeed
  paradigm: Empty
@@ -912,7 +912,7 @@
 
 -lexeme
  lex: երեւի
- stem: երեւի.//երևի.
+ stem: երևի.//երեւի.
  gramm: PART
  gloss: apparently
  paradigm: Empty
@@ -1528,7 +1528,7 @@
 
 -lexeme
  lex: թեեւ
- stem: թեեւ.//թեև.
+ stem: թեև.//թեեւ.
  gramm: CONJ
  gloss: though
  paradigm: Empty
@@ -1552,7 +1552,7 @@
 
 -lexeme
  lex: թեպետեւ
- stem: թեպետեւ.//թեպետև.
+ stem: թեպետև.//թեպետեւ.
  gramm: CONJ
  gloss: though
  paradigm: Empty
@@ -1696,7 +1696,7 @@
 
 -lexeme
  lex: իբրեւ
- stem: իբրեւ.//իբրև.
+ stem: իբրև.//իբրեւ.
  gramm: CONJ
  gloss: as
  paradigm: Empty
@@ -1760,7 +1760,7 @@
 
 -lexeme
  lex: ինչեւէ
- stem: ինչեւէ.//ինչևէ.
+ stem: ինչևէ.//ինչեւէ.
  gramm: PART
  gloss: anyhow
  paradigm: Empty
@@ -2424,7 +2424,7 @@
 
 -lexeme
  lex: մեջ
- stem: մէջ.//մէջ.//մէջ.|միջ.
+ stem: մեջ.//մէջ.|միջ.
  gramm: POST
  gloss: in
  paradigm: N13
@@ -2472,7 +2472,7 @@
 
 -lexeme
  lex: մինչեւ
- stem: մինչեւ.//մինչև.
+ stem: մինչև.//մինչեւ.
  gramm: CONJ
  gloss: to
  paradigm: Empty
@@ -2560,7 +2560,7 @@
 
 -lexeme
  lex: նաեւ
- stem: նաեւ.//նաև.
+ stem: նաև.//նաեւ.
  gramm: CONJ
  gloss: also
  paradigm: Empty
@@ -2776,7 +2776,7 @@
 
 -lexeme
  lex: ովեւէ
- stem: ովեւէ.//ովևէ.
+ stem: ովևէ.//ովեւէ.
  gramm: PRON,A,hum,sg
  gloss: STEM
  paradigm: Empty
@@ -2816,7 +2816,7 @@
 
 -lexeme
  lex: որեւիցե
- stem: որեւիցե.//որևիցե.
+ stem: որևիցե.//որեւիցե.
  gramm: PRON,A
  gloss: some
  paradigm: Empty
@@ -2824,7 +2824,7 @@
 
 -lexeme
  lex: որովհետեւ
- stem: որովհետեւ.//որովհետև.
+ stem: որովհետև.//որովհետեւ.
  gramm: CONJ
  gloss: since
  paradigm: Empty
@@ -2872,7 +2872,7 @@
 
 -lexeme
  lex: որտեւ
- stem: որտեւ.//որտև.
+ stem: որտև.//որտեւ.
  gramm: CONJ,oral
  gloss: because
  paradigm: Empty
@@ -3368,7 +3368,7 @@
 
 -lexeme
  lex: ցտեսություն
- stem: ցտեսությւն.//ցտեսությւն.//ցտեսությւն.|ցտեսության.|ցտեսությամ.
+ stem: ցտեսություն.//ցտեսությւն.|ցտեսության.|ցտեսությամ.
  gramm: PART
  gloss: good.bye
  paradigm: N41

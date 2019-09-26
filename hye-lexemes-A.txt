@@ -2720,7 +2720,7 @@
 
 -lexeme
  lex: ալեձեւ
- stem: .ալեձեւ.//.ալեձև.
+ stem: .ալեձև.//.ալեձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -3640,7 +3640,7 @@
 
 -lexeme
  lex: ականջաձեւ
- stem: .ականջաձեւ.//.ականջաձև.
+ stem: .ականջաձև.//.ականջաձեւ.
  gramm: A
  gloss: having.the.form.of.an.ear
  paradigm: N11
@@ -3872,7 +3872,7 @@
 
 -lexeme
  lex: ակներեւ
- stem: .ակներեւ.//.ակներև.
+ stem: .ակներև.//.ակներեւ.
  gramm: A
  gloss: obvious_clear_evident
  paradigm: N12
@@ -4728,7 +4728,7 @@
 
 -lexeme
  lex: աղեղաձեւ
- stem: .աղեղաձեւ.//.աղեղաձև.
+ stem: .աղեղաձև.//.աղեղաձեւ.
  gramm: A
  gloss: arched
  paradigm: N11
@@ -5168,7 +5168,7 @@
 
 -lexeme
  lex: աղյուսաձեւ
- stem: .աղյուսաձեւ.//.աղյուսաձև.
+ stem: .աղյուսաձև.//.աղյուսաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -7080,7 +7080,7 @@
 
 -lexeme
  lex: այրաձեւ
- stem: .այրաձեւ.//.այրաձև.
+ stem: .այրաձև.//.այրաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -9664,7 +9664,7 @@
 
 -lexeme
  lex: անդնդաձեւ
- stem: .անդնդաձեւ.//.անդնդաձև.
+ stem: .անդնդաձև.//.անդնդաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -10936,7 +10936,7 @@
 
 -lexeme
  lex: անթեւք
- stem: .անթեւք.//.անթևք.
+ stem: .անթևք.//.անթեւք.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -13864,7 +13864,7 @@
 
 -lexeme
  lex: անհարատեւ
- stem: .անհարատեւ.//.անհարատև.
+ stem: .անհարատև.//.անհարատեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -14064,7 +14064,7 @@
 
 -lexeme
  lex: անհետեւողական
- stem: .անհետեւողական.//.անհետևողական.
+ stem: .անհետևողական.//.անհետեւողական.
  gramm: A
  gloss: inconsistently_inconsistent_inconsequent
  paradigm: N12
@@ -15064,7 +15064,7 @@
 
 -lexeme
  lex: անձրեւաբեր
- stem: .անձրեւաբեր.//.անձրևաբեր.
+ stem: .անձրևաբեր.//.անձրեւաբեր.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -15080,7 +15080,7 @@
 
 -lexeme
  lex: անձրեւալից
- stem: .անձրեւալից.//.անձրևալից.
+ stem: .անձրևալից.//.անձրեւալից.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -15096,7 +15096,7 @@
 
 -lexeme
  lex: անձրեւածեծ
- stem: .անձրեւածեծ.//.անձրևածեծ.
+ stem: .անձրևածեծ.//.անձրեւածեծ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -15104,7 +15104,7 @@
 
 -lexeme
  lex: անձրեւածին
- stem: .անձրեւածին.//.անձրևածին.
+ stem: .անձրևածին.//.անձրեւածին.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -15112,7 +15112,7 @@
 
 -lexeme
  lex: անձրեւակոծ
- stem: .անձրեւակոծ.//.անձրևակոծ.
+ stem: .անձրևակոծ.//.անձրեւակոծ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -15120,7 +15120,7 @@
 
 -lexeme
  lex: անձրեւահար
- stem: .անձրեւահար.//.անձրևահար.
+ stem: .անձրևահար.//.անձրեւահար.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -15128,7 +15128,7 @@
 
 -lexeme
  lex: անձրեւամած
- stem: .անձրեւամած.//.անձրևամած.
+ stem: .անձրևամած.//.անձրեւամած.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -15136,7 +15136,7 @@
 
 -lexeme
  lex: անձրեւային
- stem: .անձրեւային.//.անձրևային.
+ stem: .անձրևային.//.անձրեւային.
  gramm: A
  gloss: rainy_pluvial
  paradigm: N12
@@ -15144,7 +15144,7 @@
 
 -lexeme
  lex: անձրեւաշատ
- stem: .անձրեւաշատ.//.անձրևաշատ.
+ stem: .անձրևաշատ.//.անձրեւաշատ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -15160,7 +15160,7 @@
 
 -lexeme
  lex: անձրեւոտ
- stem: .անձրեւոտ.//.անձրևոտ.
+ stem: .անձրևոտ.//.անձրեւոտ.
  gramm: A
  gloss: rainy
  paradigm: N12
@@ -20720,7 +20720,7 @@
 
 -lexeme
  lex: անօթեւան
- stem: .անօթեւան.//.անօթևան.
+ stem: .անօթևան.//.անօթեւան.
  gramm: A
  gloss: homeless_without.refuge
  paradigm: N12
@@ -23024,7 +23024,7 @@
 
 -lexeme
  lex: առեւտրաարդյունաբերական
- stem: .առեւտրաարդյունաբերական.//.առևտրաարդյունաբերական.
+ stem: .առևտրաարդյունաբերական.//.առեւտրաարդյունաբերական.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -23032,7 +23032,7 @@
 
 -lexeme
  lex: առեւտրական
- stem: .առեւտրական.//.առևտրական.
+ stem: .առևտրական.//.առեւտրական.
  gramm: A
  gloss: commercial
  paradigm: N12
@@ -23048,7 +23048,7 @@
 
 -lexeme
  lex: առեւտրային
- stem: .առեւտրային.//.առևտրային.
+ stem: .առևտրային.//.առեւտրային.
  gramm: A
  gloss: commercial
  paradigm: N12
@@ -23216,7 +23216,7 @@
 
 -lexeme
  lex: առյուծաձեւ
- stem: .առյուծաձեւ.//.առյուծաձև.
+ stem: .առյուծաձև.//.առյուծաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -23224,7 +23224,7 @@
 
 -lexeme
  lex: առյուծաձեւ
- stem: .առյուծաձեւ.//.առյուծաձև.
+ stem: .առյուծաձև.//.առյուծաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -23344,7 +23344,7 @@
 
 -lexeme
  lex: առնաձեւ
- stem: .առնաձեւ.//.առնաձև.
+ stem: .առնաձև.//.առնաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -23352,7 +23352,7 @@
 
 -lexeme
  lex: առնաձեւ
- stem: .առնաձեւ.//.առնաձև.
+ stem: .առնաձև.//.առնաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -23680,7 +23680,7 @@
 
 -lexeme
  lex: ասեղնատերեւ
- stem: .ասեղնատերեւ.//.ասեղնատերև.
+ stem: .ասեղնատերև.//.ասեղնատերեւ.
  gramm: A
  gloss: coniferous
  paradigm: N12
@@ -23992,7 +23992,7 @@
 
 -lexeme
  lex: աստեղաձեւ
- stem: .աստեղաձեւ.//.աստեղաձև.
+ stem: .աստեղաձև.//.աստեղաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -24000,7 +24000,7 @@
 
 -lexeme
  lex: աստեղաձեւ
- stem: .աստեղաձեւ.//.աստեղաձև.
+ stem: .աստեղաձև.//.աստեղաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -24088,7 +24088,7 @@
 
 -lexeme
  lex: աստիճանաձեւ
- stem: .աստիճանաձեւ.//.աստիճանաձև.
+ stem: .աստիճանաձև.//.աստիճանաձեւ.
  gramm: A
  gloss: stepped
  paradigm: N11
@@ -24096,7 +24096,7 @@
 
 -lexeme
  lex: աստիճանաձեւ
- stem: .աստիճանաձեւ.//.աստիճանաձև.
+ stem: .աստիճանաձև.//.աստիճանաձեւ.
  gramm: A
  gloss: stepped
  paradigm: N12
@@ -26680,7 +26680,7 @@
 
 -lexeme
  lex: արեւաբարկ
- stem: .արեւաբարկ.//.արևաբարկ.
+ stem: .արևաբարկ.//.արեւաբարկ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -26744,7 +26744,7 @@
 
 -lexeme
  lex: արեւադարձական
- stem: .արեւադարձական.//.արևադարձական.
+ stem: .արևադարձական.//.արեւադարձական.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -26752,7 +26752,7 @@
 
 -lexeme
  lex: արեւադարձային
- stem: .արեւադարձային.//.արևադարձային.
+ stem: .արևադարձային.//.արեւադարձային.
  gramm: A
  gloss: tropical
  paradigm: N12
@@ -26760,7 +26760,7 @@
 
 -lexeme
  lex: արեւադեմ
- stem: .արեւադեմ.//.արևադեմ.
+ stem: .արևադեմ.//.արեւադեմ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -26768,7 +26768,7 @@
 
 -lexeme
  lex: արեւազարդ
- stem: .արեւազարդ.//.արևազարդ.
+ stem: .արևազարդ.//.արեւազարդ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -26776,7 +26776,7 @@
 
 -lexeme
  lex: արեւազարդ
- stem: .արեւազարդ.//.արևազարդ.
+ stem: .արևազարդ.//.արեւազարդ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -26824,7 +26824,7 @@
 
 -lexeme
  lex: արեւալից
- stem: .արեւալից.//.արևալից.
+ stem: .արևալից.//.արեւալից.
  gramm: A
  gloss: sunny_full.of.sunshine
  paradigm: N12
@@ -26832,7 +26832,7 @@
 
 -lexeme
  lex: արեւախանձ
- stem: .արեւախանձ.//.արևախանձ.
+ stem: .արևախանձ.//.արեւախանձ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -26840,7 +26840,7 @@
 
 -lexeme
  lex: արեւախաշ
- stem: .արեւախաշ.//.արևախաշ.
+ stem: .արևախաշ.//.արեւախաշ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -26848,7 +26848,7 @@
 
 -lexeme
  lex: արեւածագ
- stem: .արեւածագ.//.արևածագ.
+ stem: .արևածագ.//.արեւածագ.
  gramm: A
  gloss: sunrise_dawn
  paradigm: N11
@@ -26856,7 +26856,7 @@
 
 -lexeme
  lex: արեւածածկ
- stem: .արեւածածկ.//.արևածածկ.
+ stem: .արևածածկ.//.արեւածածկ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -26872,7 +26872,7 @@
 
 -lexeme
  lex: արեւածնունդ
- stem: .արեւածնունդ.//.արևածնունդ.|.արեւածննդ.//.արևածննդ.
+ stem: .արեւածնունդ.//.արևածնունդ.|.արևածննդ.//.արեւածննդ.
  gramm: A
  gloss: STEM
  paradigm: N14
@@ -26880,7 +26880,7 @@
 
 -lexeme
  lex: արեւակե
- stem: .արեւակե.//.արևակե.
+ stem: .արևակե.//.արեւակե.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -26888,7 +26888,7 @@
 
 -lexeme
  lex: արեւակեզ
- stem: .արեւակեզ.//.արևակեզ.
+ stem: .արևակեզ.//.արեւակեզ.
  gramm: A
  gloss: sun-scorched
  paradigm: N12
@@ -26904,7 +26904,7 @@
 
 -lexeme
  lex: արեւակերպ
- stem: .արեւակերպ.//.արևակերպ.
+ stem: .արևակերպ.//.արեւակերպ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -26912,7 +26912,7 @@
 
 -lexeme
  lex: արեւակող
- stem: .արեւակող.//.արևակող.
+ stem: .արևակող.//.արեւակող.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -26920,7 +26920,7 @@
 
 -lexeme
  lex: արեւակողմ
- stem: .արեւակողմ.//.արևակողմ.
+ stem: .արևակողմ.//.արեւակողմ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -26944,7 +26944,7 @@
 
 -lexeme
  lex: արեւահաս
- stem: .արեւահաս.//.արևահաս.
+ stem: .արևահաս.//.արեւահաս.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -26952,7 +26952,7 @@
 
 -lexeme
  lex: արեւահար
- stem: .արեւահար.//.արևահար.
+ stem: .արևահար.//.արեւահար.
  gramm: A
  gloss: sun-scorched_sun.burnt
  paradigm: N12
@@ -26968,7 +26968,7 @@
 
 -lexeme
  lex: արեւահորդ
- stem: .արեւահորդ.//.արևահորդ.
+ stem: .արևահորդ.//.արեւահորդ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -26976,7 +26976,7 @@
 
 -lexeme
  lex: արեւահուր
- stem: .արեւահուր.//.արևահուր.|.արեւահր.//.արևահր.
+ stem: .արևահուր.//.արեւահուր.|.արևահր.//.արեւահր.
  gramm: A
  gloss: STEM
  paradigm: N13
@@ -26984,7 +26984,7 @@
 
 -lexeme
  lex: արեւամետ
- stem: .արեւամետ.//.արևամետ.
+ stem: .արևամետ.//.արեւամետ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -26992,7 +26992,7 @@
 
 -lexeme
  lex: արեւամերձ
- stem: .արեւամերձ.//.արևամերձ.
+ stem: .արևամերձ.//.արեւամերձ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -27000,7 +27000,7 @@
 
 -lexeme
  lex: արեւամոտ
- stem: .արեւամոտ.//.արևամոտ.
+ stem: .արևամոտ.//.արեւամոտ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -27008,7 +27008,7 @@
 
 -lexeme
  lex: արեւային
- stem: .արեւային.//.արևային.
+ stem: .արևային.//.արեւային.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -27016,7 +27016,7 @@
 
 -lexeme
  lex: արեւանման
- stem: .արեւանման.//.արևանման.
+ stem: .արևանման.//.արեւանման.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -27024,7 +27024,7 @@
 
 -lexeme
  lex: արեւաշատ
- stem: .արեւաշատ.//.արևաշատ.
+ stem: .արևաշատ.//.արեւաշատ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -27032,7 +27032,7 @@
 
 -lexeme
  lex: արեւաշող
- stem: .արեւաշող.//.արևաշող.
+ stem: .արևաշող.//.արեւաշող.
  gramm: A
  gloss: sunny_sunbeam_radiant
  paradigm: N11
@@ -27048,7 +27048,7 @@
 
 -lexeme
  lex: արեւաչյա
- stem: .արեւաչյա.//.արևաչյա.
+ stem: .արևաչյա.//.արեւաչյա.
  gramm: A
  gloss: Zoroastrian
  paradigm: N12
@@ -27056,7 +27056,7 @@
 
 -lexeme
  lex: արեւապաշտ
- stem: .արեւապաշտ.//.արևապաշտ.
+ stem: .արևապաշտ.//.արեւապաշտ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -27072,7 +27072,7 @@
 
 -lexeme
  lex: արեւառատ
- stem: .արեւառատ.//.արևառատ.
+ stem: .արևառատ.//.արեւառատ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -27088,7 +27088,7 @@
 
 -lexeme
  lex: արեւասուն
- stem: .արեւասուն.//.արևասուն.
+ stem: .արևասուն.//.արեւասուն.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -27112,7 +27112,7 @@
 
 -lexeme
  lex: արեւավետ
- stem: .արեւավետ.//.արևավետ.
+ stem: .արևավետ.//.արեւավետ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -27152,7 +27152,7 @@
 
 -lexeme
  lex: արեւափառ
- stem: .արեւափառ.//.արևափառ.
+ stem: .արևափառ.//.արեւափառ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -27160,7 +27160,7 @@
 
 -lexeme
  lex: արեւգոլ
- stem: .արեւգոլ.//.արևգոլ.
+ stem: .արևգոլ.//.արեւգոլ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -27200,7 +27200,7 @@
 
 -lexeme
  lex: արեւելակորեական
- stem: .արեւելակորեական.//.արևելակորեական.
+ stem: .արևելակորեական.//.արեւելակորեական.
  gramm: A,topn
  gloss: STEM
  paradigm: N12
@@ -27224,7 +27224,7 @@
 
 -lexeme
  lex: արեւելաչինական
- stem: .արեւելաչինական.//.արևելաչինական.
+ stem: .արևելաչինական.//.արեւելաչինական.
  gramm: A,topn
  gloss: STEM
  paradigm: N12
@@ -27248,7 +27248,7 @@
 
 -lexeme
  lex: արեւելասիբիրական
- stem: .արեւելասիբիրական.//.արևելասիբիրական.
+ stem: .արևելասիբիրական.//.արեւելասիբիրական.
  gramm: A,topn
  gloss: STEM
  paradigm: N12
@@ -27264,7 +27264,7 @@
 
 -lexeme
  lex: արեւեփ
- stem: .արեւեփ.//.արևեփ.
+ stem: .արևեփ.//.արեւեփ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -27280,7 +27280,7 @@
 
 -lexeme
  lex: արեւծագ
- stem: .արեւծագ.//.արևծագ.
+ stem: .արևծագ.//.արեւծագ.
  gramm: A,inanim
  gloss: sunrise_dawn
  paradigm: N11
@@ -27288,7 +27288,7 @@
 
 -lexeme
  lex: արեւկա
- stem: .արեւկա.//.արևկա.
+ stem: .արևկա.//.արեւկա.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -27296,7 +27296,7 @@
 
 -lexeme
  lex: արեւկեզ
- stem: .արեւկեզ.//.արևկեզ.
+ stem: .արևկեզ.//.արեւկեզ.
  gramm: A
  gloss: hot_stuffy
  paradigm: N12
@@ -27312,7 +27312,7 @@
 
 -lexeme
  lex: արեւկողի
- stem: .արեւկողի.//.արևկողի.
+ stem: .արևկողի.//.արեւկողի.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -27320,7 +27320,7 @@
 
 -lexeme
  lex: արեւհամ
- stem: .արեւհամ.//.արևհամ.
+ stem: .արևհամ.//.արեւհամ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -27328,7 +27328,7 @@
 
 -lexeme
  lex: արեւհամ
- stem: .արեւհամ.//.արևհամ.
+ stem: .արևհամ.//.արեւհամ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -27336,7 +27336,7 @@
 
 -lexeme
  lex: արեւհար
- stem: .արեւհար.//.արևհար.
+ stem: .արևհար.//.արեւհար.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -27344,7 +27344,7 @@
 
 -lexeme
  lex: արեւճակատ
- stem: .արեւճակատ.//.արևճակատ.
+ stem: .արևճակատ.//.արեւճակատ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -27352,7 +27352,7 @@
 
 -lexeme
  lex: արեւմաղ
- stem: .արեւմաղ.//.արևմաղ.
+ stem: .արևմաղ.//.արեւմաղ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -27360,7 +27360,7 @@
 
 -lexeme
  lex: արեւմաղ
- stem: .արեւմաղ.//.արևմաղ.
+ stem: .արևմաղ.//.արեւմաղ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -27384,7 +27384,7 @@
 
 -lexeme
  lex: արեւմտական
- stem: .արեւմտական.//.արևմտական.
+ stem: .արևմտական.//.արեւմտական.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -27392,7 +27392,7 @@
 
 -lexeme
  lex: արեւմտակորեական
- stem: .արեւմտակորեական.//.արևմտակորեական.
+ stem: .արևմտակորեական.//.արեւմտակորեական.
  gramm: A,topn
  gloss: STEM
  paradigm: N12
@@ -27400,7 +27400,7 @@
 
 -lexeme
  lex: արեւմտահայաց
- stem: .արեւմտահայաց.//.արևմտահայաց.
+ stem: .արևմտահայաց.//.արեւմտահայաց.
  gramm: A
  gloss: westward
  paradigm: N12
@@ -27408,7 +27408,7 @@
 
 -lexeme
  lex: արեւմտյան
- stem: .արեւմտյան.//.արևմտյան.
+ stem: .արևմտյան.//.արեւմտյան.
  gramm: A
  gloss: western
  paradigm: N12
@@ -27416,7 +27416,7 @@
 
 -lexeme
  lex: արեւշատ
- stem: .արեւշատ.//.արևշատ.
+ stem: .արևշատ.//.արեւշատ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -27432,7 +27432,7 @@
 
 -lexeme
  lex: արեւոտ
- stem: .արեւոտ.//.արևոտ.
+ stem: .արևոտ.//.արեւոտ.
  gramm: A
  gloss: sunny
  paradigm: N12
@@ -27440,7 +27440,7 @@
 
 -lexeme
  lex: արեւտենչ
- stem: .արեւտենչ.//.արևտենչ.
+ stem: .արևտենչ.//.արեւտենչ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -27768,7 +27768,7 @@
 
 -lexeme
  lex: արծաթաթեւ
- stem: .արծաթաթեւ.//.արծաթաթև.
+ stem: .արծաթաթև.//.արծաթաթեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -28152,7 +28152,7 @@
 
 -lexeme
  lex: արծվաձեւ
- stem: .արծվաձեւ.//.արծվաձև.
+ stem: .արծվաձև.//.արծվաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -28160,7 +28160,7 @@
 
 -lexeme
  lex: արծվաձեւ
- stem: .արծվաձեւ.//.արծվաձև.
+ stem: .արծվաձև.//.արծվաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -28664,7 +28664,7 @@
 
 -lexeme
  lex: արմնկաձեւ
- stem: .արմնկաձեւ.//.արմնկաձև.
+ stem: .արմնկաձև.//.արմնկաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -30104,7 +30104,7 @@
 
 -lexeme
  lex: արտեւանաթափ
- stem: .արտեւանաթափ.//.արտևանաթափ.
+ stem: .արտևանաթափ.//.արտեւանաթափ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -30560,7 +30560,7 @@
 
 -lexeme
  lex: ափսեաձեւ
- stem: .ափսեաձեւ.//.ափսեաձև.
+ stem: .ափսեաձև.//.ափսեաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -30664,7 +30664,7 @@
 
 -lexeme
  lex: բադամաձեւ
- stem: .բադամաձեւ.//.բադամաձև.
+ stem: .բադամաձև.//.բադամաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -32664,7 +32664,7 @@
 
 -lexeme
  lex: բազմատերեւ
- stem: .բազմատերեւ.//.բազմատերև.
+ stem: .բազմատերև.//.բազմատերեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -33168,7 +33168,7 @@
 
 -lexeme
  lex: բակլայաձեւ
- stem: .բակլայաձեւ.//.բակլայաձև.
+ stem: .բակլայաձև.//.բակլայաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -34592,7 +34592,7 @@
 
 -lexeme
  lex: բարեձեւ
- stem: .բարեձեւ.//.բարեձև.
+ stem: .բարեձև.//.բարեձեւ.
  gramm: A
  gloss: well-shaped
  paradigm: N11
@@ -36624,7 +36624,7 @@
 
 -lexeme
  lex: բեւեռագրական
- stem: .բեւեռագրական.//.բևեռագրական.
+ stem: .բևեռագրական.//.բեւեռագրական.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -36640,7 +36640,7 @@
 
 -lexeme
  lex: բեւեռաձեւ
- stem: .բեւեռաձեւ.//.բևեռաձև.
+ stem: .բևեռաձև.//.բեւեռաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -36648,7 +36648,7 @@
 
 -lexeme
  lex: բեւեռամետ
- stem: .բեւեռամետ.//.բևեռամետ.
+ stem: .բևեռամետ.//.բեւեռամետ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -36656,7 +36656,7 @@
 
 -lexeme
  lex: բեւեռամերձ
- stem: .բեւեռամերձ.//.բևեռամերձ.
+ stem: .բևեռամերձ.//.բեւեռամերձ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -36840,7 +36840,7 @@
 
 -lexeme
  lex: բլիթաձեւ
- stem: .բլիթաձեւ.//.բլիթաձև.
+ stem: .բլիթաձև.//.բլիթաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -38968,7 +38968,7 @@
 
 -lexeme
  lex: բջջաձեւ
- stem: .բջջաձեւ.//.բջջաձև.
+ stem: .բջջաձև.//.բջջաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -40552,7 +40552,7 @@
 
 -lexeme
  lex: գանգաձեւ
- stem: .գանգաձեւ.//.գանգաձև.
+ stem: .գանգաձև.//.գանգաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -40632,7 +40632,7 @@
 
 -lexeme
  lex: գանգրաձեւ
- stem: .գանգրաձեւ.//.գանգրաձև.
+ stem: .գանգրաձև.//.գանգրաձեւ.
  gramm: A
  gloss: curly_wavy
  paradigm: N11
@@ -44104,7 +44104,7 @@
 
 -lexeme
  lex: գլանակաձեւ
- stem: .գլանակաձեւ.//.գլանակաձև.
+ stem: .գլանակաձև.//.գլանակաձեւ.
  gramm: A
  gloss: cylindrical
  paradigm: N11
@@ -44688,7 +44688,7 @@
 
 -lexeme
  lex: գնդակաձեւ
- stem: .գնդակաձեւ.//.գնդակաձև.
+ stem: .գնդակաձև.//.գնդակաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -44704,7 +44704,7 @@
 
 -lexeme
  lex: գնդաձեւ
- stem: .գնդաձեւ.//.գնդաձև.
+ stem: .գնդաձև.//.գնդաձեւ.
  gramm: A
  gloss: ball-shaped
  paradigm: N11
@@ -44880,7 +44880,7 @@
 
 -lexeme
  lex: գոլորշաձեւ
- stem: .գոլորշաձեւ.//.գոլորշաձև.
+ stem: .գոլորշաձև.//.գոլորշաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -46264,7 +46264,7 @@
 
 -lexeme
  lex: գրաբարաձեւ
- stem: .գրաբարաձեւ.//.գրաբարաձև.
+ stem: .գրաբարաձև.//.գրաբարաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -47416,7 +47416,7 @@
 
 -lexeme
  lex: դաշունաձեւ
- stem: .դաշունաձեւ.//.դաշունաձև.
+ stem: .դաշունաձև.//.դաշունաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -47424,7 +47424,7 @@
 
 -lexeme
  lex: դաշունաձեւ
- stem: .դաշունաձեւ.//.դաշունաձև.
+ stem: .դաշունաձև.//.դաշունաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -48240,7 +48240,7 @@
 
 -lexeme
  lex: դատարկամեջ
- stem: .դատարկամէջ.//.դատարկամէջ.//.դատարկամէջ.|.դատարկամիջ.
+ stem: .դատարկամէջ.//.դատարկամեջ.|.դատարկամիջ.
  gramm: A
  gloss: STEM
  paradigm: N13
@@ -48704,7 +48704,7 @@
 
 -lexeme
  lex: դելտայաձեւ
- stem: .դելտայաձեւ.//.դելտայաձև.
+ stem: .դելտայաձև.//.դելտայաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -48712,7 +48712,7 @@
 
 -lexeme
  lex: դելտայաձեւ
- stem: .դելտայաձեւ.//.դելտայաձև.
+ stem: .դելտայաձև.//.դելտայաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -49128,7 +49128,7 @@
 
 -lexeme
  lex: դեղնատերեւ
- stem: .դեղնատերեւ.//.դեղնատերև.
+ stem: .դեղնատերև.//.դեղնատերեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -49400,7 +49400,7 @@
 
 -lexeme
  lex: դերբուկաձեւ
- stem: .դերբուկաձեւ.//.դերբուկաձև.
+ stem: .դերբուկաձև.//.դերբուկաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -49408,7 +49408,7 @@
 
 -lexeme
  lex: դերբուկաձեւ
- stem: .դերբուկաձեւ.//.դերբուկաձև.
+ stem: .դերբուկաձև.//.դերբուկաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -49432,7 +49432,7 @@
 
 -lexeme
  lex: դեւապաշտ
- stem: .դեւապաշտ.//.դևապաշտ.
+ stem: .դևապաշտ.//.դեւապաշտ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -49440,7 +49440,7 @@
 
 -lexeme
  lex: դեւապաշտ
- stem: .դեւապաշտ.//.դևապաշտ.
+ stem: .դևապաշտ.//.դեւապաշտ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -49456,7 +49456,7 @@
 
 -lexeme
  lex: դեւոտ
- stem: .դեւոտ.//.դևոտ.
+ stem: .դևոտ.//.դեւոտ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -52984,7 +52984,7 @@
 
 -lexeme
  lex: ելեւմտական
- stem: .ելեւմտական.//.ելևմտական.
+ stem: .ելևմտական.//.ելեւմտական.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -53168,7 +53168,7 @@
 
 -lexeme
  lex: եղանաձեւ
- stem: .եղանաձեւ.//.եղանաձև.
+ stem: .եղանաձև.//.եղանաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -53176,7 +53176,7 @@
 
 -lexeme
  lex: եղանաձեւ
- stem: .եղանաձեւ.//.եղանաձև.
+ stem: .եղանաձև.//.եղանաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -53752,7 +53752,7 @@
 
 -lexeme
  lex: ենթակեղեւային
- stem: .ենթակեղեւային.//.ենթակեղևային.
+ stem: .ենթակեղևային.//.ենթակեղեւային.
  gramm: A
  gloss: subcortical
  paradigm: N12
@@ -54016,7 +54016,7 @@
 
 -lexeme
  lex: եռաթեւ
- stem: .եռաթեւ.//.եռաթև.
+ stem: .եռաթև.//.եռաթեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -54472,7 +54472,7 @@
 
 -lexeme
  lex: եռանկյուն
- stem: եռանկյւն.//եռանկյւն.//եռանկյւն.|եռանկյան.|եռանկյամ.
+ stem: եռանկյուն.//եռանկյւն.|եռանկյան.|եռանկյամ.
  gramm: A
  gloss: three-cornered_triangular_triangle
  paradigm: N41
@@ -54488,7 +54488,7 @@
 
 -lexeme
  lex: եռանկյունաձեւ
- stem: .եռանկյունաձեւ.//.եռանկյունաձև.
+ stem: .եռանկյունաձև.//.եռանկյունաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -54496,7 +54496,7 @@
 
 -lexeme
  lex: եռանկյունաձեւ
- stem: .եռանկյունաձեւ.//.եռանկյունաձև.
+ stem: .եռանկյունաձև.//.եռանկյունաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -55816,7 +55816,7 @@
 
 -lexeme
  lex: երեւակայածին
- stem: .երեւակայածին.//.երևակայածին.
+ stem: .երևակայածին.//.երեւակայածին.
  gramm: A
  gloss: fantastic(al)
  paradigm: N12
@@ -55824,7 +55824,7 @@
 
 -lexeme
  lex: երեւակայական
- stem: .երեւակայական.//.երևակայական.
+ stem: .երևակայական.//.երեւակայական.
  gramm: A
  gloss: imaginary_illusory_fantastic(al)
  paradigm: N12
@@ -55832,7 +55832,7 @@
 
 -lexeme
  lex: երեւակայելի
- stem: .երեւակայելի.//.երևակայելի.
+ stem: .երևակայելի.//.երեւակայելի.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -56064,7 +56064,7 @@
 
 -lexeme
  lex: երիզաձեւ
- stem: .երիզաձեւ.//.երիզաձև.
+ stem: .երիզաձև.//.երիզաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -56072,7 +56072,7 @@
 
 -lexeme
  lex: երիզաձեւ
- stem: .երիզաձեւ.//.երիզաձև.
+ stem: .երիզաձև.//.երիզաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -56104,7 +56104,7 @@
 
 -lexeme
  lex: երիկամաձեւ
- stem: .երիկամաձեւ.//.երիկամաձև.
+ stem: .երիկամաձև.//.երիկամաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -56112,7 +56112,7 @@
 
 -lexeme
  lex: երիկամաձեւ
- stem: .երիկամաձեւ.//.երիկամաձև.
+ stem: .երիկամաձև.//.երիկամաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -56672,7 +56672,7 @@
 
 -lexeme
  lex: երկարաթեւ
- stem: .երկարաթեւ.//.երկարաթև.
+ stem: .երկարաթև.//.երկարաթեւ.
  gramm: A
  gloss: long-armed
  paradigm: N11
@@ -56984,7 +56984,7 @@
 
 -lexeme
  lex: երկարատեւ
- stem: .երկարատեւ.//.երկարատև.
+ stem: .երկարատև.//.երկարատեւ.
  gramm: A
  gloss: long
  paradigm: N12
@@ -57336,7 +57336,7 @@
 
 -lexeme
  lex: երկեւան
- stem: .երկեւան.//.երկևան.
+ stem: .երկևան.//.երկեւան.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -57352,7 +57352,7 @@
 
 -lexeme
  lex: երկթեւ
- stem: .երկթեւ.//.երկթև.
+ stem: .երկթև.//.երկթեւ.
  gramm: A
  gloss: two-flanked
  paradigm: N11
@@ -57368,7 +57368,7 @@
 
 -lexeme
  lex: երկթեւյա
- stem: .երկթեւյա.//.երկթևյա.
+ stem: .երկթևյա.//.երկթեւյա.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -57680,7 +57680,7 @@
 
 -lexeme
  lex: երկձեւ
- stem: .երկձեւ.//.երկձև.
+ stem: .երկձև.//.երկձեւ.
  gramm: A
  gloss: of.two.forms
  paradigm: N11
@@ -57688,7 +57688,7 @@
 
 -lexeme
  lex: երկձեւ
- stem: .երկձեւ.//.երկձև.
+ stem: .երկձև.//.երկձեւ.
  gramm: A
  gloss: of.two.forms
  paradigm: N12
@@ -58968,7 +58968,7 @@
 
 -lexeme
  lex: եւոլական
- stem: .եւոլական.//.ևոլական.
+ stem: .ևոլական.//.եւոլական.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -59184,7 +59184,7 @@
 
 -lexeme
  lex: զանգաձեւ
- stem: .զանգաձեւ.//.զանգաձև.
+ stem: .զանգաձև.//.զանգաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -59192,7 +59192,7 @@
 
 -lexeme
  lex: զանգաձեւ
- stem: .զանգաձեւ.//.զանգաձև.
+ stem: .զանգաձև.//.զանգաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -60136,7 +60136,7 @@
 
 -lexeme
  lex: զիգզագաձեւ
- stem: .զիգզագաձեւ.//.զիգզագաձև.
+ stem: .զիգզագաձև.//.զիգզագաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -63464,7 +63464,7 @@
 
 -lexeme
  lex: թաղանթաձեւ
- stem: .թաղանթաձեւ.//.թաղանթաձև.
+ stem: .թաղանթաձև.//.թաղանթաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -63904,7 +63904,7 @@
 
 -lexeme
  lex: թասաձեւ
- stem: .թասաձեւ.//.թասաձև.
+ stem: .թասաձև.//.թասաձեւ.
  gramm: A
  gloss: bowl-like
  paradigm: N11
@@ -63912,7 +63912,7 @@
 
 -lexeme
  lex: թասաձեւ
- stem: .թասաձեւ.//.թասաձև.
+ stem: .թասաձև.//.թասաձեւ.
  gramm: A
  gloss: bowl-like
  paradigm: N12
@@ -64592,7 +64592,7 @@
 
 -lexeme
  lex: թեթեւ
- stem: .թեթեւ.//.թեթև.
+ stem: .թեթև.//.թեթեւ.
  gramm: A
  gloss: light
  paradigm: N12
@@ -64624,7 +64624,7 @@
 
 -lexeme
  lex: թեթեւագնաց
- stem: .թեթեւագնաց.//.թեթևագնաց.
+ stem: .թեթևագնաց.//.թեթեւագնաց.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -64632,7 +64632,7 @@
 
 -lexeme
  lex: թեթեւագույն
- stem: .թեթեւագույն.//.թեթևագույն.
+ stem: .թեթևագույն.//.թեթեւագույն.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -64640,7 +64640,7 @@
 
 -lexeme
  lex: թեթեւազեն
- stem: .թեթեւազեն.//.թեթևազեն.
+ stem: .թեթևազեն.//.թեթեւազեն.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -64648,7 +64648,7 @@
 
 -lexeme
  lex: թեթեւազեն
- stem: .թեթեւազեն.//.թեթևազեն.
+ stem: .թեթևազեն.//.թեթեւազեն.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -64656,7 +64656,7 @@
 
 -lexeme
  lex: թեթեւաթեւ
- stem: .թեթեւաթեւ.//.թեթևաթև.
+ stem: .թեթևաթև.//.թեթեւաթեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -64664,7 +64664,7 @@
 
 -lexeme
  lex: թեթեւաթեւ
- stem: .թեթեւաթեւ.//.թեթևաթև.
+ stem: .թեթևաթև.//.թեթեւաթեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -64672,7 +64672,7 @@
 
 -lexeme
  lex: թեթեւաթռիչք
- stem: .թեթեւաթռիչք.//.թեթևաթռիչք.
+ stem: .թեթևաթռիչք.//.թեթեւաթռիչք.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -64688,7 +64688,7 @@
 
 -lexeme
  lex: թեթեւակի
- stem: .թեթեւակի.//.թեթևակի.
+ stem: .թեթևակի.//.թեթեւակի.
  gramm: A
  gloss: slightly
  paradigm: N12
@@ -64728,7 +64728,7 @@
 
 -lexeme
  lex: թեթեւաքայլ
- stem: .թեթեւաքայլ.//.թեթևաքայլ.
+ stem: .թեթևաքայլ.//.թեթեւաքայլ.
  gramm: A
  gloss: swift-footed
  paradigm: N11
@@ -64736,7 +64736,7 @@
 
 -lexeme
  lex: թեթեւաքայլ
- stem: .թեթեւաքայլ.//.թեթևաքայլ.
+ stem: .թեթևաքայլ.//.թեթեւաքայլ.
  gramm: A
  gloss: swift-footed
  paradigm: N12
@@ -64744,7 +64744,7 @@
 
 -lexeme
  lex: թեթեւաքաշ
- stem: .թեթեւաքաշ.//.թեթևաքաշ.
+ stem: .թեթևաքաշ.//.թեթեւաքաշ.
  gramm: A
  gloss: light-weighted
  paradigm: N12
@@ -65016,7 +65016,7 @@
 
 -lexeme
  lex: թերապեւտիկ
- stem: .թերապեւտիկ.//.թերապևտիկ.
+ stem: .թերապևտիկ.//.թերապեւտիկ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -65088,7 +65088,7 @@
 
 -lexeme
  lex: թերթաձեւ
- stem: .թերթաձեւ.//.թերթաձև.
+ stem: .թերթաձև.//.թերթաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -65096,7 +65096,7 @@
 
 -lexeme
  lex: թերթաձեւ
- stem: .թերթաձեւ.//.թերթաձև.
+ stem: .թերթաձև.//.թերթաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -65128,7 +65128,7 @@
 
 -lexeme
  lex: թերթատերեւ
- stem: .թերթատերեւ.//.թերթատերև.
+ stem: .թերթատերև.//.թերթատերեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -65200,7 +65200,7 @@
 
 -lexeme
  lex: թեւաբաց
- stem: .թեւաբաց.//.թևաբաց.
+ stem: .թևաբաց.//.թեւաբաց.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -65216,7 +65216,7 @@
 
 -lexeme
  lex: թեւազուրկ
- stem: .թեւազուրկ.//.թևազուրկ.
+ stem: .թևազուրկ.//.թեւազուրկ.
  gramm: A
  gloss: wingless_apterous_armless
  paradigm: N12
@@ -65224,7 +65224,7 @@
 
 -lexeme
  lex: թեւաթափ
- stem: .թեւաթափ.//.թևաթափ.
+ stem: .թևաթափ.//.թեւաթափ.
  gramm: A
  gloss: with.clipped.wings_in.despair
  paradigm: N11
@@ -65592,7 +65592,7 @@
 
 -lexeme
  lex: թիթեղաձեւ
- stem: .թիթեղաձեւ.//.թիթեղաձև.
+ stem: .թիթեղաձև.//.թիթեղաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -65600,7 +65600,7 @@
 
 -lexeme
  lex: թիթեղաձեւ
- stem: .թիթեղաձեւ.//.թիթեղաձև.
+ stem: .թիթեղաձև.//.թիթեղաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -66960,7 +66960,7 @@
 
 -lexeme
  lex: թրաձեւ
- stem: .թրաձեւ.//.թրաձև.
+ stem: .թրաձև.//.թրաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -67640,7 +67640,7 @@
 
 -lexeme
  lex: ժանեկաձեւ
- stem: .ժանեկաձեւ.//.ժանեկաձև.
+ stem: .ժանեկաձև.//.ժանեկաձեւ.
  gramm: A
  gloss: lacy
  paradigm: N11
@@ -67648,7 +67648,7 @@
 
 -lexeme
  lex: ժանեկաձեւ
- stem: .ժանեկաձեւ.//.ժանեկաձև.
+ stem: .ժանեկաձև.//.ժանեկաձեւ.
  gramm: A
  gloss: lacy
  paradigm: N12
@@ -67856,7 +67856,7 @@
 
 -lexeme
  lex: ժապավենաձեւ
- stem: .ժապավենաձեւ.//.ժապավենաձև.
+ stem: .ժապավենաձև.//.ժապավենաձեւ.
  gramm: A
  gloss: ribbon-shaped
  paradigm: N12
@@ -68160,7 +68160,7 @@
 
 -lexeme
  lex: ժրաթեւ
- stem: .ժրաթեւ.//.ժրաթև.
+ stem: .ժրաթև.//.ժրաթեւ.
  gramm: A
  gloss: swift-winged
  paradigm: N11
@@ -68360,7 +68360,7 @@
 
 -lexeme
  lex: իմաստազրկություն
- stem: իմաստազրկությւն.//իմաստազրկությւն.//իմաստազրկությւն.|իմաստազրկության.|իմաստազրկությամ.
+ stem: իմաստազրկությւն.//իմաստազրկություն.|իմաստազրկության.|իմաստազրկությամ.
  gramm: A
  gloss: STEM
  paradigm: N41
@@ -70280,7 +70280,7 @@
 
 -lexeme
  lex: լայնատերեւ
- stem: .լայնատերեւ.//.լայնատերև.
+ stem: .լայնատերև.//.լայնատերեւ.
  gramm: A
  gloss: broad-leaved
  paradigm: N12
@@ -71184,7 +71184,7 @@
 
 -lexeme
  lex: լեռնաձեւ
- stem: .լեռնաձեւ.//.լեռնաձև.
+ stem: .լեռնաձև.//.լեռնաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -71192,7 +71192,7 @@
 
 -lexeme
  lex: լեռնաձեւ
- stem: .լեռնաձեւ.//.լեռնաձև.
+ stem: .լեռնաձև.//.լեռնաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -71208,7 +71208,7 @@
 
 -lexeme
  lex: լեռնամեջ
- stem: .լեռնամէջ.//.լեռնամէջ.//.լեռնամէջ.|.լեռնամիջ.
+ stem: .լեռնամէջ.//.լեռնամեջ.|.լեռնամիջ.
  gramm: A
  gloss: STEM
  paradigm: N13
@@ -72624,7 +72624,7 @@
 
 -lexeme
  lex: լուսաթեւ
- stem: .լուսաթեւ.//.լուսաթև.
+ stem: .լուսաթև.//.լուսաթեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -73488,7 +73488,7 @@
 
 -lexeme
  lex: լուսնաձեւ
- stem: .լուսնաձեւ.//.լուսնաձև.
+ stem: .լուսնաձև.//.լուսնաձեւ.
  gramm: A
  gloss: moonlike
  paradigm: N11
@@ -73496,7 +73496,7 @@
 
 -lexeme
  lex: լուսնաձեւ
- stem: .լուսնաձեւ.//.լուսնաձև.
+ stem: .լուսնաձև.//.լուսնաձեւ.
  gramm: A
  gloss: moonlike
  paradigm: N12
@@ -75384,7 +75384,7 @@
 
 -lexeme
  lex: խարսխաձեւ
- stem: .խարսխաձեւ.//.խարսխաձև.
+ stem: .խարսխաձև.//.խարսխաձեւ.
  gramm: A
  gloss: anchor-shaped
  paradigm: N11
@@ -77072,7 +77072,7 @@
 
 -lexeme
  lex: խողովակաձեւ
- stem: .խողովակաձեւ.//.խողովակաձև.
+ stem: .խողովակաձև.//.խողովակաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -77080,7 +77080,7 @@
 
 -lexeme
  lex: խողովակաձեւ
- stem: .խողովակաձեւ.//.խողովակաձև.
+ stem: .խողովակաձև.//.խողովակաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -80928,7 +80928,7 @@
 
 -lexeme
  lex: ծանրութեթեւ
- stem: .ծանրութեթեւ.//.ծանրութեթև.
+ stem: .ծանրութեթև.//.ծանրութեթեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -82000,7 +82000,7 @@
 
 -lexeme
  lex: ծխասեւ
- stem: .ծխասեւ.//.ծխասև.
+ stem: .ծխասև.//.ծխասեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -82264,7 +82264,7 @@
 
 -lexeme
  lex: ծնկաձեւ
- stem: .ծնկաձեւ.//.ծնկաձև.
+ stem: .ծնկաձև.//.ծնկաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -82272,7 +82272,7 @@
 
 -lexeme
  lex: ծնկաձեւ
- stem: .ծնկաձեւ.//.ծնկաձև.
+ stem: .ծնկաձև.//.ծնկաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -82440,7 +82440,7 @@
 
 -lexeme
  lex: ծոպաձեւ
- stem: .ծոպաձեւ.//.ծոպաձև.
+ stem: .ծոպաձև.//.ծոպաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -83192,7 +83192,7 @@
 
 -lexeme
  lex: ծրարաձեւ
- stem: .ծրարաձեւ.//.ծրարաձև.
+ stem: .ծրարաձև.//.ծրարաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -83200,7 +83200,7 @@
 
 -lexeme
  lex: ծրարաձեւ
- stem: .ծրարաձեւ.//.ծրարաձև.
+ stem: .ծրարաձև.//.ծրարաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -84136,7 +84136,7 @@
 
 -lexeme
  lex: կամարամեջ
- stem: .կամարամէջ.//.կամարամէջ.//.կամարամէջ.|.կամարամիջ.
+ stem: .կամարամէջ.//.կամարամեջ.|.կամարամիջ.
  gramm: A
  gloss: STEM
  paradigm: N13
@@ -84320,7 +84320,7 @@
 
 -lexeme
  lex: կայծակնաձեւ
- stem: .կայծակնաձեւ.//.կայծակնաձև.
+ stem: .կայծակնաձև.//.կայծակնաձեւ.
  gramm: A
  gloss: like.forked.lightning
  paradigm: N11
@@ -85152,7 +85152,7 @@
 
 -lexeme
  lex: կաշետերեւ
- stem: .կաշետերեւ.//.կաշետերև.
+ stem: .կաշետերև.//.կաշետերեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -86376,7 +86376,7 @@
 
 -lexeme
  lex: կարծրակեղեւ
- stem: .կարծրակեղեւ.//.կարծրակեղև.
+ stem: .կարծրակեղև.//.կարծրակեղեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -86848,7 +86848,7 @@
 
 -lexeme
  lex: կարճատեւ
- stem: .կարճատեւ.//.կարճատև.
+ stem: .կարճատև.//.կարճատեւ.
  gramm: A
  gloss: short.term
  paradigm: N12
@@ -87000,7 +87000,7 @@
 
 -lexeme
  lex: կարմրաթեւիկ
- stem: .կարմրաթեւիկ.//.կարմրաթևիկ.
+ stem: .կարմրաթևիկ.//.կարմրաթեւիկ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -87624,7 +87624,7 @@
 
 -lexeme
  lex: կեղեւակեր
- stem: .կեղեւակեր.//.կեղևակեր.
+ stem: .կեղևակեր.//.կեղեւակեր.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -88120,7 +88120,7 @@
 
 -lexeme
  lex: կենսապարգեւ
- stem: .կենսապարգեւ.//.կենսապարգև.
+ stem: .կենսապարգև.//.կենսապարգեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -88304,7 +88304,7 @@
 
 -lexeme
  lex: կեռաձեւ
- stem: .կեռաձեւ.//.կեռաձև.
+ stem: .կեռաձև.//.կեռաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -88312,7 +88312,7 @@
 
 -lexeme
  lex: կեռաձեւ
- stem: .կեռաձեւ.//.կեռաձև.
+ stem: .կեռաձև.//.կեռաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -89064,7 +89064,7 @@
 
 -lexeme
  lex: կիսաթեթեւ
- stem: .կիսաթեթեւ.//.կիսաթեթև.
+ stem: .կիսաթեթև.//.կիսաթեթեւ.
  gramm: A
  gloss: feather-weight
  paradigm: N12
@@ -90048,7 +90048,7 @@
 
 -lexeme
  lex: կիսաօղակաձեւ
- stem: .կիսաօղակաձեւ.//.կիսաօղակաձև.
+ stem: .կիսաօղակաձև.//.կիսաօղակաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -90056,7 +90056,7 @@
 
 -lexeme
  lex: կիսաօղակաձեւ
- stem: .կիսաօղակաձեւ.//.կիսաօղակաձև.
+ stem: .կիսաօղակաձև.//.կիսաօղակաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -90320,7 +90320,7 @@
 
 -lexeme
  lex: կլորաձեւ
- stem: .կլորաձեւ.//.կլորաձև.
+ stem: .կլորաձև.//.կլորաձեւ.
  gramm: A
  gloss: rounded
  paradigm: N11
@@ -90328,7 +90328,7 @@
 
 -lexeme
  lex: կլորաձեւ
- stem: .կլորաձեւ.//.կլորաձև.
+ stem: .կլորաձև.//.կլորաձեւ.
  gramm: A
  gloss: rounded
  paradigm: N12
@@ -90600,7 +90600,7 @@
 
 -lexeme
  lex: կճղակաձեւ
- stem: .կճղակաձեւ.//.կճղակաձև.
+ stem: .կճղակաձև.//.կճղակաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -91152,7 +91152,7 @@
 
 -lexeme
  lex: կոկոնաձեւ
- stem: .կոկոնաձեւ.//.կոկոնաձև.
+ stem: .կոկոնաձև.//.կոկոնաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -91160,7 +91160,7 @@
 
 -lexeme
  lex: կոկոնաձեւ
- stem: .կոկոնաձեւ.//.կոկոնաձև.
+ stem: .կոկոնաձև.//.կոկոնաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -91232,7 +91232,7 @@
 
 -lexeme
  lex: կոհակաձեւ
- stem: .կոհակաձեւ.//.կոհակաձև.
+ stem: .կոհակաձև.//.կոհակաձեւ.
  gramm: A
  gloss: wavy
  paradigm: N11
@@ -92752,7 +92752,7 @@
 
 -lexeme
  lex: կռանաձեւ
- stem: .կռանաձեւ.//.կռանաձև.
+ stem: .կռանաձև.//.կռանաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -92760,7 +92760,7 @@
 
 -lexeme
  lex: կռանաձեւ
- stem: .կռանաձեւ.//.կռանաձև.
+ stem: .կռանաձև.//.կռանաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -93424,7 +93424,7 @@
 
 -lexeme
  lex: կրկնաթեւ
- stem: .կրկնաթեւ.//.կրկնաթև.
+ stem: .կրկնաթև.//.կրկնաթեւ.
  gramm: A
  gloss: dipterous
  paradigm: N11
@@ -93632,7 +93632,7 @@
 
 -lexeme
  lex: կրոնախեւ
- stem: .կրոնախեւ.//.կրոնախև.
+ stem: .կրոնախև.//.կրոնախեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -97656,7 +97656,7 @@
 
 -lexeme
  lex: հայաձեւ
- stem: .հայաձեւ.//.հայաձև.
+ stem: .հայաձև.//.հայաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -100296,7 +100296,7 @@
 
 -lexeme
  lex: հասկաձեւ
- stem: .հասկաձեւ.//.հասկաձև.
+ stem: .հասկաձև.//.հասկաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -100304,7 +100304,7 @@
 
 -lexeme
  lex: հասկաձեւ
- stem: .հասկաձեւ.//.հասկաձև.
+ stem: .հասկաձև.//.հասկաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -102216,7 +102216,7 @@
 
 -lexeme
  lex: հարավ-արեւելյան
- stem: .հարավ-արեւելյան.//.հարավ-արևելյան.
+ stem: .հարավ-արևելյան.//.հարավ-արեւելյան.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -102224,7 +102224,7 @@
 
 -lexeme
  lex: հարավ-արեւմտյան
- stem: .հարավ-արեւմտյան.//.հարավ-արևմտյան.
+ stem: .հարավ-արևմտյան.//.հարավ-արեւմտյան.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -102280,7 +102280,7 @@
 
 -lexeme
  lex: հարավբեւեռային
- stem: .հարավբեւեռային.//.հարավբևեռային.
+ stem: .հարավբևեռային.//.հարավբեւեռային.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -102288,7 +102288,7 @@
 
 -lexeme
  lex: հարատեւ
- stem: .հարատեւ.//.հարատև.
+ stem: .հարատև.//.հարատեւ.
  gramm: A
  gloss: long-lasting_protracted
  paradigm: N12
@@ -104752,7 +104752,7 @@
 
 -lexeme
  lex: հետեւակային
- stem: .հետեւակային.//.հետևակային.
+ stem: .հետևակային.//.հետեւակային.
  gramm: A
  gloss: infantry
  paradigm: N12
@@ -104768,7 +104768,7 @@
 
 -lexeme
  lex: հետեւողական
- stem: .հետեւողական.//.հետևողական.
+ stem: .հետևողական.//.հետեւողական.
  gramm: A
  gloss: consistent
  paradigm: N12
@@ -105144,7 +105144,7 @@
 
 -lexeme
  lex: հեւհեւկոտ
- stem: .հեւհեւկոտ.//.հևհևկոտ.
+ stem: .հևհևկոտ.//.հեւհեւկոտ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -105152,7 +105152,7 @@
 
 -lexeme
  lex: հեւհեւուն
- stem: .հեւհեւուն.//.հևհևուն.
+ stem: .հևհևուն.//.հեւհեւուն.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -105168,7 +105168,7 @@
 
 -lexeme
  lex: հեւուն
- stem: .հեւուն.//.հևուն.
+ stem: .հևուն.//.հեւուն.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -106104,7 +106104,7 @@
 
 -lexeme
  lex: հյուսիսարեւմտյան
- stem: .հյուսիսարեւմտյան.//.հյուսիսարևմտյան.
+ stem: .հյուսիսարևմտյան.//.հյուսիսարեւմտյան.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -106680,7 +106680,7 @@
 
 -lexeme
  lex: հնգաթեւ
- stem: .հնգաթեւ.//.հնգաթև.
+ stem: .հնգաթև.//.հնգաթեւ.
  gramm: A
  gloss: pentagonal
  paradigm: N11
@@ -106880,7 +106880,7 @@
 
 -lexeme
  lex: հնգատերեւ
- stem: .հնգատերեւ.//.հնգատերև.
+ stem: .հնգատերև.//.հնգատերեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -106952,7 +106952,7 @@
 
 -lexeme
  lex: հնդեւրոպաբանական
- stem: .հնդեւրոպաբանական.//.հնդևրոպաբանական.
+ stem: .հնդևրոպաբանական.//.հնդեւրոպաբանական.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -107568,7 +107568,7 @@
 
 -lexeme
  lex: հոգեւոր
- stem: .հոգեւոր.//.հոգևոր.
+ stem: .հոգևոր.//.հոգեւոր.
  gramm: A
  gloss: spiritual
  paradigm: N12
@@ -107576,7 +107576,7 @@
 
 -lexeme
  lex: հոգեւորական
- stem: .հոգեւորական.//.հոգևորական.
+ stem: .հոգևորական.//.հոգեւորական.
  gramm: A
  gloss: ecclesiastical
  paradigm: N12
@@ -107800,7 +107800,7 @@
 
 -lexeme
  lex: հոլաթեւ
- stem: .հոլաթեւ.//.հոլաթև.
+ stem: .հոլաթև.//.հոլաթեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -108808,7 +108808,7 @@
 
 -lexeme
  lex: հովանոցաձեւ
- stem: .հովանոցաձեւ.//.հովանոցաձև.
+ stem: .հովանոցաձև.//.հովանոցաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -108880,7 +108880,7 @@
 
 -lexeme
  lex: հովհարաձեւ
- stem: .հովհարաձեւ.//.հովհարաձև.
+ stem: .հովհարաձև.//.հովհարաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -109856,7 +109856,7 @@
 
 -lexeme
  lex: հրաթեւ
- stem: .հրաթեւ.//.հրաթև.
+ stem: .հրաթև.//.հրաթեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -111376,7 +111376,7 @@
 
 -lexeme
  lex: ձեւագործական
- stem: .ձեւագործական.//.ձևագործական.
+ stem: .ձևագործական.//.ձեւագործական.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -111400,7 +111400,7 @@
 
 -lexeme
  lex: ձեւակերտական
- stem: .ձեւակերտական.//.ձևակերտական.
+ stem: .ձևակերտական.//.ձեւակերտական.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -111408,7 +111408,7 @@
 
 -lexeme
  lex: ձեւավոր
- stem: .ձեւավոր.//.ձևավոր.
+ stem: .ձևավոր.//.ձեւավոր.
  gramm: A
  gloss: figure
  paradigm: N12
@@ -111688,7 +111688,7 @@
 
 -lexeme
  lex: ձկնաձեւ
- stem: .ձկնաձեւ.//.ձկնաձև.
+ stem: .ձկնաձև.//.ձկնաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -111696,7 +111696,7 @@
 
 -lexeme
  lex: ձկնաձեւ
- stem: .ձկնաձեւ.//.ձկնաձև.
+ stem: .ձկնաձև.//.ձկնաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -111736,7 +111736,7 @@
 
 -lexeme
  lex: ձկնարյուն
- stem: ձկնարյւն.//ձկնարյւն.//ձկնարյւն.|ձկնարյան.|ձկնարյամ.
+ stem: ձկնարյուն.//ձկնարյւն.|ձկնարյան.|ձկնարյամ.
  gramm: A
  gloss: STEM
  paradigm: N41
@@ -112312,7 +112312,7 @@
 
 -lexeme
  lex: ձվաձեւ
- stem: .ձվաձեւ.//.ձվաձև.
+ stem: .ձվաձև.//.ձվաձեւ.
  gramm: A
  gloss: egg-shape_oviform
  paradigm: N11
@@ -112320,7 +112320,7 @@
 
 -lexeme
  lex: ձվաձեւ
- stem: .ձվաձեւ.//.ձվաձև.
+ stem: .ձվաձև.//.ձվաձեւ.
  gramm: A
  gloss: egg-shape_oviform
  paradigm: N12
@@ -112536,7 +112536,7 @@
 
 -lexeme
  lex: ճախարակաձեւ
- stem: .ճախարակաձեւ.//.ճախարակաձև.
+ stem: .ճախարակաձև.//.ճախարակաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -113600,7 +113600,7 @@
 
 -lexeme
  lex: ճերմակաթեւ
- stem: .ճերմակաթեւ.//.ճերմակաթև.
+ stem: .ճերմակաթև.//.ճերմակաթեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -115040,7 +115040,7 @@
 
 -lexeme
  lex: մակերեւութային
- stem: .մակերեւութային.//.մակերևութային.
+ stem: .մակերևութային.//.մակերեւութային.
  gramm: A
  gloss: level
  paradigm: N12
@@ -115576,7 +115576,7 @@
 
 -lexeme
  lex: մամռաձեւ
- stem: .մամռաձեւ.//.մամռաձև.
+ stem: .մամռաձև.//.մամռաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -116720,7 +116720,7 @@
 
 -lexeme
  lex: մատնամեջ
- stem: .մատնամէջ.//.մատնամէջ.//.մատնամէջ.|.մատնամիջ.
+ stem: .մատնամէջ.//.մատնամեջ.|.մատնամիջ.
  gramm: A
  gloss: STEM
  paradigm: N13
@@ -116896,7 +116896,7 @@
 
 -lexeme
  lex: մարգարտաձեւ
- stem: .մարգարտաձեւ.//.մարգարտաձև.
+ stem: .մարգարտաձև.//.մարգարտաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -120112,7 +120112,7 @@
 
 -lexeme
  lex: մենշեւիկյան
- stem: .մենշեւիկյան.//.մենշևիկյան.
+ stem: .մենշևիկյան.//.մենշեւիկյան.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -120720,7 +120720,7 @@
 
 -lexeme
  lex: մերձարեւադարձային
- stem: .մերձարեւադարձային.//.մերձարևադարձային.
+ stem: .մերձարևադարձային.//.մերձարեւադարձային.
  gramm: A
  gloss: subtropical
  paradigm: N12
@@ -120744,7 +120744,7 @@
 
 -lexeme
  lex: մերձբեւեռային
- stem: .մերձբեւեռային.//.մերձբևեռային.
+ stem: .մերձբևեռային.//.մերձբեւեռային.
  gramm: A
  gloss: near.the.pole(s)
  paradigm: N12
@@ -123528,7 +123528,7 @@
 
 -lexeme
  lex: մկրատաձեւ
- stem: .մկրատաձեւ.//.մկրատաձև.
+ stem: .մկրատաձև.//.մկրատաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -123896,7 +123896,7 @@
 
 -lexeme
  lex: մշտատեւ
- stem: .մշտատեւ.//.մշտատև.
+ stem: .մշտատև.//.մշտատեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -126376,7 +126376,7 @@
 
 -lexeme
  lex: նախաբեւեռային
- stem: .նախաբեւեռային.//.նախաբևեռային.
+ stem: .նախաբևեռային.//.նախաբեւեռային.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -127248,7 +127248,7 @@
 
 -lexeme
  lex: նավակաձեւ
- stem: .նավակաձեւ.//.նավակաձև.
+ stem: .նավակաձև.//.նավակաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -127640,7 +127640,7 @@
 
 -lexeme
  lex: նեղատերեւ
- stem: .նեղատերեւ.//.նեղատերև.
+ stem: .նեղատերև.//.նեղատերեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -128536,7 +128536,7 @@
 
 -lexeme
  lex: նիզակաձեւ
- stem: .նիզակաձեւ.//.նիզակաձև.
+ stem: .նիզակաձև.//.նիզակաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -128888,7 +128888,7 @@
 
 -lexeme
  lex: նշաձեւ
- stem: .նշաձեւ.//.նշաձև.
+ stem: .նշաձև.//.նշաձեւ.
  gramm: A
  gloss: almond-shaped
  paradigm: N11
@@ -130112,7 +130112,7 @@
 
 -lexeme
  lex: նույնաձեւ
- stem: .նույնաձեւ.//.նույնաձև.
+ stem: .նույնաձև.//.նույնաձեւ.
  gramm: A
  gloss: identical
  paradigm: N11
@@ -130928,7 +130928,7 @@
 
 -lexeme
  lex: նրբաձեւ
- stem: .նրբաձեւ.//.նրբաձև.
+ stem: .նրբաձև.//.նրբաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -133176,7 +133176,7 @@
 
 -lexeme
  lex: շնչահեւ
- stem: .շնչահեւ.//.շնչահև.
+ stem: .շնչահև.//.շնչահեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -133720,7 +133720,7 @@
 
 -lexeme
  lex: շուշանաձեւ
- stem: .շուշանաձեւ.//.շուշանաձև.
+ stem: .շուշանաձև.//.շուշանաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -134184,7 +134184,7 @@
 
 -lexeme
  lex: շրջանակաձեւ
- stem: .շրջանակաձեւ.//.շրջանակաձև.
+ stem: .շրջանակաձև.//.շրջանակաձեւ.
  gramm: A
  gloss: circular
  paradigm: N11
@@ -134592,7 +134592,7 @@
 
 -lexeme
  lex: ոգեւորիչ
- stem: .ոգեւորիչ.//.ոգևորիչ.
+ stem: .ոգևորիչ.//.ոգեւորիչ.
  gramm: A
  gloss: inspiring_animating
  paradigm: N12
@@ -135336,7 +135336,7 @@
 
 -lexeme
  lex: ոսկեթեւ
- stem: .ոսկեթեւ.//.ոսկեթև.
+ stem: .ոսկեթև.//.ոսկեթեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -136232,7 +136232,7 @@
 
 -lexeme
  lex: որբեւայրի
- stem: .որբեւայրի.//.որբևայրի.
+ stem: .որբևայրի.//.որբեւայրի.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -136872,7 +136872,7 @@
 
 -lexeme
  lex: ութթեւյան
- stem: .ութթեւյան.//.ութթևյան.
+ stem: .ութթևյան.//.ութթեւյան.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -140984,7 +140984,7 @@
 
 -lexeme
  lex: չունեւոր
- stem: .չունեւոր.//.չունևոր.
+ stem: .չունևոր.//.չունեւոր.
  gramm: A
  gloss: poor
  paradigm: N12
@@ -141816,7 +141816,7 @@
 
 -lexeme
  lex: պայծառաթեւ
- stem: .պայծառաթեւ.//.պայծառաթև.
+ stem: .պայծառաթև.//.պայծառաթեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -142000,7 +142000,7 @@
 
 -lexeme
  lex: պայծառարեւ
- stem: .պայծառարեւ.//.պայծառարև.
+ stem: .պայծառարև.//.պայծառարեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -143032,7 +143032,7 @@
 
 -lexeme
  lex: պատճառահետեւանքային
- stem: .պատճառահետեւանքային.//.պատճառահետևանքային.
+ stem: .պատճառահետևանքային.//.պատճառահետեւանքային.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -143856,7 +143856,7 @@
 
 -lexeme
  lex: պարգեւաբաշխ
- stem: .պարգեւաբաշխ.//.պարգևաբաշխ.
+ stem: .պարգևաբաշխ.//.պարգեւաբաշխ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -143864,7 +143864,7 @@
 
 -lexeme
  lex: պարգեւաբեր
- stem: .պարգեւաբեր.//.պարգևաբեր.
+ stem: .պարգևաբեր.//.պարգեւաբեր.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -143872,7 +143872,7 @@
 
 -lexeme
  lex: պարգեւական
- stem: .պարգեւական.//.պարգևական.
+ stem: .պարգևական.//.պարգեւական.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -143888,7 +143888,7 @@
 
 -lexeme
  lex: պարգեւաձիր
- stem: .պարգեւաձիր.//.պարգևաձիր.|.պարգեւաձր.//.պարգևաձր.
+ stem: .պարգեւաձիր.//.պարգևաձիր.|.պարգևաձր.//.պարգեւաձր.
  gramm: A
  gloss: STEM
  paradigm: N13
@@ -143904,7 +143904,7 @@
 
 -lexeme
  lex: պարգեւառու
- stem: .պարգեւառու.//.պարգևառու.
+ stem: .պարգևառու.//.պարգեւառու.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -143912,7 +143912,7 @@
 
 -lexeme
  lex: պարգեւատու
- stem: .պարգեւատու.//.պարգևատու.
+ stem: .պարգևատու.//.պարգեւատու.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -144200,7 +144200,7 @@
 
 -lexeme
  lex: պարթեւազն
- stem: պարթեւազն.//պարթևազն.
+ stem: պարթևազն.//պարթեւազն.
  gramm: A
  gloss: STEM
  paradigm: Empty
@@ -144208,7 +144208,7 @@
 
 -lexeme
  lex: պարթեւալանջ
- stem: .պարթեւալանջ.//.պարթևալանջ.
+ stem: .պարթևալանջ.//.պարթեւալանջ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -144216,7 +144216,7 @@
 
 -lexeme
  lex: պարթեւածին
- stem: .պարթեւածին.//.պարթևածին.|.պարթեւածն.//.պարթևածն.
+ stem: .պարթևածին.//.պարթեւածին.|.պարթևածն.//.պարթեւածն.
  gramm: A
  gloss: STEM
  paradigm: N14
@@ -144224,7 +144224,7 @@
 
 -lexeme
  lex: պարթեւական
- stem: .պարթեւական.//.պարթևական.
+ stem: .պարթևական.//.պարթեւական.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -144240,7 +144240,7 @@
 
 -lexeme
  lex: պարթեւանձյա
- stem: .պարթեւանձյա.//.պարթևանձյա.
+ stem: .պարթևանձյա.//.պարթեւանձյա.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -144368,7 +144368,7 @@
 
 -lexeme
  lex: պարուրաձեւ
- stem: .պարուրաձեւ.//.պարուրաձև.
+ stem: .պարուրաձև.//.պարուրաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -146024,7 +146024,7 @@
 
 -lexeme
  lex: պողոսակաձեւ
- stem: .պողոսակաձեւ.//.պողոսակաձև.
+ stem: .պողոսակաձև.//.պողոսակաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -146544,7 +146544,7 @@
 
 -lexeme
  lex: պսակաձեւ
- stem: .պսակաձեւ.//.պսակաձև.
+ stem: .պսակաձև.//.պսակաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -146936,7 +146936,7 @@
 
 -lexeme
  lex: պտտաձեւ
- stem: .պտտաձեւ.//.պտտաձև.
+ stem: .պտտաձև.//.պտտաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -149800,7 +149800,7 @@
 
 -lexeme
  lex: սագաձեւ
- stem: .սագաձեւ.//.սագաձև.
+ stem: .սագաձև.//.սագաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -150440,7 +150440,7 @@
 
 -lexeme
  lex: սակավատերեւ
- stem: .սակավատերեւ.//.սակավատերև.
+ stem: .սակավատերև.//.սակավատերեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -151080,7 +151080,7 @@
 
 -lexeme
  lex: սանդալաձեւ
- stem: .սանդալաձեւ.//.սանդալաձև.
+ stem: .սանդալաձև.//.սանդալաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -151144,7 +151144,7 @@
 
 -lexeme
  lex: սանդղաձեւ
- stem: .սանդղաձեւ.//.սանդղաձև.
+ stem: .սանդղաձև.//.սանդղաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -151184,7 +151184,7 @@
 
 -lexeme
  lex: սանդուղքաձեւ
- stem: .սանդուղքաձեւ.//.սանդուղքաձև.
+ stem: .սանդուղքաձև.//.սանդուղքաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -151320,7 +151320,7 @@
 
 -lexeme
  lex: սանրաձեւ
- stem: .սանրաձեւ.//.սանրաձև.
+ stem: .սանրաձև.//.սանրաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -151888,7 +151888,7 @@
 
 -lexeme
  lex: սավառնաթեւ
- stem: .սավառնաթեւ.//.սավառնաթև.
+ stem: .սավառնաթև.//.սավառնաթեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -152480,7 +152480,7 @@
 
 -lexeme
  lex: սգատերեւ
- stem: .սգատերեւ.//.սգատերև.
+ stem: .սգատերև.//.սգատերեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -152520,7 +152520,7 @@
 
 -lexeme
  lex: սեթեւեթ
- stem: .սեթեւեթ.//.սեթևեթ.
+ stem: .սեթևեթ.//.սեթեւեթ.
  gramm: A
  gloss: mincing
  paradigm: N12
@@ -153232,7 +153232,7 @@
 
 -lexeme
  lex: սեւ-մութ
- stem: .սեւ-մութ.//.սև-մութ.
+ stem: .սև-մութ.//.սեւ-մութ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153240,7 +153240,7 @@
 
 -lexeme
  lex: սեւ-սեւ
- stem: .սեւ-սեւ.//.սև-սև.
+ stem: .սև-սև.//.սեւ-սեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -153256,7 +153256,7 @@
 
 -lexeme
  lex: սեւագորշ
- stem: .սեւագորշ.//.սևագորշ.
+ stem: .սևագորշ.//.սեւագորշ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153264,7 +153264,7 @@
 
 -lexeme
  lex: սեւադեմ
- stem: .սեւադեմ.//.սևադեմ.
+ stem: .սևադեմ.//.սեւադեմ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153272,7 +153272,7 @@
 
 -lexeme
  lex: սեւադունչ
- stem: .սեւադունչ.//.սևադունչ.
+ stem: .սևադունչ.//.սեւադունչ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153280,7 +153280,7 @@
 
 -lexeme
  lex: սեւադունչ
- stem: .սեւադունչ.//.սևադունչ.|.սեւադնչ.//.սևադնչ.
+ stem: .սևադունչ.//.սեւադունչ.|.սևադնչ.//.սեւադնչ.
  gramm: A
  gloss: STEM
  paradigm: N14
@@ -153296,7 +153296,7 @@
 
 -lexeme
  lex: սեւազգեստ
- stem: .սեւազգեստ.//.սևազգեստ.
+ stem: .սևազգեստ.//.սեւազգեստ.
  gramm: A
  gloss: clad.in.black_monk
  paradigm: N12
@@ -153304,7 +153304,7 @@
 
 -lexeme
  lex: սեւազգեցիկ
- stem: .սեւազգեցիկ.//.սևազգեցիկ.
+ stem: .սևազգեցիկ.//.սեւազգեցիկ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153320,7 +153320,7 @@
 
 -lexeme
  lex: սեւաթաթախ
- stem: .սեւաթաթախ.//.սևաթաթախ.
+ stem: .սևաթաթախ.//.սեւաթաթախ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153328,7 +153328,7 @@
 
 -lexeme
  lex: սեւաթավիշ
- stem: .սեւաթավիշ.//.սևաթավիշ.
+ stem: .սևաթավիշ.//.սեւաթավիշ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153336,7 +153336,7 @@
 
 -lexeme
  lex: սեւաթեւ
- stem: .սեւաթեւ.//.սևաթև.
+ stem: .սևաթև.//.սեւաթեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -153352,7 +153352,7 @@
 
 -lexeme
  lex: սեւաթորմիկ
- stem: .սեւաթորմիկ.//.սևաթորմիկ.
+ stem: .սևաթորմիկ.//.սեւաթորմիկ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153376,7 +153376,7 @@
 
 -lexeme
  lex: սեւախալ
- stem: .սեւախալ.//.սևախալ.
+ stem: .սևախալ.//.սեւախալ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153384,7 +153384,7 @@
 
 -lexeme
  lex: սեւախառն
- stem: սեւախառն.//սևախառն.
+ stem: սևախառն.//սեւախառն.
  gramm: A
  gloss: STEM
  paradigm: Empty
@@ -153392,7 +153392,7 @@
 
 -lexeme
  lex: սեւախավար
- stem: .սեւախավար.//.սևախավար.
+ stem: .սևախավար.//.սեւախավար.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153400,7 +153400,7 @@
 
 -lexeme
  lex: սեւախոպոպ
- stem: .սեւախոպոպ.//.սևախոպոպ.
+ stem: .սևախոպոպ.//.սեւախոպոպ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153416,7 +153416,7 @@
 
 -lexeme
  lex: սեւածիր
- stem: .սեւածիր.//.սևածիր.
+ stem: .սևածիր.//.սեւածիր.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153424,7 +153424,7 @@
 
 -lexeme
  lex: սեւածիր
- stem: .սեւածիր.//.սևածիր.|.սեւածր.//.սևածր.
+ stem: .սևածիր.//.սեւածիր.|.սևածր.//.սեւածր.
  gramm: A
  gloss: STEM
  paradigm: N14
@@ -153464,7 +153464,7 @@
 
 -lexeme
  lex: սեւակն
- stem: սեւակն.//սևակն.
+ stem: սևակն.//սեւակն.
  gramm: A
  gloss: STEM
  paradigm: Empty
@@ -153472,7 +153472,7 @@
 
 -lexeme
  lex: սեւակնգուղ
- stem: .սեւակնգուղ.//.սևակնգուղ.
+ stem: .սևակնգուղ.//.սեւակնգուղ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153480,7 +153480,7 @@
 
 -lexeme
  lex: սեւակնյա
- stem: .սեւակնյա.//.սևակնյա.
+ stem: .սևակնյա.//.սեւակնյա.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153496,7 +153496,7 @@
 
 -lexeme
  lex: սեւակոշտ
- stem: .սեւակոշտ.//.սևակոշտ.
+ stem: .սևակոշտ.//.սեւակոշտ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153512,7 +153512,7 @@
 
 -lexeme
  lex: սեւակտուց
- stem: .սեւակտուց.//.սևակտուց.
+ stem: .սևակտուց.//.սեւակտուց.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153536,7 +153536,7 @@
 
 -lexeme
  lex: սեւահար
- stem: .սեւահար.//.սևահար.
+ stem: .սևահար.//.սեւահար.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153560,7 +153560,7 @@
 
 -lexeme
  lex: սեւահոգի
- stem: .սեւահոգի.//.սևահոգի.
+ stem: .սևահոգի.//.սեւահոգի.
  gramm: A
  gloss: wicked
  paradigm: N12
@@ -153568,7 +153568,7 @@
 
 -lexeme
  lex: սեւահոգի
- stem: սեւահոգի.//սևահոգի.|սեւահոգ.//սևահոգ.
+ stem: սևահոգի.//սեւահոգի.|սևահոգ.//սեւահոգ.
  gramm: A
  gloss: wicked
  paradigm: N23
@@ -153576,7 +153576,7 @@
 
 -lexeme
  lex: սեւահողային
- stem: .սեւահողային.//.սևահողային.
+ stem: .սևահողային.//.սեւահողային.
  gramm: A
  gloss: black.earth
  paradigm: N12
@@ -153632,7 +153632,7 @@
 
 -lexeme
  lex: սեւամորուք
- stem: .սեւամորուք.//.սևամորուք.
+ stem: .սևամորուք.//.սեւամորուք.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153640,7 +153640,7 @@
 
 -lexeme
  lex: սեւամութ
- stem: .սեւամութ.//.սևամութ.
+ stem: .սևամութ.//.սեւամութ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153712,7 +153712,7 @@
 
 -lexeme
  lex: սեւաչվի
- stem: .սեւաչվի.//.սևաչվի.
+ stem: .սևաչվի.//.սեւաչվի.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153720,7 +153720,7 @@
 
 -lexeme
  lex: սեւապատ
- stem: .սեւապատ.//.սևապատ.
+ stem: .սևապատ.//.սեւապատ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153728,7 +153728,7 @@
 
 -lexeme
  lex: սեւապսակ
- stem: .սեւապսակ.//.սևապսակ.
+ stem: .սևապսակ.//.սեւապսակ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153736,7 +153736,7 @@
 
 -lexeme
  lex: սեւասաթ
- stem: .սեւասաթ.//.սևասաթ.
+ stem: .սևասաթ.//.սեւասաթ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153744,7 +153744,7 @@
 
 -lexeme
  lex: սեւասեւ
- stem: .սեւասեւ.//.սևասև.
+ stem: .սևասև.//.սեւասեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153752,7 +153752,7 @@
 
 -lexeme
  lex: սեւասիրտ
- stem: .սեւասիրտ.//.սևասիրտ.|.սեւասրտ.//.սևասրտ.
+ stem: .սևասիրտ.//.սեւասիրտ.|.սեւասրտ.//.սևասրտ.
  gramm: A
  gloss: STEM
  paradigm: N14
@@ -153760,7 +153760,7 @@
 
 -lexeme
  lex: սեւասուգ
- stem: .սեւասուգ.//.սևասուգ.|.սեւասգ.//.սևասգ.
+ stem: .սևասուգ.//.սեւասուգ.|.սեւասգ.//.սևասգ.
  gramm: A
  gloss: STEM
  paradigm: N14
@@ -153776,7 +153776,7 @@
 
 -lexeme
  lex: սեւասքեմ
- stem: .սեւասքեմ.//.սևասքեմ.
+ stem: .սևասքեմ.//.սեւասքեմ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153800,7 +153800,7 @@
 
 -lexeme
  lex: սեւավուն
- stem: .սեւավուն.//.սևավուն.
+ stem: .սևավուն.//.սեւավուն.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153832,7 +153832,7 @@
 
 -lexeme
  lex: սեւափետուր
- stem: .սեւափետուր.//.սևափետուր.
+ stem: .սևափետուր.//.սեւափետուր.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153920,7 +153920,7 @@
 
 -lexeme
  lex: սեւմութ
- stem: .սեւմութ.//.սևմութ.
+ stem: .սևմութ.//.սեւմութ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153944,7 +153944,7 @@
 
 -lexeme
  lex: սեւոտնանի
- stem: սեւոտնանի.//սևոտնանի.|սեւոտնան.//սևոտնան.
+ stem: սեւոտնանի.//սևոտնանի.|սևոտնան.//սեւոտնան.
  gramm: A
  gloss: STEM
  paradigm: N23a
@@ -153960,7 +153960,7 @@
 
 -lexeme
  lex: սեւուլիկ
- stem: .սեւուլիկ.//.սևուլիկ.
+ stem: .սևուլիկ.//.սեւուլիկ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153968,7 +153968,7 @@
 
 -lexeme
  lex: սեւուկ
- stem: .սեւուկ.//.սևուկ.
+ stem: .սևուկ.//.սեւուկ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153976,7 +153976,7 @@
 
 -lexeme
  lex: սեւումութ
- stem: .սեւումութ.//.սևումութ.
+ stem: .սևումութ.//.սեւումութ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -153992,7 +153992,7 @@
 
 -lexeme
  lex: սեւունք
- stem: .սեւունք.//.սևունք.
+ stem: .սևունք.//.սեւունք.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -154000,7 +154000,7 @@
 
 -lexeme
  lex: սեւսիրտ
- stem: .սեւսիրտ.//.սևսիրտ.|.սեւսրտ.//.սևսրտ.
+ stem: .սեւսիրտ.//.սևսիրտ.|.սևսրտ.//.սեւսրտ.
  gramm: A
  gloss: STEM
  paradigm: N14
@@ -155784,7 +155784,7 @@
 
 -lexeme
  lex: սկուտեղաձեւ
- stem: .սկուտեղաձեւ.//.սկուտեղաձև.
+ stem: .սկուտեղաձև.//.սկուտեղաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -155840,7 +155840,7 @@
 
 -lexeme
  lex: սղոցաձեւ
- stem: .սղոցաձեւ.//.սղոցաձև.
+ stem: .սղոցաձև.//.սղոցաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -156040,7 +156040,7 @@
 
 -lexeme
  lex: սնամեջ
- stem: .սնամէջ.//.սնամէջ.//.սնամէջ.|.սնամիջ.
+ stem: .սնամէջ.//.սնամեջ.|.սնամիջ.
  gramm: A
  gloss: hollow_cored_empty
  paradigm: N13
@@ -156400,7 +156400,7 @@
 
 -lexeme
  lex: սոխաձեւ
- stem: .սոխաձեւ.//.սոխաձև.
+ stem: .սոխաձև.//.սոխաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -158064,7 +158064,7 @@
 
 -lexeme
  lex: սվինաձեւ
- stem: .սվինաձեւ.//.սվինաձև.
+ stem: .սվինաձև.//.սվինաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -158384,7 +158384,7 @@
 
 -lexeme
  lex: ստեւածածկ
- stem: .ստեւածածկ.//.ստևածածկ.
+ stem: .ստևածածկ.//.ստեւածածկ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -159208,7 +159208,7 @@
 
 -lexeme
  lex: սրաթեւ
- stem: .սրաթեւ.//.սրաթև.
+ stem: .սրաթև.//.սրաթեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -160264,7 +160264,7 @@
 
 -lexeme
  lex: սրտաձեւ
- stem: .սրտաձեւ.//.սրտաձև.
+ stem: .սրտաձև.//.սրտաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -160448,7 +160448,7 @@
 
 -lexeme
  lex: սրտասեւ
- stem: .սրտասեւ.//.սրտասև.
+ stem: .սրտասև.//.սրտասեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -160888,7 +160888,7 @@
 
 -lexeme
  lex: վահանաձեւ
- stem: .վահանաձեւ.//.վահանաձև.
+ stem: .վահանաձև.//.վահանաձեւ.
  gramm: A
  gloss: shield-shaped_scutiform
  paradigm: N11
@@ -161576,7 +161576,7 @@
 
 -lexeme
  lex: վանդակաձեւ
- stem: .վանդակաձեւ.//.վանդակաձև.
+ stem: .վանդակաձև.//.վանդակաձեւ.
  gramm: A
  gloss: cage-like_trellissed
  paradigm: N11
@@ -165696,7 +165696,7 @@
 
 -lexeme
  lex: տանձաձեւ
- stem: .տանձաձեւ.//.տանձաձև.
+ stem: .տանձաձև.//.տանձաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -165800,7 +165800,7 @@
 
 -lexeme
  lex: տաշտաձեւ
- stem: .տաշտաձեւ.//.տաշտաձև.
+ stem: .տաշտաձև.//.տաշտաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -167616,7 +167616,7 @@
 
 -lexeme
  lex: տերեւազուրկ
- stem: .տերեւազուրկ.//.տերևազուրկ.
+ stem: .տերևազուրկ.//.տերեւազուրկ.
  gramm: A
  gloss: leafless
  paradigm: N12
@@ -167624,7 +167624,7 @@
 
 -lexeme
  lex: տերեւախիտ
- stem: .տերեւախիտ.//.տերևախիտ.
+ stem: .տերևախիտ.//.տերեւախիտ.
  gramm: A
  gloss: leafy
  paradigm: N12
@@ -167632,7 +167632,7 @@
 
 -lexeme
  lex: տերեւակերպ
- stem: .տերեւակերպ.//.տերևակերպ.
+ stem: .տերևակերպ.//.տերեւակերպ.
  gramm: A
  gloss: leaf-shaped
  paradigm: N11
@@ -167640,7 +167640,7 @@
 
 -lexeme
  lex: տերեւակերպ
- stem: .տերեւակերպ.//.տերևակերպ.
+ stem: .տերևակերպ.//.տերեւակերպ.
  gramm: A
  gloss: leaf-shaped
  paradigm: N12
@@ -167656,7 +167656,7 @@
 
 -lexeme
  lex: տերեւամերկ
- stem: .տերեւամերկ.//.տերևամերկ.
+ stem: .տերևամերկ.//.տերեւամերկ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -167672,7 +167672,7 @@
 
 -lexeme
  lex: տերեւանման
- stem: .տերեւանման.//.տերևանման.
+ stem: .տերևանման.//.տերեւանման.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -167680,7 +167680,7 @@
 
 -lexeme
  lex: տերեւաշատ
- stem: .տերեւաշատ.//.տերևաշատ.
+ stem: .տերևաշատ.//.տերեւաշատ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -168264,7 +168264,7 @@
 
 -lexeme
  lex: տձեւ
- stem: .տձեւ.//.տձև.
+ stem: .տձև.//.տձեւ.
  gramm: A
  gloss: formless_ugly_deformed
  paradigm: N12
@@ -169792,7 +169792,7 @@
 
 -lexeme
  lex: ցանցաձեւ
- stem: .ցանցաձեւ.//.ցանցաձև.
+ stem: .ցանցաձև.//.ցանցաձեւ.
  gramm: A
  gloss: net-like
  paradigm: N12
@@ -172656,7 +172656,7 @@
 
 -lexeme
  lex: փետրաձեւ
- stem: .փետրաձեւ.//.փետրաձև.
+ stem: .փետրաձև.//.փետրաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -172960,7 +172960,7 @@
 
 -lexeme
  lex: փնջաձեւ
- stem: .փնջաձեւ.//.փնջաձև.
+ stem: .փնջաձև.//.փնջաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -173088,7 +173088,7 @@
 
 -lexeme
  lex: փշաձեւ
- stem: .փշաձեւ.//.փշաձև.
+ stem: .փշաձև.//.փշաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12
@@ -173128,7 +173128,7 @@
 
 -lexeme
  lex: փշատերեւ
- stem: փշատերէւ.//փշատերէւ.//փշատերէւ.|փշատերիւ.
+ stem: փշատերև.//փշատերեւ.//փշատերէւ.|փշատերիւ.
  gramm: A
  gloss: coniferous
  paradigm: N64
@@ -178984,7 +178984,7 @@
 
 -lexeme
  lex: օղաձեւ
- stem: .օղաձեւ.//.օղաձև.
+ stem: .օղաձև.//.օղաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N11
@@ -178992,7 +178992,7 @@
 
 -lexeme
  lex: օղաձեւ
- stem: .օղաձեւ.//.օղաձև.
+ stem: .օղաձև.//.օղաձեւ.
  gramm: A
  gloss: STEM
  paradigm: N12

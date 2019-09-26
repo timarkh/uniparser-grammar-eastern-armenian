@@ -414,14 +414,14 @@ def make_stems(lexeme, ft):
 def add_orth_variation(stems):
     newStems = ''
     for stem in stems.split('|'):
+        newVars = set(stem.split('//'))
         for stemVar in stem.split('//'):
-            newVars = [stemVar]
             varYun = re.sub('(?<=[աիօը]է)վ', 'ւ', stemVar)
-            if varYun != stem:
-                newVars.append(varYun)
+            if varYun not in newVars:
+                newVars.add(varYun)
             varEw = re.sub('եւ', 'և', stemVar)
-            if varEw != stem:
-                newVars.append(varEw)
+            if varEw not in newVars:
+                newVars.add(varEw)
         if len(newStems) > 0:
             newStems += '|'
         newStems += '//'.join(newVars)

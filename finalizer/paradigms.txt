@@ -2401,7 +2401,7 @@
   gloss: IMP.2PL
  -flex: .եց|եք
   gramm: imp,2,pl,oral
-  gloss: PFV|IMP.2PL
+  gloss: AOR|IMP.2PL
  -flex: .<.>
   gramm: 
   paradigm: aor-ec
@@ -2464,24 +2464,53 @@
   gloss: COND|PASS
   paradigm: sbjv-e
 
+ -flex: .եցն<.>
+  gramm: caus
+  gloss: CAUS
+  paradigm: V14_proper_n
+ -flex: .եցր<.>
+  gramm: caus
+  gloss: CAUS
+  paradigm: V14_proper_r
+ -flex: չ.եցն<.>
+  gramm: caus,neg
+  gloss: NEG|CAUS
+  paradigm: V14_proper_n
+ -flex: չ.եցր<.>
+  gramm: caus,neg
+  gloss: NEG|CAUS
+  paradigm: V14_proper_r
+ -flex: .եցն<.>
+  gramm: caus,sbjv
+  gloss: CAUS
+  paradigm: sbjv-e
+ -flex: չ.եցն<.>
+  gramm: caus,sbjv,neg
+  gloss: NEG|CAUS
+  paradigm: sbjv-e
+ -flex: կ.եցն<.>
+  gramm: caus,cond
+  gloss: COND|CAUS
+  paradigm: sbjv-e
+
  -flex: .եց|վ<.>
-  gramm: pass
+  gramm: caus,pass
   gloss: CAUS|PASS
   paradigm: V11_proper
  -flex: չ.եց|վ<.>
-  gramm: pass,neg
+  gramm: caus,pass,neg
   gloss: NEG|CAUS|PASS
   paradigm: V11_proper
  -flex: .եց|վ<.>
-  gramm: pass,sbjv
+  gramm: caus,pass,sbjv
   gloss: CAUS|PASS
   paradigm: sbjv-e
  -flex: չ.եց|վ<.>
-  gramm: pass,sbjv,neg
+  gramm: caus,pass,sbjv,neg
   gloss: NEG|CAUS|PASS
   paradigm: sbjv-e
  -flex: կ.եց|վ<.>
-  gramm: pass,cond
+  gramm: caus,pass,cond
   gloss: COND|CAUS|PASS
   paradigm: sbjv-e
 
@@ -2529,7 +2558,7 @@
   gloss: IMP.2PL
  -flex: .եց|եք
   gramm: imp,2,pl,oral
-  gloss: PFV|IMP.2PL
+  gloss: AOR|IMP.2PL
  -flex: .<.>
   gramm: 
   paradigm: aor-ec
@@ -2538,49 +2567,460 @@
  
 
 -paradigm: V21
- -flex: <1>.<.>
-  paradigm: inf
-  paradigm: c_aorist
-  paradigm: sbjv_pres
-  paradigm: sbjv_past_y
-  paradigm: caus
- -flex: <0>.<.>
-  paradigm: ipfv
-  paradigm: med
- -flex: <0>.<.>
-  gramm: oral
-  paradigm: sbj
- -flex: <1>.ցել
+ -flex: .ալ
+  gramm: inf
+  gloss: INF
+ -flex: .ալ<.>
+  gramm: inf
+  gloss: INF
+  paradigm: N21
+ -flex: .ում
+  gramm: cvb,ipfv
+  gloss: CVB.IPFV
+ -flex: .աց|ել
   gramm: cvb,pfv
-  gloss: CVB.PFV
- -flex: <0>.ա
-  gramm: sbjv,pres,sg,3
-  gloss: SBJV.PRS.3SG
-  paradigm: NEG
-  paradigm: cond
- -flex: <0>.ա
-  gramm: imp,sg,2
-  gloss: IMP.SG
- -flex: <0>.ացեք
-  gramm: imp,pl,2
-  gloss: IMP.PL
- -flex: <1>.ցող
+  gloss: AOR|CVB.PFV
+ -flex: .ալու
+  gramm: cvb,dest
+  gloss: CVB.DEST
+ -flex: .ալիս
+  gramm: cvb,sim
+  gloss: CVB.SIM
+ -flex: .ա
+  gramm: cvb,conneg
+  gloss: CVB.CONNEG
+ -flex: .աց|ող<.>
   gramm: ptcp,sbj
-  gloss: PTCP.SBJ
-  -paradigm: NEG
-    paradigm: N12
- -flex: <1>.ցած
+  gloss: AOR|PTCP.SBJ
+  paradigm: N12
+ -flex: .աց|ած<.>
   gramm: ptcp,res
-  gloss: PTCP.RES
-  -paradigm: NEG
-    paradigm: N12
- -flex: <0>.ա
-  gramm: conneg
-  gloss: CONNEG
- -flex: <1>.ց<.>
+  gloss: AOR|PTCP.RES
+  paradigm: N12
+ -flex: .ա
+  gramm: imp,2,sg
+  gloss: IMP.2SG
+ -flex: .աց|եք
+  gramm: imp,2,pl
+  gloss: AOR|IMP.2PL
+ -flex: .<.>
+  gramm: 
+  paradigm: aor-ac
+ -flex: .<.>
+  gramm: sbjv
+  paradigm: sbjv-a
+ -flex: կ.<.>
+  gramm: cond
+  gloss: COND
+  paradigm: sbjv-a
+ 
+ -flex: չ.ալ
+  gramm: inf,neg
+  gloss: NEG|INF
+ -flex: չ.ալ<.>
+  gramm: inf,neg
+  gloss: NEG|INF
+  paradigm: N21
+ -flex: չ.աց|ելու
+  gramm: cvb,dest,neg
+  gloss: NEG|AOR|CVB.DEST
+ -flex: չ.ալիս
+  gramm: cvb,sim,neg
+  gloss: NEG|CVB.SIM
+ -flex: չ.աց|ող<.>
+  gramm: ptcp,sbj,neg
+  gloss: NEG|AOR|PTCP.SBJ
+  paradigm: N12
+ -flex: չ.աց|ած<.>
+  gramm: ptcp,res,neg
+  gloss: NEG|AOR|PTCP.RES
+  paradigm: N12
+ -flex: չ.<.>
+  gramm: neg
+  gloss: NEG
+  paradigm: aor-ac
+ -flex: չ.<.>
+  gramm: sbjv,neg
+  gloss: NEG
+  paradigm: sbjv-a
+
+ -flex: .ացն<.>
   gramm: caus
   gloss: CAUS
-  paradigm: med
+  paradigm: V14_proper_n
+ -flex: .ացր<.>
+  gramm: caus
+  gloss: CAUS
+  paradigm: V14_proper_r
+ -flex: չ.ացն<.>
+  gramm: caus,neg
+  gloss: NEG|CAUS
+  paradigm: V14_proper_n
+ -flex: չ.ացր<.>
+  gramm: caus,neg
+  gloss: NEG|CAUS
+  paradigm: V14_proper_r
+ -flex: .ացն<.>
+  gramm: caus,sbjv
+  gloss: CAUS
+  paradigm: sbjv-e
+ -flex: չ.ացն<.>
+  gramm: caus,sbjv,neg
+  gloss: NEG|CAUS
+  paradigm: sbjv-e
+ -flex: կ.ացն<.>
+  gramm: caus,cond
+  gloss: COND|CAUS
+  paradigm: sbjv-e
+
+ -flex: .աց|վ<.>
+  gramm: caus,pass
+  gloss: CAUS|PASS
+  paradigm: V11_proper
+ -flex: չ.աց|վ<.>
+  gramm: caus,pass,neg
+  gloss: NEG|CAUS|PASS
+  paradigm: V11_proper
+ -flex: .աց|վ<.>
+  gramm: caus,pass,sbjv
+  gloss: CAUS|PASS
+  paradigm: sbjv-e
+ -flex: չ.աց|վ<.>
+  gramm: caus,pass,sbjv,neg
+  gloss: NEG|CAUS|PASS
+  paradigm: sbjv-e
+ -flex: կ.աց|վ<.>
+  gramm: caus,pass,cond
+  gloss: COND|CAUS|PASS
+  paradigm: sbjv-e
+
+
+
+-paradigm: V21_proper
+ -flex: .ալ
+  gramm: inf
+  gloss: INF
+ -flex: .ալ<.>
+  gramm: inf
+  gloss: INF
+  paradigm: N21
+ -flex: .ում
+  gramm: cvb,ipfv
+  gloss: CVB.IPFV
+ -flex: .աց|ել
+  gramm: cvb,pfv
+  gloss: AOR|CVB.PFV
+ -flex: .ալու
+  gramm: cvb,dest
+  gloss: CVB.DEST
+ -flex: .ալիս
+  gramm: cvb,sim
+  gloss: CVB.SIM
+ -flex: .ա
+  gramm: cvb,conneg
+  gloss: CVB.CONNEG
+ -flex: .աց|ող<.>
+  gramm: ptcp,sbj
+  gloss: AOR|PTCP.SBJ
+  paradigm: N12
+ -flex: .աց|ած<.>
+  gramm: ptcp,res
+  gloss: AOR|PTCP.RES
+  paradigm: N12
+ -flex: .<.>
+  gramm: 
+  paradigm: aor-ac
+
+
+-paradigm: V12
+ -flex: .[ն]ել
+  gramm: inf
+  gloss: INF
+ -flex: .[ն]ել<.>
+  gramm: inf
+  gloss: INF
+  paradigm: N21
+ -flex: .[ն]ում
+  gramm: cvb,ipfv
+  gloss: CVB.IPFV
+ -flex: .ել
+  gramm: cvb,pfv
+  gloss: CVB.PFV
+ -flex: .[ն]ելու
+  gramm: cvb,dest
+  gloss: CVB.DEST
+ -flex: .[ն]ելիս
+  gramm: cvb,sim
+  gloss: CVB.SIM
+ -flex: .[ն]ի
+  gramm: cvb,conneg
+  gloss: CVB.CONNEG
+ -flex: .[ն]ող<.>
+  gramm: ptcp,sbj
+  gloss: PTCP.SBJ
+  paradigm: N12
+ -flex: .ած<.>
+  gramm: ptcp,res
+  gloss: PTCP.RES
+  paradigm: N12
+ -flex: .իր
+  gramm: imp,2,sg
+  gloss: IMP.2SG
+ -flex: .ի
+  gramm: imp,2,sg,oral
+  gloss: IMP.2SG
+ -flex: .եք
+  gramm: imp,2,pl
+  gloss: IMP.2PL
+ -flex: .[ն]եց|եք
+  gramm: imp,2,pl,oral
+  gloss: AOR|IMP.2PL
+ -flex: .<.>
+  gramm: 
+  paradigm: aor-a
+ -flex: .[ն]<.>
+  gramm: sbjv
+  paradigm: sbjv-e
+ -flex: կ.[ն]<.>
+  gramm: cond
+  gloss: COND
+  paradigm: sbjv-e
+ 
+ -flex: չ.[ն]ել
+  gramm: inf,neg
+  gloss: NEG|INF
+ -flex: չ.[ն]ել<.>
+  gramm: inf,neg
+  gloss: NEG|INF
+  paradigm: N21
+ -flex: չ.[ն]ելու
+  gramm: cvb,dest,neg
+  gloss: NEG|CVB.DEST
+ -flex: չ.[ն]ելիս
+  gramm: cvb,sim,neg
+  gloss: NEG|CVB.SIM
+ -flex: չ.[ն]ող<.>
+  gramm: ptcp,sbj,neg
+  gloss: NEG|PTCP.SBJ
+  paradigm: N12
+ -flex: չ.ած<.>
+  gramm: ptcp,res,neg
+  gloss: NEG|PTCP.RES
+  paradigm: N12
+ -flex: չ.<.>
+  gramm: neg
+  gloss: NEG
+  paradigm: aor-a
+ -flex: չ.[ն]<.>
+  gramm: sbjv,neg
+  gloss: NEG
+  paradigm: sbjv-e
+ 
+ -flex: .[ն]վ<.>
+  gramm: pass
+  gloss: PASS
+  paradigm: V11_proper
+ -flex: չ.[ն]վ<.>
+  gramm: pass,neg
+  gloss: NEG|PASS
+  paradigm: V11_proper
+ -flex: .[ն]վ<.>
+  gramm: pass,sbjv
+  gloss: PASS
+  paradigm: sbjv-e
+ -flex: չ.[ն]վ<.>
+  gramm: pass,sbjv,neg
+  gloss: NEG|PASS
+  paradigm: sbjv-e
+ -flex: կ.[ն]վ<.>
+  gramm: pass,cond
+  gloss: COND|PASS
+  paradigm: sbjv-e
+
+ -flex: .ցն<.>
+  gramm: caus
+  gloss: CAUS
+  paradigm: V14_proper_n
+ -flex: .ցր<.>
+  gramm: caus
+  gloss: CAUS
+  paradigm: V14_proper_r
+ -flex: չ.ցն<.>
+  gramm: caus,neg
+  gloss: NEG|CAUS
+  paradigm: V14_proper_n
+ -flex: չ.ցր<.>
+  gramm: caus,neg
+  gloss: NEG|CAUS
+  paradigm: V14_proper_r
+ -flex: .ցն<.>
+  gramm: caus,sbjv
+  gloss: CAUS
+  paradigm: sbjv-e
+ -flex: չ.ցն<.>
+  gramm: caus,sbjv,neg
+  gloss: NEG|CAUS
+  paradigm: sbjv-e
+ -flex: կ.ցն<.>
+  gramm: caus,cond
+  gloss: COND|CAUS
+  paradigm: sbjv-e
+
+ -flex: .ց|վ<.>
+  gramm: caus,pass
+  gloss: CAUS|PASS
+  paradigm: V11_proper
+ -flex: չ.ց|վ<.>
+  gramm: caus,pass,neg
+  gloss: NEG|CAUS|PASS
+  paradigm: V11_proper
+ -flex: .ց|վ<.>
+  gramm: caus,pass,sbjv
+  gloss: CAUS|PASS
+  paradigm: sbjv-e
+ -flex: չ.ց|վ<.>
+  gramm: caus,pass,sbjv,neg
+  gloss: NEG|CAUS|PASS
+  paradigm: sbjv-e
+ -flex: կ.ց|վ<.>
+  gramm: caus,pass,cond
+  gloss: COND|CAUS|PASS
+  paradigm: sbjv-e
+
+
+-paradigm: V14
+ -flex: .[ն]ել
+  gramm: inf
+  gloss: INF
+ -flex: .[ն]ել<.>
+  gramm: inf
+  gloss: INF
+  paradigm: N21
+ -flex: .[ն]ում
+  gramm: cvb,ipfv
+  gloss: CVB.IPFV
+ -flex: .[ր]ել
+  gramm: cvb,pfv
+  gloss: CVB.PFV
+ -flex: .[ն]ելու
+  gramm: cvb,dest
+  gloss: CVB.DEST
+ -flex: .[ն]ելիս
+  gramm: cvb,sim
+  gloss: CVB.SIM
+ -flex: .[ն]ի
+  gramm: cvb,conneg
+  gloss: CVB.CONNEG
+ -flex: .[ն]ող<.>
+  gramm: ptcp,sbj
+  gloss: PTCP.SBJ
+  paradigm: N12
+ -flex: .[ր]ած<.>
+  gramm: ptcp,res
+  gloss: PTCP.RES
+  paradigm: N12
+ -flex: .[ր]ու
+  gramm: imp,2,sg
+  gloss: IMP.2SG
+ -flex: .[ր]եք
+  gramm: imp,2,pl
+  gloss: IMP.2PL
+ -flex: .[ր]եց|եք
+  gramm: imp,2,pl,oral
+  gloss: AOR|IMP.2PL
+ -flex: .[ր]<.>
+  gramm: 
+  paradigm: aor-ec
+  paradigm: aor-i
+ -flex: .[ն]<.>
+  gramm: sbjv
+  paradigm: sbjv-e
+ -flex: կ.[ն]<.>
+  gramm: cond
+  gloss: COND
+  paradigm: sbjv-e
+ 
+ -flex: չ.[ն]ել
+  gramm: inf,neg
+  gloss: NEG|INF
+ -flex: չ.[ն]ել<.>
+  gramm: inf,neg
+  gloss: NEG|INF
+  paradigm: N21
+ -flex: չ.[ն]ելու
+  gramm: cvb,dest,neg
+  gloss: NEG|CVB.DEST
+ -flex: չ.[ն]ելիս
+  gramm: cvb,sim,neg
+  gloss: NEG|CVB.SIM
+ -flex: չ.[ն]ող<.>
+  gramm: ptcp,sbj,neg
+  gloss: NEG|PTCP.SBJ
+  paradigm: N12
+ -flex: չ.[ր]ած<.>
+  gramm: ptcp,res,neg
+  gloss: NEG|PTCP.RES
+  paradigm: N12
+ -flex: չ.[ր]<.>
+  gramm: neg
+  gloss: NEG
+  paradigm: aor-ec
+  paradigm: aor-i
+ -flex: չ.[ն]<.>
+  gramm: sbjv,neg
+  gloss: NEG
+  paradigm: sbjv-e
+
+
+
+-paradigm: V14_proper_n
+ -flex: .ել
+  gramm: inf
+  gloss: INF
+ -flex: .ել<.>
+  gramm: inf
+  gloss: INF
+  paradigm: N21
+ -flex: .ում
+  gramm: cvb,ipfv
+  gloss: CVB.IPFV
+ -flex: .ելու
+  gramm: cvb,dest
+  gloss: CVB.DEST
+ -flex: .ելիս
+  gramm: cvb,sim
+  gloss: CVB.SIM
+ -flex: .ի
+  gramm: cvb,conneg
+  gloss: CVB.CONNEG
+ -flex: .ող<.>
+  gramm: ptcp,sbj
+  gloss: PTCP.SBJ
+  paradigm: N12
+
+-paradigm: V14_proper_r
+ -flex: .ել
+  gramm: cvb,pfv
+  gloss: CVB.PFV
+ -flex: .ած<.>
+  gramm: ptcp,res
+  gloss: PTCP.RES
+  paradigm: N12
+ -flex: .ու
+  gramm: imp,2,sg
+  gloss: IMP.2SG
+ -flex: .եք
+  gramm: imp,2,pl
+  gloss: IMP.2PL
+ -flex: .եց|եք
+  gramm: imp,2,pl,oral
+  gloss: AOR|IMP.2PL
+ -flex: .<.>
+  gramm: 
+  paradigm: aor-ec
+  paradigm: aor-i
+
+
 
 -paradigm: sbjv_pres_V12
  -flex: <2>.մ
@@ -2603,34 +3043,6 @@
   gloss: SBJV.PRS.3PL
  paradigm: NEG
  paradigm: cond
-
--paradigm: V12
- -flex: <0>.<.>
-  paradigm: pfv
-  paradigm: res
-  paradigm: a_aorist
-  paradigm: sbjv_pres_V12
-  paradigm: imp_sg
-  paradigm: imp_oral
-  paradigm: imp_pl
-  paradigm: caus
- -flex: <1>.<.>
-  paradigm: ipfv
-  paradigm: sbj
-  paradigm: med
- -flex: <2>.<.>
-  paradigm: inf
-  paradigm: sbjv_past
- -flex: <0>.եցեք
-  gramm: imp,pl,2,oral
-  gloss: IMP.PL
- -flex: <1>.ի
-  gramm: conneg
-  gloss: CONNEG
- -flex: <0>.ց<.>
-  gramm: caus
-  gloss: CAUS
-  paradigm: med
 
 -paradigm: V13
  -flex: <0>.<.>
@@ -2673,35 +3085,6 @@
   gloss: CONNEG
  -flex: <3>.ի
   gramm: conneg,oral
-  gloss: CONNEG
-
--paradigm: V14
- -flex: <1>.<.>
-  paradigm: ipfv
-  paradigm: sbj
- -flex: <2>.<.>
-  paradigm: inf
-  paradigm: sbjv_pres
-  paradigm: sbjv_past
- -flex: <3>.<.>
-  paradigm: pfv
-  paradigm: res
-  paradigm: i_aorist
- -flex: <4>.<.>
-  paradigm: c_aorist
- -flex: <1>.ի
-  gramm: sbjv,pres,sg,3
-  gloss: SBJV.PRS.3SG
-  paradigm: NEG
-  paradigm: cond
- -flex: <0>.ցրու
-  gramm: imp,sg,2
-  gloss: IMP.SG
- -flex: <0>.ցրեք
-  gramm: imp,pl,2
-  gloss: IMP.PL
- -flex: <1>.ի
-  gramm: conneg
   gloss: CONNEG
 
 -paradigm: ca_aorist
