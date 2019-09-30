@@ -1107,10 +1107,11 @@
  -flex: <0>.<.>
   gramm: nom
   paradigm: poss_def
- -flex: <1>.ա<.>//<1>.ե<.>//<1>.<.>
+ -flex: <1>.ա<.>//<1>.ե<.>
   gramm: gen
-  gloss: gen
+  gloss: GEN
   paradigm: nmlz
+  paradigm: poss_def
  -flex: <1>.<.>
   gramm: gen
  -flex: <1>.ան//<1>.են
@@ -1386,9 +1387,10 @@
 -paradigm: N12a
  -flex: .<.>
   gramm: nom,sg
+  paradigm: poss_def
  -flex: .<.>
   gramm: sg
- paradigm: nmlz
+  paradigm: nmlz
 
 
 -paradigm: N12c
@@ -1846,7 +1848,7 @@
  -flex: .<.>
   gramm: sg
   paradigm: case-oj1
- -flex: <1>.<.>
+ -flex: <2>.<.>
   gramm: 
   paradigm: pl-ayq
 
