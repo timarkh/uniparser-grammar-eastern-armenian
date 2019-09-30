@@ -56,7 +56,7 @@
 
 -lexeme
  lex: ահավասիկ
- stem: ահավասիկ.
+ stem: ահավասիկ.//ահաւասիկ.
  gramm: PART
  gloss: here
  paradigm: Empty
@@ -168,7 +168,7 @@
 
 -lexeme
  lex: այդուամենայնիվ
- stem: այդուամենայնիվ.
+ stem: այդուամենայնիվ.//այդուամենայնիւ.
  gramm: CONJ
  gloss: STEM
  paradigm: Empty
@@ -256,7 +256,7 @@
 
 -lexeme
  lex: այլեւ
- stem: այլեւ.//այլև.
+ stem: այլեվ.//այլեւ.//այլև.
  gramm: CONJ
  gloss: also
  paradigm: Empty
@@ -280,7 +280,7 @@
 
 -lexeme
  lex: այնուամենայնիվ
- stem: այնուամենայնիվ.
+ stem: այնուամենայնիվ.//այնուամենայնիւ.
  gramm: CONJ
  gloss: however
  paradigm: Empty
@@ -376,7 +376,7 @@
 
 -lexeme
  lex: այսուամենայնիվ
- stem: այսուամենայնիվ.
+ stem: այսուամենայնիվ.//այսուամենայնիւ.
  gramm: CONJ
  gloss: STEM
  paradigm: Empty
@@ -520,7 +520,7 @@
 
 -lexeme
  lex: առթիվ
- stem: առթիվ.
+ stem: առթիվ.//առթիւ.
  gramm: POST
  gloss: in.view.of
  paradigm: Empty
@@ -528,7 +528,7 @@
 
 -lexeme
  lex: առջեւ
- stem: առջեւ.//առջև.
+ stem: առջեվ.//առջեւ.//առջև.
  gramm: POST
  gloss: before
  paradigm: N12
@@ -536,7 +536,7 @@
 
 -lexeme
  lex: ավաղ
- stem: ավաղ.
+ stem: ավաղ.//աւաղ.
  gramm: INTJ
  gloss: alas!.oh!.what.a.pity!
  paradigm: Empty
@@ -544,7 +544,7 @@
 
 -lexeme
  lex: ավել
- stem: ավել.
+ stem: ավել.//աւել.
  gramm: CONJ
  gloss: more
  paradigm: Empty
@@ -560,7 +560,7 @@
 
 -lexeme
  lex: արդարեւ
- stem: արդարև.//արդարեւ.
+ stem: արդարեվ.//արդարև.//արդարեւ.
  gramm: PART
  gloss: indeed
  paradigm: Empty
@@ -624,7 +624,7 @@
 
 -lexeme
  lex: բարեւ
- stem: բարեւ.//բարև.
+ stem: բարեվ.//բարև.//բարեւ.
  gramm: PART
  gloss: hello
  paradigm: N12
@@ -912,7 +912,7 @@
 
 -lexeme
  lex: երեւի
- stem: երևի.//երեւի.
+ stem: երևի.//երեվի.//երեւի.
  gramm: PART
  gloss: apparently
  paradigm: Empty
@@ -936,7 +936,7 @@
 
 -lexeme
  lex: եւ
- stem: եւ.//և.
+ stem: եվ.//և.//եւ.
  gramm: CONJ
  gloss: and
  paradigm: Empty
@@ -944,7 +944,7 @@
 
 -lexeme
  lex: եւեթ
- stem: եւեթ.//ևեթ.
+ stem: ևեթ.//եւեթ.//եվեթ.
  gramm: PART
  gloss: just
  paradigm: Empty
@@ -952,7 +952,7 @@
 
 -lexeme
  lex: եւս
- stem: եւս.//ևս.
+ stem: եւս.//ևս.//եվս.
  gramm: CONJ
  gloss: also
  paradigm: Empty
@@ -1528,7 +1528,7 @@
 
 -lexeme
  lex: թեեւ
- stem: թեև.//թեեւ.
+ stem: թեև.//թեեւ.//թեեվ.
  gramm: CONJ
  gloss: though
  paradigm: Empty
@@ -1552,7 +1552,7 @@
 
 -lexeme
  lex: թեպետեւ
- stem: թեպետև.//թեպետեւ.
+ stem: թեպետեւ.//թեպետեվ.//թեպետև.
  gramm: CONJ
  gloss: though
  paradigm: Empty
@@ -1560,7 +1560,7 @@
 
 -lexeme
  lex: թերեւս
- stem: թերեւս.//թերևս.
+ stem: թերեւս.//թերեվս.//թերևս.
  gramm: PART
  gloss: perhaps
  paradigm: Empty
@@ -1696,7 +1696,7 @@
 
 -lexeme
  lex: իբրեւ
- stem: իբրև.//իբրեւ.
+ stem: իբրեւ.//իբրև.//իբրեվ.
  gramm: CONJ
  gloss: as
  paradigm: Empty
@@ -1760,7 +1760,7 @@
 
 -lexeme
  lex: ինչեւէ
- stem: ինչևէ.//ինչեւէ.
+ stem: ինչեվէ.//ինչեւէ.//ինչևէ.
  gramm: PART
  gloss: anyhow
  paradigm: Empty
@@ -1768,7 +1768,7 @@
 
 -lexeme
  lex: ինչեւիցե
- stem: ինչեւիցե.//ինչևիցե.
+ stem: ինչեւիցե.//ինչևիցե.//ինչեվիցե.
  gramm: PART
  gloss: anyhow_after.all_one.way.or.another
  paradigm: Empty
@@ -1864,7 +1864,7 @@
 
 -lexeme
  lex: իցիվ
- stem: իցիվ.
+ stem: իցիվ.//իցիւ.
  gramm: PART
  gloss: STEM
  paradigm: Empty
@@ -1952,7 +1952,7 @@
 
 -lexeme
  lex: ծիվ-ծիվ
- stem: ծիվ-ծիվ.
+ stem: ծիվ-ծիվ.//ծիւ-ծիւ.
  gramm: INTJ
  gloss: STEM
  paradigm: Empty
@@ -2352,7 +2352,7 @@
 
 -lexeme
  lex: հիրավի
- stem: հիրավի.
+ stem: հիրաւի.//հիրավի.
  gramm: PART
  gloss: really
  paradigm: Empty
@@ -2424,7 +2424,7 @@
 
 -lexeme
  lex: մեջ
- stem: մեջ.//մէջ.|միջ.
+ stem: մէջ.//մեջ.|միջ.
  gramm: POST
  gloss: in
  paradigm: N13
@@ -2472,7 +2472,7 @@
 
 -lexeme
  lex: մինչեւ
- stem: մինչև.//մինչեւ.
+ stem: մինչեւ.//մինչեվ.//մինչև.
  gramm: CONJ
  gloss: to
  paradigm: Empty
@@ -2480,7 +2480,7 @@
 
 -lexeme
  lex: միջեւ
- stem: միջեւ.//միջև.
+ stem: միջեւ.//միջև.//միջեվ.
  gramm: POST
  gloss: between
  paradigm: Empty
@@ -2560,7 +2560,7 @@
 
 -lexeme
  lex: նաեւ
- stem: նաև.//նաեւ.
+ stem: նաեւ.//նաեվ.//նաև.
  gramm: CONJ
  gloss: also
  paradigm: Empty
@@ -2664,7 +2664,7 @@
 
 -lexeme
  lex: շնորհավոր
- stem: շնորհավոր.
+ stem: շնորհավոր.//շնորհաւոր.
  gramm: PART
  gloss: STEM
  paradigm: Empty
@@ -2672,7 +2672,7 @@
 
 -lexeme
  lex: շնորհիվ
- stem: շնորհիվ.
+ stem: շնորհիւ.//շնորհիվ.
  gramm: PREP/POST
  gloss: thanks
  paradigm: Empty
@@ -2776,7 +2776,7 @@
 
 -lexeme
  lex: ովեւէ
- stem: ովևէ.//ովեւէ.
+ stem: ովեվէ.//ովեւէ.//ովևէ.
  gramm: PRON,A,hum,sg
  gloss: STEM
  paradigm: Empty
@@ -2784,7 +2784,7 @@
 
 -lexeme
  lex: ովեւիցե
- stem: ովեւիցե.//ովևիցե.
+ stem: ովեվիցե.//ովևիցե.//ովեւիցե.
  gramm: PRON,A,hum,sg
  gloss: STEM
  paradigm: Empty
@@ -2808,7 +2808,7 @@
 
 -lexeme
  lex: որեւէ
- stem: որեւէ.//որևէ.
+ stem: որեվէ.//որևէ.//որեւէ.
  gramm: PRON,A
  gloss: some
  paradigm: Empty
@@ -2816,7 +2816,7 @@
 
 -lexeme
  lex: որեւիցե
- stem: որևիցե.//որեւիցե.
+ stem: որևիցե.//որեվիցե.//որեւիցե.
  gramm: PRON,A
  gloss: some
  paradigm: Empty
@@ -2824,7 +2824,7 @@
 
 -lexeme
  lex: որովհետեւ
- stem: որովհետև.//որովհետեւ.
+ stem: որովհետեւ.//որովհետեվ.//որովհետև.
  gramm: CONJ
  gloss: since
  paradigm: Empty
@@ -2872,7 +2872,7 @@
 
 -lexeme
  lex: որտեւ
- stem: որտև.//որտեւ.
+ stem: որտեվ.//որտև.//որտեւ.
  gramm: CONJ,oral
  gloss: because
  paradigm: Empty
@@ -3360,7 +3360,7 @@
 
 -lexeme
  lex: ցավոք
- stem: ցավոք.
+ stem: ցավոք.//ցաւոք.
  gramm: PART
  gloss: it's.a.pity
  paradigm: Empty
@@ -3368,7 +3368,7 @@
 
 -lexeme
  lex: ցտեսություն
- stem: ցտեսություն.//ցտեսությւն.|ցտեսության.|ցտեսությամ.
+ stem: ցտեսութիւն.//ցտեսութիվն.//ցտեսություն.|ցտեսության.//ցտեսութեան.|ցտեսութեամ.//ցտեսությամ.
  gramm: PART
  gloss: good.bye
  paradigm: N41
@@ -3504,7 +3504,7 @@
 
 -lexeme
  lex: քավ
- stem: քավ.
+ stem: քավ.//քաւ.
  gramm: INTJ
  gloss: STEM
  paradigm: N11

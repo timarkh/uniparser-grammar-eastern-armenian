@@ -347,7 +347,9 @@ def make_stems(lexeme, ft):
         return [lex + '.|' + lex[:-2] + 'գ.|'
                 + lex[:-2] + '.']
     if ft in ['N41']:
-        return [lex + './/' + lex[:-3] + lex[-2:] + '.|' + lex[:-3] + 'ան.|' + lex[:-3] + 'ամ.']
+        return [lex + './/' + lex[:-4] + 'ի' + lex[-2:] + '.|'
+                + lex[:-3] + 'ան.//' + lex[:-4] + 'եան.|'
+                + lex[:-3] + 'ամ.//' + lex[:-4] + 'եամ.']
     if ft in ['N41a']:
         return [lex + '.|' + lex[:-3] + 'ան.']
     if ft in ['N42']:
@@ -401,11 +403,11 @@ def make_stems(lexeme, ft):
     if ft in ['V32b']:
         return ['.' + lex[:-2] + '.|.' + lex[:-2] + 'վ.|.' + lex[:-2] + 'ու.']
     if ft in ['V41']:
-        return ['.է.|.ե.']
+        return ['.է.|.ե.|.ի.|.ա.']
     if ft in ['V42']:
         return ['.' + lex + '.']
     if ft in ['V43']:
-        return ['.' + lex[:-4] + '.']
+        return ['.' + lex[:-3] + '.|.' + lex[:-4] + 'ի.']
     if ft.startswith('V'):
         return ['.' + lex[:-2] + '.']
     return [lex + '.']
@@ -416,12 +418,18 @@ def add_orth_variation(stems):
     for stem in stems.split('|'):
         newVars = set(stem.split('//'))
         for stemVar in stem.split('//'):
-            varYun = re.sub('(?<=[աիօը]է)վ', 'ւ', stemVar)
+            varYun = re.sub('(?<=[աիօըեէ])վ', 'ւ', stemVar)
             if varYun not in newVars:
                 newVars.add(varYun)
+            varNoYun = re.sub('(?<=[աիօըեէ])ւ', 'վ', stemVar)
+            if varNoYun not in newVars:
+                newVars.add(varNoYun)
             varEw = re.sub('եւ', 'և', stemVar)
             if varEw not in newVars:
                 newVars.add(varEw)
+            varJ = re.sub('^\\.հա', '.յա', stemVar)
+            if varJ not in newVars:
+                newVars.add(varJ)
         if len(newStems) > 0:
             newStems += '|'
         newStems += '//'.join(newVars)
@@ -451,10 +459,10 @@ def make_lexemes(dictLex):
         for stem in make_stems(dictLex, para):
             if para in paraCollation:
                 para = paraCollation[para]
-            paradigms = [para]
             if para in ['N11', 'N12', 'N13', 'N14'] and gramm.startswith('A'):
                 para = 'A' + para[1:]
                 stem = '.' + stem.replace('|', '|.').replace('//', '//.')
+            paradigms = [para]
             if 'apl' in gramm:
                 gramm = re.sub(',apl\\+?', '', gramm)
                 if dictLex['flextype'] in ['N11', 'N11-onk\'']:
@@ -466,6 +474,26 @@ def make_lexemes(dictLex):
                     paradigms.append('apl_2e')
                 else:
                     paradigms.append('apl_e')
+            if para in ['V11a', 'V11b', 'V11c']:
+                paradigms.append('V11')
+            elif para in ['V12a', 'V12b']:
+                paradigms.append('V12')
+            elif para in ['V14a', 'V14b', 'V14c', 'V14d']:
+                paradigms.append('V14')
+            elif para in ['V21a']:
+                paradigms.append('V21')
+            elif para in ['V22a']:
+                paradigms.append('V22')
+            elif para in ['V31a', 'V31b']:
+                paradigms.append('V31')
+            elif para in ['V11']:
+                paradigms.append('V11_main')
+            elif para in ['V12']:
+                paradigms.append('V12_main')
+            elif para in ['V14']:
+                paradigms.append('V14_main')
+            elif para in ['V22']:
+                paradigms.append('V22_main')
 
             strLex = '-lexeme\n'
             strLex += ' lex: ' + dictLex['lex'] + '\n'
@@ -492,8 +520,11 @@ def process_source():
         line += '\t' * 15
         rev, lex, lex_freq, homonym, pos, grams, grams2, flextype,\
             number, form2, form3, trans, comment, labels, gloss, rest = line.split('\t', 15)
+        flextype = flextype.strip()
         if flextype == 'N11/N18a':
             flextype = 'N18a'
+        if flextype == 'V43':
+            flextype = 'V43/V22'
         lexID = (lex, pos, homonym, grams, grams2)
         if lexID in lexemes:
             print('Duplicate lexeme: ' + line)
