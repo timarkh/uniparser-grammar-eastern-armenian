@@ -107,7 +107,7 @@
 
 -lexeme
  lex: ագռավանալ
- stem: .ագռաւա.//.ագռավա.
+ stem: .ագռավա.//.ագռաւա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -566,7 +566,7 @@
 
 -lexeme
  lex: ալեվետել
- stem: .ալեվետ.//.ալեւետ.
+ stem: .ալեւետ.//.ալեվետ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -575,7 +575,7 @@
 
 -lexeme
  lex: ալեվորել
- stem: .ալեւոր.//.ալեվոր.
+ stem: .ալեվոր.//.ալեւոր.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -629,7 +629,7 @@
 
 -lexeme
  lex: ալիքավորվել
- stem: .ալիքավորվ.//.ալիքաւորվ.
+ stem: .ալիքաւորվ.//.ալիքավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -826,7 +826,7 @@
 
 -lexeme
  lex: ախտավորվել
- stem: .ախտավորվ.//.ախտաւորվ.
+ stem: .ախտաւորվ.//.ախտավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -1123,7 +1123,7 @@
 
 -lexeme
  lex: ականավորել
- stem: .ականավոր.//.ականաւոր.
+ stem: .ականաւոր.//.ականավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -1132,7 +1132,7 @@
 
 -lexeme
  lex: ականավորվել
- stem: .ականաւորվ.//.ականավորվ.
+ stem: .ականավորվ.//.ականաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -1447,7 +1447,7 @@
 
 -lexeme
  lex: ակտավորել
- stem: .ակտաւոր.//.ակտավոր.
+ stem: .ակտավոր.//.ակտաւոր.
  gramm: V,tr
  gloss: draw.up.a.report
  paradigm: V11
@@ -1573,7 +1573,7 @@
 
 -lexeme
  lex: ահավորանալ
- stem: .ահաւորա.//.ահավորա.
+ stem: .ահավորա.//.ահաւորա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -1582,7 +1582,7 @@
 
 -lexeme
  lex: ահավորել
- stem: .ահաւոր.//.ահավոր.
+ stem: .ահավոր.//.ահաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -1788,7 +1788,7 @@
 
 -lexeme
  lex: աղավաղվել
- stem: .աղավաղվ.//.աղաւաղվ.
+ stem: .աղաւաղվ.//.աղավաղվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -1797,7 +1797,7 @@
 
 -lexeme
  lex: աղավնակերպվել
- stem: .աղավնակերպվ.//.աղաւնակերպվ.
+ stem: .աղաւնակերպվ.//.աղավնակերպվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -1995,7 +1995,7 @@
 
 -lexeme
  lex: աղեղնավորել
- stem: .աղեղնավոր.//.աղեղնաւոր.
+ stem: .աղեղնաւոր.//.աղեղնավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -3595,7 +3595,7 @@
 
 -lexeme
  lex: այլաձեւել
- stem: .այլաձև.//.այլաձեւ.//.այլաձեվ.
+ stem: .այլաձեվ.//.այլաձև.//.այլաձեւ.
  gramm: V,tr
  gloss: modify
  paradigm: V11
@@ -3604,7 +3604,7 @@
 
 -lexeme
  lex: այլաձեւվել
- stem: .այլաձեվվ.//.այլաձևվ.//.այլաձեւվ.
+ stem: .այլաձեւվ.//.այլաձևվ.//.այլաձեվվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -3721,7 +3721,7 @@
 
 -lexeme
  lex: այլեւայլվել
- stem: .այլեւայլվ.//.այլևայլվ.//.այլեվայլվ.
+ stem: .այլևայլվ.//.այլեւայլվ.//.այլեվայլվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -4171,7 +4171,7 @@
 
 -lexeme
  lex: անբավանալ
- stem: .անբաւա.//.անբավա.
+ stem: .անբավա.//.անբաւա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -4710,7 +4710,7 @@
 
 -lexeme
  lex: աներեւութանալ
- stem: .աներեվութա.//.աներեւութա.//.աներևութա.
+ stem: .աներեւութա.//.աներևութա.//.աներեվութա.
  gramm: V,intr
  gloss: become.invisible_disappear
  paradigm: V22
@@ -4719,7 +4719,7 @@
 
 -lexeme
  lex: աներեւութացնել
- stem: .աներեվութաց.//.աներևութաց.//.աներեւութաց.
+ stem: .աներեվութաց.//.աներեւութաց.//.աներևութաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -4746,7 +4746,7 @@
 
 -lexeme
  lex: անզավակացնել
- stem: .անզաւակաց.//.անզավակաց.
+ stem: .անզավակաց.//.անզաւակաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -4935,7 +4935,7 @@
 
 -lexeme
  lex: անիրավանալ
- stem: .անիրաւա.//.անիրավա.
+ stem: .անիրավա.//.անիրաւա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -4944,7 +4944,7 @@
 
 -lexeme
  lex: անիրավել
- stem: .անիրավ.//.անիրաւ.
+ stem: .անիրաւ.//.անիրավ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -5349,7 +5349,7 @@
 
 -lexeme
  lex: անձեւանալ
- stem: .անձեւա.//.անձևա.//.անձեվա.
+ stem: .անձեւա.//.անձեվա.//.անձևա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -5411,7 +5411,7 @@
 
 -lexeme
  lex: անձնավորվել
- stem: .անձնավորվ.//.անձնաւորվ.
+ stem: .անձնաւորվ.//.անձնավորվ.
  gramm: V,med,intr
  gloss: be.personified_embodied
  paradigm: V11
@@ -5429,7 +5429,7 @@
 
 -lexeme
  lex: անձրեւանալ
- stem: .անձրևա.//.անձրեվա.//.անձրեւա.
+ stem: .անձրեւա.//.անձրեվա.//.անձրևա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -5438,7 +5438,7 @@
 
 -lexeme
  lex: անձրեւել
- stem: .անձրեւ.//.անձրեվ.//.անձրև.
+ stem: .անձրև.//.անձրեվ.//.անձրեւ.
  gramm: V,tr
  gloss: rain
  paradigm: V11
@@ -5447,7 +5447,7 @@
 
 -lexeme
  lex: անձրեւոտել
- stem: .անձրևոտ.//.անձրեւոտ.//.անձրեվոտ.
+ stem: .անձրեվոտ.//.անձրևոտ.//.անձրեւոտ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -6471,7 +6471,7 @@
 
 -lexeme
  lex: անցավանալ
- stem: .անցաւա.//.անցավա.
+ stem: .անցավա.//.անցաւա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -6577,7 +6577,7 @@
 
 -lexeme
  lex: անցքավորել
- stem: .անցքաւոր.//.անցքավոր.
+ stem: .անցքավոր.//.անցքաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -6586,7 +6586,7 @@
 
 -lexeme
  lex: անցքավորվել
- stem: .անցքավորվ.//.անցքաւորվ.
+ stem: .անցքաւորվ.//.անցքավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -6685,7 +6685,7 @@
 
 -lexeme
  lex: աշխատավճարել
- stem: .աշխատավճար.//.աշխատաւճար.
+ stem: .աշխատաւճար.//.աշխատավճար.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -7557,7 +7557,7 @@
 
 -lexeme
  lex: ապաշավել
- stem: .ապաշաւ.//.ապաշավ.
+ stem: .ապաշավ.//.ապաշաւ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -7593,7 +7593,7 @@
 
 -lexeme
  lex: ապաորակավորվել
- stem: .ապաորակավորվ.//.ապաորակաւորվ.
+ stem: .ապաորակաւորվ.//.ապաորակավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -7764,7 +7764,7 @@
 
 -lexeme
  lex: ապավիժել
- stem: .ապավիժ.//.ապաւիժ.
+ stem: .ապաւիժ.//.ապավիժ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -7773,7 +7773,7 @@
 
 -lexeme
  lex: ապավիժվել
- stem: .ապավիժվ.//.ապաւիժվ.
+ stem: .ապաւիժվ.//.ապավիժվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -8070,7 +8070,7 @@
 
 -lexeme
  lex: ապրանքավորվել
- stem: .ապրանքաւորվ.//.ապրանքավորվ.
+ stem: .ապրանքավորվ.//.ապրանքաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -8123,7 +8123,7 @@
 
 -lexeme
  lex: առագաստավորել
- stem: .առագաստավոր.//.առագաստաւոր.
+ stem: .առագաստաւոր.//.առագաստավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -8132,7 +8132,7 @@
 
 -lexeme
  lex: առագաստավորվել
- stem: .առագաստավորվ.//.առագաստաւորվ.
+ stem: .առագաստաւորվ.//.առագաստավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -8463,7 +8463,7 @@
 
 -lexeme
  lex: առավելագրել
- stem: .առաւելագր.//.առավելագր.
+ stem: .առավելագր.//.առաւելագր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -8472,7 +8472,7 @@
 
 -lexeme
  lex: առավելադրել
- stem: .առավելադր.//.առաւելադր.
+ stem: .առաւելադր.//.առավելադր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -8525,7 +8525,7 @@
 
 -lexeme
  lex: առավոտել
- stem: .առավոտ.//.առաւոտ.
+ stem: .առաւոտ.//.առավոտ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -8732,7 +8732,7 @@
 
 -lexeme
  lex: առգրավվել
- stem: .առգրավվ.//.առգրաւվ.
+ stem: .առգրաւվ.//.առգրավվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -8813,7 +8813,7 @@
 
 -lexeme
  lex: առեւանգվել
- stem: .առեւանգվ.//.առեվանգվ.//.առևանգվ.
+ stem: .առեվանգվ.//.առևանգվ.//.առեւանգվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -9675,7 +9675,7 @@
 
 -lexeme
  lex: աստիճանավորել
- stem: .աստիճանավոր.//.աստիճանաւոր.
+ stem: .աստիճանաւոր.//.աստիճանավոր.
  gramm: V,tr
  gloss: graduate_promote
  paradigm: V11
@@ -9729,7 +9729,7 @@
 
 -lexeme
  lex: աստղավորվել
- stem: .աստղաւորվ.//.աստղավորվ.
+ stem: .աստղավորվ.//.աստղաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -9863,7 +9863,7 @@
 
 -lexeme
  lex: ավազակել
- stem: .ավազակ.//.աւազակ.
+ stem: .աւազակ.//.ավազակ.
  gramm: V,intr/tr
  gloss: STEM
  paradigm: V11
@@ -9872,7 +9872,7 @@
 
 -lexeme
  lex: ավազել
- stem: .ավազ.//.աւազ.
+ stem: .աւազ.//.ավազ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -9881,7 +9881,7 @@
 
 -lexeme
  lex: ավաղել
- stem: .աւաղ.//.ավաղ.
+ stem: .ավաղ.//.աւաղ.
  gramm: V,intr/tr
  gloss: STEM
  paradigm: V11
@@ -9899,7 +9899,7 @@
 
 -lexeme
  lex: ավանդել
- stem: .ավանդ.//.աւանդ.
+ stem: .աւանդ.//.ավանդ.
  gramm: V,tr
  gloss: bequeath_teach
  paradigm: V11
@@ -9908,7 +9908,7 @@
 
 -lexeme
  lex: ավանդվել
- stem: .աւանդվ.//.ավանդվ.
+ stem: .ավանդվ.//.աւանդվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -9926,7 +9926,7 @@
 
 -lexeme
  lex: ավանսավորվել
- stem: .ավանսավորվ.//.աւանսաւորվ.
+ stem: .աւանսաւորվ.//.ավանսավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -9935,7 +9935,7 @@
 
 -lexeme
  lex: ավաչել
- stem: .ավաչ.//.աւաչ.
+ stem: .աւաչ.//.ավաչ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -9944,7 +9944,7 @@
 
 -lexeme
  lex: ավարայրվել
- stem: .աւարայրվ.//.ավարայրվ.
+ stem: .ավարայրվ.//.աւարայրվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -9971,7 +9971,7 @@
 
 -lexeme
  lex: ավարել
- stem: .ավար.//.աւար.
+ stem: .աւար.//.ավար.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -9989,7 +9989,7 @@
 
 -lexeme
  lex: ավարտաբանել
- stem: .աւարտաբան.//.ավարտաբան.
+ stem: .ավարտաբան.//.աւարտաբան.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -10007,7 +10007,7 @@
 
 -lexeme
  lex: ավարտվել
- stem: .աւարտվ.//.ավարտվ.
+ stem: .ավարտվ.//.աւարտվ.
  gramm: V,med,intr
  gloss: end
  paradigm: V11
@@ -10016,7 +10016,7 @@
 
 -lexeme
  lex: ավելագրել
- stem: .ավելագր.//.աւելագր.
+ stem: .աւելագր.//.ավելագր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -10034,7 +10034,7 @@
 
 -lexeme
  lex: ավելանալ
- stem: .աւելա.//.ավելա.
+ stem: .ավելա.//.աւելա.
  gramm: V,intr
  gloss: rise
  paradigm: V22
@@ -10043,7 +10043,7 @@
 
 -lexeme
  lex: ավելացնել
- stem: .ավելաց.//.աւելաց.
+ stem: .աւելաց.//.ավելաց.
  gramm: V,caus,tr
  gloss: add
  paradigm: V14
@@ -10052,7 +10052,7 @@
 
 -lexeme
  lex: ավելացվել
- stem: .աւելացվ.//.ավելացվ.
+ stem: .ավելացվ.//.աւելացվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -10061,7 +10061,7 @@
 
 -lexeme
  lex: ավելել
- stem: .աւել.//.ավել.
+ stem: .ավել.//.աւել.
  gramm: V,tr
  gloss: add
  paradigm: V11
@@ -10070,7 +10070,7 @@
 
 -lexeme
  lex: ավելնալ
- stem: .աւել.//.ավել.
+ stem: .ավել.//.աւել.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -10097,7 +10097,7 @@
 
 -lexeme
  lex: ավետարանել
- stem: .ավետարան.//.աւետարան.
+ stem: .աւետարան.//.ավետարան.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -10115,7 +10115,7 @@
 
 -lexeme
  lex: ավետվել
- stem: .աւետվ.//.ավետվ.
+ stem: .ավետվ.//.աւետվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -10133,7 +10133,7 @@
 
 -lexeme
  lex: ավերակել
- stem: .աւերակ.//.ավերակ.
+ stem: .ավերակ.//.աւերակ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -10169,7 +10169,7 @@
 
 -lexeme
  lex: ավիրել
- stem: .աւիր.//.ավիր.
+ stem: .ավիր.//.աւիր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -10178,7 +10178,7 @@
 
 -lexeme
  lex: ավլել
- stem: .աւլ.//.ավլ.
+ stem: .ավլ.//.աւլ.
  gramm: V,tr
  gloss: sweep
  paradigm: V11
@@ -10204,7 +10204,7 @@
 
 -lexeme
  lex: ավտոմատանալ
- stem: .ավտոմատա.//.աւտոմատա.
+ stem: .աւտոմատա.//.ավտոմատա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -10213,7 +10213,7 @@
 
 -lexeme
  lex: ավտոմատացնել
- stem: .ավտոմատաց.//.աւտոմատաց.
+ stem: .աւտոմատաց.//.ավտոմատաց.
  gramm: V,caus,tr
  gloss: automatize
  paradigm: V14
@@ -10222,7 +10222,7 @@
 
 -lexeme
  lex: ավտոմատացվել
- stem: .ավտոմատացվ.//.աւտոմատացվ.
+ stem: .աւտոմատացվ.//.ավտոմատացվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -10321,7 +10321,7 @@
 
 -lexeme
  lex: ատեստավորել
- stem: .ատեստաւոր.//.ատեստավոր.
+ stem: .ատեստավոր.//.ատեստաւոր.
  gramm: V,tr
  gloss: certify_recommendation
  paradigm: V11
@@ -10339,7 +10339,7 @@
 
 -lexeme
  lex: ատեստատավորվել
- stem: .ատեստատաւորվ.//.ատեստատավորվ.
+ stem: .ատեստատավորվ.//.ատեստատաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -10608,7 +10608,7 @@
 
 -lexeme
  lex: արգասավորել
- stem: .արգասավոր.//.արգասաւոր.
+ stem: .արգասաւոր.//.արգասավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -10841,7 +10841,7 @@
 
 -lexeme
  lex: արդյունավորել
- stem: .արդյունավոր.//.արդյունաւոր.
+ stem: .արդյունաւոր.//.արդյունավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -10850,7 +10850,7 @@
 
 -lexeme
  lex: արդյունավորվել
- stem: .արդյունաւորվ.//.արդյունավորվ.
+ stem: .արդյունավորվ.//.արդյունաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -10922,7 +10922,7 @@
 
 -lexeme
  lex: արեւաբանել
- stem: .արեւաբան.//.արևաբան.//.արեվաբան.
+ stem: .արևաբան.//.արեվաբան.//.արեւաբան.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -10931,7 +10931,7 @@
 
 -lexeme
  lex: արեւազարդել
- stem: .արեվազարդ.//.արեւազարդ.//.արևազարդ.
+ stem: .արեւազարդ.//.արեվազարդ.//.արևազարդ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -10940,7 +10940,7 @@
 
 -lexeme
  lex: արեւակիզել
- stem: .արեւակիզ.//.արևակիզ.//.արեվակիզ.
+ stem: .արևակիզ.//.արեվակիզ.//.արեւակիզ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -10949,7 +10949,7 @@
 
 -lexeme
  lex: արեւանալ
- stem: .արեվա.//.արևա.//.արեւա.
+ stem: .արևա.//.արեվա.//.արեւա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -10958,7 +10958,7 @@
 
 -lexeme
  lex: արեւառել
- stem: .արեվառ.//.արևառ.//.արեւառ.
+ stem: .արևառ.//.արեւառ.//.արեվառ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -10967,7 +10967,7 @@
 
 -lexeme
  lex: արեւառվել
- stem: .արեվառվ.//.արևառվ.//.արեւառվ.
+ stem: .արեւառվ.//.արեվառվ.//.արևառվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -10976,7 +10976,7 @@
 
 -lexeme
  lex: արեւավորվել
- stem: .արեվավորվ.//.արևավորվ.//.արեւաւորվ.//.արեւավորվ.
+ stem: .արևավորվ.//.արեւաւորվ.//.արեւավորվ.//.արեվավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -10985,7 +10985,7 @@
 
 -lexeme
  lex: արեւարկել
- stem: .արեւարկ.//.արեվարկ.//.արևարկ.
+ stem: .արևարկ.//.արեւարկ.//.արեվարկ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -10994,7 +10994,7 @@
 
 -lexeme
  lex: արեւարկվել
- stem: .արևարկվ.//.արեւարկվ.//.արեվարկվ.
+ stem: .արեվարկվ.//.արեւարկվ.//.արևարկվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -11003,7 +11003,7 @@
 
 -lexeme
  lex: արեւացնել
- stem: .արեվաց.//.արեւաց.//.արևաց.
+ stem: .արևաց.//.արեւաց.//.արեվաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -11012,7 +11012,7 @@
 
 -lexeme
  lex: արեւել
- stem: .արեվ.//.արեւ.//.արև.
+ stem: .արեվ.//.արև.//.արեւ.
  gramm: V,intr/tr
  gloss: STEM
  paradigm: V11
@@ -11021,7 +11021,7 @@
 
 -lexeme
  lex: արեւելել
- stem: .արևել.//.արեւել.//.արեվել.
+ stem: .արեւել.//.արևել.//.արեվել.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -11039,7 +11039,7 @@
 
 -lexeme
  lex: արեւմտականանալ
- stem: .արեւմտականա.//.արեվմտականա.//.արևմտականա.
+ stem: .արևմտականա.//.արեվմտականա.//.արեւմտականա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -11048,7 +11048,7 @@
 
 -lexeme
  lex: արեւոտել
- stem: .արեվոտ.//.արևոտ.//.արեւոտ.
+ stem: .արեւոտ.//.արեվոտ.//.արևոտ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -11111,7 +11111,7 @@
 
 -lexeme
  lex: արժանավորել
- stem: .արժանաւոր.//.արժանավոր.
+ stem: .արժանավոր.//.արժանաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -11281,7 +11281,7 @@
 
 -lexeme
  lex: արժեքավորվել
- stem: .արժեքաւորվ.//.արժեքավորվ.
+ stem: .արժեքավորվ.//.արժեքաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -11731,7 +11731,7 @@
 
 -lexeme
  lex: արմատավորել
- stem: .արմատավոր.//.արմատաւոր.
+ stem: .արմատաւոր.//.արմատավոր.
  gramm: V,tr
  gloss: implant_inculcate.(upon)
  paradigm: V11
@@ -11740,7 +11740,7 @@
 
 -lexeme
  lex: արմատավորվել
- stem: .արմատաւորվ.//.արմատավորվ.
+ stem: .արմատավորվ.//.արմատաւորվ.
  gramm: V,med,intr
  gloss: take_strike.root
  paradigm: V11
@@ -13059,7 +13059,7 @@
 
 -lexeme
  lex: արտավազել
- stem: .արտաւազ.//.արտավազ.
+ stem: .արտավազ.//.արտաւազ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -13077,7 +13077,7 @@
 
 -lexeme
  lex: արտավարել
- stem: .արտավար.//.արտաւար.
+ stem: .արտաւար.//.արտավար.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -13131,7 +13131,7 @@
 
 -lexeme
  lex: արտատպավորել
- stem: .արտատպավոր.//.արտատպաւոր.
+ stem: .արտատպաւոր.//.արտատպավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -13418,7 +13418,7 @@
 
 -lexeme
  lex: արփավետել
- stem: .արփաւետ.//.արփավետ.
+ stem: .արփավետ.//.արփաւետ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -13436,7 +13436,7 @@
 
 -lexeme
  lex: արփավորել
- stem: .արփաւոր.//.արփավոր.
+ stem: .արփավոր.//.արփաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -13472,7 +13472,7 @@
 
 -lexeme
  lex: արփիավորվել
- stem: .արփիավորվ.//.արփիաւորվ.
+ stem: .արփիաւորվ.//.արփիավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -13723,7 +13723,7 @@
 
 -lexeme
  lex: բազավորվել
- stem: .բազաւորվ.//.բազավորվ.
+ stem: .բազավորվ.//.բազաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -13795,7 +13795,7 @@
 
 -lexeme
  lex: բազմաձեւվել
- stem: .բազմաձեվվ.//.բազմաձեւվ.//.բազմաձևվ.
+ stem: .բազմաձևվ.//.բազմաձեվվ.//.բազմաձեւվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -14056,7 +14056,7 @@
 
 -lexeme
  lex: բալանսավորվել
- stem: .բալանսաւորվ.//.բալանսավորվ.
+ stem: .բալանսավորվ.//.բալանսաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -14173,7 +14173,7 @@
 
 -lexeme
  lex: բախտավորել
- stem: .բախտաւոր.//.բախտավոր.
+ stem: .բախտավոր.//.բախտաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -14191,7 +14191,7 @@
 
 -lexeme
  lex: բախտավորվել
- stem: .բախտավորվ.//.բախտաւորվ.
+ stem: .բախտաւորվ.//.բախտավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -14657,7 +14657,7 @@
 
 -lexeme
  lex: բանաձեւել
- stem: .բանաձեվ.//.բանաձև.//.բանաձեւ.
+ stem: .բանաձեվ.//.բանաձեւ.//.բանաձև.
  gramm: V,tr
  gloss: formulate
  paradigm: V11
@@ -14666,7 +14666,7 @@
 
 -lexeme
  lex: բանաձեւվել
- stem: .բանաձեւվ.//.բանաձեվվ.//.բանաձևվ.
+ stem: .բանաձևվ.//.բանաձեւվ.//.բանաձեվվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -15088,7 +15088,7 @@
 
 -lexeme
  lex: բավականանալ
- stem: .բավականա.//.բաւականա.
+ stem: .բաւականա.//.բավականա.
  gramm: V,intr
  gloss: be.content_satisfied.(with)
  paradigm: V22
@@ -15106,7 +15106,7 @@
 
 -lexeme
  lex: բավարարել
- stem: .բավարար.//.բաւարար.
+ stem: .բաւարար.//.բավարար.
  gramm: V,tr
  gloss: satisfy
  paradigm: V11
@@ -15115,7 +15115,7 @@
 
 -lexeme
  lex: բավարարվել
- stem: .բաւարարվ.//.բավարարվ.
+ stem: .բավարարվ.//.բաւարարվ.
  gramm: V,med,intr
  gloss: satisfy.oneself
  paradigm: V11
@@ -15124,7 +15124,7 @@
 
 -lexeme
  lex: բավել
- stem: .բավ.//.բաւ.
+ stem: .բաւ.//.բավ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -15223,7 +15223,7 @@
 
 -lexeme
  lex: բարգավաճել
- stem: .բարգավաճ.//.բարգաւաճ.
+ stem: .բարգաւաճ.//.բարգավաճ.
  gramm: V,intr
  gloss: prosper_flourish_thrive
  paradigm: V11
@@ -15367,7 +15367,7 @@
 
 -lexeme
  lex: բարելավվել
- stem: .բարելաւվ.//.բարելավվ.
+ stem: .բարելավվ.//.բարելաւվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -15484,7 +15484,7 @@
 
 -lexeme
  lex: բարեհամբավել
- stem: .բարեհամբավ.//.բարեհամբաւ.
+ stem: .բարեհամբաւ.//.բարեհամբավ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -15619,7 +15619,7 @@
 
 -lexeme
  lex: բարեւել
- stem: .բարեւ.//.բարև.//.բարեվ.
+ stem: .բարեվ.//.բարև.//.բարեւ.
  gramm: V,intr
  gloss: greet
  paradigm: V11
@@ -15727,7 +15727,7 @@
 
 -lexeme
  lex: բարձրավզել
- stem: .բարձրաւզ.//.բարձրավզ.
+ stem: .բարձրավզ.//.բարձրաւզ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -16150,7 +16150,7 @@
 
 -lexeme
  lex: բացօթեւանել
- stem: .բացօթեւան.//.բացօթեվան.//.բացօթևան.
+ stem: .բացօթևան.//.բացօթեվան.//.բացօթեւան.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -16311,7 +16311,7 @@
 
 -lexeme
  lex: բեղմնավորել
- stem: .բեղմնավոր.//.բեղմնաւոր.
+ stem: .բեղմնաւոր.//.բեղմնավոր.
  gramm: V,tr
  gloss: impregnate_inseminate_pollinate
  paradigm: V11
@@ -16697,7 +16697,7 @@
 
 -lexeme
  lex: բեւեռաթափել
- stem: .բեվեռաթափ.//.բեւեռաթափ.//.բևեռաթափ.
+ stem: .բևեռաթափ.//.բեվեռաթափ.//.բեւեռաթափ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -16706,7 +16706,7 @@
 
 -lexeme
  lex: բեւեռանալ
- stem: .բեվեռա.//.բևեռա.//.բեւեռա.
+ stem: .բևեռա.//.բեվեռա.//.բեւեռա.
  gramm: V,intr
  gloss: polarize
  paradigm: V22
@@ -16715,7 +16715,7 @@
 
 -lexeme
  lex: բեւեռապնդել
- stem: .բևեռապնդ.//.բեվեռապնդ.//.բեւեռապնդ.
+ stem: .բեւեռապնդ.//.բևեռապնդ.//.բեվեռապնդ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -16724,7 +16724,7 @@
 
 -lexeme
  lex: բեւեռացնել
- stem: .բեւեռաց.//.բևեռաց.//.բեվեռաց.
+ stem: .բևեռաց.//.բեւեռաց.//.բեվեռաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -16742,7 +16742,7 @@
 
 -lexeme
  lex: բեւեռել
- stem: .բևեռ.//.բեվեռ.//.բեւեռ.
+ stem: .բեվեռ.//.բեւեռ.//.բևեռ.
  gramm: V,intr/tr
  gloss: nail_nail.down_fix
  paradigm: V11
@@ -16751,7 +16751,7 @@
 
 -lexeme
  lex: բեւեռվել
- stem: .բևեռվ.//.բեվեռվ.//.բեւեռվ.
+ stem: .բեվեռվ.//.բևեռվ.//.բեւեռվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -17210,7 +17210,7 @@
 
 -lexeme
  lex: բծավորել
- stem: .բծավոր.//.բծաւոր.
+ stem: .բծաւոր.//.բծավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -17272,7 +17272,7 @@
 
 -lexeme
  lex: բղավել
- stem: .բղաւ.//.բղավ.
+ stem: .բղավ.//.բղաւ.
  gramm: V,intr
  gloss: cry
  paradigm: V11
@@ -17281,7 +17281,7 @@
 
 -lexeme
  lex: բղավել-ճղավել
- stem: .բղաւել-ճղաւ.//.բղավել-ճղավ.
+ stem: .բղավել-ճղավ.//.բղաւել-ճղաւ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -17290,7 +17290,7 @@
 
 -lexeme
  lex: բղավեցնել
- stem: .բղաւեց.//.բղավեց.
+ stem: .բղավեց.//.բղաւեց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -17503,7 +17503,7 @@
 
 -lexeme
  lex: բնակարանավորել
- stem: .բնակարանաւոր.//.բնակարանավոր.
+ stem: .բնակարանավոր.//.բնակարանաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -17512,7 +17512,7 @@
 
 -lexeme
  lex: բնակարանավորվել
- stem: .բնակարանավորվ.//.բնակարանաւորվ.
+ stem: .բնակարանաւորվ.//.բնակարանավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -17638,7 +17638,7 @@
 
 -lexeme
  lex: բնավորել
- stem: .բնաւոր.//.բնավոր.
+ stem: .բնավոր.//.բնաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -17915,7 +17915,7 @@
 
 -lexeme
  lex: բոժոժավորվել
- stem: .բոժոժավորվ.//.բոժոժաւորվ.
+ stem: .բոժոժաւորվ.//.բոժոժավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -17933,7 +17933,7 @@
 
 -lexeme
  lex: բոլշեւիկանալ
- stem: .բոլշեւիկա.//.բոլշեվիկա.//.բոլշևիկա.
+ stem: .բոլշեվիկա.//.բոլշևիկա.//.բոլշեւիկա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -17942,7 +17942,7 @@
 
 -lexeme
  lex: բոլշեւիկացնել
- stem: .բոլշեվիկաց.//.բոլշեւիկաց.//.բոլշևիկաց.
+ stem: .բոլշևիկաց.//.բոլշեւիկաց.//.բոլշեվիկաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -18270,7 +18270,7 @@
 
 -lexeme
  lex: բովանդակավորել
- stem: .բովանդակավոր.//.բովանդակաւոր.
+ stem: .բովանդակաւոր.//.բովանդակավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -18512,7 +18512,7 @@
 
 -lexeme
  lex: բոցավառել
- stem: .բոցաւառ.//.բոցավառ.
+ stem: .բոցավառ.//.բոցաւառ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -18521,7 +18521,7 @@
 
 -lexeme
  lex: բոցավառվել
- stem: .բոցաւառվ.//.բոցավառվ.
+ stem: .բոցավառվ.//.բոցաւառվ.
  gramm: V,med,intr
  gloss: blaze.up_catch.fire_break.out
  paradigm: V11
@@ -18637,7 +18637,7 @@
 
 -lexeme
  lex: բունավորել
- stem: .բունավոր.//.բունաւոր.
+ stem: .բունաւոր.//.բունավոր.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -18752,7 +18752,7 @@
 
 -lexeme
  lex: բուրավետվել
- stem: .բուրավետվ.//.բուրաւետվ.
+ stem: .բուրաւետվ.//.բուրավետվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -18999,7 +18999,7 @@
 
 -lexeme
  lex: բռնագրավել
- stem: .բռնագրավ.//.բռնագրաւ.
+ stem: .բռնագրաւ.//.բռնագրավ.
  gramm: V,tr
  gloss: confiscate
  paradigm: V11
@@ -19008,7 +19008,7 @@
 
 -lexeme
  lex: բռնագրավվել
- stem: .բռնագրաւվ.//.բռնագրավվ.
+ stem: .բռնագրավվ.//.բռնագրաւվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -19089,7 +19089,7 @@
 
 -lexeme
  lex: բռնավարել
- stem: .բռնաւար.//.բռնավար.
+ stem: .բռնավար.//.բռնաւար.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -19848,7 +19848,7 @@
 
 -lexeme
  lex: գազավորել
- stem: .գազավոր.//.գազաւոր.
+ stem: .գազաւոր.//.գազավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -19902,18 +19902,19 @@
 
 -lexeme
  lex: գալ
- stem: .գ.|.եկ.//.էկ.|.արի.
+ stem: .գ.|.էկ.//.եկ.|.արի.
  gramm: V,intr
  gloss: come
  paradigm: V32a
+ paradigm: V32
  trans_en: come, arrive, set in
 
 -lexeme
  lex: գալ
- stem: .գ.
+ stem: .NONE.|.էկ.|.NONE.
  gramm: V,oral
  gloss: STEM
- paradigm: V32d
+ paradigm: V32
  trans_en: 
 
 -lexeme
@@ -20718,7 +20719,7 @@
 
 -lexeme
  lex: գավազանահարվել
- stem: .գավազանահարվ.//.գաւազանահարվ.
+ stem: .գաւազանահարվ.//.գավազանահարվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -21309,7 +21310,7 @@
 
 -lexeme
  lex: գետանավել
- stem: .գետանավ.//.գետանաւ.
+ stem: .գետանաւ.//.գետանավ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -21786,7 +21787,7 @@
 
 -lexeme
  lex: գերավճարել
- stem: .գերաւճար.//.գերավճար.
+ stem: .գերավճար.//.գերաւճար.
  gramm: V,tr
  gloss: overpay.(for)
  paradigm: V11
@@ -21957,7 +21958,7 @@
 
 -lexeme
  lex: գերեվարել
- stem: .գերեվար.//.գերեւար.
+ stem: .գերեւար.//.գերեվար.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -21966,7 +21967,7 @@
 
 -lexeme
  lex: գերեւարել
- stem: .գերեվար.//.գերևար.//.գերեւար.
+ stem: .գերեւար.//.գերևար.//.գերեվար.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -21975,7 +21976,7 @@
 
 -lexeme
  lex: գերեւարվել
- stem: .գերեվարվ.//.գերեւարվ.//.գերևարվ.
+ stem: .գերևարվ.//.գերեվարվ.//.գերեւարվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -23221,7 +23222,7 @@
 
 -lexeme
  lex: գլխավորել
- stem: .գլխավոր.//.գլխաւոր.
+ stem: .գլխաւոր.//.գլխավոր.
  gramm: V,tr
  gloss: lead
  paradigm: V11
@@ -23471,7 +23472,7 @@
 
 -lexeme
  lex: գծավորել
- stem: .գծավոր.//.գծաւոր.
+ stem: .գծաւոր.//.գծավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -23480,7 +23481,7 @@
 
 -lexeme
  lex: գծավորվել
- stem: .գծավորվ.//.գծաւորվ.
+ stem: .գծաւորվ.//.գծավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -23623,7 +23624,7 @@
 
 -lexeme
  lex: գմբեթավորել
- stem: .գմբեթավոր.//.գմբեթաւոր.
+ stem: .գմբեթաւոր.//.գմբեթավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -23933,7 +23934,7 @@
 
 -lexeme
  lex: գոգավորել
- stem: .գոգավոր.//.գոգաւոր.
+ stem: .գոգաւոր.//.գոգավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -23942,7 +23943,7 @@
 
 -lexeme
  lex: գոգավորվել
- stem: .գոգավորվ.//.գոգաւորվ.
+ stem: .գոգաւորվ.//.գոգավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -24266,7 +24267,7 @@
 
 -lexeme
  lex: գոյատեւել
- stem: .գոյատեւ.//.գոյատեվ.//.գոյատև.
+ stem: .գոյատեվ.//.գոյատև.//.գոյատեւ.
  gramm: V,intr
  gloss: exist_survive
  paradigm: V11
@@ -24613,7 +24614,7 @@
 
 -lexeme
  lex: գոտեւորել
- stem: .գոտեւոր.//.գոտեվոր.//.գոտևոր.
+ stem: .գոտևոր.//.գոտեվոր.//.գոտեւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -24622,7 +24623,7 @@
 
 -lexeme
  lex: գոտեւորվել
- stem: .գոտեւորվ.//.գոտևորվ.//.գոտեվորվ.
+ stem: .գոտեվորվ.//.գոտևորվ.//.գոտեւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -24757,7 +24758,7 @@
 
 -lexeme
  lex: գործավարժվել
- stem: .գործաւարժվ.//.գործավարժվ.
+ stem: .գործավարժվ.//.գործաւարժվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -25214,7 +25215,7 @@
 
 -lexeme
  lex: գունավառել
- stem: .գունաւառ.//.գունավառ.
+ stem: .գունավառ.//.գունաւառ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -25223,7 +25224,7 @@
 
 -lexeme
  lex: գունավառվել
- stem: .գունավառվ.//.գունաւառվ.
+ stem: .գունաւառվ.//.գունավառվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -25241,7 +25242,7 @@
 
 -lexeme
  lex: գունավորվել
- stem: .գունավորվ.//.գունաւորվ.
+ stem: .գունաւորվ.//.գունավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -25809,7 +25810,7 @@
 
 -lexeme
  lex: գրավադրել
- stem: .գրավադր.//.գրաւադր.
+ stem: .գրաւադր.//.գրավադր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -25818,7 +25819,7 @@
 
 -lexeme
  lex: գրավադրվել
- stem: .գրավադրվ.//.գրաւադրվ.
+ stem: .գրաւադրվ.//.գրավադրվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -25845,7 +25846,7 @@
 
 -lexeme
  lex: գրավականել
- stem: .գրաւական.//.գրավական.
+ stem: .գրավական.//.գրաւական.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -25854,7 +25855,7 @@
 
 -lexeme
  lex: գրավել
- stem: .գրավ.//.գրաւ.
+ stem: .գրաւ.//.գրավ.
  gramm: V,intr
  gloss: seize
  paradigm: V11
@@ -25890,7 +25891,7 @@
 
 -lexeme
  lex: գրացուցակավորվել
- stem: .գրացուցակաւորվ.//.գրացուցակավորվ.
+ stem: .գրացուցակավորվ.//.գրացուցակաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -25996,7 +25997,7 @@
 
 -lexeme
  lex: գրիմավորել
- stem: .գրիմավոր.//.գրիմաւոր.
+ stem: .գրիմաւոր.//.գրիմավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -27037,7 +27038,7 @@
 
 -lexeme
  lex: դասավանդել
- stem: .դասաւանդ.//.դասավանդ.
+ stem: .դասավանդ.//.դասաւանդ.
  gramm: V,tr
  gloss: teach
  paradigm: V11
@@ -27046,7 +27047,7 @@
 
 -lexeme
  lex: դասավանդվել
- stem: .դասաւանդվ.//.դասավանդվ.
+ stem: .դասավանդվ.//.դասաւանդվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -27064,7 +27065,7 @@
 
 -lexeme
  lex: դասավորվել
- stem: .դասավորվ.//.դասաւորվ.
+ stem: .դասաւորվ.//.դասավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -27145,7 +27146,7 @@
 
 -lexeme
  lex: դավադրել
- stem: .դաւադր.//.դավադր.
+ stem: .դավադր.//.դաւադր.
  gramm: V,intr
  gloss: intrigue_scheme
  paradigm: V11
@@ -27163,7 +27164,7 @@
 
 -lexeme
  lex: դավակցել
- stem: .դաւակց.//.դավակց.
+ stem: .դավակց.//.դաւակց.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -27172,7 +27173,7 @@
 
 -lexeme
  lex: դավաճանել
- stem: .դաւաճան.//.դավաճան.
+ stem: .դավաճան.//.դաւաճան.
  gramm: V,intr
  gloss: betray
  paradigm: V11
@@ -27190,7 +27191,7 @@
 
 -lexeme
  lex: դավանվել
- stem: .դավանվ.//.դաւանվ.
+ stem: .դաւանվ.//.դավանվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -27199,7 +27200,7 @@
 
 -lexeme
  lex: դավել
- stem: .դաւ.//.դավ.
+ stem: .դավ.//.դաւ.
  gramm: V,intr
  gloss: scheme_machinate
  paradigm: V11
@@ -27271,7 +27272,7 @@
 
 -lexeme
  lex: դատավարել
- stem: .դատաւար.//.դատավար.
+ stem: .դատավար.//.դատաւար.
  gramm: V,intr
  gloss: carry.on.a.lawsuit
  paradigm: V11
@@ -27469,7 +27470,7 @@
 
 -lexeme
  lex: դարավանդել
- stem: .դարաւանդ.//.դարավանդ.
+ stem: .դարավանդ.//.դարաւանդ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -27541,7 +27542,7 @@
 
 -lexeme
  lex: դարձաբեւեռել
- stem: .դարձաբեւեռ.//.դարձաբեվեռ.//.դարձաբևեռ.
+ stem: .դարձաբեվեռ.//.դարձաբևեռ.//.դարձաբեւեռ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -27550,7 +27551,7 @@
 
 -lexeme
  lex: դարձաբեւեռվել
- stem: .դարձաբևեռվ.//.դարձաբեւեռվ.//.դարձաբեվեռվ.
+ stem: .դարձաբեւեռվ.//.դարձաբևեռվ.//.դարձաբեվեռվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -27872,7 +27873,7 @@
 
 -lexeme
  lex: դեկրետավորվել
- stem: .դեկրետավորվ.//.դեկրետաւորվ.
+ stem: .դեկրետաւորվ.//.դեկրետավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -28169,7 +28170,7 @@
 
 -lexeme
  lex: դեւոտել
- stem: .դեվոտ.//.դեւոտ.//.դևոտ.
+ stem: .դեւոտ.//.դեվոտ.//.դևոտ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -28499,7 +28500,7 @@
 
 -lexeme
  lex: դիմակավորվել
- stem: .դիմակաւորվ.//.դիմակավորվ.
+ stem: .դիմակավորվ.//.դիմակաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -28580,7 +28581,7 @@
 
 -lexeme
  lex: դիմավորել
- stem: .դիմաւոր.//.դիմավոր.
+ stem: .դիմավոր.//.դիմաւոր.
  gramm: V,tr
  gloss: meet
  paradigm: V11
@@ -28687,7 +28688,7 @@
 
 -lexeme
  lex: դիրքավորել
- stem: .դիրքավոր.//.դիրքաւոր.
+ stem: .դիրքաւոր.//.դիրքավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -29062,7 +29063,7 @@
 
 -lexeme
  lex: դոզավորել
- stem: .դոզաւոր.//.դոզավոր.
+ stem: .դոզավոր.//.դոզաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -29570,7 +29571,7 @@
 
 -lexeme
  lex: դրեյֆել
- stem: դրեյֆել.
+ stem: դրեյֆել.//դրեյֆէլ.
  gramm: V,intr
  gloss: STEM
  paradigm: Empty
@@ -29894,7 +29895,7 @@
 
 -lexeme
  lex: դրսեւորել
- stem: .դրսեվոր.//.դրսեւոր.//.դրսևոր.
+ stem: .դրսևոր.//.դրսեւոր.//.դրսեվոր.
  gramm: V,tr
  gloss: show
  paradigm: V11
@@ -29903,7 +29904,7 @@
 
 -lexeme
  lex: դրսեւորվել
- stem: .դրսևորվ.//.դրսեվորվ.//.դրսեւորվ.
+ stem: .դրսեվորվ.//.դրսեւորվ.//.դրսևորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -30308,7 +30309,7 @@
 
 -lexeme
  lex: եզրանավել
- stem: .եզրանավ.//.եզրանաւ.
+ stem: .եզրանաւ.//.եզրանավ.
  gramm: V,intr
  gloss: coast
  paradigm: V11
@@ -30344,7 +30345,7 @@
 
 -lexeme
  lex: եզրավորվել
- stem: .եզրավորվ.//.եզրաւորվ.
+ stem: .եզրաւորվ.//.եզրավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -30407,7 +30408,7 @@
 
 -lexeme
  lex: ելեւէջավորել
- stem: .ելեվէջավոր.//.ելևէջավոր.//.ելեւէջավոր.//.ելեւէջաւոր.
+ stem: .ելևէջավոր.//.ելեվէջավոր.//.ելեւէջավոր.//.ելեւէջաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -30416,7 +30417,7 @@
 
 -lexeme
  lex: ելեւէջավորվել
- stem: .ելեվէջավորվ.//.ելևէջավորվ.//.ելեւէջավորվ.//.ելեւէջաւորվ.
+ stem: .ելեւէջաւորվ.//.ելեվէջավորվ.//.ելևէջավորվ.//.ելեւէջավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -30523,7 +30524,7 @@
 
 -lexeme
  lex: եկավորել
- stem: .եկաւոր.//.եկավոր.
+ stem: .եկավոր.//.եկաւոր.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -30550,7 +30551,7 @@
 
 -lexeme
  lex: եղանակավորվել
- stem: .եղանակաւորվ.//.եղանակավորվ.
+ stem: .եղանակավորվ.//.եղանակաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -30991,7 +30992,7 @@
 
 -lexeme
  lex: ենթավարձվել
- stem: .ենթավարձվ.//.ենթաւարձվ.
+ stem: .ենթաւարձվ.//.ենթավարձվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -31000,7 +31001,7 @@
 
 -lexeme
  lex: ենթավերնագրել
- stem: .ենթաւերնագր.//.ենթավերնագր.
+ stem: .ենթավերնագր.//.ենթաւերնագր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -31116,7 +31117,7 @@
 
 -lexeme
  lex: եռանդավառել
- stem: .եռանդավառ.//.եռանդաւառ.
+ stem: .եռանդաւառ.//.եռանդավառ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -31134,7 +31135,7 @@
 
 -lexeme
  lex: եռանդավորել
- stem: .եռանդավոր.//.եռանդաւոր.
+ stem: .եռանդաւոր.//.եռանդավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -31143,7 +31144,7 @@
 
 -lexeme
  lex: եռանդավորվել
- stem: .եռանդավորվ.//.եռանդաւորվ.
+ stem: .եռանդաւորվ.//.եռանդավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -31233,7 +31234,7 @@
 
 -lexeme
  lex: եռեւեփել
- stem: .եռեվեփ.//.եռևեփ.//.եռեւեփ.
+ stem: .եռեւեփ.//.եռեվեփ.//.եռևեփ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -31358,7 +31359,7 @@
 
 -lexeme
  lex: ետեւառաջել
- stem: .ետեւառաջ.//.ետևառաջ.//.ետեվառաջ.
+ stem: .ետեւառաջ.//.ետեվառաջ.//.ետևառաջ.
  gramm: V,intr/tr
  gloss: STEM
  paradigm: V11
@@ -31511,7 +31512,7 @@
 
 -lexeme
  lex: երախտավորել
- stem: .երախտավոր.//.երախտաւոր.
+ stem: .երախտաւոր.//.երախտավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -31520,7 +31521,7 @@
 
 -lexeme
  lex: երախտավորվել
- stem: .երախտաւորվ.//.երախտավորվ.
+ stem: .երախտավորվ.//.երախտաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -31547,7 +31548,7 @@
 
 -lexeme
  lex: երակավորել
- stem: .երակավոր.//.երակաւոր.
+ stem: .երակաւոր.//.երակավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -31591,7 +31592,7 @@
 
 -lexeme
  lex: երանգավորել
- stem: .երանգաւոր.//.երանգավոր.
+ stem: .երանգավոր.//.երանգաւոր.
  gramm: V,tr
  gloss: shade_put.expression
  paradigm: V11
@@ -31645,7 +31646,7 @@
 
 -lexeme
  lex: երաշխավորվել
- stem: .երաշխավորվ.//.երաշխաւորվ.
+ stem: .երաշխաւորվ.//.երաշխավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -32128,7 +32129,7 @@
 
 -lexeme
  lex: երեւալ
- stem: .երեւ.//.երև.//.երեվ.
+ stem: .երեւ.//.երեվ.//.երև.
  gramm: V,intr
  gloss: appear
  paradigm: V21
@@ -32145,7 +32146,7 @@
 
 -lexeme
  lex: երեւակայվել
- stem: .երեվակայվ.//.երեւակայվ.//.երևակայվ.
+ stem: .երեւակայվ.//.երեվակայվ.//.երևակայվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -32154,7 +32155,7 @@
 
 -lexeme
  lex: երեւակել
- stem: .երևակ.//.երեւակ.//.երեվակ.
+ stem: .երեւակ.//.երևակ.//.երեվակ.
  gramm: V,tr
  gloss: develop
  paradigm: V11
@@ -32163,7 +32164,7 @@
 
 -lexeme
  lex: երեւակվել
- stem: .երևակվ.//.երեւակվ.//.երեվակվ.
+ stem: .երեւակվ.//.երեվակվ.//.երևակվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -32172,7 +32173,7 @@
 
 -lexeme
  lex: երեւանալ
- stem: .երեվա.//.երեւա.//.երևա.
+ stem: .երեւա.//.երևա.//.երեվա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -32181,7 +32182,7 @@
 
 -lexeme
  lex: երեւացնել
- stem: .երևաց.//.երեվաց.//.երեւաց.
+ stem: .երեւաց.//.երեվաց.//.երևաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -32190,7 +32191,7 @@
 
 -lexeme
  lex: երեւել
- stem: .երեւ.//.երև.//.երեվ.
+ stem: .երեւ.//.երեվ.//.երև.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -32199,7 +32200,7 @@
 
 -lexeme
  lex: երեւելանալ
- stem: .երեվելա.//.երևելա.//.երեւելա.
+ stem: .երևելա.//.երեվելա.//.երեւելա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -32208,7 +32209,7 @@
 
 -lexeme
  lex: երեւենալ
- stem: .երևե.//.երեվե.//.երեւե.
+ stem: .երեվե.//.երևե.//.երեւե.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -32217,7 +32218,7 @@
 
 -lexeme
  lex: երեւեցնել
- stem: .երևեց.//.երեվեց.//.երեւեց.
+ stem: .երեւեց.//.երեվեց.//.երևեց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -32226,7 +32227,7 @@
 
 -lexeme
  lex: երեւութանալ
- stem: .երեւութա.//.երևութա.//.երեվութա.
+ stem: .երեւութա.//.երեվութա.//.երևութա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -32235,7 +32236,7 @@
 
 -lexeme
  lex: երեւույթանալ
- stem: .երեվույթա.//.երևույթա.//.երեւույթա.
+ stem: .երևույթա.//.երեվույթա.//.երեւույթա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -32323,7 +32324,7 @@
 
 -lexeme
  lex: երթեւեկել
- stem: .երթեվեկ.//.երթեւեկ.//.երթևեկ.
+ stem: .երթևեկ.//.երթեվեկ.//.երթեւեկ.
  gramm: V,intr
  gloss: run_come.and.go_walk
  paradigm: V11
@@ -32413,7 +32414,7 @@
 
 -lexeme
  lex: երիզավորել
- stem: .երիզավոր.//.երիզաւոր.
+ stem: .երիզաւոր.//.երիզավոր.
  gramm: V,tr
  gloss: border
  paradigm: V11
@@ -32422,7 +32423,7 @@
 
 -lexeme
  lex: երիզավորվել
- stem: .երիզաւորվ.//.երիզավորվ.
+ stem: .երիզավորվ.//.երիզաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -32727,7 +32728,7 @@
 
 -lexeme
  lex: երկարատեւել
- stem: .երկարատև.//.երկարատեվ.//.երկարատեւ.
+ stem: .երկարատեւ.//.երկարատև.//.երկարատեվ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -33411,7 +33412,7 @@
 
 -lexeme
  lex: եւրոպականանալ
- stem: .եւրոպականա.//.ևրոպականա.//.եվրոպականա.
+ stem: .ևրոպականա.//.եվրոպականա.//.եւրոպականա.
  gramm: V,intr
  gloss: become.Europeanized
  paradigm: V22
@@ -33429,7 +33430,7 @@
 
 -lexeme
  lex: եւրոպականացվել
- stem: .ևրոպականացվ.//.եվրոպականացվ.//.եւրոպականացվ.
+ stem: .եվրոպականացվ.//.եւրոպականացվ.//.ևրոպականացվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -33474,7 +33475,7 @@
 
 -lexeme
  lex: զագսավորվել
- stem: .զագսավորվ.//.զագսաւորվ.
+ stem: .զագսաւորվ.//.զագսավորվ.
  gramm: V,med,intr
  gloss: be.registered.as.a.married.couple
  paradigm: V11
@@ -33591,7 +33592,7 @@
 
 -lexeme
  lex: զավթել
- stem: .զավթ.//.զաւթ.
+ stem: .զաւթ.//.զավթ.
  gramm: V,tr
  gloss: conquer
  paradigm: V11
@@ -33976,7 +33977,7 @@
 
 -lexeme
  lex: զգեստավորել
- stem: .զգեստավոր.//.զգեստաւոր.
+ stem: .զգեստաւոր.//.զգեստավոր.
  gramm: V,tr
  gloss: dress_cover
  paradigm: V11
@@ -34314,7 +34315,7 @@
 
 -lexeme
  lex: զինավառել
- stem: .զինաւառ.//.զինավառ.
+ stem: .զինավառ.//.զինաւառ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -34901,7 +34902,7 @@
 
 -lexeme
  lex: զուգավորել
- stem: .զուգաւոր.//.զուգավոր.
+ stem: .զուգավոր.//.զուգաւոր.
  gramm: V,tr
  gloss: pair.up
  paradigm: V11
@@ -35348,7 +35349,7 @@
 
 -lexeme
  lex: զրահավառել
- stem: .զրահավառ.//.զրահաւառ.
+ stem: .զրահաւառ.//.զրահավառ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -35845,7 +35846,7 @@
 
 -lexeme
  lex: էլեկտրալիցքավորվել
- stem: .էլեկտրալիցքավորվ.//.էլեկտրալիցքաւորվ.
+ stem: .էլեկտրալիցքաւորվ.//.էլեկտրալիցքավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -35890,7 +35891,7 @@
 
 -lexeme
  lex: էլեկտրալուսավորել
- stem: .էլեկտրալուսաւոր.//.էլեկտրալուսավոր.
+ stem: .էլեկտրալուսավոր.//.էլեկտրալուսաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -35899,7 +35900,7 @@
 
 -lexeme
  lex: էլեկտրալուսավորվել
- stem: .էլեկտրալուսաւորվ.//.էլեկտրալուսավորվ.
+ stem: .էլեկտրալուսավորվ.//.էլեկտրալուսաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -35962,7 +35963,7 @@
 
 -lexeme
  lex: էլեկտրակարգավորվել
- stem: .էլեկտրակարգաւորվ.//.էլեկտրակարգավորվ.
+ stem: .էլեկտրակարգավորվ.//.էլեկտրակարգաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -36088,7 +36089,7 @@
 
 -lexeme
  lex: էլեկտրավառվել
- stem: .էլեկտրաւառվ.//.էլեկտրավառվ.
+ stem: .էլեկտրավառվ.//.էլեկտրաւառվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -36196,7 +36197,7 @@
 
 -lexeme
  lex: էկրանավորել
- stem: .էկրանավոր.//.էկրանաւոր.
+ stem: .էկրանաւոր.//.էկրանավոր.
  gramm: V,tr
  gloss: make.a.screen.version
  paradigm: V11
@@ -36205,7 +36206,7 @@
 
 -lexeme
  lex: էկրանավորվել
- stem: .էկրանավորվ.//.էկրանաւորվ.
+ stem: .էկրանաւորվ.//.էկրանավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -36447,7 +36448,7 @@
 
 -lexeme
  lex: էվակուել
- stem: .էվակու.//.էւակու.
+ stem: .էւակու.//.էվակու.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -37852,7 +37853,7 @@
 
 -lexeme
  lex: ընկնավորվել
- stem: .ընկնավորվ.//.ընկնաւորվ.
+ stem: .ընկնաւորվ.//.ընկնավորվ.
  gramm: V,med,intr
  gloss: have.a.fit.of.epilepsy_madness_falling.sickness_rage
  paradigm: V11
@@ -37996,7 +37997,7 @@
 
 -lexeme
  lex: ընչավետանալ
- stem: .ընչաւետա.//.ընչավետա.
+ stem: .ընչավետա.//.ընչաւետա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -38356,7 +38357,7 @@
 
 -lexeme
  lex: թագավորանալ
- stem: .թագաւորա.//.թագավորա.
+ stem: .թագավորա.//.թագաւորա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -38383,7 +38384,7 @@
 
 -lexeme
  lex: թագավորեցվել
- stem: .թագավորեցվ.//.թագաւորեցվ.
+ stem: .թագաւորեցվ.//.թագավորեցվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -38947,7 +38948,7 @@
 
 -lexeme
  lex: թաղասմավորվել
- stem: .թաղասմաւորվ.//.թաղասմավորվ.
+ stem: .թաղասմավորվ.//.թաղասմաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -39422,7 +39423,7 @@
 
 -lexeme
  lex: թավալգլորել
- stem: .թաւալգլոր.//.թավալգլոր.
+ stem: .թավալգլոր.//.թաւալգլոր.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -39440,7 +39441,7 @@
 
 -lexeme
  lex: թավալել
- stem: .թաւալ.//.թավալ.
+ stem: .թավալ.//.թաւալ.
  gramm: V,intr/tr
  gloss: drag.(in)_roll_bring_throw.down
  paradigm: V11
@@ -39512,7 +39513,7 @@
 
 -lexeme
  lex: թավշակարել
- stem: .թավշակար.//.թաւշակար.
+ stem: .թաւշակար.//.թավշակար.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -39521,7 +39522,7 @@
 
 -lexeme
  lex: թավշակարվել
- stem: .թաւշակարվ.//.թավշակարվ.
+ stem: .թավշակարվ.//.թաւշակարվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -39539,7 +39540,7 @@
 
 -lexeme
  lex: թավշապատել
- stem: .թաւշապատ.//.թավշապատ.
+ stem: .թավշապատ.//.թաւշապատ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -39548,7 +39549,7 @@
 
 -lexeme
  lex: թավշապատվել
- stem: .թաւշապատվ.//.թավշապատվ.
+ stem: .թավշապատվ.//.թաւշապատվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -39566,7 +39567,7 @@
 
 -lexeme
  lex: թավոտել
- stem: .թավոտ.//.թաւոտ.
+ stem: .թաւոտ.//.թավոտ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -39575,7 +39576,7 @@
 
 -lexeme
  lex: թավոտվել
- stem: .թաւոտվ.//.թավոտվ.
+ stem: .թավոտվ.//.թաւոտվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -40340,7 +40341,7 @@
 
 -lexeme
  lex: թեթեւամտանալ
- stem: .թեթևամտա.//.թեթեւամտա.//.թեթեվամտա.
+ stem: .թեթեւամտա.//.թեթևամտա.//.թեթեվամտա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -40358,7 +40359,7 @@
 
 -lexeme
  lex: թեթեւանալ
- stem: .թեթեւա.//.թեթևա.//.թեթեվա.
+ stem: .թեթեւա.//.թեթեվա.//.թեթևա.
  gramm: V,intr
  gloss: ease
  paradigm: V22
@@ -40367,7 +40368,7 @@
 
 -lexeme
  lex: թեթեւացնել
- stem: .թեթևաց.//.թեթեւաց.//.թեթեվաց.
+ stem: .թեթևաց.//.թեթեվաց.//.թեթեւաց.
  gramm: V,caus,tr
  gloss: facilitate_lighten_ease
  paradigm: V14
@@ -40385,7 +40386,7 @@
 
 -lexeme
  lex: թեթեւացվել
- stem: .թեթեւացվ.//.թեթեվացվ.//.թեթևացվ.
+ stem: .թեթեւացվ.//.թեթևացվ.//.թեթեվացվ.
  gramm: V,caus,med,intr
  gloss: become.facilitated
  paradigm: V11
@@ -40394,7 +40395,7 @@
 
 -lexeme
  lex: թեթեւել
- stem: .թեթեւ.//.թեթև.//.թեթեվ.
+ stem: .թեթեվ.//.թեթեւ.//.թեթև.
  gramm: V,intr/tr
  gloss: STEM
  paradigm: V11
@@ -40403,7 +40404,7 @@
 
 -lexeme
  lex: թեթեւնալ
- stem: .թեթեւ.//.թեթև.//.թեթեվ.
+ stem: .թեթեվ.//.թեթեւ.//.թեթև.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -40484,7 +40485,7 @@
 
 -lexeme
  lex: թելավորել
- stem: .թելավոր.//.թելաւոր.
+ stem: .թելաւոր.//.թելավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -40959,7 +40960,7 @@
 
 -lexeme
  lex: թերահավատացնել
- stem: .թերահավատաց.//.թերահաւատաց.
+ stem: .թերահաւատաց.//.թերահավատաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -40995,7 +40996,7 @@
 
 -lexeme
  lex: թերահավաքվել
- stem: .թերահաւաքվ.//.թերահավաքվ.
+ stem: .թերահավաքվ.//.թերահաւաքվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -41354,7 +41355,7 @@
 
 -lexeme
  lex: թերավճարվել
- stem: .թերաւճարվ.//.թերավճարվ.
+ stem: .թերավճարվ.//.թերաւճարվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -41588,7 +41589,7 @@
 
 -lexeme
  lex: թերթավորել
- stem: .թերթաւոր.//.թերթավոր.
+ stem: .թերթավոր.//.թերթաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -41660,7 +41661,7 @@
 
 -lexeme
  lex: թեւաբախել
- stem: .թեւաբախ.//.թեվաբախ.//.թևաբախ.
+ stem: .թեվաբախ.//.թեւաբախ.//.թևաբախ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -41669,7 +41670,7 @@
 
 -lexeme
  lex: թեւաբեկել
- stem: .թեվաբեկ.//.թևաբեկ.//.թեւաբեկ.
+ stem: .թեւաբեկ.//.թևաբեկ.//.թեվաբեկ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -41678,7 +41679,7 @@
 
 -lexeme
  lex: թեւաբեկվել
- stem: .թեւաբեկվ.//.թևաբեկվ.//.թեվաբեկվ.
+ stem: .թեւաբեկվ.//.թեվաբեկվ.//.թևաբեկվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -41696,7 +41697,7 @@
 
 -lexeme
  lex: թեւագրոհել
- stem: .թեվագրոհ.//.թևագրոհ.//.թեւագրոհ.
+ stem: .թևագրոհ.//.թեւագրոհ.//.թեվագրոհ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -41705,7 +41706,7 @@
 
 -lexeme
  lex: թեւագրոհվել
- stem: .թեվագրոհվ.//.թևագրոհվ.//.թեւագրոհվ.
+ stem: .թևագրոհվ.//.թեւագրոհվ.//.թեվագրոհվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -41714,7 +41715,7 @@
 
 -lexeme
  lex: թեւազարկել
- stem: .թևազարկ.//.թեվազարկ.//.թեւազարկ.
+ stem: .թեւազարկ.//.թեվազարկ.//.թևազարկ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -41723,7 +41724,7 @@
 
 -lexeme
  lex: թեւազրկել
- stem: .թևազրկ.//.թեվազրկ.//.թեւազրկ.
+ stem: .թեվազրկ.//.թեւազրկ.//.թևազրկ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -41732,7 +41733,7 @@
 
 -lexeme
  lex: թեւազրկվել
- stem: .թևազրկվ.//.թեվազրկվ.//.թեւազրկվ.
+ stem: .թեվազրկվ.//.թեւազրկվ.//.թևազրկվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -41750,7 +41751,7 @@
 
 -lexeme
  lex: թեւաթափվել
- stem: .թեւաթափվ.//.թեվաթափվ.//.թևաթափվ.
+ stem: .թեվաթափվ.//.թևաթափվ.//.թեւաթափվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -41759,7 +41760,7 @@
 
 -lexeme
  lex: թեւածափել
- stem: .թեվածափ.//.թեւածափ.//.թևածափ.
+ stem: .թեվածափ.//.թևածափ.//.թեւածափ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -41768,7 +41769,7 @@
 
 -lexeme
  lex: թեւածել
- stem: .թեված.//.թևած.//.թեւած.
+ stem: .թեւած.//.թևած.//.թեված.
  gramm: V,intr
  gloss: fly
  paradigm: V11
@@ -41777,7 +41778,7 @@
 
 -lexeme
  lex: թեւակալել
- stem: .թևակալ.//.թեւակալ.//.թեվակալ.
+ stem: .թեվակալ.//.թևակալ.//.թեւակալ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -41786,7 +41787,7 @@
 
 -lexeme
  lex: թեւակիզել
- stem: .թեվակիզ.//.թեւակիզ.//.թևակիզ.
+ stem: .թեւակիզ.//.թևակիզ.//.թեվակիզ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -41804,7 +41805,7 @@
 
 -lexeme
  lex: թեւակոխել
- stem: .թեւակոխ.//.թեվակոխ.//.թևակոխ.
+ stem: .թեվակոխ.//.թեւակոխ.//.թևակոխ.
  gramm: V,intr
  gloss: enter
  paradigm: V11
@@ -41813,7 +41814,7 @@
 
 -lexeme
  lex: թեւակցել
- stem: .թևակց.//.թեվակց.//.թեւակց.
+ stem: .թեվակց.//.թեւակց.//.թևակց.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -41831,7 +41832,7 @@
 
 -lexeme
  lex: թեւահարել
- stem: .թևահար.//.թեւահար.//.թեվահար.
+ stem: .թեվահար.//.թեւահար.//.թևահար.
  gramm: V,intr/tr
  gloss: flap.one's.wings
  paradigm: V11
@@ -41840,7 +41841,7 @@
 
 -lexeme
  lex: թեւահարվել
- stem: .թեւահարվ.//.թևահարվ.//.թեվահարվ.
+ stem: .թեւահարվ.//.թեվահարվ.//.թևահարվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -41858,7 +41859,7 @@
 
 -lexeme
  lex: թեւանալ
- stem: .թեւա.//.թևա.//.թեվա.
+ stem: .թեվա.//.թեւա.//.թևա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -41903,7 +41904,7 @@
 
 -lexeme
  lex: թեւապարել
- stem: .թեվապար.//.թևապար.//.թեւապար.
+ stem: .թեվապար.//.թեւապար.//.թևապար.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -41912,7 +41913,7 @@
 
 -lexeme
  lex: թեւապարփակել
- stem: .թեվապարփակ.//.թևապարփակ.//.թեւապարփակ.
+ stem: .թեւապարփակ.//.թեվապարփակ.//.թևապարփակ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -41921,7 +41922,7 @@
 
 -lexeme
  lex: թեւապարփակվել
- stem: .թեւապարփակվ.//.թևապարփակվ.//.թեվապարփակվ.
+ stem: .թևապարփակվ.//.թեվապարփակվ.//.թեւապարփակվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -41930,7 +41931,7 @@
 
 -lexeme
  lex: թեւառել
- stem: .թևառ.//.թեվառ.//.թեւառ.
+ stem: .թեւառ.//.թեվառ.//.թևառ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -41939,7 +41940,7 @@
 
 -lexeme
  lex: թեւառնել
- stem: .թևառ.//.թեվառ.//.թեւառ.
+ stem: .թեւառ.//.թեվառ.//.թևառ.
  gramm: V,intr
  gloss: STEM
  paradigm: V12a
@@ -41948,7 +41949,7 @@
 
 -lexeme
  lex: թեւասքողել
- stem: .թեւասքող.//.թեվասքող.//.թևասքող.
+ stem: .թեվասքող.//.թևասքող.//.թեւասքող.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -41966,7 +41967,7 @@
 
 -lexeme
  lex: թեւավորել
- stem: .թեւավոր.//.թեվավոր.//.թևավոր.//.թեւաւոր.
+ stem: .թեւաւոր.//.թեվավոր.//.թևավոր.//.թեւավոր.
  gramm: V,tr
  gloss: inspire_lend.wings_inspire.with.hope
  paradigm: V11
@@ -41975,7 +41976,7 @@
 
 -lexeme
  lex: թեւավորվել
- stem: .թեւաւորվ.//.թեւավորվ.//.թևավորվ.//.թեվավորվ.
+ stem: .թեվավորվ.//.թեւավորվ.//.թեւաւորվ.//.թևավորվ.
  gramm: V,med,intr
  gloss: become.inspired
  paradigm: V11
@@ -41984,7 +41985,7 @@
 
 -lexeme
  lex: թեւատել
- stem: .թևատ.//.թեվատ.//.թեւատ.
+ stem: .թեվատ.//.թեւատ.//.թևատ.
  gramm: V,tr
  gloss: clip.one's.wings_arms_discourage_weaken
  paradigm: V11
@@ -41993,7 +41994,7 @@
 
 -lexeme
  lex: թեւատվել
- stem: .թևատվ.//.թեւատվ.//.թեվատվ.
+ stem: .թևատվ.//.թեվատվ.//.թեւատվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -42002,7 +42003,7 @@
 
 -lexeme
  lex: թեւարկել
- stem: .թեւարկ.//.թեվարկ.//.թևարկ.
+ stem: .թեվարկ.//.թեւարկ.//.թևարկ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -42011,7 +42012,7 @@
 
 -lexeme
  lex: թեւարկվել
- stem: .թեվարկվ.//.թեւարկվ.//.թևարկվ.
+ stem: .թևարկվ.//.թեւարկվ.//.թեվարկվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -42020,7 +42021,7 @@
 
 -lexeme
  lex: թեւել
- stem: .թեվ.//.թև.//.թեւ.
+ stem: .թեվ.//.թեւ.//.թև.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -42029,7 +42030,7 @@
 
 -lexeme
  lex: թեւթափել
- stem: .թևթափ.//.թեվթափ.//.թեւթափ.
+ stem: .թեւթափ.//.թևթափ.//.թեվթափ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -42038,7 +42039,7 @@
 
 -lexeme
  lex: թեւթեւել
- stem: .թևթև.//.թեւթեւ.//.թեվթեվ.
+ stem: .թեվթեվ.//.թևթև.//.թեւթեւ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -42047,7 +42048,7 @@
 
 -lexeme
  lex: թեւթեւիլ
- stem: թևթևիլ.//թեւթեւիլ.//թեվթեվիլ.
+ stem: թեվթեվիլ.//թեւթեւիլ.//թևթևիլ.
  gramm: V,intr
  gloss: STEM
  paradigm: Empty
@@ -42055,7 +42056,7 @@
 
 -lexeme
  lex: թեւհարել
- stem: .թեւհար.//.թեվհար.//.թևհար.
+ stem: .թեվհար.//.թևհար.//.թեւհար.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -42073,7 +42074,7 @@
 
 -lexeme
  lex: թեւջել
- stem: .թևջ.//.թեվջ.//.թեւջ.
+ stem: .թեվջ.//.թևջ.//.թեւջ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -42154,7 +42155,7 @@
 
 -lexeme
  lex: թեփավորել
- stem: .թեփավոր.//.թեփաւոր.
+ stem: .թեփաւոր.//.թեփավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -42163,7 +42164,7 @@
 
 -lexeme
  lex: թեփավորվել
- stem: .թեփավորվ.//.թեփաւորվ.
+ stem: .թեփաւորվ.//.թեփավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -42557,7 +42558,7 @@
 
 -lexeme
  lex: թիավարվել
- stem: .թիավարվ.//.թիաւարվ.
+ stem: .թիաւարվ.//.թիավարվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -42780,7 +42781,7 @@
 
 -lexeme
  lex: թլֆել
- stem: թլֆել.
+ stem: թլֆէլ.//թլֆել.
  gramm: V,intr
  gloss: STEM
  paradigm: Empty
@@ -43081,7 +43082,7 @@
 
 -lexeme
  lex: թմբավորել
- stem: .թմբաւոր.//.թմբավոր.
+ stem: .թմբավոր.//.թմբաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -43090,7 +43091,7 @@
 
 -lexeme
  lex: թմբավորվել
- stem: .թմբաւորվ.//.թմբավորվ.
+ stem: .թմբավորվ.//.թմբաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -44524,7 +44525,7 @@
 
 -lexeme
  lex: թունավորել
- stem: .թունաւոր.//.թունավոր.
+ stem: .թունավոր.//.թունաւոր.
  gramm: V,tr
  gloss: poison
  paradigm: V11
@@ -45228,7 +45229,7 @@
 
 -lexeme
  lex: թրավորել
- stem: .թրավոր.//.թրաւոր.
+ stem: .թրաւոր.//.թրավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -45237,7 +45238,7 @@
 
 -lexeme
  lex: թրավորվել
- stem: .թրաւորվ.//.թրավորվ.
+ stem: .թրավորվ.//.թրաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -45273,7 +45274,7 @@
 
 -lexeme
  lex: թրեւել
- stem: .թրև.//.թրեւ.//.թրեվ.
+ stem: .թրև.//.թրեվ.//.թրեւ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -46458,7 +46459,7 @@
 
 -lexeme
  lex: ժանեկավորել
- stem: .ժանեկավոր.//.ժանեկաւոր.
+ stem: .ժանեկաւոր.//.ժանեկավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -46467,7 +46468,7 @@
 
 -lexeme
  lex: ժանեկավորվել
- stem: .ժանեկավորվ.//.ժանեկաւորվ.
+ stem: .ժանեկաւորվ.//.ժանեկավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -46548,7 +46549,7 @@
 
 -lexeme
  lex: ժանյակավորել
- stem: .ժանյակավոր.//.ժանյակաւոր.
+ stem: .ժանյակաւոր.//.ժանյակավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -46557,7 +46558,7 @@
 
 -lexeme
  lex: ժանյակավորվել
- stem: .ժանյակաւորվ.//.ժանյակավորվ.
+ stem: .ժանյակավորվ.//.ժանյակաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -46629,7 +46630,7 @@
 
 -lexeme
  lex: ժապավենակապել
- stem: .ժապավենակապ.//.ժապաւենակապ.
+ stem: .ժապաւենակապ.//.ժապավենակապ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -46647,7 +46648,7 @@
 
 -lexeme
  lex: ժապավենավորել
- stem: .ժապաւենաւոր.//.ժապավենավոր.
+ stem: .ժապավենավոր.//.ժապաւենաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -46656,7 +46657,7 @@
 
 -lexeme
  lex: ժապավենավորվել
- stem: .ժապաւենաւորվ.//.ժապավենավորվ.
+ stem: .ժապավենավորվ.//.ժապաւենաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -47503,7 +47504,7 @@
 
 -lexeme
  lex: իմաստավորվել
- stem: .իմաստավորվ.//.իմաստաւորվ.
+ stem: .իմաստաւորվ.//.իմաստավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -47610,7 +47611,7 @@
 
 -lexeme
  lex: ինդեքսավորվել
- stem: .ինդեքսավորվ.//.ինդեքսաւորվ.
+ stem: .ինդեքսաւորվ.//.ինդեքսավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -47709,7 +47710,7 @@
 
 -lexeme
  lex: ինտենսիվանալ
- stem: .ինտենսիվա.//.ինտենսիւա.
+ stem: .ինտենսիւա.//.ինտենսիվա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -47718,7 +47719,7 @@
 
 -lexeme
  lex: ինտենսիվացնել
- stem: .ինտենսիւաց.//.ինտենսիվաց.
+ stem: .ինտենսիվաց.//.ինտենսիւաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -47888,7 +47889,7 @@
 
 -lexeme
  lex: ինքնաթունավորել
- stem: .ինքնաթունաւոր.//.ինքնաթունավոր.
+ stem: .ինքնաթունավոր.//.ինքնաթունաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -47897,7 +47898,7 @@
 
 -lexeme
  lex: ինքնաթունավորվել
- stem: .ինքնաթունավորվ.//.ինքնաթունաւորվ.
+ stem: .ինքնաթունաւորվ.//.ինքնաթունավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -48176,7 +48177,7 @@
 
 -lexeme
  lex: ինքնապարսավել
- stem: .ինքնապարսավ.//.ինքնապարսաւ.
+ stem: .ինքնապարսաւ.//.ինքնապարսավ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -48545,7 +48546,7 @@
 
 -lexeme
  lex: իջեւանել
- stem: .իջեւան.//.իջևան.//.իջեվան.
+ stem: .իջևան.//.իջեւան.//.իջեվան.
  gramm: V,intr
  gloss: put.up
  paradigm: V11
@@ -48806,7 +48807,7 @@
 
 -lexeme
  lex: իրավաբանել
- stem: .իրավաբան.//.իրաւաբան.
+ stem: .իրաւաբան.//.իրավաբան.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -48833,7 +48834,7 @@
 
 -lexeme
  lex: իրավազրկել
- stem: .իրավազրկ.//.իրաւազրկ.
+ stem: .իրաւազրկ.//.իրավազրկ.
  gramm: V,tr
  gloss: deprive.smb..of.his.rights
  paradigm: V11
@@ -48842,7 +48843,7 @@
 
 -lexeme
  lex: իրավազրկվել
- stem: .իրաւազրկվ.//.իրավազրկվ.
+ stem: .իրավազրկվ.//.իրաւազրկվ.
  gramm: V,med,intr
  gloss: be.deprived.of.rights
  paradigm: V11
@@ -48851,7 +48852,7 @@
 
 -lexeme
  lex: իրավախախտել
- stem: .իրաւախախտ.//.իրավախախտ.
+ stem: .իրավախախտ.//.իրաւախախտ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -48869,7 +48870,7 @@
 
 -lexeme
  lex: իրավացնել
- stem: .իրավաց.//.իրաւաց.
+ stem: .իրաւաց.//.իրավաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -48878,7 +48879,7 @@
 
 -lexeme
  lex: իրավցընել
- stem: .իրավցը.//.իրաւցը.
+ stem: .իրաւցը.//.իրավցը.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -49335,7 +49336,7 @@
 
 -lexeme
  lex: լավացնել
- stem: .լաւաց.//.լավաց.
+ stem: .լավաց.//.լաւաց.
  gramm: V,caus,tr
  gloss: improve_cure.smb..of.smth
  paradigm: V14
@@ -49344,7 +49345,7 @@
 
 -lexeme
  lex: լավացվել
- stem: .լավացվ.//.լաւացվ.
+ stem: .լաւացվ.//.լավացվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -49829,7 +49830,7 @@
 
 -lexeme
  lex: լեզվավորվել
- stem: .լեզվավորվ.//.լեզվաւորվ.
+ stem: .լեզվաւորվ.//.լեզվավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -50054,7 +50055,7 @@
 
 -lexeme
  lex: լեռնավորվել
- stem: .լեռնաւորվ.//.լեռնավորվ.
+ stem: .լեռնավորվ.//.լեռնաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -50486,7 +50487,7 @@
 
 -lexeme
  lex: լիմիտավորել
- stem: .լիմիտավոր.//.լիմիտաւոր.
+ stem: .լիմիտաւոր.//.լիմիտավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -50603,7 +50604,7 @@
 
 -lexeme
  lex: լիցքավորվել
- stem: .լիցքաւորվ.//.լիցքավորվ.
+ stem: .լիցքավորվ.//.լիցքաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -51419,7 +51420,7 @@
 
 -lexeme
  lex: լողավարժել
- stem: .լողավարժ.//.լողաւարժ.
+ stem: .լողաւարժ.//.լողավարժ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -52031,7 +52032,7 @@
 
 -lexeme
  lex: լուսապատճենավորել
- stem: .լուսապատճենաւոր.//.լուսապատճենավոր.
+ stem: .լուսապատճենավոր.//.լուսապատճենաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -52094,7 +52095,7 @@
 
 -lexeme
  lex: լուսավառվել
- stem: .լուսաւառվ.//.լուսավառվ.
+ stem: .լուսավառվ.//.լուսաւառվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -52103,7 +52104,7 @@
 
 -lexeme
  lex: լուսավորել
- stem: .լուսաւոր.//.լուսավոր.
+ stem: .լուսավոր.//.լուսաւոր.
  gramm: V,tr
  gloss: light
  paradigm: V11
@@ -52819,7 +52820,7 @@
 
 -lexeme
  lex: լրիվանել
- stem: .լրիվան.//.լրիւան.
+ stem: .լրիւան.//.լրիվան.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -53650,7 +53651,7 @@
 
 -lexeme
  lex: խաղավարժել
- stem: .խաղաւարժ.//.խաղավարժ.
+ stem: .խաղավարժ.//.խաղաւարժ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -53884,7 +53885,7 @@
 
 -lexeme
  lex: խայծավորել
- stem: .խայծավոր.//.խայծաւոր.
+ stem: .խայծաւոր.//.խայծավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -53893,7 +53894,7 @@
 
 -lexeme
  lex: խայծավորվել
- stem: .խայծավորվ.//.խայծաւորվ.
+ stem: .խայծաւորվ.//.խայծավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -54106,7 +54107,7 @@
 
 -lexeme
  lex: խանդավառվել
- stem: .խանդավառվ.//.խանդաւառվ.
+ stem: .խանդաւառվ.//.խանդավառվ.
  gramm: V,med,intr
  gloss: be.enthusiastic.(about)_be.animated_be.filled.with.enthusiasm
  paradigm: V11
@@ -54466,7 +54467,7 @@
 
 -lexeme
  lex: խաչաձեւել
- stem: .խաչաձև.//.խաչաձեվ.//.խաչաձեւ.
+ stem: .խաչաձեւ.//.խաչաձև.//.խաչաձեվ.
  gramm: V,tr
  gloss: cross
  paradigm: V11
@@ -54475,7 +54476,7 @@
 
 -lexeme
  lex: խաչաձեւվել
- stem: .խաչաձևվ.//.խաչաձեւվ.//.խաչաձեվվ.
+ stem: .խաչաձեվվ.//.խաչաձևվ.//.խաչաձեւվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -54889,7 +54890,7 @@
 
 -lexeme
  lex: խավադասել
- stem: .խաւադաս.//.խավադաս.
+ stem: .խավադաս.//.խաւադաս.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -54898,7 +54899,7 @@
 
 -lexeme
  lex: խավադասվել
- stem: .խավադասվ.//.խաւադասվ.
+ stem: .խաւադասվ.//.խավադասվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -54907,7 +54908,7 @@
 
 -lexeme
  lex: խավածածկել
- stem: .խաւածածկ.//.խավածածկ.
+ stem: .խավածածկ.//.խաւածածկ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -54916,7 +54917,7 @@
 
 -lexeme
  lex: խավածածկվել
- stem: .խաւածածկվ.//.խավածածկվ.
+ stem: .խավածածկվ.//.խաւածածկվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -54925,7 +54926,7 @@
 
 -lexeme
  lex: խավապատել
- stem: .խավապատ.//.խաւապատ.
+ stem: .խաւապատ.//.խավապատ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -54943,7 +54944,7 @@
 
 -lexeme
  lex: խավավորել
- stem: .խաւաւոր.//.խավավոր.
+ stem: .խավավոր.//.խաւաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -54952,7 +54953,7 @@
 
 -lexeme
  lex: խավավորվել
- stem: .խաւաւորվ.//.խավավորվ.
+ stem: .խավավորվ.//.խաւաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -54961,7 +54962,7 @@
 
 -lexeme
  lex: խավատել
- stem: .խավատ.//.խաւատ.
+ stem: .խաւատ.//.խավատ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -54979,7 +54980,7 @@
 
 -lexeme
  lex: խավարակալել
- stem: .խաւարակալ.//.խավարակալ.
+ stem: .խավարակալ.//.խաւարակալ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -54988,7 +54989,7 @@
 
 -lexeme
  lex: խավարանալ
- stem: .խաւարա.//.խավարա.
+ stem: .խավարա.//.խաւարա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -54997,7 +54998,7 @@
 
 -lexeme
  lex: խավարապատել
- stem: .խավարապատ.//.խաւարապատ.
+ stem: .խաւարապատ.//.խավարապատ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -55024,7 +55025,7 @@
 
 -lexeme
  lex: խավարեցնել
- stem: .խաւարեց.//.խավարեց.
+ stem: .խավարեց.//.խաւարեց.
  gramm: V,caus,tr
  gloss: darken_dim.(out)_cloud
  paradigm: V14
@@ -55042,7 +55043,7 @@
 
 -lexeme
  lex: խավարվել
- stem: .խաւարվ.//.խավարվ.
+ stem: .խավարվ.//.խաւարվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -55051,7 +55052,7 @@
 
 -lexeme
  lex: խավարտել
- stem: .խաւարտ.//.խավարտ.
+ stem: .խավարտ.//.խաւարտ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -55069,7 +55070,7 @@
 
 -lexeme
  lex: խավոտել
- stem: .խաւոտ.//.խավոտ.
+ stem: .խավոտ.//.խաւոտ.
  gramm: V,intr/tr
  gloss: STEM
  paradigm: V11
@@ -55087,7 +55088,7 @@
 
 -lexeme
  lex: խավրել
- stem: .խաւր.//.խավր.
+ stem: .խավր.//.խաւր.
  gramm: V,intr/tr
  gloss: STEM
  paradigm: V11
@@ -55294,7 +55295,7 @@
 
 -lexeme
  lex: խարդավանել
- stem: .խարդավան.//.խարդաւան.
+ stem: .խարդաւան.//.խարդավան.
  gramm: V,intr/tr
  gloss: STEM
  paradigm: V11
@@ -55303,7 +55304,7 @@
 
 -lexeme
  lex: խարդավել
- stem: .խարդաւ.//.խարդավ.
+ stem: .խարդավ.//.խարդաւ.
  gramm: V,intr
  gloss: falsify_plot_scheme
  paradigm: V11
@@ -56274,7 +56275,7 @@
 
 -lexeme
  lex: խեւանալ
- stem: .խեւա.//.խեվա.//.խևա.
+ stem: .խևա.//.խեվա.//.խեւա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -57510,7 +57511,7 @@
 
 -lexeme
  lex: խմբավորել
- stem: .խմբավոր.//.խմբաւոր.
+ stem: .խմբաւոր.//.խմբավոր.
  gramm: V,tr
  gloss: group_classify
  paradigm: V11
@@ -57761,7 +57762,7 @@
 
 -lexeme
  lex: խնամավորել
- stem: .խնամաւոր.//.խնամավոր.
+ stem: .խնամավոր.//.խնամաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -57770,7 +57771,7 @@
 
 -lexeme
  lex: խնամավորվել
- stem: .խնամաւորվ.//.խնամավորվ.
+ stem: .խնամավորվ.//.խնամաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -57997,7 +57998,7 @@
 
 -lexeme
  lex: խնկավետել
- stem: .խնկաւետ.//.խնկավետ.
+ stem: .խնկավետ.//.խնկաւետ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -58649,7 +58650,7 @@
 
 -lexeme
  lex: խոնավազերծել
- stem: .խոնավազերծ.//.խոնաւազերծ.
+ stem: .խոնաւազերծ.//.խոնավազերծ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -58658,7 +58659,7 @@
 
 -lexeme
  lex: խոնավազերծվել
- stem: .խոնավազերծվ.//.խոնաւազերծվ.
+ stem: .խոնաւազերծվ.//.խոնավազերծվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -58676,7 +58677,7 @@
 
 -lexeme
  lex: խոնավանալ
- stem: .խոնավա.//.խոնաւա.
+ stem: .խոնաւա.//.խոնավա.
  gramm: V,intr
  gloss: become.moist_damp
  paradigm: V22
@@ -60089,7 +60090,7 @@
 
 -lexeme
  lex: խուժանավարել
- stem: .խուժանաւար.//.խուժանավար.
+ stem: .խուժանավար.//.խուժանաւար.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -60839,7 +60840,7 @@
 
 -lexeme
  lex: խռֆել
- stem: խռֆել.
+ stem: խռֆէլ.//խռֆել.
  gramm: V,intr
  gloss: STEM
  paradigm: Empty
@@ -60883,7 +60884,7 @@
 
 -lexeme
  lex: խստավարժել
- stem: .խստաւարժ.//.խստավարժ.
+ stem: .խստավարժ.//.խստաւարժ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -61205,7 +61206,7 @@
 
 -lexeme
  lex: խրամատավորվել
- stem: .խրամատավորվ.//.խրամատաւորվ.
+ stem: .խրամատաւորվ.//.խրամատավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -61839,7 +61840,7 @@
 
 -lexeme
  lex: ծալավորել
- stem: .ծալավոր.//.ծալաւոր.
+ stem: .ծալաւոր.//.ծալավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -61848,7 +61849,7 @@
 
 -lexeme
  lex: ծալավորվել
- stem: .ծալաւորվ.//.ծալավորվ.
+ stem: .ծալավորվ.//.ծալաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -61973,7 +61974,7 @@
 
 -lexeme
  lex: ծալքավորել
- stem: .ծալքաւոր.//.ծալքավոր.
+ stem: .ծալքավոր.//.ծալքաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -62675,7 +62676,7 @@
 
 -lexeme
  lex: ծաղկավորվել
- stem: .ծաղկաւորվ.//.ծաղկավորվ.
+ stem: .ծաղկավորվ.//.ծաղկաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -63575,7 +63576,7 @@
 
 -lexeme
  lex: ծավալել
- stem: .ծաւալ.//.ծավալ.
+ stem: .ծավալ.//.ծաւալ.
  gramm: V,tr
  gloss: expand
  paradigm: V11
@@ -63584,7 +63585,7 @@
 
 -lexeme
  lex: ծավալվել
- stem: .ծավալվ.//.ծաւալվ.
+ stem: .ծաւալվ.//.ծավալվ.
  gramm: V,med,intr
  gloss: get.developed
  paradigm: V11
@@ -63602,7 +63603,7 @@
 
 -lexeme
  lex: ծարավել
- stem: .ծարավ.//.ծարաւ.
+ stem: .ծարաւ.//.ծարավ.
  gramm: V,intr
  gloss: be_feel.thirsty_crave.smth.
  paradigm: V11
@@ -63620,7 +63621,7 @@
 
 -lexeme
  lex: ծարավնալ
- stem: .ծարավ.//.ծարաւ.
+ stem: .ծարաւ.//.ծարավ.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -63629,7 +63630,7 @@
 
 -lexeme
  lex: ծարավցնել
- stem: .ծարաւց.//.ծարավց.
+ stem: .ծարավց.//.ծարաւց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -63773,7 +63774,7 @@
 
 -lexeme
  lex: ծեթեւեթել
- stem: .ծեթեվեթ.//.ծեթեւեթ.//.ծեթևեթ.
+ stem: .ծեթևեթ.//.ծեթեվեթ.//.ծեթեւեթ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -64273,7 +64274,7 @@
 
 -lexeme
  lex: ծիրանավորել
- stem: .ծիրանաւոր.//.ծիրանավոր.
+ stem: .ծիրանավոր.//.ծիրանաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -64282,7 +64283,7 @@
 
 -lexeme
  lex: ծիրանավորվել
- stem: .ծիրանավորվ.//.ծիրանաւորվ.
+ stem: .ծիրանաւորվ.//.ծիրանավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -64704,7 +64705,7 @@
 
 -lexeme
  lex: ծխավառվել
- stem: .ծխաւառվ.//.ծխավառվ.
+ stem: .ծխավառվ.//.ծխաւառվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -65544,7 +65545,7 @@
 
 -lexeme
  lex: ծոպավորվել
- stem: .ծոպավորվ.//.ծոպաւորվ.
+ stem: .ծոպաւորվ.//.ծոպավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -65562,7 +65563,7 @@
 
 -lexeme
  lex: ծովավորել
- stem: .ծովավոր.//.ծովաւոր.
+ stem: .ծովաւոր.//.ծովավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -66101,7 +66102,7 @@
 
 -lexeme
  lex: ծրագրավորել
- stem: .ծրագրաւոր.//.ծրագրավոր.
+ stem: .ծրագրավոր.//.ծրագրաւոր.
  gramm: V,tr
  gloss: plan_programme
  paradigm: V11
@@ -66110,7 +66111,7 @@
 
 -lexeme
  lex: ծրագրավորվել
- stem: .ծրագրավորվ.//.ծրագրաւորվ.
+ stem: .ծրագրաւորվ.//.ծրագրավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -66413,7 +66414,7 @@
 
 -lexeme
  lex: կազմավորել
- stem: .կազմավոր.//.կազմաւոր.
+ stem: .կազմաւոր.//.կազմավոր.
  gramm: V,tr
  gloss: form
  paradigm: V11
@@ -66591,7 +66592,7 @@
 
 -lexeme
  lex: կաթնավետել
- stem: .կաթնաւետ.//.կաթնավետ.
+ stem: .կաթնավետ.//.կաթնաւետ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -66600,7 +66601,7 @@
 
 -lexeme
  lex: կաթնավորվել
- stem: .կաթնաւորվ.//.կաթնավորվ.
+ stem: .կաթնավորվ.//.կաթնաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -66753,7 +66754,7 @@
 
 -lexeme
  lex: կալանավորել
- stem: .կալանաւոր.//.կալանավոր.
+ stem: .կալանավոր.//.կալանաւոր.
  gramm: V,tr
  gloss: detain
  paradigm: V11
@@ -66762,7 +66763,7 @@
 
 -lexeme
  lex: կալանավորվել
- stem: .կալանաւորվ.//.կալանավորվ.
+ stem: .կալանավորվ.//.կալանաւորվ.
  gramm: V,med,intr
  gloss: be.under.arrest
  paradigm: V11
@@ -67254,7 +67255,7 @@
 
 -lexeme
  lex: կահավորել
- stem: .կահավոր.//.կահաւոր.
+ stem: .կահաւոր.//.կահավոր.
  gramm: V,tr
  gloss: furnish
  paradigm: V11
@@ -67299,7 +67300,7 @@
 
 -lexeme
  lex: կահույքավորվել
- stem: .կահույքաւորվ.//.կահույքավորվ.
+ stem: .կահույքավորվ.//.կահույքաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -67352,7 +67353,7 @@
 
 -lexeme
  lex: կաղապարավորել
- stem: .կաղապարավոր.//.կաղապարաւոր.
+ stem: .կաղապարաւոր.//.կաղապարավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -67388,7 +67389,7 @@
 
 -lexeme
  lex: կաղավել
- stem: .կաղաւ.//.կաղավ.
+ stem: .կաղավ.//.կաղաւ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -67531,7 +67532,7 @@
 
 -lexeme
  lex: կամավորագրել
- stem: .կամավորագր.//.կամաւորագր.
+ stem: .կամաւորագր.//.կամավորագր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -67540,7 +67541,7 @@
 
 -lexeme
  lex: կամավորագրվել
- stem: .կամավորագրվ.//.կամաւորագրվ.
+ stem: .կամաւորագրվ.//.կամավորագրվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -67549,7 +67550,7 @@
 
 -lexeme
  lex: կամավորվել
- stem: .կամաւորվ.//.կամավորվ.
+ stem: .կամավորվ.//.կամաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -67585,7 +67586,7 @@
 
 -lexeme
  lex: կամարաձեւել
- stem: .կամարաձև.//.կամարաձեվ.//.կամարաձեւ.
+ stem: .կամարաձեւ.//.կամարաձև.//.կամարաձեվ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -68481,7 +68482,7 @@
 
 -lexeme
  lex: կանխագրավել
- stem: .կանխագրաւ.//.կանխագրավ.
+ stem: .կանխագրավ.//.կանխագրաւ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -68804,7 +68805,7 @@
 
 -lexeme
  lex: կանխավաճառել
- stem: .կանխավաճառ.//.կանխաւաճառ.
+ stem: .կանխաւաճառ.//.կանխավաճառ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -68813,7 +68814,7 @@
 
 -lexeme
  lex: կանխավաճառվել
- stem: .կանխավաճառվ.//.կանխաւաճառվ.
+ stem: .կանխաւաճառվ.//.կանխավաճառվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -68867,7 +68868,7 @@
 
 -lexeme
  lex: կանխավճարվել
- stem: .կանխաւճարվ.//.կանխավճարվ.
+ stem: .կանխավճարվ.//.կանխաւճարվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -68876,7 +68877,7 @@
 
 -lexeme
  lex: կանխավճռել
- stem: .կանխավճռ.//.կանխաւճռ.
+ stem: .կանխաւճռ.//.կանխավճռ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -68885,7 +68886,7 @@
 
 -lexeme
  lex: կանխավճռվել
- stem: .կանխաւճռվ.//.կանխավճռվ.
+ stem: .կանխավճռվ.//.կանխաւճռվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -69263,7 +69264,7 @@
 
 -lexeme
  lex: կապանավորել
- stem: .կապանավոր.//.կապանաւոր.
+ stem: .կապանաւոր.//.կապանավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -69838,7 +69839,7 @@
 
 -lexeme
  lex: կառավարել
- stem: .կառաւար.//.կառավար.
+ stem: .կառավար.//.կառաւար.
  gramm: V,tr
  gloss: govern
  paradigm: V11
@@ -69847,7 +69848,7 @@
 
 -lexeme
  lex: կառավարվել
- stem: .կառավարվ.//.կառաւարվ.
+ stem: .կառաւարվ.//.կառավարվ.
  gramm: V,med,intr
  gloss: manage.(with)_get.along.with.smb.
  paradigm: V11
@@ -69991,7 +69992,7 @@
 
 -lexeme
  lex: կասկածավորել
- stem: .կասկածավոր.//.կասկածաւոր.
+ stem: .կասկածաւոր.//.կասկածավոր.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -70000,7 +70001,7 @@
 
 -lexeme
  lex: կասկածավորվել
- stem: .կասկածաւորվ.//.կասկածավորվ.
+ stem: .կասկածավորվ.//.կասկածաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -70054,7 +70055,7 @@
 
 -lexeme
  lex: կավանալ
- stem: .կավան.//.կաւան.
+ stem: .կաւան.//.կավան.
  gramm: V,intr
  gloss: STEM
  paradigm: V21
@@ -70062,7 +70063,7 @@
 
 -lexeme
  lex: կավարամածել
- stem: .կաւարամած.//.կավարամած.
+ stem: .կավարամած.//.կաւարամած.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -70071,7 +70072,7 @@
 
 -lexeme
  lex: կավարապատել
- stem: .կավարապատ.//.կաւարապատ.
+ stem: .կաւարապատ.//.կավարապատ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -70080,7 +70081,7 @@
 
 -lexeme
  lex: կավարել
- stem: .կավար.//.կաւար.
+ stem: .կաւար.//.կավար.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -70089,7 +70090,7 @@
 
 -lexeme
  lex: կավիճել
- stem: .կավիճ.//.կաւիճ.
+ stem: .կաւիճ.//.կավիճ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -70107,7 +70108,7 @@
 
 -lexeme
  lex: կավճոտել
- stem: .կավճոտ.//.կաւճոտ.
+ stem: .կաւճոտ.//.կավճոտ.
  gramm: V,intr/tr
  gloss: STEM
  paradigm: V11
@@ -70143,7 +70144,7 @@
 
 -lexeme
  lex: կատալոգավորել
- stem: .կատալոգաւոր.//.կատալոգավոր.
+ stem: .կատալոգավոր.//.կատալոգաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -70152,7 +70153,7 @@
 
 -lexeme
  lex: կատալոգավորվել
- stem: .կատալոգաւորվ.//.կատալոգավորվ.
+ stem: .կատալոգավորվ.//.կատալոգաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -70555,7 +70556,7 @@
 
 -lexeme
  lex: կարգավարժել
- stem: .կարգաւարժ.//.կարգավարժ.
+ stem: .կարգավարժ.//.կարգաւարժ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -70564,7 +70565,7 @@
 
 -lexeme
  lex: կարգավարժվել
- stem: .կարգաւարժվ.//.կարգավարժվ.
+ stem: .կարգավարժվ.//.կարգաւարժվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -70573,7 +70574,7 @@
 
 -lexeme
  lex: կարգավորել
- stem: .կարգաւոր.//.կարգավոր.
+ stem: .կարգավոր.//.կարգաւոր.
  gramm: V,tr
  gloss: regulate
  paradigm: V11
@@ -70679,7 +70680,7 @@
 
 -lexeme
  lex: կարեւորել
- stem: .կարևոր.//.կարեւոր.//.կարեվոր.
+ stem: .կարեւոր.//.կարեվոր.//.կարևոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -70688,7 +70689,7 @@
 
 -lexeme
  lex: կարեւորվել
- stem: .կարեւորվ.//.կարևորվ.//.կարեվորվ.
+ stem: .կարեվորվ.//.կարևորվ.//.կարեւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -71477,7 +71478,7 @@
 
 -lexeme
  lex: կաքավեցնել
- stem: .կաքաւեց.//.կաքավեց.
+ stem: .կաքավեց.//.կաքաւեց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -71610,7 +71611,7 @@
 
 -lexeme
  lex: կեղեւազերծվել
- stem: .կեղեվազերծվ.//.կեղեւազերծվ.//.կեղևազերծվ.
+ stem: .կեղևազերծվ.//.կեղեւազերծվ.//.կեղեվազերծվ.
  gramm: V,med,intr
  gloss: come.off
  paradigm: V11
@@ -71619,7 +71620,7 @@
 
 -lexeme
  lex: կեղեւակալել
- stem: .կեղեվակալ.//.կեղեւակալ.//.կեղևակալ.
+ stem: .կեղեվակալ.//.կեղևակալ.//.կեղեւակալ.
  gramm: V,intr
  gloss: crust_bark_skin.over
  paradigm: V11
@@ -71637,7 +71638,7 @@
 
 -lexeme
  lex: կեղեւահանվել
- stem: .կեղևահանվ.//.կեղեւահանվ.//.կեղեվահանվ.
+ stem: .կեղևահանվ.//.կեղեվահանվ.//.կեղեւահանվ.
  gramm: V,med,intr
  gloss: come.off
  paradigm: V11
@@ -71646,7 +71647,7 @@
 
 -lexeme
  lex: կեղեւապատել
- stem: .կեղեվապատ.//.կեղեւապատ.//.կեղևապատ.
+ stem: .կեղևապատ.//.կեղեվապատ.//.կեղեւապատ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -71655,7 +71656,7 @@
 
 -lexeme
  lex: կեղեւապատվել
- stem: .կեղևապատվ.//.կեղեվապատվ.//.կեղեւապատվ.
+ stem: .կեղեվապատվ.//.կեղեւապատվ.//.կեղևապատվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -71682,7 +71683,7 @@
 
 -lexeme
  lex: կեղեւել
- stem: .կեղեվ.//.կեղեւ.//.կեղև.
+ stem: .կեղեւ.//.կեղեվ.//.կեղև.
  gramm: V,tr
  gloss: peel_crack_nibble
  paradigm: V11
@@ -71691,7 +71692,7 @@
 
 -lexeme
  lex: կեղեւվել
- stem: .կեղևվ.//.կեղեվվ.//.կեղեւվ.
+ stem: .կեղեւվ.//.կեղևվ.//.կեղեվվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -71781,7 +71782,7 @@
 
 -lexeme
  lex: կեղծավորել
- stem: .կեղծաւոր.//.կեղծավոր.
+ stem: .կեղծավոր.//.կեղծաւոր.
  gramm: V,tr
  gloss: play.the.hypocrite
  paradigm: V11
@@ -72014,7 +72015,7 @@
 
 -lexeme
  lex: կենդանավորել
- stem: .կենդանավոր.//.կենդանաւոր.
+ stem: .կենդանաւոր.//.կենդանավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -72139,7 +72140,7 @@
 
 -lexeme
  lex: կենսավետել
- stem: .կենսաւետ.//.կենսավետ.
+ stem: .կենսավետ.//.կենսաւետ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -72148,7 +72149,7 @@
 
 -lexeme
  lex: կենսավորել
- stem: .կենսավոր.//.կենսաւոր.
+ stem: .կենսաւոր.//.կենսավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -72157,7 +72158,7 @@
 
 -lexeme
  lex: կենսավորվել
- stem: .կենսավորվ.//.կենսաւորվ.
+ stem: .կենսաւորվ.//.կենսավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -72238,7 +72239,7 @@
 
 -lexeme
  lex: կենցաղավարել
- stem: .կենցաղաւար.//.կենցաղավար.
+ stem: .կենցաղավար.//.կենցաղաւար.
  gramm: V,intr
  gloss: co-exist
  paradigm: V11
@@ -72544,7 +72545,7 @@
 
 -lexeme
  lex: կերավորել
- stem: .կերավոր.//.կերաւոր.
+ stem: .կերաւոր.//.կերավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -72678,7 +72679,7 @@
 
 -lexeme
  lex: կերպարանավորել
- stem: .կերպարանավոր.//.կերպարանաւոր.
+ stem: .կերպարանաւոր.//.կերպարանավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -73873,7 +73874,7 @@
 
 -lexeme
  lex: կիսավեխենալ
- stem: .կիսավեխեն.//.կիսաւեխեն.
+ stem: .կիսաւեխեն.//.կիսավեխեն.
  gramm: V,intr
  gloss: STEM
  paradigm: V21
@@ -74106,7 +74107,7 @@
 
 -lexeme
  lex: կլավել
- stem: .կլավ.//.կլաւ.
+ stem: .կլաւ.//.կլավ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -74168,7 +74169,7 @@
 
 -lexeme
  lex: կլիմայավարժել
- stem: .կլիմայաւարժ.//.կլիմայավարժ.
+ stem: .կլիմայավարժ.//.կլիմայաւարժ.
  gramm: V,tr
  gloss: acclimatize
  paradigm: V11
@@ -75643,7 +75644,7 @@
 
 -lexeme
  lex: կոդավորել
- stem: .կոդաւոր.//.կոդավոր.
+ stem: .կոդավոր.//.կոդաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -75742,7 +75743,7 @@
 
 -lexeme
  lex: կոլեկտիվացնել
- stem: .կոլեկտիւաց.//.կոլեկտիվաց.
+ stem: .կոլեկտիվաց.//.կոլեկտիւաց.
  gramm: V,caus,tr
  gloss: collectivize
  paradigm: V14
@@ -76065,7 +76066,7 @@
 
 -lexeme
  lex: կոկոնավորվել
- stem: .կոկոնավորվ.//.կոկոնաւորվ.
+ stem: .կոկոնաւորվ.//.կոկոնավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -76101,7 +76102,7 @@
 
 -lexeme
  lex: կոհակավորել
- stem: .կոհակաւոր.//.կոհակավոր.
+ stem: .կոհակավոր.//.կոհակաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -76190,7 +76191,7 @@
 
 -lexeme
  lex: կողավորել
- stem: .կողավոր.//.կողաւոր.
+ stem: .կողաւոր.//.կողավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -76404,7 +76405,7 @@
 
 -lexeme
  lex: կոմբինավորվել
- stem: .կոմբինավորվ.//.կոմբինաւորվ.
+ stem: .կոմբինաւորվ.//.կոմբինավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -76467,7 +76468,7 @@
 
 -lexeme
  lex: կոմպլեկտավորել
- stem: .կոմպլեկտավոր.//.կոմպլեկտաւոր.
+ stem: .կոմպլեկտաւոր.//.կոմպլեկտավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -76530,7 +76531,7 @@
 
 -lexeme
  lex: կոյուղավորել
- stem: .կոյուղավոր.//.կոյուղաւոր.
+ stem: .կոյուղաւոր.//.կոյուղավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -76539,7 +76540,7 @@
 
 -lexeme
  lex: կոյուղավորվել
- stem: .կոյուղավորվ.//.կոյուղաւորվ.
+ stem: .կոյուղաւորվ.//.կոյուղավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -76654,7 +76655,7 @@
 
 -lexeme
  lex: կոնկրետավորել
- stem: .կոնկրետավոր.//.կոնկրետաւոր.
+ stem: .կոնկրետաւոր.//.կոնկրետավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -77066,7 +77067,7 @@
 
 -lexeme
  lex: կոպարավորել
- stem: .կոպարավոր.//.կոպարաւոր.
+ stem: .կոպարաւոր.//.կոպարավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -77075,7 +77076,7 @@
 
 -lexeme
  lex: կոպարավորվել
- stem: .կոպարաւորվ.//.կոպարավորվ.
+ stem: .կոպարավորվ.//.կոպարաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -77738,7 +77739,7 @@
 
 -lexeme
  lex: կուլտիվացնել
- stem: .կուլտիւաց.//.կուլտիվաց.
+ stem: .կուլտիվաց.//.կուլտիւաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -77891,7 +77892,7 @@
 
 -lexeme
  lex: կուպեավորել
- stem: .կուպեավոր.//.կուպեաւոր.
+ stem: .կուպեաւոր.//.կուպեավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -79132,7 +79133,7 @@
 
 -lexeme
  lex: կտավապատվել
- stem: .կտաւապատվ.//.կտավապատվ.
+ stem: .կտավապատվ.//.կտաւապատվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -79973,7 +79974,7 @@
 
 -lexeme
  lex: կրկնավաճառել
- stem: .կրկնաւաճառ.//.կրկնավաճառ.
+ stem: .կրկնավաճառ.//.կրկնաւաճառ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -79982,7 +79983,7 @@
 
 -lexeme
  lex: կրկնավարել
- stem: .կրկնավար.//.կրկնաւար.
+ stem: .կրկնաւար.//.կրկնավար.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -80326,7 +80327,7 @@
 
 -lexeme
  lex: կրոնավորել
- stem: .կրոնաւոր.//.կրոնավոր.
+ stem: .կրոնավոր.//.կրոնաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -80663,7 +80664,7 @@
 
 -lexeme
  lex: հագանել
- stem: .յագան.//.հագան.
+ stem: .հագան.//.յագան.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -80672,7 +80673,7 @@
 
 -lexeme
  lex: հագենալ
- stem: .յագե.//.հագե.
+ stem: .հագե.//.յագե.
  gramm: V,intr
  gloss: be.full
  paradigm: V22
@@ -80690,7 +80691,7 @@
 
 -lexeme
  lex: հագեցվել
- stem: .յագեցվ.//.հագեցվ.
+ stem: .հագեցվ.//.յագեցվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -80708,7 +80709,7 @@
 
 -lexeme
  lex: հագնել-կապել
- stem: .հագնել-կապ.//.յագնել-կապ.
+ stem: .յագնել-կապ.//.հագնել-կապ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -80726,7 +80727,7 @@
 
 -lexeme
  lex: հագնվել
- stem: .յագնվ.//.հագնվ.
+ stem: .հագնվ.//.յագնվ.
  gramm: V,med,intr
  gloss: dress
  paradigm: V11
@@ -80771,7 +80772,7 @@
 
 -lexeme
  lex: հագցնել
- stem: .յագց.//.հագց.
+ stem: .հագց.//.յագց.
  gramm: V,caus,tr
  gloss: clothe
  paradigm: V14
@@ -80780,7 +80781,7 @@
 
 -lexeme
  lex: հագցնել-կապցնել
- stem: .հագցնել-կապցն.//.յագցնել-կապցն.
+ stem: .յագցնել-կապցն.//.հագցնել-կապցն.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -80789,7 +80790,7 @@
 
 -lexeme
  lex: հագցվել
- stem: .յագցվ.//.հագցվ.
+ stem: .հագցվ.//.յագցվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -80798,7 +80799,7 @@
 
 -lexeme
  lex: հազալ
- stem: .հազ.//.յազ.
+ stem: .յազ.//.հազ.
  gramm: V,intr
  gloss: cough
  paradigm: V21
@@ -80806,7 +80807,7 @@
 
 -lexeme
  lex: հազարապատկել
- stem: .յազարապատկ.//.հազարապատկ.
+ stem: .հազարապատկ.//.յազարապատկ.
  gramm: V,tr
  gloss: increase.a.thousand.times_multiply.by.a.thousand.(a.thousand.times.over)
  paradigm: V11
@@ -80815,7 +80816,7 @@
 
 -lexeme
  lex: հազարապատկվել
- stem: .յազարապատկվ.//.հազարապատկվ.
+ stem: .հազարապատկվ.//.յազարապատկվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -80824,7 +80825,7 @@
 
 -lexeme
  lex: հազացնել
- stem: .յազաց.//.հազաց.
+ stem: .հազաց.//.յազաց.
  gramm: V,caus,tr
  gloss: cause.smb..to.cough
  paradigm: V14
@@ -80833,7 +80834,7 @@
 
 -lexeme
  lex: հազել
- stem: .հազ.//.յազ.
+ stem: .յազ.//.հազ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -80842,7 +80843,7 @@
 
 -lexeme
  lex: հազմզալ
- stem: .յազմզ.//.հազմզ.
+ stem: .հազմզ.//.յազմզ.
  gramm: V,intr
  gloss: STEM
  paradigm: V21
@@ -80850,7 +80851,7 @@
 
 -lexeme
  lex: հազրել
- stem: .հազր.//.յազր.
+ stem: .յազր.//.հազր.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -80859,7 +80860,7 @@
 
 -lexeme
  lex: հազրվել
- stem: .հազրվ.//.յազրվ.
+ stem: .յազրվ.//.հազրվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -80877,7 +80878,7 @@
 
 -lexeme
  lex: հալածակվել
- stem: .հալածակվ.//.յալածակվ.
+ stem: .յալածակվ.//.հալածակվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -80886,7 +80887,7 @@
 
 -lexeme
  lex: հալածել
- stem: .յալած.//.հալած.
+ stem: .հալած.//.յալած.
  gramm: V,tr
  gloss: persecute
  paradigm: V11
@@ -80895,7 +80896,7 @@
 
 -lexeme
  lex: հալածվել
- stem: .հալածվ.//.յալածվ.
+ stem: .յալածվ.//.հալածվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -80913,7 +80914,7 @@
 
 -lexeme
  lex: հալել-թափել
- stem: .հալել-թափ.//.յալել-թափ.
+ stem: .յալել-թափ.//.հալել-թափ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -80922,7 +80923,7 @@
 
 -lexeme
  lex: հալեցնել
- stem: .հալեց.//.յալեց.
+ stem: .յալեց.//.հալեց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -80931,7 +80932,7 @@
 
 -lexeme
  lex: հալիվորել
- stem: .յալիվոր.//.հալիվոր.//.հալիւոր.
+ stem: .յալիվոր.//.հալիւոր.//.հալիվոր.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -80940,7 +80941,7 @@
 
 -lexeme
  lex: հալհլել
- stem: .յալհլ.//.հալհլ.
+ stem: .հալհլ.//.յալհլ.
  gramm: V,intr/tr
  gloss: STEM
  paradigm: V11
@@ -80949,7 +80950,7 @@
 
 -lexeme
  lex: հալհլվել
- stem: .յալհլվ.//.հալհլվ.
+ stem: .հալհլվ.//.յալհլվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -80967,7 +80968,7 @@
 
 -lexeme
  lex: հալվեանալ
- stem: .յալվեա.//.հալվեա.
+ stem: .հալվեա.//.յալվեա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -80994,7 +80995,7 @@
 
 -lexeme
  lex: հախծասալել
- stem: .յախծասալ.//.հախծասալ.
+ stem: .հախծասալ.//.յախծասալ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -81012,7 +81013,7 @@
 
 -lexeme
  lex: հախճապակեպատել
- stem: .յախճապակեպատ.//.հախճապակեպատ.
+ stem: .հախճապակեպատ.//.յախճապակեպատ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -81021,7 +81022,7 @@
 
 -lexeme
  lex: հախճապակվել
- stem: .յախճապակվ.//.հախճապակվ.
+ stem: .հախճապակվ.//.յախճապակվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -81039,7 +81040,7 @@
 
 -lexeme
  lex: հախռել
- stem: .յախռ.//.հախռ.
+ stem: .հախռ.//.յախռ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -81048,7 +81049,7 @@
 
 -lexeme
  lex: հախսել
- stem: .հախս.//.յախս.
+ stem: .յախս.//.հախս.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -81057,7 +81058,7 @@
 
 -lexeme
  lex: հածանավել
- stem: .հածանաւ.//.յածանավ.//.հածանավ.
+ stem: .յածանավ.//.հածանավ.//.հածանաւ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -81066,7 +81067,7 @@
 
 -lexeme
  lex: հածել
- stem: .յած.//.հած.
+ stem: .հած.//.յած.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -81075,7 +81076,7 @@
 
 -lexeme
  lex: հակագործել
- stem: .յակագործ.//.հակագործ.
+ stem: .հակագործ.//.յակագործ.
  gramm: V,intr
  gloss: counteract_oppose
  paradigm: V11
@@ -81084,7 +81085,7 @@
 
 -lexeme
  lex: հակագրոհել
- stem: .յակագրոհ.//.հակագրոհ.
+ stem: .հակագրոհ.//.յակագրոհ.
  gramm: V,intr
  gloss: counter-attack
  paradigm: V11
@@ -81111,7 +81112,7 @@
 
 -lexeme
  lex: հակադարձվել
- stem: .հակադարձվ.//.յակադարձվ.
+ stem: .յակադարձվ.//.հակադարձվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -81147,7 +81148,7 @@
 
 -lexeme
  lex: հակակայել
- stem: .յակակայ.//.հակակայ.
+ stem: .հակակայ.//.յակակայ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -81156,7 +81157,7 @@
 
 -lexeme
  lex: հակակշռել
- stem: .հակակշռ.//.յակակշռ.
+ stem: .յակակշռ.//.հակակշռ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -81174,7 +81175,7 @@
 
 -lexeme
  lex: հակակրել
- stem: .յակակր.//.հակակր.
+ stem: .հակակր.//.յակակր.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -81183,7 +81184,7 @@
 
 -lexeme
  lex: հակակրթել
- stem: .հակակրթ.//.յակակրթ.
+ stem: .յակակրթ.//.հակակրթ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -81192,7 +81193,7 @@
 
 -lexeme
  lex: հակահարձակվել
- stem: .յակահարձակվ.//.հակահարձակվ.
+ stem: .հակահարձակվ.//.յակահարձակվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -81228,7 +81229,7 @@
 
 -lexeme
  lex: հակահեղափոխականացվել
- stem: .յակահեղափոխականացվ.//.հակահեղափոխականացվ.
+ stem: .հակահեղափոխականացվ.//.յակահեղափոխականացվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -81237,7 +81238,7 @@
 
 -lexeme
  lex: հակաճառել
- stem: .հակաճառ.//.յակաճառ.
+ stem: .յակաճառ.//.հակաճառ.
  gramm: V,intr
  gloss: object
  paradigm: V11
@@ -81246,7 +81247,7 @@
 
 -lexeme
  lex: հակամանեկել
- stem: .հակամանեկ.//.յակամանեկ.
+ stem: .յակամանեկ.//.հակամանեկ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -81264,7 +81265,7 @@
 
 -lexeme
  lex: հակամարտել
- stem: .հակամարտ.//.յակամարտ.
+ stem: .յակամարտ.//.հակամարտ.
  gramm: V,intr
  gloss: oppose
  paradigm: V11
@@ -81273,7 +81274,7 @@
 
 -lexeme
  lex: հակամիտել
- stem: .հակամիտ.//.յակամիտ.
+ stem: .յակամիտ.//.հակամիտ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -81282,7 +81283,7 @@
 
 -lexeme
  lex: հակամիտվել
- stem: .հակամիտվ.//.յակամիտվ.
+ stem: .յակամիտվ.//.հակամիտվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -81291,7 +81292,7 @@
 
 -lexeme
  lex: հականեխել
- stem: .յականեխ.//.հականեխ.
+ stem: .հականեխ.//.յականեխ.
  gramm: V,intr
  gloss: disinfect
  paradigm: V11
@@ -81300,7 +81301,7 @@
 
 -lexeme
  lex: հականեխվել
- stem: .յականեխվ.//.հականեխվ.
+ stem: .հականեխվ.//.յականեխվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -81309,7 +81310,7 @@
 
 -lexeme
  lex: հականերգոծվել
- stem: .յականերգոծվ.//.հականերգոծվ.
+ stem: .հականերգոծվ.//.յականերգոծվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -81318,7 +81319,7 @@
 
 -lexeme
  lex: հականերգործել
- stem: .հականերգործ.//.յականերգործ.
+ stem: .յականերգործ.//.հականերգործ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -81336,7 +81337,7 @@
 
 -lexeme
  lex: հակառակաբանել
- stem: .յակառակաբան.//.հակառակաբան.
+ stem: .հակառակաբան.//.յակառակաբան.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -81354,7 +81355,7 @@
 
 -lexeme
  lex: հակառականալ
- stem: .յակառակա.//.հակառակա.
+ stem: .հակառակա.//.յակառակա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -81363,7 +81364,7 @@
 
 -lexeme
  lex: հակառակել
- stem: .հակառակ.//.յակառակ.
+ stem: .յակառակ.//.հակառակ.
  gramm: V,intr
  gloss: oppose_resist_object.(to)
  paradigm: V11
@@ -81390,7 +81391,7 @@
 
 -lexeme
  lex: հակասել
- stem: .յակաս.//.հակաս.
+ stem: .հակաս.//.յակաս.
  gramm: V,intr
  gloss: contradict
  paradigm: V11
@@ -81408,7 +81409,7 @@
 
 -lexeme
  lex: հակավորվել
- stem: .հակավորվ.//.յակավորվ.//.հակաւորվ.
+ stem: .յակավորվ.//.հակավորվ.//.հակաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -81426,7 +81427,7 @@
 
 -lexeme
  lex: հակացուցվել
- stem: .հակացուցվ.//.յակացուցվ.
+ stem: .յակացուցվ.//.հակացուցվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -81435,7 +81436,7 @@
 
 -lexeme
  lex: հակել
- stem: .հակ.//.յակ.
+ stem: .յակ.//.հակ.
  gramm: V,tr
  gloss: incline
  paradigm: V11
@@ -81462,7 +81463,7 @@
 
 -lexeme
  lex: հակորոշել
- stem: .հակորոշ.//.յակորոշ.
+ stem: .յակորոշ.//.հակորոշ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -81480,7 +81481,7 @@
 
 -lexeme
  lex: հակվել
- stem: .յակվ.//.հակվ.
+ stem: .հակվ.//.յակվ.
  gramm: V,med,intr
  gloss: incline
  paradigm: V11
@@ -81489,7 +81490,7 @@
 
 -lexeme
  lex: հաղթակել
- stem: .յաղթակ.//.հաղթակ.
+ stem: .հաղթակ.//.յաղթակ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -81507,7 +81508,7 @@
 
 -lexeme
  lex: հաղթահարվել
- stem: .յաղթահարվ.//.հաղթահարվ.
+ stem: .հաղթահարվ.//.յաղթահարվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -81516,7 +81517,7 @@
 
 -lexeme
  lex: հաղթանակել
- stem: .յաղթանակ.//.հաղթանակ.
+ stem: .հաղթանակ.//.յաղթանակ.
  gramm: V,intr
  gloss: conquer
  paradigm: V11
@@ -81543,7 +81544,7 @@
 
 -lexeme
  lex: հաղորդագրել
- stem: .յաղորդագր.//.հաղորդագր.
+ stem: .հաղորդագր.//.յաղորդագր.
  gramm: V,tr
  gloss: notify
  paradigm: V11
@@ -81552,7 +81553,7 @@
 
 -lexeme
  lex: հաղորդագրվել
- stem: .հաղորդագրվ.//.յաղորդագրվ.
+ stem: .յաղորդագրվ.//.հաղորդագրվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -81561,7 +81562,7 @@
 
 -lexeme
  lex: հաղորդակցել
- stem: .հաղորդակց.//.յաղորդակց.
+ stem: .յաղորդակց.//.հաղորդակց.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -81597,7 +81598,7 @@
 
 -lexeme
  lex: հաճախանալ
- stem: .հաճախա.//.յաճախա.
+ stem: .յաճախա.//.հաճախա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -81606,7 +81607,7 @@
 
 -lexeme
  lex: հաճախացնել
- stem: .հաճախաց.//.յաճախաց.
+ stem: .յաճախաց.//.հաճախաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -81615,7 +81616,7 @@
 
 -lexeme
  lex: հաճախացվել
- stem: .յաճախացվ.//.հաճախացվ.
+ stem: .հաճախացվ.//.յաճախացվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -81624,7 +81625,7 @@
 
 -lexeme
  lex: հաճախել
- stem: .յաճախ.//.հաճախ.
+ stem: .հաճախ.//.յաճախ.
  gramm: V,intr
  gloss: attend
  paradigm: V11
@@ -81633,7 +81634,7 @@
 
 -lexeme
  lex: հաճախեցնել
- stem: .յաճախեց.//.հաճախեց.
+ stem: .հաճախեց.//.յաճախեց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -81642,7 +81643,7 @@
 
 -lexeme
  lex: հաճախվել
- stem: .հաճախվ.//.յաճախվ.
+ stem: .յաճախվ.//.հաճախվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -81704,7 +81705,7 @@
 
 -lexeme
  lex: համաբանել
- stem: .յամաբան.//.համաբան.
+ stem: .համաբան.//.յամաբան.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -81713,7 +81714,7 @@
 
 -lexeme
  lex: համաբանվել
- stem: .յամաբանվ.//.համաբանվ.
+ stem: .համաբանվ.//.յամաբանվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -81767,7 +81768,7 @@
 
 -lexeme
  lex: համագրավվել
- stem: .համագրավվ.//.համագրաւվ.//.յամագրավվ.
+ stem: .համագրաւվ.//.յամագրավվ.//.համագրավվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -81811,7 +81812,7 @@
 
 -lexeme
  lex: համադրվել
- stem: .համադրվ.//.յամադրվ.
+ stem: .յամադրվ.//.համադրվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -81829,7 +81830,7 @@
 
 -lexeme
  lex: համազգալ
- stem: .համազգ.//.յամազգ.
+ stem: .յամազգ.//.համազգ.
  gramm: V,tr
  gloss: STEM
  paradigm: V21
@@ -81846,7 +81847,7 @@
 
 -lexeme
  lex: համազգեստավորվել
- stem: .յամազգեստավորվ.//.համազգեստաւորվ.//.համազգեստավորվ.
+ stem: .համազգեստաւորվ.//.համազգեստավորվ.//.յամազգեստավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -81855,7 +81856,7 @@
 
 -lexeme
  lex: համաթեւել
- stem: .յամաթեւ.//.համաթև.//.համաթեւ.//.համաթեվ.
+ stem: .յամաթեւ.//.համաթեվ.//.համաթեւ.//.համաթև.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -81873,7 +81874,7 @@
 
 -lexeme
  lex: համաժողովել
- stem: .յամաժողով.//.համաժողով.
+ stem: .համաժողով.//.յամաժողով.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -81891,7 +81892,7 @@
 
 -lexeme
  lex: համաժողովրդականացնել
- stem: .համաժողովրդականաց.//.յամաժողովրդականաց.
+ stem: .յամաժողովրդականաց.//.համաժողովրդականաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -81909,7 +81910,7 @@
 
 -lexeme
  lex: համալծակցել
- stem: .համալծակց.//.յամալծակց.
+ stem: .յամալծակց.//.համալծակց.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -81918,7 +81919,7 @@
 
 -lexeme
  lex: համալրել
- stem: .յամալր.//.համալր.
+ stem: .համալր.//.յամալր.
  gramm: V,tr
  gloss: complete
  paradigm: V11
@@ -81936,7 +81937,7 @@
 
 -lexeme
  lex: համախառնել
- stem: .համախառն.//.յամախառն.
+ stem: .յամախառն.//.համախառն.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -81945,7 +81946,7 @@
 
 -lexeme
  lex: համախառնվել
- stem: .յամախառնվ.//.համախառնվ.
+ stem: .համախառնվ.//.յամախառնվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -81972,7 +81973,7 @@
 
 -lexeme
  lex: համակամել
- stem: .համակամ.//.յամակամ.
+ stem: .յամակամ.//.համակամ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -81981,7 +81982,7 @@
 
 -lexeme
  lex: համակարգել
- stem: .յամակարգ.//.համակարգ.
+ stem: .համակարգ.//.յամակարգ.
  gramm: V,tr
  gloss: systematize
  paradigm: V11
@@ -81999,7 +82000,7 @@
 
 -lexeme
  lex: համակել
- stem: .յամակ.//.համակ.
+ stem: .համակ.//.յամակ.
  gramm: V,intr
  gloss: envelope
  paradigm: V11
@@ -82008,7 +82009,7 @@
 
 -lexeme
  lex: համակենտրոնանալ
- stem: .յամակենտրոնա.//.համակենտրոնա.
+ stem: .համակենտրոնա.//.յամակենտրոնա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -82026,7 +82027,7 @@
 
 -lexeme
  lex: համակենտրոնացվել
- stem: .յամակենտրոնացվ.//.համակենտրոնացվ.
+ stem: .համակենտրոնացվ.//.յամակենտրոնացվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -82053,7 +82054,7 @@
 
 -lexeme
  lex: համակիտել
- stem: .յամակիտ.//.համակիտ.
+ stem: .համակիտ.//.յամակիտ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -82062,7 +82063,7 @@
 
 -lexeme
  lex: համակշռել
- stem: .համակշռ.//.յամակշռ.
+ stem: .յամակշռ.//.համակշռ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -82071,7 +82072,7 @@
 
 -lexeme
  lex: համակշռվել
- stem: .յամակշռվ.//.համակշռվ.
+ stem: .համակշռվ.//.յամակշռվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -82134,7 +82135,7 @@
 
 -lexeme
  lex: համահավաքել
- stem: .յամահավաք.//.համահաւաք.//.համահավաք.
+ stem: .համահաւաք.//.համահավաք.//.յամահավաք.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -82143,7 +82144,7 @@
 
 -lexeme
  lex: համահավաքվել
- stem: .համահաւաքվ.//.համահավաքվ.//.յամահավաքվ.
+ stem: .յամահավաքվ.//.համահաւաքվ.//.համահավաքվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -82161,7 +82162,7 @@
 
 -lexeme
  lex: համահարթեցնել
- stem: .համահարթեց.//.յամահարթեց.
+ stem: .յամահարթեց.//.համահարթեց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -82179,7 +82180,7 @@
 
 -lexeme
  lex: համահնչել
- stem: .յամահնչ.//.համահնչ.
+ stem: .համահնչ.//.յամահնչ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -82188,7 +82189,7 @@
 
 -lexeme
  lex: համաձայնել
- stem: .համաձայն.//.յամաձայն.
+ stem: .յամաձայն.//.համաձայն.
  gramm: V,intr
  gloss: consent
  paradigm: V11
@@ -82197,7 +82198,7 @@
 
 -lexeme
  lex: համաձայնեցնել
- stem: .յամաձայնեց.//.համաձայնեց.
+ stem: .համաձայնեց.//.յամաձայնեց.
  gramm: V,caus,tr
  gloss: coordinate.(with)_agree.with
  paradigm: V14
@@ -82215,7 +82216,7 @@
 
 -lexeme
  lex: համաձայնվել
- stem: .յամաձայնվ.//.համաձայնվ.
+ stem: .համաձայնվ.//.յամաձայնվ.
  gramm: V,med,intr
  gloss: agree
  paradigm: V11
@@ -82224,7 +82225,7 @@
 
 -lexeme
  lex: համաձեւանալ
- stem: .համաձևա.//.համաձեւա.//.յամաձեւա.//.համաձեվա.
+ stem: .համաձեվա.//.համաձևա.//.համաձեւա.//.յամաձեւա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -82251,7 +82252,7 @@
 
 -lexeme
  lex: համաճարակել
- stem: .համաճարակ.//.յամաճարակ.
+ stem: .յամաճարակ.//.համաճարակ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -82269,7 +82270,7 @@
 
 -lexeme
  lex: համաճեցնել
- stem: .յամաճեց.//.համաճեց.
+ stem: .համաճեց.//.յամաճեց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -82278,7 +82279,7 @@
 
 -lexeme
  lex: համաճեցվել
- stem: .յամաճեցվ.//.համաճեցվ.
+ stem: .համաճեցվ.//.յամաճեցվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -82305,7 +82306,7 @@
 
 -lexeme
  lex: համամակարդականացվել
- stem: .համամակարդականացվ.//.յամամակարդականացվ.
+ stem: .յամամակարդականացվ.//.համամակարդականացվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -82314,7 +82315,7 @@
 
 -lexeme
  lex: համամիտել
- stem: .յամամիտ.//.համամիտ.
+ stem: .համամիտ.//.յամամիտ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -82323,7 +82324,7 @@
 
 -lexeme
  lex: համամիտվել
- stem: .յամամիտվ.//.համամիտվ.
+ stem: .համամիտվ.//.յամամիտվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -82332,7 +82333,7 @@
 
 -lexeme
  lex: համամտել
- stem: .համամտ.//.յամամտ.
+ stem: .յամամտ.//.համամտ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -82368,7 +82369,7 @@
 
 -lexeme
  lex: համայնացվել
- stem: .համայնացվ.//.յամայնացվ.
+ stem: .յամայնացվ.//.համայնացվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -82413,7 +82414,7 @@
 
 -lexeme
  lex: համապատասխանել
- stem: .յամապատասխան.//.համապատասխան.
+ stem: .համապատասխան.//.յամապատասխան.
  gramm: V,intr
  gloss: correspond
  paradigm: V11
@@ -82440,7 +82441,7 @@
 
 -lexeme
  lex: համաջնջել
- stem: .համաջնջ.//.յամաջնջ.
+ stem: .յամաջնջ.//.համաջնջ.
  gramm: V,tr
  gloss: (completely).destroy
  paradigm: V11
@@ -82449,7 +82450,7 @@
 
 -lexeme
  lex: համաջնջվել
- stem: .յամաջնջվ.//.համաջնջվ.
+ stem: .համաջնջվ.//.յամաջնջվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -82485,7 +82486,7 @@
 
 -lexeme
  lex: համառոտագրվել
- stem: .յամառոտագրվ.//.համառոտագրվ.
+ stem: .համառոտագրվ.//.յամառոտագրվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -82503,7 +82504,7 @@
 
 -lexeme
  lex: համառոտվել
- stem: .յամառոտվ.//.համառոտվ.
+ stem: .համառոտվ.//.յամառոտվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -82512,7 +82513,7 @@
 
 -lexeme
  lex: համաստորադասել
- stem: .յամաստորադաս.//.համաստորադաս.
+ stem: .համաստորադաս.//.յամաստորադաս.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -82530,7 +82531,7 @@
 
 -lexeme
  lex: համասփյուռել
- stem: .յամասփյուռ.//.համասփյուռ.
+ stem: .համասփյուռ.//.յամասփյուռ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -82548,7 +82549,7 @@
 
 -lexeme
  lex: համասփռել
- stem: .համասփռ.//.յամասփռ.
+ stem: .յամասփռ.//.համասփռ.
  gramm: V,tr
  gloss: spread_disseminate_popularize
  paradigm: V11
@@ -82566,7 +82567,7 @@
 
 -lexeme
  lex: համատարածել
- stem: .համատարած.//.յամատարած.
+ stem: .յամատարած.//.համատարած.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -82575,7 +82576,7 @@
 
 -lexeme
  lex: համատարածվել
- stem: .համատարածվ.//.յամատարածվ.
+ stem: .յամատարածվ.//.համատարածվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -82584,7 +82585,7 @@
 
 -lexeme
  lex: համատեղել
- stem: .յամատեղ.//.համատեղ.
+ stem: .համատեղ.//.յամատեղ.
  gramm: V,tr
  gloss: hold.more.than.one.office
  paradigm: V11
@@ -82593,7 +82594,7 @@
 
 -lexeme
  lex: համատեղվել
- stem: .համատեղվ.//.յամատեղվ.
+ stem: .յամատեղվ.//.համատեղվ.
  gramm: V,med,intr
  gloss: combine
  paradigm: V11
@@ -82620,7 +82621,7 @@
 
 -lexeme
  lex: համատիրվել
- stem: .յամատիրվ.//.համատիրվ.
+ stem: .համատիրվ.//.յամատիրվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -82629,7 +82630,7 @@
 
 -lexeme
  lex: համարագրել
- stem: .համարագր.//.յամարագր.
+ stem: .յամարագր.//.համարագր.
  gramm: V,tr
  gloss: number_paginate
  paradigm: V11
@@ -82656,7 +82657,7 @@
 
 -lexeme
  lex: համարակալել
- stem: .յամարակալ.//.համարակալ.
+ stem: .համարակալ.//.յամարակալ.
  gramm: V,tr
  gloss: number_paginate
  paradigm: V11
@@ -82665,7 +82666,7 @@
 
 -lexeme
  lex: համարակալվել
- stem: .յամարակալվ.//.համարակալվ.
+ stem: .համարակալվ.//.յամարակալվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -82754,7 +82755,7 @@
 
 -lexeme
  lex: համբավազրկել
- stem: .համբաւազրկ.//.յամբավազրկ.//.համբավազրկ.
+ stem: .յամբավազրկ.//.համբավազրկ.//.համբաւազրկ.
  gramm: V,tr
  gloss: compromise
  paradigm: V11
@@ -82763,7 +82764,7 @@
 
 -lexeme
  lex: համբավազրկվել
- stem: .յամբավազրկվ.//.համբաւազրկվ.//.համբավազրկվ.
+ stem: .համբավազրկվ.//.յամբավազրկվ.//.համբաւազրկվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -82772,7 +82773,7 @@
 
 -lexeme
  lex: համբավել
- stem: .համբաւ.//.համբավ.//.յամբավ.
+ stem: .համբավ.//.համբաւ.//.յամբավ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -82826,7 +82827,7 @@
 
 -lexeme
  lex: համբերել
- stem: .յամբեր.//.համբեր.
+ stem: .համբեր.//.յամբեր.
  gramm: V,intr
  gloss: be.patient
  paradigm: V11
@@ -82844,7 +82845,7 @@
 
 -lexeme
  lex: համբուրվել
- stem: .համբուրվ.//.յամբուրվ.
+ stem: .յամբուրվ.//.համբուրվ.
  gramm: V,med,intr
  gloss: kiss.each.other
  paradigm: V11
@@ -82862,7 +82863,7 @@
 
 -lexeme
  lex: համեղանալ
- stem: .համեղա.//.յամեղա.
+ stem: .յամեղա.//.համեղա.
  gramm: V,intr
  gloss: become.delicious_tasty
  paradigm: V22
@@ -82871,7 +82872,7 @@
 
 -lexeme
  lex: համեղացնել
- stem: .համեղաց.//.յամեղաց.
+ stem: .յամեղաց.//.համեղաց.
  gramm: V,caus,tr
  gloss: make.delicious_tasty_flavour.(with)
  paradigm: V14
@@ -82898,7 +82899,7 @@
 
 -lexeme
  lex: համեմատվել
- stem: .համեմատվ.//.յամեմատվ.
+ stem: .յամեմատվ.//.համեմատվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -82907,7 +82908,7 @@
 
 -lexeme
  lex: համեմել
- stem: .համեմ.//.յամեմ.
+ stem: .յամեմ.//.համեմ.
  gramm: V,tr
  gloss: season_scent_sprinkle.with.salt
  paradigm: V11
@@ -82925,7 +82926,7 @@
 
 -lexeme
  lex: համենալ
- stem: .յամեն.//.համեն.
+ stem: .համեն.//.յամեն.
  gramm: V,intr
  gloss: STEM
  paradigm: V21
@@ -82951,7 +82952,7 @@
 
 -lexeme
  lex: համետել
- stem: .յամետ.//.համետ.
+ stem: .համետ.//.յամետ.
  gramm: V,tr
  gloss: saddle
  paradigm: V11
@@ -83005,7 +83006,7 @@
 
 -lexeme
  lex: համզգալ
- stem: .համզգ.//.յամզգ.
+ stem: .յամզգ.//.համզգ.
  gramm: V,tr
  gloss: STEM
  paradigm: V21
@@ -83040,7 +83041,7 @@
 
 -lexeme
  lex: համովանալ
- stem: .համովա.//.յամովա.
+ stem: .յամովա.//.համովա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -83058,7 +83059,7 @@
 
 -lexeme
  lex: համովացվել
- stem: .յամովացվ.//.համովացվ.
+ stem: .համովացվ.//.յամովացվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -83067,7 +83068,7 @@
 
 -lexeme
  lex: համովնալ
- stem: .յամով.//.համով.
+ stem: .համով.//.յամով.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -83076,7 +83077,7 @@
 
 -lexeme
  lex: համտեսել
- stem: .յամտես.//.համտես.
+ stem: .համտես.//.յամտես.
  gramm: V,tr
  gloss: taste
  paradigm: V11
@@ -83094,7 +83095,7 @@
 
 -lexeme
  lex: համրանալ
- stem: .յամրա.//.համրա.
+ stem: .համրա.//.յամրա.
  gramm: V,intr
  gloss: become.dumb_be.speechless_dumbstruck
  paradigm: V22
@@ -83112,7 +83113,7 @@
 
 -lexeme
  lex: համրացվել
- stem: .յամրացվ.//.համրացվ.
+ stem: .համրացվ.//.յամրացվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -83121,7 +83122,7 @@
 
 -lexeme
  lex: համրել
- stem: .համր.//.յամր.
+ stem: .յամր.//.համր.
  gramm: V,tr
  gloss: count
  paradigm: V11
@@ -83130,7 +83131,7 @@
 
 -lexeme
  lex: համրվել
- stem: .յամրվ.//.համրվ.
+ stem: .համրվ.//.յամրվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -83139,7 +83140,7 @@
 
 -lexeme
  lex: հայանալ
- stem: .հայա.//.յայա.
+ stem: .յայա.//.հայա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -83166,7 +83167,7 @@
 
 -lexeme
  lex: հայացվել
- stem: .յայացվ.//.հայացվ.
+ stem: .հայացվ.//.յայացվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -83175,7 +83176,7 @@
 
 -lexeme
  lex: հայել
- stem: .հայ.//.յայ.
+ stem: .յայ.//.հայ.
  gramm: V,tr
  gloss: look
  paradigm: V11
@@ -83184,7 +83185,7 @@
 
 -lexeme
  lex: հայելապատել
- stem: .յայելապատ.//.հայելապատ.
+ stem: .հայելապատ.//.յայելապատ.
  gramm: V,tr
  gloss: mirror
  paradigm: V11
@@ -83193,7 +83194,7 @@
 
 -lexeme
  lex: հայելապատվել
- stem: .յայելապատվ.//.հայելապատվ.
+ stem: .հայելապատվ.//.յայելապատվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -83211,7 +83212,7 @@
 
 -lexeme
  lex: հայելվել
- stem: .յայելվ.//.հայելվ.
+ stem: .հայելվ.//.յայելվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -83255,7 +83256,7 @@
 
 -lexeme
  lex: հայկականացվել
- stem: .յայկականացվ.//.հայկականացվ.
+ stem: .հայկականացվ.//.յայկականացվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -83264,7 +83265,7 @@
 
 -lexeme
  lex: հայհոյաբանել
- stem: .հայհոյաբան.//.յայհոյաբան.
+ stem: .յայհոյաբան.//.հայհոյաբան.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -83300,7 +83301,7 @@
 
 -lexeme
  lex: հայտագրել
- stem: .հայտագր.//.յայտագր.
+ stem: .յայտագր.//.հայտագր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -83309,7 +83310,7 @@
 
 -lexeme
  lex: հայտածել
- stem: .յայտած.//.հայտած.
+ stem: .հայտած.//.յայտած.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -83318,7 +83319,7 @@
 
 -lexeme
  lex: հայտածվել
- stem: .յայտածվ.//.հայտածվ.
+ stem: .հայտածվ.//.յայտածվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -83327,7 +83328,7 @@
 
 -lexeme
  lex: հայտարարել
- stem: .հայտարար.//.յայտարար.
+ stem: .յայտարար.//.հայտարար.
  gramm: V,tr
  gloss: declare
  paradigm: V11
@@ -83336,7 +83337,7 @@
 
 -lexeme
  lex: հայտարարվել
- stem: .հայտարարվ.//.յայտարարվ.
+ stem: .յայտարարվ.//.հայտարարվ.
  gramm: V,med,intr
  gloss: be.announced
  paradigm: V11
@@ -83345,7 +83346,7 @@
 
 -lexeme
  lex: հայտնաբանել
- stem: .յայտնաբան.//.հայտնաբան.
+ stem: .հայտնաբան.//.յայտնաբան.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -83354,7 +83355,7 @@
 
 -lexeme
  lex: հայտնաբերել
- stem: .հայտնաբեր.//.յայտնաբեր.
+ stem: .յայտնաբեր.//.հայտնաբեր.
  gramm: V,tr
  gloss: discover
  paradigm: V11
@@ -83363,7 +83364,7 @@
 
 -lexeme
  lex: հայտնաբերվել
- stem: .յայտնաբերվ.//.հայտնաբերվ.
+ stem: .հայտնաբերվ.//.յայտնաբերվ.
  gramm: V,med,intr
  gloss: be.discovered
  paradigm: V11
@@ -83381,7 +83382,7 @@
 
 -lexeme
  lex: հայտնագործվել
- stem: .յայտնագործվ.//.հայտնագործվ.
+ stem: .հայտնագործվ.//.յայտնագործվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -83408,7 +83409,7 @@
 
 -lexeme
  lex: հայրանալ
- stem: .հայրա.//.յայրա.
+ stem: .յայրա.//.հայրա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -83426,7 +83427,7 @@
 
 -lexeme
  lex: հայրատանալ
- stem: .յայրատա.//.հայրատա.
+ stem: .հայրատա.//.յայրատա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -83435,7 +83436,7 @@
 
 -lexeme
  lex: հայրատել
- stem: .հայրատ.//.յայրատ.
+ stem: .յայրատ.//.հայրատ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -83453,7 +83454,7 @@
 
 -lexeme
  lex: հայրենադարձվել
- stem: .յայրենադարձվ.//.հայրենադարձվ.
+ stem: .հայրենադարձվ.//.յայրենադարձվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -83462,7 +83463,7 @@
 
 -lexeme
  lex: հայրենազրկել
- stem: .յայրենազրկ.//.հայրենազրկ.
+ stem: .հայրենազրկ.//.յայրենազրկ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -83471,7 +83472,7 @@
 
 -lexeme
  lex: հայրենազրկվել
- stem: .յայրենազրկվ.//.հայրենազրկվ.
+ stem: .հայրենազրկվ.//.յայրենազրկվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -83489,7 +83490,7 @@
 
 -lexeme
  lex: հայրենավտարել
- stem: .յայրենավտար.//.հայրենավտար.//.հայրենաւտար.
+ stem: .յայրենավտար.//.հայրենաւտար.//.հայրենավտար.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -83507,7 +83508,7 @@
 
 -lexeme
  lex: հայցել
- stem: .հայց.//.յայց.
+ stem: .յայց.//.հայց.
  gramm: V,tr
  gloss: request
  paradigm: V11
@@ -83516,7 +83517,7 @@
 
 -lexeme
  lex: հայցվել
- stem: .հայցվ.//.յայցվ.
+ stem: .յայցվ.//.հայցվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -83525,7 +83526,7 @@
 
 -lexeme
  lex: հանագծել
- stem: .հանագծ.//.յանագծ.
+ stem: .յանագծ.//.հանագծ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -83552,7 +83553,7 @@
 
 -lexeme
  lex: հանգանակել
- stem: .հանգանակ.//.յանգանակ.
+ stem: .յանգանակ.//.հանգանակ.
  gramm: V,tr
  gloss: collect
  paradigm: V11
@@ -83561,7 +83562,7 @@
 
 -lexeme
  lex: հանգանակվել
- stem: .յանգանակվ.//.հանգանակվ.
+ stem: .հանգանակվ.//.յանգանակվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -83570,7 +83571,7 @@
 
 -lexeme
  lex: հանգավորել
- stem: .յանգավոր.//.հանգաւոր.//.հանգավոր.
+ stem: .հանգաւոր.//.հանգավոր.//.յանգավոր.
  gramm: V,tr
  gloss: rhyme.(with)
  paradigm: V11
@@ -83606,7 +83607,7 @@
 
 -lexeme
  lex: հանգերգել
- stem: .հանգերգ.//.յանգերգ.
+ stem: .յանգերգ.//.հանգերգ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -83642,7 +83643,7 @@
 
 -lexeme
  lex: հանգուստել
- stem: .յանգուստ.//.հանգուստ.
+ stem: .հանգուստ.//.յանգուստ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -83651,7 +83652,7 @@
 
 -lexeme
  lex: հանգուցանել
- stem: .հանգուցան.//.յանգուցան.
+ stem: .յանգուցան.//.հանգուցան.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V11
@@ -83678,7 +83679,7 @@
 
 -lexeme
  lex: հանգչել
- stem: .յանգչ.//.հանգչ.
+ stem: .հանգչ.//.յանգչ.
  gramm: V,intr
  gloss: rest
  paradigm: V11
@@ -83687,7 +83688,7 @@
 
 -lexeme
  lex: հանգչեցնել
- stem: .յանգչեց.//.հանգչեց.
+ stem: .հանգչեց.//.յանգչեց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -83723,7 +83724,7 @@
 
 -lexeme
  lex: հանգրիճվել
- stem: .յանգրիճվ.//.հանգրիճվ.
+ stem: .հանգրիճվ.//.յանգրիճվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -83732,7 +83733,7 @@
 
 -lexeme
  lex: հանգրվանել
- stem: .հանգրվան.//.յանգրվան.
+ stem: .յանգրվան.//.հանգրվան.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -83750,7 +83751,7 @@
 
 -lexeme
  lex: հանդարտանալ
- stem: .յանդարտա.//.հանդարտա.
+ stem: .հանդարտա.//.յանդարտա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -83768,7 +83769,7 @@
 
 -lexeme
  lex: հանդարտեցնել
- stem: .յանդարտեց.//.հանդարտեց.
+ stem: .հանդարտեց.//.յանդարտեց.
  gramm: V,caus,tr
  gloss: calm.(down)_stop_put.an.end.to
  paradigm: V14
@@ -83804,7 +83805,7 @@
 
 -lexeme
  lex: հանդգնացնել
- stem: .հանդգնաց.//.յանդգնաց.
+ stem: .յանդգնաց.//.հանդգնաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -83813,7 +83814,7 @@
 
 -lexeme
  lex: հանդգնել
- stem: .յանդգն.//.հանդգն.
+ stem: .հանդգն.//.յանդգն.
  gramm: V,intr
  gloss: dare
  paradigm: V11
@@ -83831,7 +83832,7 @@
 
 -lexeme
  lex: հանդերձավորել
- stem: .հանդերձավոր.//.յանդերձավոր.//.հանդերձաւոր.
+ stem: .հանդերձաւոր.//.յանդերձավոր.//.հանդերձավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -83876,7 +83877,7 @@
 
 -lexeme
  lex: հանդիպադրել
- stem: .յանդիպադր.//.հանդիպադր.
+ stem: .հանդիպադր.//.յանդիպադր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -83885,7 +83886,7 @@
 
 -lexeme
  lex: հանդիպադրվել
- stem: .հանդիպադրվ.//.յանդիպադրվ.
+ stem: .յանդիպադրվ.//.հանդիպադրվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -83894,7 +83895,7 @@
 
 -lexeme
  lex: հանդիպել
- stem: .յանդիպ.//.հանդիպ.
+ stem: .հանդիպ.//.յանդիպ.
  gramm: V,tr
  gloss: meet
  paradigm: V11
@@ -83921,7 +83922,7 @@
 
 -lexeme
  lex: հանդիսակցել
- stem: .հանդիսակց.//.յանդիսակց.
+ stem: .յանդիսակց.//.հանդիսակց.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -83930,7 +83931,7 @@
 
 -lexeme
  lex: հանդիսանալ
- stem: .հանդիսա.//.յանդիսա.
+ stem: .յանդիսա.//.հանդիսա.
  gramm: V,intr
  gloss: be
  paradigm: V22
@@ -83939,7 +83940,7 @@
 
 -lexeme
  lex: հանդիսավորել
- stem: .հանդիսաւոր.//.յանդիսավոր.//.հանդիսավոր.
+ stem: .յանդիսավոր.//.հանդիսավոր.//.հանդիսաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -83948,7 +83949,7 @@
 
 -lexeme
  lex: հանդիսավորվել
- stem: .հանդիսաւորվ.//.յանդիսավորվ.//.հանդիսավորվ.
+ stem: .հանդիսաւորվ.//.հանդիսավորվ.//.յանդիսավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -83957,7 +83958,7 @@
 
 -lexeme
  lex: հանդիսարկել
- stem: .հանդիսարկ.//.յանդիսարկ.
+ stem: .յանդիսարկ.//.հանդիսարկ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -83966,7 +83967,7 @@
 
 -lexeme
  lex: հանդիսացնել
- stem: .յանդիսաց.//.հանդիսաց.
+ stem: .հանդիսաց.//.յանդիսաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -84029,7 +84030,7 @@
 
 -lexeme
  lex: հանկերգել
- stem: .հանկերգ.//.յանկերգ.
+ stem: .յանկերգ.//.հանկերգ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -84038,7 +84039,7 @@
 
 -lexeme
  lex: հանկուցանել
- stem: .հանկուցան.//.յանկուցան.
+ stem: .յանկուցան.//.հանկուցան.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V11
@@ -84056,7 +84057,7 @@
 
 -lexeme
  lex: հանկչել
- stem: .հանկչ.//.յանկչ.
+ stem: .յանկչ.//.հանկչ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -84065,7 +84066,7 @@
 
 -lexeme
  lex: հանկրիճել
- stem: .յանկրիճ.//.հանկրիճ.
+ stem: .հանկրիճ.//.յանկրիճ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -84083,7 +84084,7 @@
 
 -lexeme
  lex: հանձնառել
- stem: .հանձնառ.//.յանձնառ.
+ stem: .յանձնառ.//.հանձնառ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -84092,7 +84093,7 @@
 
 -lexeme
  lex: հանձնարարել
- stem: .հանձնարար.//.յանձնարար.
+ stem: .յանձնարար.//.հանձնարար.
  gramm: V,tr
  gloss: recommend
  paradigm: V11
@@ -84101,7 +84102,7 @@
 
 -lexeme
  lex: հանձնարարվել
- stem: .հանձնարարվ.//.յանձնարարվ.
+ stem: .յանձնարարվ.//.հանձնարարվ.
  gramm: V,med,intr
  gloss: be.instructed
  paradigm: V11
@@ -84137,7 +84138,7 @@
 
 -lexeme
  lex: հանճարեղանալ
- stem: .հանճարեղա.//.յանճարեղա.
+ stem: .յանճարեղա.//.հանճարեղա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -84164,7 +84165,7 @@
 
 -lexeme
  lex: հանոցել
- stem: .հանոց.//.յանոց.
+ stem: .յանոց.//.հանոց.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -84200,7 +84201,7 @@
 
 -lexeme
  lex: հանրամատչելիացնել
- stem: .յանրամատչելիաց.//.հանրամատչելիաց.
+ stem: .հանրամատչելիաց.//.յանրամատչելիաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -84209,7 +84210,7 @@
 
 -lexeme
  lex: հանրամատչելիացվել
- stem: .հանրամատչելիացվ.//.յանրամատչելիացվ.
+ stem: .յանրամատչելիացվ.//.հանրամատչելիացվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -84227,7 +84228,7 @@
 
 -lexeme
  lex: հանրայնացնել
- stem: .հանրայնաց.//.յանրայնաց.
+ stem: .յանրայնաց.//.հանրայնաց.
  gramm: V,caus,tr
  gloss: socialize
  paradigm: V14
@@ -84245,7 +84246,7 @@
 
 -lexeme
  lex: հանրանալ
- stem: .հանրա.//.յանրա.
+ stem: .յանրա.//.հանրա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -84263,7 +84264,7 @@
 
 -lexeme
  lex: հանցագործել
- stem: .հանցագործ.//.յանցագործ.
+ stem: .յանցագործ.//.հանցագործ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -84272,7 +84273,7 @@
 
 -lexeme
  lex: հանցագրել
- stem: .հանցագր.//.յանցագր.
+ stem: .յանցագր.//.հանցագր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -84299,7 +84300,7 @@
 
 -lexeme
  lex: հանքայնանալ
- stem: .յանքայնա.//.հանքայնա.
+ stem: .հանքայնա.//.յանքայնա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -84317,7 +84318,7 @@
 
 -lexeme
  lex: հանքայնացվել
- stem: .յանքայնացվ.//.հանքայնացվ.
+ stem: .հանքայնացվ.//.յանքայնացվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -84326,7 +84327,7 @@
 
 -lexeme
  lex: հանքացնել
- stem: .հանքաց.//.յանքաց.
+ stem: .յանքաց.//.հանքաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -84371,7 +84372,7 @@
 
 -lexeme
  lex: հաշմանդամել
- stem: .հաշմանդամ.//.յաշմանդամ.
+ stem: .յաշմանդամ.//.հաշմանդամ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -84380,7 +84381,7 @@
 
 -lexeme
  lex: հաշմանդամվել
- stem: .հաշմանդամվ.//.յաշմանդամվ.
+ stem: .յաշմանդամվ.//.հաշմանդամվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -84389,7 +84390,7 @@
 
 -lexeme
  lex: հաշմել
- stem: .հաշմ.//.յաշմ.
+ stem: .յաշմ.//.հաշմ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -84407,7 +84408,7 @@
 
 -lexeme
  lex: հաշվակցել
- stem: .հաշվակց.//.յաշվակց.
+ stem: .յաշվակց.//.հաշվակց.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -84416,7 +84417,7 @@
 
 -lexeme
  lex: հաշվակցվել
- stem: .յաշվակցվ.//.հաշվակցվ.
+ stem: .հաշվակցվ.//.յաշվակցվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -84425,7 +84426,7 @@
 
 -lexeme
  lex: հաշվանցել
- stem: .հաշվանց.//.յաշվանց.
+ stem: .յաշվանց.//.հաշվանց.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -84434,7 +84435,7 @@
 
 -lexeme
  lex: հաշվառել
- stem: .հաշվառ.//.յաշվառ.
+ stem: .յաշվառ.//.հաշվառ.
  gramm: V,tr
  gloss: take.account
  paradigm: V11
@@ -84443,7 +84444,7 @@
 
 -lexeme
  lex: հաշվարկել
- stem: .հաշվարկ.//.յաշվարկ.
+ stem: .յաշվարկ.//.հաշվարկ.
  gramm: V,tr
  gloss: calculate
  paradigm: V11
@@ -84461,7 +84462,7 @@
 
 -lexeme
  lex: հաշվեգրել
- stem: .հաշվեգր.//.յաշվեգր.
+ stem: .յաշվեգր.//.հաշվեգր.
  gramm: V,tr
  gloss: include_enter
  paradigm: V11
@@ -84470,7 +84471,7 @@
 
 -lexeme
  lex: հաշվեգրվել
- stem: .յաշվեգրվ.//.հաշվեգրվ.
+ stem: .հաշվեգրվ.//.յաշվեգրվ.
  gramm: V,med,intr
  gloss: join
  paradigm: V11
@@ -84497,7 +84498,7 @@
 
 -lexeme
  lex: հաշվվել
- stem: .յաշվվ.//.հաշվվ.
+ stem: .հաշվվ.//.յաշվվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -84541,7 +84542,7 @@
 
 -lexeme
  lex: հաչաղել
- stem: .հաչաղ.//.յաչաղ.
+ stem: .յաչաղ.//.հաչաղ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -84559,7 +84560,7 @@
 
 -lexeme
  lex: հաչեցնել
- stem: .յաչեց.//.հաչեց.
+ stem: .հաչեց.//.յաչեց.
  gramm: V,caus,tr
  gloss: make.bark_bay_make.talk.scandal
  paradigm: V14
@@ -84568,7 +84569,7 @@
 
 -lexeme
  lex: հաչմչալ
- stem: .յաչմչ.//.հաչմչ.
+ stem: .հաչմչ.//.յաչմչ.
  gramm: V,intr
  gloss: STEM
  paradigm: V21
@@ -84576,7 +84577,7 @@
 
 -lexeme
  lex: հաչմչել
- stem: .յաչմչ.//.հաչմչ.
+ stem: .հաչմչ.//.յաչմչ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -84594,7 +84595,7 @@
 
 -lexeme
  lex: հապաղել
- stem: .յապաղ.//.հապաղ.
+ stem: .հապաղ.//.յապաղ.
  gramm: V,intr
  gloss: linger_lag.behind
  paradigm: V11
@@ -84620,7 +84621,7 @@
 
 -lexeme
  lex: հապավել
- stem: .հապավ.//.յապավ.//.հապաւ.
+ stem: .հապաւ.//.յապավ.//.հապավ.
  gramm: V,intr
  gloss: abbreviate
  paradigm: V11
@@ -84629,7 +84630,7 @@
 
 -lexeme
  lex: հապավվել
- stem: .հապավվ.//.յապավվ.//.հապաւվ.
+ stem: .յապավվ.//.հապավվ.//.հապաւվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -84655,7 +84656,7 @@
 
 -lexeme
  lex: հաջաղել
- stem: .հաջաղ.//.յաջաղ.
+ stem: .յաջաղ.//.հաջաղ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -84673,7 +84674,7 @@
 
 -lexeme
  lex: հաջեցնել
- stem: .յաջեց.//.հաջեց.
+ stem: .հաջեց.//.յաջեց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -84682,7 +84683,7 @@
 
 -lexeme
  lex: հաջողակել
- stem: .յաջողակ.//.հաջողակ.
+ stem: .հաջողակ.//.յաջողակ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -84691,7 +84692,7 @@
 
 -lexeme
  lex: հաջողանալ
- stem: .հաջողա.//.յաջողա.
+ stem: .յաջողա.//.հաջողա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -84700,7 +84701,7 @@
 
 -lexeme
  lex: հաջողացնել
- stem: .յաջողաց.//.հաջողաց.
+ stem: .հաջողաց.//.յաջողաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -84709,7 +84710,7 @@
 
 -lexeme
  lex: հաջողել
- stem: .յաջող.//.հաջող.
+ stem: .հաջող.//.յաջող.
  gramm: V,tr
  gloss: succeed
  paradigm: V11
@@ -84718,7 +84719,7 @@
 
 -lexeme
  lex: հաջողեցնել
- stem: .յաջողեց.//.հաջողեց.
+ stem: .հաջողեց.//.յաջողեց.
  gramm: V,caus,tr
  gloss: put.right_arrange
  paradigm: V14
@@ -84727,7 +84728,7 @@
 
 -lexeme
  lex: հաջողեցվել
- stem: .հաջողեցվ.//.յաջողեցվ.
+ stem: .յաջողեցվ.//.հաջողեցվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -84789,7 +84790,7 @@
 
 -lexeme
  lex: հառաջել
- stem: .յառաջ.//.հառաջ.
+ stem: .հառաջ.//.յառաջ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -84798,7 +84799,7 @@
 
 -lexeme
  lex: հառել
- stem: .հառ.//.յառ.
+ stem: .յառ.//.հառ.
  gramm: V,tr
  gloss: fix.eyes.on
  paradigm: V11
@@ -84824,7 +84825,7 @@
 
 -lexeme
  lex: հառվել
- stem: .յառվ.//.հառվ.
+ stem: .հառվ.//.յառվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -84833,7 +84834,7 @@
 
 -lexeme
  lex: հասակվել
- stem: .հասակվ.//.յասակվ.
+ stem: .յասակվ.//.հասակվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -84851,7 +84852,7 @@
 
 -lexeme
  lex: հասարակականանալ
- stem: .յասարակականա.//.հասարակականա.
+ stem: .հասարակականա.//.յասարակականա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -84896,7 +84897,7 @@
 
 -lexeme
  lex: հասարակացվել
- stem: .հասարակացվ.//.յասարակացվ.
+ stem: .յասարակացվ.//.հասարակացվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -84950,7 +84951,7 @@
 
 -lexeme
  lex: հասկավորվել
- stem: .հասկաւորվ.//.յասկավորվ.//.հասկավորվ.
+ stem: .յասկավորվ.//.հասկաւորվ.//.հասկավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -84959,7 +84960,7 @@
 
 -lexeme
  lex: հասկացնել
- stem: .յասկաց.//.հասկաց.
+ stem: .հասկաց.//.յասկաց.
  gramm: V,caus,tr
  gloss: explain
  paradigm: V14
@@ -84968,7 +84969,7 @@
 
 -lexeme
  lex: հասկացվել
- stem: .հասկացվ.//.յասկացվ.
+ stem: .յասկացվ.//.հասկացվ.
  gramm: V,caus,med,intr
  gloss: be.implied_meant_understood
  paradigm: V11
@@ -84995,7 +84996,7 @@
 
 -lexeme
  lex: հասկընալ
- stem: .հասկըն.//.յասկըն.
+ stem: .յասկըն.//.հասկըն.
  gramm: V,tr
  gloss: STEM
  paradigm: V21
@@ -85003,7 +85004,7 @@
 
 -lexeme
  lex: հասկըցնել
- stem: .յասկըց.//.հասկըց.
+ stem: .հասկըց.//.յասկըց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -85012,7 +85013,7 @@
 
 -lexeme
  lex: հասկնալ
- stem: .հասկն.//.յասկն.
+ stem: .յասկն.//.հասկն.
  gramm: V,tr
  gloss: STEM
  paradigm: V21
@@ -85029,7 +85030,7 @@
 
 -lexeme
  lex: հասմիկանալ
- stem: .յասմիկա.//.հասմիկա.
+ stem: .հասմիկա.//.յասմիկա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -85038,7 +85039,7 @@
 
 -lexeme
  lex: հասնել
- stem: .յաս.//.հաս.
+ stem: .հաս.//.յաս.
  gramm: V,intr
  gloss: reach
  paradigm: V12
@@ -85047,7 +85048,7 @@
 
 -lexeme
  lex: հասունանալ
- stem: .հասունա.//.յասունա.
+ stem: .յասունա.//.հասունա.
  gramm: V,intr
  gloss: ripen
  paradigm: V22
@@ -85056,7 +85057,7 @@
 
 -lexeme
  lex: հասունացնել
- stem: .հասունաց.//.յասունաց.
+ stem: .յասունաց.//.հասունաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -85074,7 +85075,7 @@
 
 -lexeme
  lex: հասուցանել
- stem: .յասուցան.//.հասուցան.
+ stem: .հասուցան.//.յասուցան.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V11
@@ -85083,7 +85084,7 @@
 
 -lexeme
  lex: հաստանալ
- stem: .յաստա.//.հաստա.
+ stem: .հաստա.//.յաստա.
  gramm: V,intr
  gloss: thicken_grow.fat_stout
  paradigm: V22
@@ -85092,7 +85093,7 @@
 
 -lexeme
  lex: հաստատագրել
- stem: .հաստատագր.//.յաստատագր.
+ stem: .յաստատագր.//.հաստատագր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -85101,7 +85102,7 @@
 
 -lexeme
  lex: հաստատագրվել
- stem: .յաստատագրվ.//.հաստատագրվ.
+ stem: .հաստատագրվ.//.յաստատագրվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -85128,7 +85129,7 @@
 
 -lexeme
  lex: հաստատել
- stem: .յաստատ.//.հաստատ.
+ stem: .հաստատ.//.յաստատ.
  gramm: V,tr
  gloss: affirm
  paradigm: V11
@@ -85137,7 +85138,7 @@
 
 -lexeme
  lex: հաստատվել
- stem: .յաստատվ.//.հաստատվ.
+ stem: .հաստատվ.//.յաստատվ.
  gramm: V,med,intr
  gloss: be.approved
  paradigm: V11
@@ -85164,7 +85165,7 @@
 
 -lexeme
  lex: հաստել
- stem: .յաստ.//.հաստ.
+ stem: .հաստ.//.յաստ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -85173,7 +85174,7 @@
 
 -lexeme
  lex: հաստնալ
- stem: .յաստ.//.հաստ.
+ stem: .հաստ.//.յաստ.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -85200,7 +85201,7 @@
 
 -lexeme
  lex: հասցեագրվել
- stem: .յասցեագրվ.//.հասցեագրվ.
+ stem: .հասցեագրվ.//.յասցեագրվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -85209,7 +85210,7 @@
 
 -lexeme
  lex: հասցնել
- stem: .յասց.//.հասց.
+ stem: .հասց.//.յասց.
  gramm: V,caus,tr
  gloss: lead
  paradigm: V14
@@ -85227,7 +85228,7 @@
 
 -lexeme
  lex: հավակնել
- stem: .յավակն.//.հավակն.//.հաւակն.
+ stem: .հաւակն.//.հավակն.//.յավակն.
  gramm: V,intr
  gloss: pretend.(on)
  paradigm: V11
@@ -85236,7 +85237,7 @@
 
 -lexeme
  lex: հավանել
- stem: .յավան.//.հաւան.//.հավան.
+ stem: .հաւան.//.հավան.//.յավան.
  gramm: V,tr
  gloss: like
  paradigm: V11
@@ -85245,7 +85246,7 @@
 
 -lexeme
  lex: հավանեցնել
- stem: .յավանեց.//.հաւանեց.//.հավանեց.
+ stem: .յավանեց.//.հավանեց.//.հաւանեց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -85254,7 +85255,7 @@
 
 -lexeme
  lex: հավանվել
- stem: .հավանվ.//.յավանվ.//.հաւանվ.
+ stem: .յավանվ.//.հավանվ.//.հաւանվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -85263,7 +85264,7 @@
 
 -lexeme
  lex: հավասարաբաշխել
- stem: .հավասարաբաշխ.//.հաւասարաբաշխ.//.յավասարաբաշխ.
+ stem: .յավասարաբաշխ.//.հավասարաբաշխ.//.հաւասարաբաշխ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -85290,7 +85291,7 @@
 
 -lexeme
  lex: հավասարագծվել
- stem: .հաւասարագծվ.//.հավասարագծվ.//.յավասարագծվ.
+ stem: .յավասարագծվ.//.հավասարագծվ.//.հաւասարագծվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -85299,7 +85300,7 @@
 
 -lexeme
  lex: հավասարակշռել
- stem: .հավասարակշռ.//.յավասարակշռ.//.հաւասարակշռ.
+ stem: .յավասարակշռ.//.հավասարակշռ.//.հաւասարակշռ.
  gramm: V,tr
  gloss: equilibrate
  paradigm: V11
@@ -85308,7 +85309,7 @@
 
 -lexeme
  lex: հավասարակշռվել
- stem: .յավասարակշռվ.//.հաւասարակշռվ.//.հավասարակշռվ.
+ stem: .յավասարակշռվ.//.հավասարակշռվ.//.հաւասարակշռվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -85317,7 +85318,7 @@
 
 -lexeme
  lex: հավասարել
- stem: .հավասար.//.յավասար.//.հաւասար.
+ stem: .հաւասար.//.հավասար.//.յավասար.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -85326,7 +85327,7 @@
 
 -lexeme
  lex: հավասարեցնել
- stem: .հավասարեց.//.յավասարեց.//.հաւասարեց.
+ stem: .հավասարեց.//.հաւասարեց.//.յավասարեց.
  gramm: V,caus,tr
  gloss: equalize
  paradigm: V14
@@ -85335,7 +85336,7 @@
 
 -lexeme
  lex: հավասարեցվել
- stem: .հավասարեցվ.//.հաւասարեցվ.//.յավասարեցվ.
+ stem: .հավասարեցվ.//.յավասարեցվ.//.հաւասարեցվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -85344,7 +85345,7 @@
 
 -lexeme
  lex: հավասարվել
- stem: .յավասարվ.//.հաւասարվ.//.հավասարվ.
+ stem: .յավասարվ.//.հավասարվ.//.հաւասարվ.
  gramm: V,med,intr
  gloss: get_become.equal
  paradigm: V11
@@ -85353,7 +85354,7 @@
 
 -lexeme
  lex: հավաստագրել
- stem: .հավաստագր.//.յավաստագր.//.հաւաստագր.
+ stem: .յավաստագր.//.հաւաստագր.//.հավաստագր.
  gramm: V,tr
  gloss: certify
  paradigm: V11
@@ -85362,7 +85363,7 @@
 
 -lexeme
  lex: հավաստագրվել
- stem: .հաւաստագրվ.//.յավաստագրվ.//.հավաստագրվ.
+ stem: .հավաստագրվ.//.յավաստագրվ.//.հաւաստագրվ.
  gramm: V,med,intr
  gloss: ascertain
  paradigm: V11
@@ -85371,7 +85372,7 @@
 
 -lexeme
  lex: հավաստել
- stem: .հաւաստ.//.յավաստ.//.հավաստ.
+ stem: .հավաստ.//.հաւաստ.//.յավաստ.
  gramm: V,tr
  gloss: witness
  paradigm: V11
@@ -85380,7 +85381,7 @@
 
 -lexeme
  lex: հավաստիանալ
- stem: .յավաստիա.//.հավաստիա.//.հաւաստիա.
+ stem: .հաւաստիա.//.յավաստիա.//.հավաստիա.
  gramm: V,intr
  gloss: get.confirmed
  paradigm: V22
@@ -85389,7 +85390,7 @@
 
 -lexeme
  lex: հավաստիացնել
- stem: .հավաստիաց.//.հաւաստիաց.//.յավաստիաց.
+ stem: .հաւաստիաց.//.յավաստիաց.//.հավաստիաց.
  gramm: V,caus,tr
  gloss: assure
  paradigm: V14
@@ -85424,7 +85425,7 @@
 
 -lexeme
  lex: հավատավորել
- stem: .հաւատաւոր.//.յավատավոր.//.հավատավոր.
+ stem: .հավատավոր.//.յավատավոր.//.հաւատաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -85433,7 +85434,7 @@
 
 -lexeme
  lex: հավատավորվել
- stem: .հաւատաւորվ.//.հավատավորվ.//.յավատավորվ.
+ stem: .հավատավորվ.//.հաւատաւորվ.//.յավատավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -85442,7 +85443,7 @@
 
 -lexeme
  lex: հավատարմագրել
- stem: .հավատարմագր.//.յավատարմագր.//.հաւատարմագր.
+ stem: .հավատարմագր.//.հաւատարմագր.//.յավատարմագր.
  gramm: V,tr
  gloss: accredit
  paradigm: V11
@@ -85469,7 +85470,7 @@
 
 -lexeme
  lex: հավատարմացնել
- stem: .հավատարմաց.//.հաւատարմաց.//.յավատարմաց.
+ stem: .յավատարմաց.//.հաւատարմաց.//.հավատարմաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -85478,7 +85479,7 @@
 
 -lexeme
  lex: հավատացնել
- stem: .հավատաց.//.հաւատաց.//.յավատաց.
+ stem: .հաւատաց.//.յավատաց.//.հավատաց.
  gramm: V,caus,tr
  gloss: assure
  paradigm: V14
@@ -85487,7 +85488,7 @@
 
 -lexeme
  lex: հավաքաբանել
- stem: .յավաքաբան.//.հավաքաբան.//.հաւաքաբան.
+ stem: .հավաքաբան.//.հաւաքաբան.//.յավաքաբան.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -85496,7 +85497,7 @@
 
 -lexeme
  lex: հավաքագնել
- stem: .յավաքագն.//.հավաքագն.//.հաւաքագն.
+ stem: .հավաքագն.//.յավաքագն.//.հաւաքագն.
  gramm: V,intr
  gloss: buy.up_corner
  paradigm: V11
@@ -85523,7 +85524,7 @@
 
 -lexeme
  lex: հավաքագրվել
- stem: .հաւաքագրվ.//.յավաքագրվ.//.հավաքագրվ.
+ stem: .յավաքագրվ.//.հավաքագրվ.//.հաւաքագրվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -85541,7 +85542,7 @@
 
 -lexeme
  lex: հավաքակրել
- stem: .հաւաքակր.//.յավաքակր.//.հավաքակր.
+ stem: .յավաքակր.//.հաւաքակր.//.հավաքակր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -85550,7 +85551,7 @@
 
 -lexeme
  lex: հավաքել
- stem: .հաւաք.//.հավաք.//.յավաք.
+ stem: .յավաք.//.հավաք.//.հաւաք.
  gramm: V,tr
  gloss: gather
  paradigm: V11
@@ -85559,7 +85560,7 @@
 
 -lexeme
  lex: հավաքոտել
- stem: .հավաքոտ.//.հաւաքոտ.//.յավաքոտ.
+ stem: .յավաքոտ.//.հավաքոտ.//.հաւաքոտ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -85568,7 +85569,7 @@
 
 -lexeme
  lex: հավաքոտվել
- stem: .հավաքոտվ.//.յավաքոտվ.//.հաւաքոտվ.
+ stem: .յավաքոտվ.//.հավաքոտվ.//.հաւաքոտվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -85577,7 +85578,7 @@
 
 -lexeme
  lex: հավաքվել
- stem: .հաւաքվ.//.հավաքվ.//.յավաքվ.
+ stem: .հաւաքվ.//.յավաքվ.//.հավաքվ.
  gramm: V,med,intr
  gloss: gather
  paradigm: V11
@@ -85595,7 +85596,7 @@
 
 -lexeme
  lex: հավելագրվել
- stem: .հաւելագրվ.//.հավելագրվ.//.յավելագրվ.
+ stem: .հաւելագրվ.//.յավելագրվ.//.հավելագրվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -85604,7 +85605,7 @@
 
 -lexeme
  lex: հավելավճարել
- stem: .հավելավճար.//.յավելավճար.//.հաւելաւճար.
+ stem: .յավելավճար.//.հավելավճար.//.հաւելաւճար.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -85631,7 +85632,7 @@
 
 -lexeme
  lex: հավելուլ
- stem: հավելուլ.//հաւելուլ.
+ stem: հաւելուլ.//հավելուլ.
  gramm: V,tr
  gloss: STEM
  paradigm: Empty
@@ -85639,7 +85640,7 @@
 
 -lexeme
  lex: հավելվել
- stem: .յավելվ.//.հաւելվ.//.հավելվ.
+ stem: .հավելվ.//.յավելվ.//.հաւելվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -85648,7 +85649,7 @@
 
 -lexeme
  lex: հավերժագործել
- stem: .հավերժագործ.//.հաւերժագործ.//.յավերժագործ.
+ stem: .յավերժագործ.//.հավերժագործ.//.հաւերժագործ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -85657,7 +85658,7 @@
 
 -lexeme
  lex: հավերժանալ
- stem: .հավերժա.//.հաւերժա.//.յավերժա.
+ stem: .հաւերժա.//.հավերժա.//.յավերժա.
  gramm: V,intr
  gloss: be.perpetuated_immortalized_rendered.perpetual
  paradigm: V22
@@ -85675,7 +85676,7 @@
 
 -lexeme
  lex: հավերժացվել
- stem: .հաւերժացվ.//.հավերժացվ.//.յավերժացվ.
+ stem: .հավերժացվ.//.յավերժացվ.//.հաւերժացվ.
  gramm: V,caus,med,intr
  gloss: be.eternalized_immortalized
  paradigm: V11
@@ -85702,7 +85703,7 @@
 
 -lexeme
  lex: հավիտենականացնել
- stem: .յավիտենականաց.//.հաւիտենականաց.//.հավիտենականաց.
+ stem: .հաւիտենականաց.//.հավիտենականաց.//.յավիտենականաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -85711,7 +85712,7 @@
 
 -lexeme
  lex: հավիտենանալ
- stem: .հաւիտենա.//.հավիտենա.//.յավիտենա.
+ stem: .հաւիտենա.//.յավիտենա.//.հավիտենա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -85720,7 +85721,7 @@
 
 -lexeme
  lex: հավիտենացնել
- stem: .յավիտենաց.//.հավիտենաց.//.հաւիտենաց.
+ stem: .հաւիտենաց.//.հավիտենաց.//.յավիտենաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -85738,7 +85739,7 @@
 
 -lexeme
  lex: հավհավել
- stem: .հաւհաւ.//.յավհավ.//.հավհավ.
+ stem: .հավհավ.//.յավհավ.//.հաւհաւ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -85747,7 +85748,7 @@
 
 -lexeme
  lex: հավնել
- stem: .յավն.//.հավն.//.հաւն.
+ stem: .հաւն.//.հավն.//.յավն.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -85756,7 +85757,7 @@
 
 -lexeme
  lex: հավտալ
- stem: .հավտ.//.հաւտ.//.յավտ.
+ stem: .հավտ.//.յավտ.//.հաւտ.
  gramm: V,intr
  gloss: STEM
  paradigm: V21
@@ -85773,7 +85774,7 @@
 
 -lexeme
  lex: հատակագծել
- stem: .յատակագծ.//.հատակագծ.
+ stem: .հատակագծ.//.յատակագծ.
  gramm: V,tr
  gloss: plan_lay.out
  paradigm: V11
@@ -85782,7 +85783,7 @@
 
 -lexeme
  lex: հատակագծվել
- stem: .յատակագծվ.//.հատակագծվ.
+ stem: .հատակագծվ.//.յատակագծվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -85791,7 +85792,7 @@
 
 -lexeme
  lex: հատականալ
- stem: .հատակա.//.յատակա.
+ stem: .յատակա.//.հատակա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -85818,7 +85819,7 @@
 
 -lexeme
  lex: հատակտրել
- stem: .հատակտր.//.յատակտր.
+ stem: .յատակտր.//.հատակտր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -85827,7 +85828,7 @@
 
 -lexeme
  lex: հատակտրվել
- stem: .յատակտրվ.//.հատակտրվ.
+ stem: .հատակտրվ.//.յատակտրվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -85836,7 +85837,7 @@
 
 -lexeme
  lex: հատանել
- stem: .հատան.//.յատան.
+ stem: .յատան.//.հատան.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -85845,7 +85846,7 @@
 
 -lexeme
  lex: հատավորել
- stem: .յատավոր.//.հատաւոր.//.հատավոր.
+ stem: .հատաւոր.//.յատավոր.//.հատավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -85854,7 +85855,7 @@
 
 -lexeme
  lex: հատավորվել
- stem: .հատաւորվ.//.յատավորվ.//.հատավորվ.
+ stem: .հատավորվ.//.հատաւորվ.//.յատավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -85863,7 +85864,7 @@
 
 -lexeme
  lex: հատացնել
- stem: .յատաց.//.հատաց.
+ stem: .հատաց.//.յատաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -85872,7 +85873,7 @@
 
 -lexeme
  lex: հատել
- stem: .հատ.//.յատ.
+ stem: .յատ.//.հատ.
  gramm: V,tr
  gloss: cut
  paradigm: V11
@@ -85881,7 +85882,7 @@
 
 -lexeme
  lex: հատիկավորել
- stem: .յատիկավոր.//.հատիկաւոր.//.հատիկավոր.
+ stem: .հատիկաւոր.//.հատիկավոր.//.յատիկավոր.
  gramm: V,tr
  gloss: granulate
  paradigm: V11
@@ -85890,7 +85891,7 @@
 
 -lexeme
  lex: հատիկավորվել
- stem: .յատիկավորվ.//.հատիկաւորվ.//.հատիկավորվ.
+ stem: .յատիկավորվ.//.հատիկավորվ.//.հատիկաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -85899,7 +85900,7 @@
 
 -lexeme
  lex: հատիճավորել
- stem: .հատիճաւոր.//.յատիճավոր.//.հատիճավոր.
+ stem: .յատիճավոր.//.հատիճավոր.//.հատիճաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -85908,7 +85909,7 @@
 
 -lexeme
  lex: հատիճավորվել
- stem: .յատիճավորվ.//.հատիճաւորվ.//.հատիճավորվ.
+ stem: .հատիճաւորվ.//.յատիճավորվ.//.հատիճավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -85935,7 +85936,7 @@
 
 -lexeme
  lex: հատկանշվել
- stem: .յատկանշվ.//.հատկանշվ.
+ stem: .հատկանշվ.//.յատկանշվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -85944,7 +85945,7 @@
 
 -lexeme
  lex: հատկատրել
- stem: .հատկատր.//.յատկատր.
+ stem: .յատկատր.//.հատկատր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -85962,7 +85963,7 @@
 
 -lexeme
  lex: հատկացվել
- stem: .յատկացվ.//.հատկացվ.
+ stem: .հատկացվ.//.յատկացվ.
  gramm: V,caus,med,intr
  gloss: give
  paradigm: V11
@@ -85988,7 +85989,7 @@
 
 -lexeme
  lex: հատկտել
- stem: .հատկտ.//.յատկտ.
+ stem: .յատկտ.//.հատկտ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -85997,7 +85998,7 @@
 
 -lexeme
  lex: հատճավորել
- stem: .հատճավոր.//.յատճավոր.//.հատճաւոր.
+ stem: .յատճավոր.//.հատճավոր.//.հատճաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -86006,7 +86007,7 @@
 
 -lexeme
  lex: հատճավորվել
- stem: .յատճավորվ.//.հատճաւորվ.//.հատճավորվ.
+ stem: .հատճաւորվ.//.հատճավորվ.//.յատճավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -86015,7 +86016,7 @@
 
 -lexeme
  lex: հատնել
- stem: .հատ.//.յատ.
+ stem: .յատ.//.հատ.
  gramm: V,intr
  gloss: end_come.to.end_expire
  paradigm: V12
@@ -86024,7 +86025,7 @@
 
 -lexeme
  lex: հատնեցնել
- stem: .հատնեց.//.յատնեց.
+ stem: .յատնեց.//.հատնեց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -86042,7 +86043,7 @@
 
 -lexeme
  lex: հատույթավորվել
- stem: .յատույթավորվ.//.հատույթավորվ.//.հատույթաւորվ.
+ stem: .յատույթավորվ.//.հատույթաւորվ.//.հատույթավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -86060,7 +86061,7 @@
 
 -lexeme
  lex: հատուցել
- stem: .յատուց.//.հատուց.
+ stem: .հատուց.//.յատուց.
  gramm: V,tr
  gloss: pay.back
  paradigm: V11
@@ -86078,7 +86079,7 @@
 
 -lexeme
  lex: հատվածավորել
- stem: .հատվածաւոր.//.յատվածավոր.//.հատվածավոր.
+ stem: .հատվածավոր.//.յատվածավոր.//.հատվածաւոր.
  gramm: V,tr
  gloss: divide.into.fragments_parts_pieces
  paradigm: V11
@@ -86087,7 +86088,7 @@
 
 -lexeme
  lex: հատվածավորվել
- stem: .յատվածավորվ.//.հատվածաւորվ.//.հատվածավորվ.
+ stem: .յատվածավորվ.//.հատվածավորվ.//.հատվածաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -86114,7 +86115,7 @@
 
 -lexeme
  lex: հատցնել
- stem: .յատց.//.հատց.
+ stem: .հատց.//.յատց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -86123,7 +86124,7 @@
 
 -lexeme
  lex: հարաբարդել
- stem: .հարաբարդ.//.յարաբարդ.
+ stem: .յարաբարդ.//.հարաբարդ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -86177,7 +86178,7 @@
 
 -lexeme
  lex: հարադասվել
- stem: .յարադասվ.//.հարադասվ.
+ stem: .հարադասվ.//.յարադասվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -86195,7 +86196,7 @@
 
 -lexeme
  lex: հարադրվել
- stem: .յարադրվ.//.հարադրվ.
+ stem: .հարադրվ.//.յարադրվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -86231,7 +86232,7 @@
 
 -lexeme
  lex: հարախառնվել
- stem: .հարախառնվ.//.յարախառնվ.
+ stem: .յարախառնվ.//.հարախառնվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -86240,7 +86241,7 @@
 
 -lexeme
  lex: հարակայանալ
- stem: .հարակայա.//.յարակայա.
+ stem: .յարակայա.//.հարակայա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -86249,7 +86250,7 @@
 
 -lexeme
  lex: հարակայացել
- stem: .յարակայաց.//.հարակայաց.
+ stem: .հարակայաց.//.յարակայաց.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -86267,7 +86268,7 @@
 
 -lexeme
  lex: հարակայել
- stem: .յարակայ.//.հարակայ.
+ stem: .հարակայ.//.յարակայ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -86294,7 +86295,7 @@
 
 -lexeme
  lex: հարակրկնել
- stem: .յարակրկն.//.հարակրկն.
+ stem: .հարակրկն.//.յարակրկն.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -86312,7 +86313,7 @@
 
 -lexeme
  lex: հարակցել
- stem: .յարակց.//.հարակց.
+ stem: .հարակց.//.յարակց.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -86330,7 +86331,7 @@
 
 -lexeme
  lex: հարահոսել
- stem: .յարահոս.//.հարահոս.
+ stem: .հարահոս.//.յարահոս.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -86339,7 +86340,7 @@
 
 -lexeme
  lex: հարաձայնել
- stem: .յարաձայն.//.հարաձայն.
+ stem: .հարաձայն.//.յարաձայն.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -86366,7 +86367,7 @@
 
 -lexeme
  lex: հարամել
- stem: .հարամ.//.յարամ.
+ stem: .յարամ.//.հարամ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -86384,7 +86385,7 @@
 
 -lexeme
  lex: հարաշարել
- stem: .հարաշար.//.յարաշար.
+ stem: .յարաշար.//.հարաշար.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -86429,7 +86430,7 @@
 
 -lexeme
  lex: հարատեւել
- stem: .հարատև.//.հարատեւ.//.հարատեվ.//.յարատեւ.
+ stem: .հարատեւ.//.յարատեւ.//.հարատև.//.հարատեվ.
  gramm: V,intr
  gloss: last_be.in.progress
  paradigm: V11
@@ -86447,7 +86448,7 @@
 
 -lexeme
  lex: հարբել
- stem: .հարբ.//.յարբ.
+ stem: .յարբ.//.հարբ.
  gramm: V,intr
  gloss: be.drunk
  paradigm: V11
@@ -86465,7 +86466,7 @@
 
 -lexeme
  lex: հարբեցնել
- stem: .յարբեց.//.հարբեց.
+ stem: .հարբեց.//.յարբեց.
  gramm: V,caus,tr
  gloss: make.drunk_make.dizzy
  paradigm: V14
@@ -86474,7 +86475,7 @@
 
 -lexeme
  lex: հարբոտել
- stem: .հարբոտ.//.յարբոտ.
+ stem: .յարբոտ.//.հարբոտ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -86492,7 +86493,7 @@
 
 -lexeme
  lex: հարգադրոշմվել
- stem: .հարգադրոշմվ.//.յարգադրոշմվ.
+ stem: .յարգադրոշմվ.//.հարգադրոշմվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -86519,7 +86520,7 @@
 
 -lexeme
  lex: հարդարել
- stem: .յարդար.//.հարդար.
+ stem: .հարդար.//.յարդար.
  gramm: V,tr
  gloss: tidy_decorate
  paradigm: V11
@@ -86546,7 +86547,7 @@
 
 -lexeme
  lex: հարել
- stem: .յար.//.հար.
+ stem: .հար.//.յար.
  gramm: V,intr
  gloss: join
  paradigm: V11
@@ -86555,7 +86556,7 @@
 
 -lexeme
  lex: հարել
- stem: .յար.//.հար.
+ stem: .հար.//.յար.
  gramm: V,tr
  gloss: rub
  paradigm: V11
@@ -86564,7 +86565,7 @@
 
 -lexeme
  lex: հարեւանանալ
- stem: .հարևանա.//.յարեւանա.//.հարեւանա.//.հարեվանա.
+ stem: .հարեվանա.//.հարեւանա.//.յարեւանա.//.հարևանա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -86573,7 +86574,7 @@
 
 -lexeme
  lex: հարեւանել
- stem: .հարևան.//.յարեւան.//.հարեվան.//.հարեւան.
+ stem: .հարեւան.//.հարևան.//.յարեւան.//.հարեվան.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -86609,7 +86610,7 @@
 
 -lexeme
  lex: հարթակել
- stem: .յարթակ.//.հարթակ.
+ stem: .հարթակ.//.յարթակ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -86618,7 +86619,7 @@
 
 -lexeme
  lex: հարթանալ
- stem: .հարթա.//.յարթա.
+ stem: .յարթա.//.հարթա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -86627,7 +86628,7 @@
 
 -lexeme
  lex: հարթանկարել
- stem: .յարթանկար.//.հարթանկար.
+ stem: .հարթանկար.//.յարթանկար.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -86636,7 +86637,7 @@
 
 -lexeme
  lex: հարթանկարվել
- stem: .հարթանկարվ.//.յարթանկարվ.
+ stem: .յարթանկարվ.//.հարթանկարվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -86645,7 +86646,7 @@
 
 -lexeme
  lex: հարթաչափել
- stem: .հարթաչափ.//.յարթաչափ.
+ stem: .յարթաչափ.//.հարթաչափ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -86654,7 +86655,7 @@
 
 -lexeme
  lex: հարթաչափվել
- stem: .յարթաչափվ.//.հարթաչափվ.
+ stem: .հարթաչափվ.//.յարթաչափվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -86663,7 +86664,7 @@
 
 -lexeme
  lex: հարթացնել
- stem: .հարթաց.//.յարթաց.
+ stem: .յարթաց.//.հարթաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -86672,7 +86673,7 @@
 
 -lexeme
  lex: հարթացվել
- stem: .հարթացվ.//.յարթացվ.
+ stem: .յարթացվ.//.հարթացվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -86681,7 +86682,7 @@
 
 -lexeme
  lex: հարթել
- stem: .հարթ.//.յարթ.
+ stem: .յարթ.//.հարթ.
  gramm: V,tr
  gloss: make.smooth
  paradigm: V11
@@ -86708,7 +86709,7 @@
 
 -lexeme
  lex: հարթուկել
- stem: .հարթուկ.//.յարթուկ.
+ stem: .յարթուկ.//.հարթուկ.
  gramm: V,tr
  gloss: press
  paradigm: V11
@@ -86717,7 +86718,7 @@
 
 -lexeme
  lex: հարթվել
- stem: .յարթվ.//.հարթվ.
+ stem: .հարթվ.//.յարթվ.
  gramm: V,med,intr
  gloss: smooth.(down)
  paradigm: V11
@@ -86726,7 +86727,7 @@
 
 -lexeme
  lex: հարկադրել
- stem: .հարկադր.//.յարկադր.
+ stem: .յարկադր.//.հարկադր.
  gramm: V,tr
  gloss: compel
  paradigm: V11
@@ -86744,7 +86745,7 @@
 
 -lexeme
  lex: հարկահանել
- stem: .հարկահան.//.յարկահան.
+ stem: .յարկահան.//.հարկահան.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -86762,7 +86763,7 @@
 
 -lexeme
  lex: հարկանել
- stem: .հարկան.//.յարկան.
+ stem: .յարկան.//.հարկան.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -86780,7 +86781,7 @@
 
 -lexeme
  lex: հարկավորվել
- stem: .հարկավորվ.//.յարկավորվ.//.հարկաւորվ.
+ stem: .հարկավորվ.//.հարկաւորվ.//.յարկավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -86825,7 +86826,7 @@
 
 -lexeme
  lex: հարհարել
- stem: .յարհար.//.հարհար.
+ stem: .հարհար.//.յարհար.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -86861,7 +86862,7 @@
 
 -lexeme
  lex: հարձակվել
- stem: .հարձակվ.//.յարձակվ.
+ stem: .յարձակվ.//.հարձակվ.
  gramm: V,med,intr
  gloss: attack
  paradigm: V11
@@ -86870,7 +86871,7 @@
 
 -lexeme
  lex: հարմարադրել
- stem: .յարմարադր.//.հարմարադր.
+ stem: .հարմարադր.//.յարմարադր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -86879,7 +86880,7 @@
 
 -lexeme
  lex: հարմարակել
- stem: .յարմարակ.//.հարմարակ.
+ stem: .հարմարակ.//.յարմարակ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -86888,7 +86889,7 @@
 
 -lexeme
  lex: հարմարակվել
- stem: .յարմարակվ.//.հարմարակվ.
+ stem: .հարմարակվ.//.յարմարակվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -86906,7 +86907,7 @@
 
 -lexeme
  lex: հարմարակցվել
- stem: .յարմարակցվ.//.հարմարակցվ.
+ stem: .հարմարակցվ.//.յարմարակցվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -86933,7 +86934,7 @@
 
 -lexeme
  lex: հարմարեցվել
- stem: .յարմարեցվ.//.հարմարեցվ.
+ stem: .հարմարեցվ.//.յարմարեցվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -86951,7 +86952,7 @@
 
 -lexeme
  lex: հարյուրանալ
- stem: .հարյուրա.//.յարյուրա.
+ stem: .յարյուրա.//.հարյուրա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -87005,7 +87006,7 @@
 
 -lexeme
  lex: հարոսացնել
- stem: .յարոսաց.//.հարոսաց.
+ stem: .հարոսաց.//.յարոսաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -87023,7 +87024,7 @@
 
 -lexeme
  lex: հարուստանալ
- stem: .յարուստա.//.հարուստա.
+ stem: .հարուստա.//.յարուստա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -87041,7 +87042,7 @@
 
 -lexeme
  lex: հարուցել
- stem: .հարուց.//.յարուց.
+ stem: .յարուց.//.հարուց.
  gramm: V,tr
  gloss: excite
  paradigm: V11
@@ -87050,7 +87051,7 @@
 
 -lexeme
  lex: հարուցվել
- stem: .հարուցվ.//.յարուցվ.
+ stem: .յարուցվ.//.հարուցվ.
  gramm: V,med,intr
  gloss: be.commenced
  paradigm: V11
@@ -87059,7 +87060,7 @@
 
 -lexeme
  lex: հարսանիքվել
- stem: .հարսանիքվ.//.յարսանիքվ.
+ stem: .յարսանիքվ.//.հարսանիքվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -87068,7 +87069,7 @@
 
 -lexeme
  lex: հարսանքել
- stem: .հարսանք.//.յարսանք.
+ stem: .յարսանք.//.հարսանք.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -87077,7 +87078,7 @@
 
 -lexeme
  lex: հարսնազգեստել
- stem: .հարսնազգեստ.//.յարսնազգեստ.
+ stem: .յարսնազգեստ.//.հարսնազգեստ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -87086,7 +87087,7 @@
 
 -lexeme
  lex: հարսնախոսել
- stem: .յարսնախոս.//.հարսնախոս.
+ stem: .հարսնախոս.//.յարսնախոս.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -87122,7 +87123,7 @@
 
 -lexeme
  lex: հարսնեկավորվել
- stem: .հարսնեկավորվ.//.յարսնեկավորվ.//.հարսնեկաւորվ.
+ stem: .յարսնեկավորվ.//.հարսնեկավորվ.//.հարսնեկաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -87131,7 +87132,7 @@
 
 -lexeme
  lex: հարսնյականալ
- stem: .յարսնյակա.//.հարսնյակա.
+ stem: .հարսնյակա.//.յարսնյակա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -87158,7 +87159,7 @@
 
 -lexeme
  lex: հարստահարվել
- stem: .յարստահարվ.//.հարստահարվ.
+ stem: .հարստահարվ.//.յարստահարվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -87167,7 +87168,7 @@
 
 -lexeme
  lex: հարստանալ
- stem: .յարստա.//.հարստա.
+ stem: .հարստա.//.յարստա.
  gramm: V,intr
  gloss: become.rich
  paradigm: V22
@@ -87176,7 +87177,7 @@
 
 -lexeme
  lex: հարստացնել
- stem: .յարստաց.//.հարստաց.
+ stem: .հարստաց.//.յարստաց.
  gramm: V,caus,tr
  gloss: enrich
  paradigm: V14
@@ -87212,7 +87213,7 @@
 
 -lexeme
  lex: հարվել
- stem: .հարվ.//.յարվ.
+ stem: .յարվ.//.հարվ.
  gramm: V,med,intr
  gloss: be.mixed
  paradigm: V11
@@ -87257,7 +87258,7 @@
 
 -lexeme
  lex: հարցակոծվել
- stem: .յարցակոծվ.//.հարցակոծվ.
+ stem: .հարցակոծվ.//.յարցակոծվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -87293,7 +87294,7 @@
 
 -lexeme
  lex: հարցափորձվել
- stem: .յարցափորձվ.//.հարցափորձվ.
+ stem: .հարցափորձվ.//.յարցափորձվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -87302,7 +87303,7 @@
 
 -lexeme
  lex: հարցաքննել
- stem: .հարցաքնն.//.յարցաքնն.
+ stem: .յարցաքնն.//.հարցաքնն.
  gramm: V,tr
  gloss: question_examine_conduct.an.inquiry
  paradigm: V11
@@ -87311,7 +87312,7 @@
 
 -lexeme
  lex: հարցաքննվել
- stem: .յարցաքննվ.//.հարցաքննվ.
+ stem: .հարցաքննվ.//.յարցաքննվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -87329,7 +87330,7 @@
 
 -lexeme
  lex: հարցուփորձել
- stem: .հարցուփորձ.//.յարցուփորձ.
+ stem: .յարցուփորձ.//.հարցուփորձ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -87338,7 +87339,7 @@
 
 -lexeme
  lex: հարցվել
- stem: .հարցվ.//.յարցվ.
+ stem: .յարցվ.//.հարցվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -87347,7 +87348,7 @@
 
 -lexeme
  lex: հացավորել
- stem: .հացավոր.//.հացաւոր.//.յացավոր.
+ stem: .հացավոր.//.յացավոր.//.հացաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -87392,7 +87393,7 @@
 
 -lexeme
  lex: հափռել
- stem: .յափռ.//.հափռ.
+ stem: .հափռ.//.յափռ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -87410,7 +87411,7 @@
 
 -lexeme
  lex: հափրացնել
- stem: .յափրացն.//.հափրացն.
+ stem: .հափրացն.//.յափրացն.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V11
@@ -87428,7 +87429,7 @@
 
 -lexeme
  lex: հափրեցնել
- stem: .յափրեց.//.հափրեց.
+ stem: .հափրեց.//.յափրեց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -87437,7 +87438,7 @@
 
 -lexeme
  lex: հափրեցվել
- stem: .հափրեցվ.//.յափրեցվ.
+ stem: .յափրեցվ.//.հափրեցվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -88116,7 +88117,7 @@
 
 -lexeme
  lex: հեռուստակառավարվել
- stem: .հեռուստակառաւարվ.//.հեռուստակառավարվ.
+ stem: .հեռուստակառավարվ.//.հեռուստակառաւարվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -88368,7 +88369,7 @@
 
 -lexeme
  lex: հետավորել
- stem: .հետավոր.//.հետաւոր.
+ stem: .հետաւոր.//.հետավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -88458,7 +88459,7 @@
 
 -lexeme
  lex: հետեւականալ
- stem: .հետեւակա.//.հետևակա.//.հետեվակա.
+ stem: .հետեվակա.//.հետևակա.//.հետեւակա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -88467,7 +88468,7 @@
 
 -lexeme
  lex: հետեւակացնել
- stem: .հետևակաց.//.հետեւակաց.//.հետեվակաց.
+ stem: .հետեվակաց.//.հետեւակաց.//.հետևակաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -88476,7 +88477,7 @@
 
 -lexeme
  lex: հետեւել
- stem: .հետեւ.//.հետեվ.//.հետև.
+ stem: .հետեւ.//.հետև.//.հետեվ.
  gramm: V,intr
  gloss: follow
  paradigm: V11
@@ -88485,7 +88486,7 @@
 
 -lexeme
  lex: հետեւեցնել
- stem: .հետեւեց.//.հետեվեց.//.հետևեց.
+ stem: .հետեվեց.//.հետեւեց.//.հետևեց.
  gramm: V,caus,tr
  gloss: conclude_come.to.the.conclusion
  paradigm: V14
@@ -88872,7 +88873,7 @@
 
 -lexeme
  lex: հեւալ
- stem: .հեւ.//.հև.//.հեվ.
+ stem: .հեվ.//.հև.//.հեւ.
  gramm: V,intr
  gloss: be.short_out.of.breath
  paradigm: V21
@@ -88880,7 +88881,7 @@
 
 -lexeme
  lex: հեւհեւալ
- stem: .հևհև.//.հեվհեվ.//.հեւհեւ.
+ stem: .հեւհեւ.//.հեվհեվ.//.հևհև.
  gramm: V,intr
  gloss: STEM
  paradigm: V21
@@ -89050,7 +89051,7 @@
 
 -lexeme
  lex: հիմնավերվել
- stem: .հիմնավերվ.//.հիմնաւերվ.
+ stem: .հիմնաւերվ.//.հիմնավերվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -89329,7 +89330,7 @@
 
 -lexeme
  lex: հիվանդանալ
- stem: .հիվանդա.//.հիւանդա.
+ stem: .հիւանդա.//.հիվանդա.
  gramm: V,intr
  gloss: get.ill
  paradigm: V22
@@ -89509,7 +89510,7 @@
 
 -lexeme
  lex: հմտավարժվել
- stem: .հմտավարժվ.//.հմտաւարժվ.
+ stem: .հմտաւարժվ.//.հմտավարժվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -89518,7 +89519,7 @@
 
 -lexeme
  lex: հմտավորել
- stem: .հմտաւոր.//.հմտավոր.
+ stem: .հմտավոր.//.հմտաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -89554,7 +89555,7 @@
 
 -lexeme
  lex: հյութավորել
- stem: .հյութավոր.//.հյութաւոր.
+ stem: .հյութաւոր.//.հյութավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -89563,7 +89564,7 @@
 
 -lexeme
  lex: հյութավորվել
- stem: .հյութաւորվ.//.հյութավորվ.
+ stem: .հյութավորվ.//.հյութաւորվ.
  gramm: V,med,intr
  gloss: fill.with.juice_become.juicy_succulent
  paradigm: V11
@@ -89985,7 +89986,7 @@
 
 -lexeme
  lex: հոգեւորել
- stem: .հոգևոր.//.հոգեւոր.//.հոգեվոր.
+ stem: .հոգեւոր.//.հոգեվոր.//.հոգևոր.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -90102,7 +90103,7 @@
 
 -lexeme
  lex: հոդավորել
- stem: .հոդաւոր.//.հոդավոր.
+ stem: .հոդավոր.//.հոդաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -90272,7 +90273,7 @@
 
 -lexeme
  lex: հողահավասարվել
- stem: .հողահավասարվ.//.հողահաւասարվ.
+ stem: .հողահաւասարվ.//.հողահավասարվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -90668,7 +90669,7 @@
 
 -lexeme
  lex: հովանավորվել
- stem: .հովանաւորվ.//.հովանավորվ.
+ stem: .հովանավորվ.//.հովանաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -91108,7 +91109,7 @@
 
 -lexeme
  lex: հուղարկավորել
- stem: .հուղարկավոր.//.հուղարկաւոր.
+ stem: .հուղարկաւոր.//.հուղարկավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -91117,7 +91118,7 @@
 
 -lexeme
  lex: հուղարկավորվել
- stem: .հուղարկաւորվ.//.հուղարկավորվ.
+ stem: .հուղարկավորվ.//.հուղարկաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -91135,7 +91136,7 @@
 
 -lexeme
  lex: հունավորվել
- stem: .հունավորվ.//.հունաւորվ.
+ stem: .հունաւորվ.//.հունավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -91153,7 +91154,7 @@
 
 -lexeme
  lex: հունդավորվել
- stem: .հունդավորվ.//.հունդաւորվ.
+ stem: .հունդաւորվ.//.հունդավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -91368,7 +91369,7 @@
 
 -lexeme
  lex: հուսավառվել
- stem: .հուսավառվ.//.հուսաւառվ.
+ stem: .հուսաւառվ.//.հուսավառվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -91377,7 +91378,7 @@
 
 -lexeme
  lex: հուսավորվել
- stem: .հուսաւորվ.//.հուսավորվ.
+ stem: .հուսավորվ.//.հուսաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -91429,7 +91430,7 @@
 
 -lexeme
  lex: հպավորվել
- stem: .հպաւորվ.//.հպավորվ.
+ stem: .հպավորվ.//.հպաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -91715,7 +91716,7 @@
 
 -lexeme
  lex: հրահանգավորել
- stem: .հրահանգաւոր.//.հրահանգավոր.
+ stem: .հրահանգավոր.//.հրահանգաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -91724,7 +91725,7 @@
 
 -lexeme
  lex: հրահանգավորվել
- stem: .հրահանգավորվ.//.հրահանգաւորվ.
+ stem: .հրահանգաւորվ.//.հրահանգավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -92011,7 +92012,7 @@
 
 -lexeme
  lex: հրավառվել
- stem: .հրաւառվ.//.հրավառվ.
+ stem: .հրավառվ.//.հրաւառվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -92029,7 +92030,7 @@
 
 -lexeme
  lex: հրավիրվել
- stem: .հրավիրվ.//.հրաւիրվ.
+ stem: .հրաւիրվ.//.հրավիրվ.
  gramm: V,med,intr
  gloss: be.invited
  paradigm: V11
@@ -92694,7 +92695,7 @@
 
 -lexeme
  lex: ձեւազրկվել
- stem: .ձեվազրկվ.//.ձեւազրկվ.//.ձևազրկվ.
+ stem: .ձեւազրկվ.//.ձևազրկվ.//.ձեվազրկվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -92712,7 +92713,7 @@
 
 -lexeme
  lex: ձեւախեղել
- stem: .ձևախեղ.//.ձեվախեղ.//.ձեւախեղ.
+ stem: .ձեվախեղ.//.ձևախեղ.//.ձեւախեղ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -92721,7 +92722,7 @@
 
 -lexeme
  lex: ձեւախեղվել
- stem: .ձևախեղվ.//.ձեւախեղվ.//.ձեվախեղվ.
+ stem: .ձեվախեղվ.//.ձևախեղվ.//.ձեւախեղվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -92730,7 +92731,7 @@
 
 -lexeme
  lex: ձեւականանալ
- stem: .ձևականա.//.ձեվականա.//.ձեւականա.
+ stem: .ձեվականա.//.ձեւականա.//.ձևականա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -92739,7 +92740,7 @@
 
 -lexeme
  lex: ձեւականացնել
- stem: .ձեվականաց.//.ձևականաց.//.ձեւականաց.
+ stem: .ձևականաց.//.ձեվականաց.//.ձեւականաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -92748,7 +92749,7 @@
 
 -lexeme
  lex: ձեւակերպել
- stem: .ձեւակերպ.//.ձևակերպ.//.ձեվակերպ.
+ stem: .ձեւակերպ.//.ձեվակերպ.//.ձևակերպ.
  gramm: V,tr
  gloss: formulate
  paradigm: V11
@@ -92757,7 +92758,7 @@
 
 -lexeme
  lex: ձեւակերպվել
- stem: .ձևակերպվ.//.ձեւակերպվ.//.ձեվակերպվ.
+ stem: .ձեվակերպվ.//.ձեւակերպվ.//.ձևակերպվ.
  gramm: V,med,intr
  gloss: go.through.the.necessary.formalities
  paradigm: V11
@@ -92766,7 +92767,7 @@
 
 -lexeme
  lex: ձեւանալ
- stem: .ձևա.//.ձեվա.//.ձեւա.
+ stem: .ձևա.//.ձեւա.//.ձեվա.
  gramm: V,intr
  gloss: pretend
  paradigm: V22
@@ -92775,7 +92776,7 @@
 
 -lexeme
  lex: ձեւավորել
- stem: .ձեվավոր.//.ձեւաւոր.//.ձեւավոր.//.ձևավոր.
+ stem: .ձեւաւոր.//.ձեվավոր.//.ձևավոր.//.ձեւավոր.
  gramm: V,tr
  gloss: mount
  paradigm: V11
@@ -92784,7 +92785,7 @@
 
 -lexeme
  lex: ձեւավորվել
- stem: .ձեւաւորվ.//.ձևավորվ.//.ձեվավորվ.//.ձեւավորվ.
+ stem: .ձևավորվ.//.ձեւավորվ.//.ձեվավորվ.//.ձեւաւորվ.
  gramm: V,med,intr
  gloss: shape
  paradigm: V11
@@ -92793,7 +92794,7 @@
 
 -lexeme
  lex: ձեւացնել
- stem: .ձեւաց.//.ձևաց.//.ձեվաց.
+ stem: .ձևաց.//.ձեվաց.//.ձեւաց.
  gramm: V,caus,tr
  gloss: fawn
  paradigm: V14
@@ -92802,7 +92803,7 @@
 
 -lexeme
  lex: ձեւափոխել
- stem: .ձևափոխ.//.ձեւափոխ.//.ձեվափոխ.
+ stem: .ձեւափոխ.//.ձեվափոխ.//.ձևափոխ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -92811,7 +92812,7 @@
 
 -lexeme
  lex: ձեւափոխվել
- stem: .ձեւափոխվ.//.ձեվափոխվ.//.ձևափոխվ.
+ stem: .ձեվափոխվ.//.ձեւափոխվ.//.ձևափոխվ.
  gramm: V,med,intr
  gloss: alter
  paradigm: V11
@@ -92820,7 +92821,7 @@
 
 -lexeme
  lex: ձեւել
- stem: .ձև.//.ձեվ.//.ձեւ.
+ stem: .ձեվ.//.ձեւ.//.ձև.
  gramm: V,tr
  gloss: cut
  paradigm: V11
@@ -92829,7 +92830,7 @@
 
 -lexeme
  lex: ձեւվել
- stem: .ձեվվ.//.ձեւվ.//.ձևվ.
+ stem: .ձեւվ.//.ձեվվ.//.ձևվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -92856,7 +92857,7 @@
 
 -lexeme
  lex: ձիավարել
- stem: .ձիավար.//.ձիաւար.
+ stem: .ձիաւար.//.ձիավար.
  gramm: V,intr/tr
  gloss: ride
  paradigm: V11
@@ -92865,7 +92866,7 @@
 
 -lexeme
  lex: ձիավարժել
- stem: .ձիավարժ.//.ձիաւարժ.
+ stem: .ձիաւարժ.//.ձիավարժ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -93099,7 +93100,7 @@
 
 -lexeme
  lex: ղեկավարել
- stem: .ղեկաւար.//.ղեկավար.
+ stem: .ղեկավար.//.ղեկաւար.
  gramm: V,tr
  gloss: lead
  paradigm: V11
@@ -94343,7 +94344,7 @@
 
 -lexeme
  lex: ճյուղավորել
- stem: .ճյուղաւոր.//.ճյուղավոր.
+ stem: .ճյուղավոր.//.ճյուղաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -95558,7 +95559,7 @@
 
 -lexeme
  lex: մասնավորել
- stem: .մասնավոր.//.մասնաւոր.
+ stem: .մասնաւոր.//.մասնավոր.
  gramm: V,tr
  gloss: render.concrete_specific
  paradigm: V11
@@ -95873,7 +95874,7 @@
 
 -lexeme
  lex: մարմնավորվել
- stem: .մարմնաւորվ.//.մարմնավորվ.
+ stem: .մարմնավորվ.//.մարմնաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -95972,7 +95973,7 @@
 
 -lexeme
  lex: մաքսավորել
- stem: .մաքսաւոր.//.մաքսավոր.
+ stem: .մաքսավոր.//.մաքսաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -96485,7 +96486,7 @@
 
 -lexeme
  lex: մերձավորել
- stem: .մերձավոր.//.մերձաւոր.
+ stem: .մերձաւոր.//.մերձավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -96494,7 +96495,7 @@
 
 -lexeme
  lex: մերձավորվել
- stem: .մերձավորվ.//.մերձաւորվ.
+ stem: .մերձաւորվ.//.մերձավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -96835,7 +96836,7 @@
 
 -lexeme
  lex: միավորվել
- stem: .միաւորվ.//.միավորվ.
+ stem: .միավորվ.//.միաւորվ.
  gramm: V,med,intr
  gloss: be.united
  paradigm: V11
@@ -98502,7 +98503,7 @@
 
 -lexeme
  lex: նախավաճառել
- stem: .նախաւաճառ.//.նախավաճառ.
+ stem: .նախավաճառ.//.նախաւաճառ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -98520,7 +98521,7 @@
 
 -lexeme
  lex: նախավճարել
- stem: .նախաւճար.//.նախավճար.
+ stem: .նախավճար.//.նախաւճար.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -98762,7 +98763,7 @@
 
 -lexeme
  lex: նավարկել
- stem: .նավարկ.//.նաւարկ.
+ stem: .նաւարկ.//.նավարկ.
  gramm: V,intr
  gloss: sail_row_go.under.sail
  paradigm: V11
@@ -98771,7 +98772,7 @@
 
 -lexeme
  lex: նավել
- stem: .նավ.//.նաւ.
+ stem: .նաւ.//.նավ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -98798,7 +98799,7 @@
 
 -lexeme
  lex: նավթոտվել
- stem: .նավթոտվ.//.նաւթոտվ.
+ stem: .նաւթոտվ.//.նավթոտվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -99059,7 +99060,7 @@
 
 -lexeme
  lex: ներգրավել
- stem: .ներգրաւ.//.ներգրավ.
+ stem: .ներգրավ.//.ներգրաւ.
  gramm: V,tr
  gloss: draw.in
  paradigm: V11
@@ -99391,7 +99392,7 @@
 
 -lexeme
  lex: ներմարմնավորվել
- stem: .ներմարմնավորվ.//.ներմարմնաւորվ.
+ stem: .ներմարմնաւորվ.//.ներմարմնավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -100090,7 +100091,7 @@
 
 -lexeme
  lex: նշանավորել
- stem: .նշանաւոր.//.նշանավոր.
+ stem: .նշանավոր.//.նշանաւոր.
  gramm: V,tr
  gloss: mark_signify
  paradigm: V11
@@ -100126,7 +100127,7 @@
 
 -lexeme
  lex: նշավակել
- stem: .նշաւակ.//.նշավակ.
+ stem: .նշավակ.//.նշաւակ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -100135,7 +100136,7 @@
 
 -lexeme
  lex: նշավակվել
- stem: .նշավակվ.//.նշաւակվ.
+ stem: .նշաւակվ.//.նշավակվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -100341,7 +100342,7 @@
 
 -lexeme
  lex: նորմավորել
- stem: .նորմավոր.//.նորմաւոր.
+ stem: .նորմաւոր.//.նորմավոր.
  gramm: V,tr
  gloss: normalize_ration
  paradigm: V11
@@ -100404,7 +100405,7 @@
 
 -lexeme
  lex: նպաստավորվել
- stem: .նպաստավորվ.//.նպաստաւորվ.
+ stem: .նպաստաւորվ.//.նպաստավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -101157,7 +101158,7 @@
 
 -lexeme
  lex: շառավիղել
- stem: .շառավիղ.//.շառաւիղ.
+ stem: .շառաւիղ.//.շառավիղ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -101301,7 +101302,7 @@
 
 -lexeme
  lex: շարավոտել
- stem: .շարավոտ.//.շարաւոտ.
+ stem: .շարաւոտ.//.շարավոտ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -101697,7 +101698,7 @@
 
 -lexeme
  lex: շերտավորել
- stem: .շերտաւոր.//.շերտավոր.
+ stem: .շերտավոր.//.շերտաւոր.
  gramm: V,tr
  gloss: divide.into.layers_differentiate
  paradigm: V11
@@ -101706,7 +101707,7 @@
 
 -lexeme
  lex: շերտավորվել
- stem: .շերտաւորվ.//.շերտավորվ.
+ stem: .շերտավորվ.//.շերտաւորվ.
  gramm: V,med,intr
  gloss: exfoliate_become.differentiated
  paradigm: V11
@@ -102320,7 +102321,7 @@
 
 -lexeme
  lex: շնչավորել
- stem: .շնչաւոր.//.շնչավոր.
+ stem: .շնչավոր.//.շնչաւոր.
  gramm: V,tr
  gloss: animate_spiritualize
  paradigm: V11
@@ -102329,7 +102330,7 @@
 
 -lexeme
  lex: շնչավորվել
- stem: .շնչավորվ.//.շնչաւորվ.
+ stem: .շնչաւորվ.//.շնչավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -103679,7 +103680,7 @@
 
 -lexeme
  lex: ոգեւորել
- stem: .ոգեւոր.//.ոգեվոր.//.ոգևոր.
+ stem: .ոգևոր.//.ոգեվոր.//.ոգեւոր.
  gramm: V,tr
  gloss: inspire
  paradigm: V11
@@ -103688,7 +103689,7 @@
 
 -lexeme
  lex: ոգեւորվել
- stem: .ոգևորվ.//.ոգեվորվ.//.ոգեւորվ.
+ stem: .ոգեւորվ.//.ոգևորվ.//.ոգեվորվ.
  gramm: V,med,intr
  gloss: be.inspired
  paradigm: V11
@@ -103984,7 +103985,7 @@
 
 -lexeme
  lex: ոճավորել
- stem: .ոճավոր.//.ոճաւոր.
+ stem: .ոճաւոր.//.ոճավոր.
  gramm: V,tr
  gloss: stylize
  paradigm: V11
@@ -104154,7 +104155,7 @@
 
 -lexeme
  lex: ոսկեւորել
- stem: .ոսկևոր.//.ոսկեվոր.//.ոսկեւոր.
+ stem: .ոսկեւոր.//.ոսկևոր.//.ոսկեվոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -104163,7 +104164,7 @@
 
 -lexeme
  lex: ոսկեւորվել
- stem: .ոսկեվորվ.//.ոսկևորվ.//.ոսկեւորվ.
+ stem: .ոսկևորվ.//.ոսկեվորվ.//.ոսկեւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -104269,7 +104270,7 @@
 
 -lexeme
  lex: ոտնավորվել
- stem: .ոտնավորվ.//.ոտնաւորվ.
+ stem: .ոտնաւորվ.//.ոտնավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -104985,7 +104986,7 @@
 
 -lexeme
  lex: ուղեւորել
- stem: .ուղեւոր.//.ուղեվոր.//.ուղևոր.
+ stem: .ուղեւոր.//.ուղևոր.//.ուղեվոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -104994,7 +104995,7 @@
 
 -lexeme
  lex: ուղեւորվել
- stem: .ուղևորվ.//.ուղեւորվ.//.ուղեվորվ.
+ stem: .ուղեւորվ.//.ուղևորվ.//.ուղեվորվ.
  gramm: V,med,intr
  gloss: travel
  paradigm: V11
@@ -105622,7 +105623,7 @@
 
 -lexeme
  lex: չարահամբավել
- stem: .չարահամբաւ.//.չարահամբավ.
+ stem: .չարահամբավ.//.չարահամբաւ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -105856,7 +105857,7 @@
 
 -lexeme
  lex: չափավորել
- stem: .չափավոր.//.չափաւոր.
+ stem: .չափաւոր.//.չափավոր.
  gramm: V,tr
  gloss: temper_moderate
  paradigm: V11
@@ -105865,7 +105866,7 @@
 
 -lexeme
  lex: չափավորվել
- stem: .չափավորվ.//.չափաւորվ.
+ stem: .չափաւորվ.//.չափավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -105901,7 +105902,7 @@
 
 -lexeme
  lex: չափել-ձեւել
- stem: .չափել-ձեւ.//.չափել-ձեվ.//.չափել-ձև.
+ stem: .չափել-ձև.//.չափել-ձեվ.//.չափել-ձեւ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -105910,7 +105911,7 @@
 
 -lexeme
  lex: չափուձեւել
- stem: .չափուձեւ.//.չափուձև.//.չափուձեվ.
+ stem: .չափուձև.//.չափուձեւ.//.չափուձեվ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -106740,7 +106741,7 @@
 
 -lexeme
  lex: պահեստավորվել
- stem: .պահեստաւորվ.//.պահեստավորվ.
+ stem: .պահեստավորվ.//.պահեստաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -107297,7 +107298,7 @@
 
 -lexeme
  lex: պառավացնել
- stem: .պառավաց.//.պառաւաց.
+ stem: .պառաւաց.//.պառավաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -107315,7 +107316,7 @@
 
 -lexeme
  lex: պառավեցնել
- stem: .պառաւեց.//.պառավեց.
+ stem: .պառավեց.//.պառաւեց.
  gramm: V,caus,tr
  gloss: make.old
  paradigm: V14
@@ -107567,7 +107568,7 @@
 
 -lexeme
  lex: պատենավորվել
- stem: .պատենավորվ.//.պատենաւորվ.
+ stem: .պատենաւորվ.//.պատենավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -107675,7 +107676,7 @@
 
 -lexeme
  lex: պատկերավորել
- stem: .պատկերավոր.//.պատկերաւոր.
+ stem: .պատկերաւոր.//.պատկերավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -107783,7 +107784,7 @@
 
 -lexeme
  lex: պատճենավորել
- stem: .պատճենաւոր.//.պատճենավոր.
+ stem: .պատճենավոր.//.պատճենաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -108233,7 +108234,7 @@
 
 -lexeme
  lex: պարավանդել
- stem: .պարավանդ.//.պարաւանդ.
+ stem: .պարաւանդ.//.պարավանդ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -108287,7 +108288,7 @@
 
 -lexeme
  lex: պարգեւաբաշխել
- stem: .պարգեւաբաշխ.//.պարգևաբաշխ.//.պարգեվաբաշխ.
+ stem: .պարգեվաբաշխ.//.պարգևաբաշխ.//.պարգեւաբաշխ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -108296,7 +108297,7 @@
 
 -lexeme
  lex: պարգեւատրել
- stem: .պարգեւատր.//.պարգևատր.//.պարգեվատր.
+ stem: .պարգեվատր.//.պարգևատր.//.պարգեւատր.
  gramm: V,intr
  gloss: reward
  paradigm: V11
@@ -108305,7 +108306,7 @@
 
 -lexeme
  lex: պարգեւատրվել
- stem: .պարգևատրվ.//.պարգեւատրվ.//.պարգեվատրվ.
+ stem: .պարգեվատրվ.//.պարգեւատրվ.//.պարգևատրվ.
  gramm: V,med,intr
  gloss: be.rewarded
  paradigm: V11
@@ -108314,7 +108315,7 @@
 
 -lexeme
  lex: պարգեւել
- stem: .պարգեւ.//.պարգեվ.//.պարգև.
+ stem: .պարգև.//.պարգեւ.//.պարգեվ.
  gramm: V,tr
  gloss: give
  paradigm: V11
@@ -108323,7 +108324,7 @@
 
 -lexeme
  lex: պարգեւվել
- stem: .պարգևվ.//.պարգեւվ.//.պարգեվվ.
+ stem: .պարգեւվ.//.պարգևվ.//.պարգեվվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -108359,7 +108360,7 @@
 
 -lexeme
  lex: պարենավորվել
- stem: .պարենաւորվ.//.պարենավորվ.
+ stem: .պարենավորվ.//.պարենաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -108629,7 +108630,7 @@
 
 -lexeme
  lex: պարսավել
- stem: .պարսաւ.//.պարսավ.
+ stem: .պարսավ.//.պարսաւ.
  gramm: V,tr
  gloss: blame.(for)_censure.(for)
  paradigm: V11
@@ -108773,7 +108774,7 @@
 
 -lexeme
  lex: պարտավորեցնել
- stem: .պարտավորեց.//.պարտաւորեց.
+ stem: .պարտաւորեց.//.պարտավորեց.
  gramm: V,caus,tr
  gloss: bind
  paradigm: V14
@@ -108782,7 +108783,7 @@
 
 -lexeme
  lex: պարտավորվել
- stem: .պարտավորվ.//.պարտաւորվ.
+ stem: .պարտաւորվ.//.պարտավորվ.
  gramm: V,med,intr
  gloss: commit.oneself
  paradigm: V11
@@ -109820,7 +109821,7 @@
 
 -lexeme
  lex: պսակավորել
- stem: .պսակաւոր.//.պսակավոր.
+ stem: .պսակավոր.//.պսակաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -109829,7 +109830,7 @@
 
 -lexeme
  lex: պսակավորվել
- stem: .պսակաւորվ.//.պսակավորվ.
+ stem: .պսակավորվ.//.պսակաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -109945,7 +109946,7 @@
 
 -lexeme
  lex: պտղավորվել
- stem: .պտղավորվ.//.պտղաւորվ.
+ stem: .պտղաւորվ.//.պտղավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -110232,7 +110233,7 @@
 
 -lexeme
  lex: ջահավորել
- stem: .ջահաւոր.//.ջահավոր.
+ stem: .ջահավոր.//.ջահաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -111490,7 +111491,7 @@
 
 -lexeme
  lex: սակավանալ
- stem: .սակավա.//.սակաւա.
+ stem: .սակաւա.//.սակավա.
  gramm: V,intr
  gloss: grow.less_decrease_become.lower
  paradigm: V22
@@ -111634,7 +111635,7 @@
 
 -lexeme
  lex: սահմանավորվել
- stem: .սահմանավորվ.//.սահմանաւորվ.
+ stem: .սահմանաւորվ.//.սահմանավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -111751,7 +111752,7 @@
 
 -lexeme
  lex: սաղմնավորել
- stem: .սաղմնաւոր.//.սաղմնավոր.
+ stem: .սաղմնավոր.//.սաղմնաւոր.
  gramm: V,tr
  gloss: fecundate_fertilize
  paradigm: V11
@@ -111760,7 +111761,7 @@
 
 -lexeme
  lex: սաղմնավորվել
- stem: .սաղմնաւորվ.//.սաղմնավորվ.
+ stem: .սաղմնավորվ.//.սաղմնաւորվ.
  gramm: V,med,intr
  gloss: get_become.pregnant_be.fertilized_arise
  paradigm: V11
@@ -112505,7 +112506,7 @@
 
 -lexeme
  lex: սեթեւեթել
- stem: .սեթեվեթ.//.սեթևեթ.//.սեթեւեթ.
+ stem: .սեթևեթ.//.սեթեվեթ.//.սեթեւեթ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -112730,7 +112731,7 @@
 
 -lexeme
  lex: սերմնավորել
- stem: .սերմնաւոր.//.սերմնավոր.
+ stem: .սերմնավոր.//.սերմնաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -112847,7 +112848,7 @@
 
 -lexeme
  lex: սեւագրել
- stem: .սեվագր.//.սեւագր.//.սևագր.
+ stem: .սևագր.//.սեւագր.//.սեվագր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -112856,7 +112857,7 @@
 
 -lexeme
  lex: սեւադել
- stem: .սևադ.//.սեվադ.//.սեւադ.
+ stem: .սեւադ.//.սևադ.//.սեվադ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -112892,7 +112893,7 @@
 
 -lexeme
  lex: սեւաներկել
- stem: .սեւաներկ.//.սեվաներկ.//.սևաներկ.
+ stem: .սևաներկ.//.սեւաներկ.//.սեվաներկ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -112910,7 +112911,7 @@
 
 -lexeme
  lex: սեւապատել
- stem: .սեւապատ.//.սևապատ.//.սեվապատ.
+ stem: .սեվապատ.//.սեւապատ.//.սևապատ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -112919,7 +112920,7 @@
 
 -lexeme
  lex: սեւապատվել
- stem: .սեվապատվ.//.սևապատվ.//.սեւապատվ.
+ stem: .սևապատվ.//.սեւապատվ.//.սեվապատվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -112928,7 +112929,7 @@
 
 -lexeme
  lex: սեւասրտել
- stem: .սեվասրտ.//.սևասրտ.//.սեւասրտ.
+ stem: .սեւասրտ.//.սևասրտ.//.սեվասրտ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -112937,7 +112938,7 @@
 
 -lexeme
  lex: սեւավորել
- stem: .սևավոր.//.սեվավոր.//.սեւաւոր.//.սեւավոր.
+ stem: .սեւավոր.//.սեվավոր.//.սևավոր.//.սեւաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -112946,7 +112947,7 @@
 
 -lexeme
  lex: սեւավորվել
- stem: .սևավորվ.//.սեւավորվ.//.սեւաւորվ.//.սեվավորվ.
+ stem: .սեվավորվ.//.սևավորվ.//.սեւաւորվ.//.սեւավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -112964,7 +112965,7 @@
 
 -lexeme
  lex: սեւեռել
- stem: .սևեռ.//.սեվեռ.//.սեւեռ.
+ stem: .սևեռ.//.սեւեռ.//.սեվեռ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -112982,7 +112983,7 @@
 
 -lexeme
  lex: սեւնալ
- stem: .սև.//.սեվ.//.սեւ.
+ stem: .սև.//.սեւ.//.սեվ.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -112991,7 +112992,7 @@
 
 -lexeme
  lex: սեւոտել
- stem: .սևոտ.//.սեւոտ.//.սեվոտ.
+ stem: .սեւոտ.//.սեվոտ.//.սևոտ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -113000,7 +113001,7 @@
 
 -lexeme
  lex: սեւսրտել
- stem: .սեվսրտ.//.սևսրտ.//.սեւսրտ.
+ stem: .սևսրտ.//.սեւսրտ.//.սեվսրտ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -113009,7 +113010,7 @@
 
 -lexeme
  lex: սեւցնել
- stem: .սեվց.//.սևց.//.սեւց.
+ stem: .սևց.//.սեւց.//.սեվց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -113206,7 +113207,7 @@
 
 -lexeme
  lex: սիստեմավորել
- stem: .սիստեմավոր.//.սիստեմաւոր.
+ stem: .սիստեմաւոր.//.սիստեմավոր.
  gramm: V,tr
  gloss: systematize
  paradigm: V11
@@ -113287,7 +113288,7 @@
 
 -lexeme
  lex: սիրավառել
- stem: .սիրաւառ.//.սիրավառ.
+ stem: .սիրավառ.//.սիրաւառ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -113986,7 +113987,7 @@
 
 -lexeme
  lex: սոսավել
- stem: .սոսավ.//.սոսաւ.
+ stem: .սոսաւ.//.սոսավ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -114551,7 +114552,7 @@
 
 -lexeme
  lex: ստաժավորվել
- stem: .ստաժավորվ.//.ստաժաւորվ.
+ stem: .ստաժաւորվ.//.ստաժավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -115556,7 +115557,7 @@
 
 -lexeme
  lex: սրտավորվել
- stem: .սրտաւորվ.//.սրտավորվ.
+ stem: .սրտավորվ.//.սրտաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -115691,7 +115692,7 @@
 
 -lexeme
  lex: սքեմավորվել
- stem: .սքեմաւորվ.//.սքեմավորվ.
+ stem: .սքեմավորվ.//.սքեմաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -116113,7 +116114,7 @@
 
 -lexeme
  lex: վավաշանալ
- stem: .վաւաշա.//.վավաշա.
+ stem: .վավաշա.//.վաւաշա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -116122,7 +116123,7 @@
 
 -lexeme
  lex: վավերագրել
- stem: .վաւերագր.//.վավերագր.
+ stem: .վավերագր.//.վաւերագր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -116131,7 +116132,7 @@
 
 -lexeme
  lex: վավերացնել
- stem: .վաւերաց.//.վավերաց.
+ stem: .վավերաց.//.վաւերաց.
  gramm: V,caus,tr
  gloss: attest_witness_ratify.(an.agreement)
  paradigm: V14
@@ -116140,7 +116141,7 @@
 
 -lexeme
  lex: վավերացվել
- stem: .վաւերացվ.//.վավերացվ.
+ stem: .վավերացվ.//.վաւերացվ.
  gramm: V,caus,med,intr
  gloss: STEM
  paradigm: V11
@@ -116464,7 +116465,7 @@
 
 -lexeme
  lex: վարկավորել
- stem: .վարկաւոր.//.վարկավոր.
+ stem: .վարկավոր.//.վարկաւոր.
  gramm: V,tr
  gloss: give.credit
  paradigm: V11
@@ -116841,7 +116842,7 @@
 
 -lexeme
  lex: վերագրավվել
- stem: .վերագրաւվ.//.վերագրավվ.
+ stem: .վերագրավվ.//.վերագրաւվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -116876,7 +116877,7 @@
 
 -lexeme
  lex: վերադասավորել
- stem: .վերադասաւոր.//.վերադասավոր.
+ stem: .վերադասավոր.//.վերադասաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -116930,7 +116931,7 @@
 
 -lexeme
  lex: վերադիրքավորել
- stem: .վերադիրքավոր.//.վերադիրքաւոր.
+ stem: .վերադիրքաւոր.//.վերադիրքավոր.
  gramm: V,tr
  gloss: change.position
  paradigm: V11
@@ -116966,7 +116967,7 @@
 
 -lexeme
  lex: վերազգեստավորվել
- stem: .վերազգեստավորվ.//.վերազգեստաւորվ.
+ stem: .վերազգեստաւորվ.//.վերազգեստավորվ.
  gramm: V,med,intr
  gloss: change.one's.clothes
  paradigm: V11
@@ -117065,7 +117066,7 @@
 
 -lexeme
  lex: վերախմբավորել
- stem: .վերախմբավոր.//.վերախմբաւոր.
+ stem: .վերախմբաւոր.//.վերախմբավոր.
  gramm: V,tr
  gloss: regroup
  paradigm: V11
@@ -117074,7 +117075,7 @@
 
 -lexeme
  lex: վերախմբավորվել
- stem: .վերախմբաւորվ.//.վերախմբավորվ.
+ stem: .վերախմբավորվ.//.վերախմբաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -117631,7 +117632,7 @@
 
 -lexeme
  lex: վերաձեւավորել
- stem: .վերաձեւաւոր.//.վերաձեվավոր.//.վերաձեւավոր.//.վերաձևավոր.
+ stem: .վերաձեւավոր.//.վերաձեվավոր.//.վերաձեւաւոր.//.վերաձևավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -117640,7 +117641,7 @@
 
 -lexeme
  lex: վերաձեւել
- stem: .վերաձեվ.//.վերաձև.//.վերաձեւ.
+ stem: .վերաձեւ.//.վերաձև.//.վերաձեվ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -117649,7 +117650,7 @@
 
 -lexeme
  lex: վերաձեւվել
- stem: .վերաձեվվ.//.վերաձեւվ.//.վերաձևվ.
+ stem: .վերաձեւվ.//.վերաձեվվ.//.վերաձևվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -117765,7 +117766,7 @@
 
 -lexeme
  lex: վերամիավորել
- stem: .վերամիաւոր.//.վերամիավոր.
+ stem: .վերամիավոր.//.վերամիաւոր.
  gramm: V,tr
  gloss: reunite.(with)
  paradigm: V11
@@ -118035,7 +118036,7 @@
 
 -lexeme
  lex: վերապլանավորել
- stem: .վերապլանաւոր.//.վերապլանավոր.
+ stem: .վերապլանավոր.//.վերապլանաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -118044,7 +118045,7 @@
 
 -lexeme
  lex: վերապլանավորվել
- stem: .վերապլանավորվ.//.վերապլանաւորվ.
+ stem: .վերապլանաւորվ.//.վերապլանավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -118143,7 +118144,7 @@
 
 -lexeme
  lex: վերասարքավորել
- stem: .վերասարքաւոր.//.վերասարքավոր.
+ stem: .վերասարքավոր.//.վերասարքաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -118152,7 +118153,7 @@
 
 -lexeme
  lex: վերասարքավորվել
- stem: .վերասարքաւորվ.//.վերասարքավորվ.
+ stem: .վերասարքավորվ.//.վերասարքաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -118224,7 +118225,7 @@
 
 -lexeme
  lex: վերավաճառել
- stem: .վերավաճառ.//.վերաւաճառ.
+ stem: .վերաւաճառ.//.վերավաճառ.
  gramm: V,tr
  gloss: resell
  paradigm: V11
@@ -118233,7 +118234,7 @@
 
 -lexeme
  lex: վերավաճառվել
- stem: .վերավաճառվ.//.վերաւաճառվ.
+ stem: .վերաւաճառվ.//.վերավաճառվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -118242,7 +118243,7 @@
 
 -lexeme
  lex: վերավաստակել
- stem: .վերավաստակ.//.վերաւաստակ.
+ stem: .վերաւաստակ.//.վերավաստակ.
  gramm: V,tr
  gloss: earn_get.superprofit
  paradigm: V11
@@ -118547,7 +118548,7 @@
 
 -lexeme
  lex: վերթեւել
- stem: .վերթեւ.//.վերթեվ.//.վերթև.
+ stem: .վերթեվ.//.վերթև.//.վերթեւ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -118691,7 +118692,7 @@
 
 -lexeme
  lex: վերջավորել
- stem: .վերջավոր.//.վերջաւոր.
+ stem: .վերջաւոր.//.վերջավոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -118700,7 +118701,7 @@
 
 -lexeme
  lex: վերջավորվել
- stem: .վերջաւորվ.//.վերջավորվ.
+ stem: .վերջավորվ.//.վերջաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -119055,7 +119056,7 @@
 
 -lexeme
  lex: վիրավորել
- stem: .վիրավոր.//.վիրաւոր.
+ stem: .վիրաւոր.//.վիրավոր.
  gramm: V,tr
  gloss: injure
  paradigm: V11
@@ -119795,6 +119796,7 @@
  gramm: V,tr
  gloss: give
  paradigm: V32b
+ paradigm: V32
  trans_en: give, distribute, give up
 
 -lexeme
@@ -120868,7 +120870,7 @@
 
 -lexeme
  lex: տեղավորել
- stem: .տեղավոր.//.տեղաւոր.
+ stem: .տեղաւոր.//.տեղավոր.
  gramm: V,tr
  gloss: put
  paradigm: V11
@@ -121029,7 +121031,7 @@
 
 -lexeme
  lex: տեսակավորել
- stem: .տեսակաւոր.//.տեսակավոր.
+ stem: .տեսակավոր.//.տեսակաւոր.
  gramm: V,tr
  gloss: assort_size
  paradigm: V11
@@ -121038,7 +121040,7 @@
 
 -lexeme
  lex: տեսակավորվել
- stem: .տեսակավորվ.//.տեսակաւորվ.
+ stem: .տեսակաւորվ.//.տեսակավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -121083,7 +121085,7 @@
 
 -lexeme
  lex: տերեւազարդվել
- stem: .տերեւազարդվ.//.տերեվազարդվ.//.տերևազարդվ.
+ stem: .տերեվազարդվ.//.տերեւազարդվ.//.տերևազարդվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -121092,7 +121094,7 @@
 
 -lexeme
  lex: տերեւազրկել
- stem: .տերեվազրկ.//.տերեւազրկ.//.տերևազրկ.
+ stem: .տերեւազրկ.//.տերեվազրկ.//.տերևազրկ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -121101,7 +121103,7 @@
 
 -lexeme
  lex: տերեւազրկվել
- stem: .տերեւազրկվ.//.տերևազրկվ.//.տերեվազրկվ.
+ stem: .տերևազրկվ.//.տերեվազրկվ.//.տերեւազրկվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -121110,7 +121112,7 @@
 
 -lexeme
  lex: տերեւաթափվել
- stem: .տերեւաթափվ.//.տերևաթափվ.//.տերեվաթափվ.
+ stem: .տերևաթափվ.//.տերեվաթափվ.//.տերեւաթափվ.
  gramm: V,med,intr
  gloss: lose.its.leaves
  paradigm: V11
@@ -121128,7 +121130,7 @@
 
 -lexeme
  lex: տերեւավորվել
- stem: .տերեւավորվ.//.տերեւաւորվ.//.տերևավորվ.//.տերեվավորվ.
+ stem: .տերեւավորվ.//.տերևավորվ.//.տերեւաւորվ.//.տերեվավորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -121355,7 +121357,7 @@
 
 -lexeme
  lex: տձեւանալ
- stem: .տձեւա.//.տձևա.//.տձեվա.
+ stem: .տձևա.//.տձեւա.//.տձեվա.
  gramm: V,intr
  gloss: change.in.form_shape_become.deformed
  paradigm: V22
@@ -121754,7 +121756,7 @@
 
 -lexeme
  lex: տպավորել
- stem: .տպաւոր.//.տպավոր.
+ stem: .տպավոր.//.տպաւոր.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -121763,7 +121765,7 @@
 
 -lexeme
  lex: տպավորվել
- stem: .տպաւորվ.//.տպավորվ.
+ stem: .տպավորվ.//.տպաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -122299,7 +122301,7 @@
 
 -lexeme
  lex: ցավագնել
- stem: .ցավագն.//.ցաւագն.
+ stem: .ցաւագն.//.ցավագն.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -122308,7 +122310,7 @@
 
 -lexeme
  lex: ցավազերծել
- stem: .ցաւազերծ.//.ցավազերծ.
+ stem: .ցավազերծ.//.ցաւազերծ.
  gramm: V,tr
  gloss: STEM
  paradigm: V11
@@ -122326,7 +122328,7 @@
 
 -lexeme
  lex: ցավազրկել
- stem: .ցավազրկ.//.ցաւազրկ.
+ stem: .ցաւազրկ.//.ցավազրկ.
  gramm: V,tr
  gloss: an(a)esthetize
  paradigm: V11
@@ -122344,7 +122346,7 @@
 
 -lexeme
  lex: ցավակցել
- stem: .ցաւակց.//.ցավակց.
+ stem: .ցավակց.//.ցաւակց.
  gramm: V,tr
  gloss: commiserate_feel.(for)
  paradigm: V11
@@ -122353,7 +122355,7 @@
 
 -lexeme
  lex: ցավացնել
- stem: .ցաւաց.//.ցավաց.
+ stem: .ցավաց.//.ցաւաց.
  gramm: V,caus,tr
  gloss: STEM
  paradigm: V14
@@ -122371,7 +122373,7 @@
 
 -lexeme
  lex: ցավեցնել
- stem: .ցավեց.//.ցաւեց.
+ stem: .ցաւեց.//.ցավեց.
  gramm: V,caus,tr
  gloss: hurt.smb._hurt
  paradigm: V14
@@ -123237,7 +123239,7 @@
 
 -lexeme
  lex: փաթեթավորել
- stem: .փաթեթաւոր.//.փաթեթավոր.
+ stem: .փաթեթավոր.//.փաթեթաւոր.
  gramm: V,tr
  gloss: pack_wrap.up
  paradigm: V11
@@ -123246,7 +123248,7 @@
 
 -lexeme
  lex: փաթեթավորվել
- stem: .փաթեթաւորվ.//.փաթեթավորվ.
+ stem: .փաթեթավորվ.//.փաթեթաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -124080,7 +124082,7 @@
 
 -lexeme
  lex: փետրավորվել
- stem: .փետրավորվ.//.փետրաւորվ.
+ stem: .փետրաւորվ.//.փետրավորվ.
  gramm: V,med,intr
  gloss: get.covered.with.feathers
  paradigm: V11
@@ -125825,7 +125827,7 @@
 
 -lexeme
  lex: փրփրավորվել
- stem: .փրփրաւորվ.//.փրփրավորվ.
+ stem: .փրփրավորվ.//.փրփրաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -126392,7 +126394,7 @@
 
 -lexeme
  lex: քավել
- stem: .քաւ.//.քավ.
+ stem: .քավ.//.քաւ.
  gramm: V,tr
  gloss: expiate_get_receive.absolution
  paradigm: V11
@@ -126401,7 +126403,7 @@
 
 -lexeme
  lex: քավթառանալ
- stem: .քաւթառա.//.քավթառա.
+ stem: .քավթառա.//.քաւթառա.
  gramm: V,intr
  gloss: STEM
  paradigm: V22
@@ -126410,7 +126412,7 @@
 
 -lexeme
  lex: քավթառել
- stem: .քաւթառ.//.քավթառ.
+ stem: .քավթառ.//.քաւթառ.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -126419,7 +126421,7 @@
 
 -lexeme
  lex: քավվել
- stem: .քավվ.//.քաւվ.
+ stem: .քաւվ.//.քավվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11
@@ -127666,7 +127668,7 @@
 
 -lexeme
  lex: օթեւանել
- stem: .օթևան.//.օթեւան.//.օթեվան.
+ stem: .օթեվան.//.օթևան.//.օթեւան.
  gramm: V,intr
  gloss: STEM
  paradigm: V11
@@ -127989,7 +127991,7 @@
 
 -lexeme
  lex: ֆինանսավորվել
- stem: .ֆինանսաւորվ.//.ֆինանսավորվ.
+ stem: .ֆինանսավորվ.//.ֆինանսաւորվ.
  gramm: V,med,intr
  gloss: STEM
  paradigm: V11

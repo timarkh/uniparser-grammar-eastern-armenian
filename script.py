@@ -4,329 +4,19 @@
 import re
 
 
-def create(cells):
-    nums = cells[4].split('/')
-    nom = cells[0]
-    lexeme = ''
-    for num in nums:
-        if num == 'P31a':
-            lexeme = wr_lexeme(cells, 'ես.|իմ.|ինձ.|ինձն.|ինձնա.|ընձ', num)\
-                     + wr_with_glosses(cells, 'ես.', 'sg,nom', '')\
-                     + wr_with_glosses(cells, 'իմ.', 'sg,gen', '.GEN\n paradigm: P12')\
-                     + wr_with_glosses(cells, 'ինձ.', 'sg,dat', '.DAT')
-        if num == 'P31b':
-            lexeme = wr_lexeme(cells, 'դու.|քո.|քեզ.|քեզն.|քեզնա.|քու.', num)\
-                     + wr_with_glosses(cells, 'դու.', 'sg,nom', '')\
-                     + wr_with_glosses(cells, 'քո.', 'sg,gen', '.GEN\n paradigm: P12b')\
-                     + wr_with_glosses(cells, 'քեզ.', 'sg,dat', '.DAT')\
-                     + wr_with_glosses(cells, 'քու.', 'sg,dat,որալ', '.GEN\n paradigm: P12b')
-        if num == 'P31a':
-            lexeme = wr_lexeme(cells, 'մենք.|ներ.|նեզ.|նեզն.|նեզնա.', num)\
-                     + wr_with_glosses(cells, 'մենք.', 'sg,nom', '')\
-                     + wr_with_glosses(cells, 'ներ.', 'sg,gen', '.GEN\n paradigm: P12')\
-                     + wr_with_glosses(cells, 'նեզ.', 'sg,dat', '.DAT')
-        if num == 'P31a':
-            lexeme = wr_lexeme(cells, 'դուք.|ձեր.|ձեզ.|ձեզն.|ձեզնա.', num)\
-                     + wr_with_glosses(cells, 'դուք.', 'sg,nom', '')\
-                     + wr_with_glosses(cells, 'իմ.', 'sg,gen', '.GEN\n paradigm: P12')\
-                     + wr_with_glosses(cells, 'ձեզ.', 'sg,dat', '.DAT')
-        if num == 'V11' or \
-           num == 'V21' or num == 'V21a':
-            lexeme = wr_lexeme(cells, el_al(nom), num)
-        if num == 'V11a' or num == 'V11b':
-            lexeme = wr_lexeme(cells, el_al(nom), num) \
-                     + wr_with_glosses(cells, del_el_al(nom), 'imp,sg,2', '.IMP.SG')
-        if num == 'V11c':
-            lexeme = wr_lexeme(cells, el_al__a(nom), num)
-        if num == 'V12':
-            lexeme = wr_lexeme(cells, nel_nal(nom), num)
-        if num == 'V14' or num == 'V14a' or num == 'V14b'\
-           or num == 'V22':
-            lexeme = wr_lexeme(cells, nel_nal__rel_ral(nom), num)
-        if num == 'V12a' or num == 'V12b':
-            lexeme = wr_lexeme(cells, nel_nal__rel_ral(nom), num) \
-                     + wr_with_glosses(cells, del_nel_nal(nom), 'imp,sg,2', '.IMP.SG')
-        if num == 'V14c':
-            lexeme = wr_lexeme(cells, nel_nal__rel_ral(nom), num) \
-                     + wr_with_glosses(cells, del_nel_nal(nom), 'imp,sg,2,oral', '.IMP.SG')
-        if num == 'V14d':
-            lexeme = wr_lexeme(cells, nel_nal__rel_ral_el(nom), num) \
-                     + wr_with_glosses(cells, del_nel_nal(nom), 'imp,sg,2', '.IMP.SG')
-        if num == 'V13':
-            lexeme = wr_lexeme(cells, chel_chal(nom), num)
-        if num == 'V22a':
-            lexeme = wr_lexeme(cells, nel_nal__rel_ral(nom), num) \
-                     + wr_with_glosses(cells, del_nel_nal(nom), 'imp,sg,2', '.IMP.SG')
-        if num == 'V22b':
-            lexeme = wr_lexeme(cells, r__rj(nom), num) \
-                     + wr_with_glosses(cells, del_nel_nal(nom), 'imp,sg,2', '.IMP.SG')
-        if num == 'V22c':
-            lexeme = wr_lexeme(cells, ken_kac_kan(nom), num) \
-                     + wr_with_glosses(cells, 'կաց.', 'imp,sg,2', '.IMP.SG')
-        if num == 'V31a':
-            lexeme = wr_lexeme(cells, ut_ker(nom), num) \
-                     + wr_with_glosses(cells, 'կեր.', 'imp,sg,2', '.IMP.SG')
-        if num == 'V31b':
-            lexeme = wr_lexeme(cells, lin_egh(nom), num)
-        if num == 'V32a':
-            lexeme = wr_lexeme(cells, g_ek_ari(nom), num) \
-                     + wr_with_glosses(cells, 'գեկ.', 'imp,sg,2', '.IMP.SG') \
-                     + wr_with_glosses(cells, 'գարի.', 'imp,sg,2', '.IMP.SG')
-        if num == 'V32b':
-            lexeme = wr_lexeme(cells, t_tv_tu(nom), num) \
-                     + wr_with_glosses(cells, 'տու.', 'imp,sg,2,oral', '.IMP.SG')
-        if num == 'V32c':
-            lexeme = wr_lexeme(cells, lal__la(nom), num)\
-                     + wr_with_glosses(cells, 'լա.', 'sbjv,pres,sg,3', '.SBJV.PRS.3SG')\
-                     + wr_with_glosses(cells, 'լա.', 'conneg', '.CONNEG')
-        if num == 'V41':
-            lexeme = wr_lexeme(cells, e_e(nom), num)\
-                     + wr_with_glosses(cells, 'ե.', 'pres,sg,3', '.PRS.3SG')\
-                     + wr_with_glosses(cells, 'չ|ի.', 'neg,pres,sg,3', 'NEG|PRS.3SG')\
-                     + wr_with_glosses(cells, 'ա.', 'pres,sg,3,oral', '.PRS.3SG')
-        if num == 'V42':
-            lexeme = wr_lexeme(cells, nom, num)\
-                     + wr_with_glosses(cells, 'կա.', 'pres,sg,3', '.PRS.3SG')
-        if num == 'V43':
-            lexeme = wr_lexeme(cells, enal(nom), num)\
-                     + wr_with_glosses(cells, 'կա.', 'pres,sg,3', '.PRS.3SG')
-        if num == 'NEG':
-            lexeme = wr_lexeme(cells, '.' + nom, num)
-    return lexeme
-
-def __e_a_o(nom):
-    return nom + '.|' + nom + 'ե.|' + nom + 'ա.|' + nom + 'ո.'
-
-def __n_stem(nom):
-    return nom + '.|' + nom + 'ն.'
-
-def shwa__0_stem(nom):
-    res = re.search('(.*)ը', nom)
-    return res.group(1) + '.'
-
-def i_u_uy__0_stem(nom):
-    res = re.search('(.*)(ի|ու|ույ)([բգդզթժլխծկհձղճմյնշչպջռսվտրցփքֆ]*)', nom)
-    return nom + '.|' + res.group(1) + res.group(3) + '.'
-
-def i_u__0_stem(nom):
-    res = re.search('(.*)(ի|ու)([բգդզթժլխծկհձղճմյնշչպջռսվտրցփքֆ]*)', nom)
-    if res:
-        return nom + '.|' + res.group(1) + res.group(3) + '.'
-    else:
-        return nom + '.|' + nom + '.'
-
-def i_u__0___e_stem(nom):
-    res = re.search('(.*)(ի|ու)([բգդզթժլխծկհձղճմյնշչպջռսվտրցփքֆ]*)', nom)
-    return nom + '.|' + res.group(1) + res.group(3) + '.|' + nom + 'ե.'
-
-def e__i_stem(nom):
-    res = re.search('(.*)(ե)([բգդզթժլխծկհձղճմյնշչպջռսվտրցփքֆ]*)', nom)
-    return nom + '.|' + res.group(1) + 'ի' + res.group(3) + '.'
-
-def i_u__0___e_a_stem(nom):
-    res = re.search('(.*)(ի|ու|ե)([բգդզթժլխծկհձղճմյնշչպջռսվտրցփքֆ]*)', nom)
-    return nom + '.|' + res.group(1) + res.group(3) + '.|'\
-           + res.group(1) + res.group(3) + 'ե.|' \
-           + res.group(1) + res.group(3) + 'ա.'
-
-def __ye_stem(nom):
-    return nom + '.|' + nom + 'յ.|' + nom + 'յե.'
-
-def u_i__v_stem(nom):
-    res = re.search('(.*)(ու|ի)', nom)
-    return nom + '.|' + res.group(1) + 'վ' + '.'
-
-def uy__0_stem(nom):
-    res1 = re.search('(.*)ույ([բգդզթժլխծկհձղճմյնշչպջռսվտրցփքֆ]*)', nom)
-    res2 = re.search('(.*)ու([բգդզթժլխծկհձղճմյնշչպջռսվտրցփքֆ]*)', nom)
-    if res1:
-        return nom + '.|' + res1.group(1) + res1.group(2) + '.'
-    elif res2:
-        return nom + '.|' + res2.group(1) + res2.group(2) + '.'
-    else:
-        return nom + '.|' + nom + '.'    
-
-def uy__u_stem(nom):
-    res = re.search('(.*)ույ([բգդզթժլխծկհձղճմյնշչպջռսվտրցփքֆ]*)', nom)
-    return nom + '.|' + res.group(1) + 'ու' + res.group(2) + '.'
-
-def a__0_stem(nom):
-    res = re.search('(.*)ա', nom)
-    if res:
-        return nom + '.|' + res.group(1) + '.'
-    else:
-        return nom + '.|' + nom + '.'
-
-def ik__z_0_stem(nom):
-    res = re.search('(.*)իկ', nom)
-    return nom + '.|' + res.group(1) + 'գ.|' + res.group(1) + '.'
-
-def un__an_am_stem(nom):
-    res = re.search('(.*)ուն', nom)
-    return nom + '.|' + res.group(1) + 'ան.|' + res.group(1) + 'ամ.'
-
-def un__van_stem(nom):
-    res = re.search('(.*)ուն', nom)
-    return nom + '.|' + res.group(1) + 'վան.'
-
-def un__an_n_stem(nom):
-    res = re.search('(.*)ուն', nom)
-    return nom + '.|' + res.group(1) + 'ան.|' + res.group(1) + 'ն.'
-
-def shwa__0_va_stem(nom):
-    res = re.search('(.*)ը', nom)
-    return res.group(1) + '.|' + res.group(1) + 'վա.'
-
-def a__e_stem(nom):
-    res = re.search('(.*)ա([բգդզթժլխծկհձղճմյնշչպջռսվտրցփքֆ]*)', nom)
-    return nom + '.|' + res.group(1) + 'ե' + res.group(2) + '.'
-
-def i__0_a_stem(nom):
-    res = re.search('(.*)ի([բգդզթժլխծկհձղճմյնշչպջռսվտրցփքֆ]*)', nom)
-    return nom + '.|' + res.group(1) + res.group(2) + '.|'\
-            + res.group(1) + 'ա' + res.group(2) + '.'
-
-def ay__o_stem(nom):
-    res = re.search('(.*)այ([բգդզթժլխծկհձղճմյնշչպջռսվտրցփքֆ]*)', nom)
-    return nom + '.|' + res.group(1) + 'ո' + res.group(2) + '.'
-
-def e__o_stem(nom):
-    res = re.search('(.*)ե([բգդզթժլխծկհձղճմյնշչպջռսվտրցփքֆ]*)', nom)
-    return nom + '.|' + res.group(1) + 'ո' + res.group(2) + '.'
-
-def __e_stem(nom):
-    res = re.search('(.*)(ր)', nom)
-    return nom + '.|' + res.group(1) + 'ե' + res.group(2) + '.'
-
-def dustr_dstr_dster(nom):
-    res = re.search('(.*)(դուստր)', nom)
-    return nom + '.|' + res.group(1) + 'դստր.|' + res.group(1) + 'դստեր.'
-
-def k__0_stem(nom):
-    res = re.search('(.*)ք', nom)
-    return res.group(1) + '.'
-
-def ink__0_stem(nom):
-    res = re.search('(.*)ինք', nom)
-    return res.group(1) + '.'
-
-def va__0_stem(nom):
-    res = re.search('(.*)վա([բգդզթժլխծկհձղճմյնշչպջռսվտրցփքֆ]*)', nom)
-    return nom + '.|' + res.group(1) + res.group(2) + '.'
-
-def ser__sir_sug__sg_stem(nom):
-    ser = re.search('սեր', nom)
-    sug = re.search('սուգ', nom)
-    if ser:
-        stems = 'սեր.|սիր.'
-    if sug:
-        stems = 'սուգ.|սգ.'
-    return stems
-
-def a__ra_ran(nom):
-    res = re.search('(.*)ա', nom)
-    return res.group(1) + 'ա.|'+ res.group(1) + 'րա.|' + res.group(1) + 'րան.'
-
-def el_al(inf):
-    r = re.search('(.*)(ե|ա)լ', inf)
-    return r.group(1) + '.|' + r.group(1) + r.group(2) + '.'
-
-def el_al__a(inf):
-    r = re.search('(.*)(ե|ա)լ', inf)
-    return r.group(1) + '.|' + r.group(1) + r.group(2) + '.|' + r.group(1) + 'ա.'
-
-def nel_nal(inf):
-    r = re.search('(.*)(ն)(ե|ա)լ', inf)
-    return r.group(1) + '.|'\
-           + r.group(1) + r.group(2) + '.|' + r.group(1) + r.group(2) + r.group(3) + '.'
-
-def nel_nal__rel_ral_el(inf):
-    r = re.search('(.*)(ն)(ե|ա)լ', inf)
-    return r.group(1) + '.|'\
-           + r.group(1) + r.group(2) + '.|' + r.group(1) + r.group(2) + r.group(3) + '.|'\
-           + r.group(1) + 'ր' + '.|' + r.group(1) + 'ր' + r.group(3) + '.|'\
-           + r.group(1) + r.group(3) + '.'
-
-def nel_nal__rel_ral(inf):
-    r = re.search('(.*)(ն)(ե|ա)լ', inf)
-    return r.group(1) + '.|'\
-           + r.group(1) + r.group(2) + '.|' + r.group(1) + r.group(2) + r.group(3) + '.|'\
-           + r.group(1) + 'ր' + '.|' + r.group(1) + 'ր' + r.group(3) + '.'
-
-def chel_chal(inf):
-    r = re.search('(.*)(չ)(ե|ա)լ', inf)
-    return r.group(1) + '.|'\
-           + r.group(1) + r.group(2) + '.|' + r.group(1) + r.group(2) + r.group(3) + '.|'\
-           + r.group(1) + 'ն' + '.|' + r.group(1) + 'ն' + r.group(3) + '.'
-
-def r__rj(inf):
-    r = re.search('(.*)(ռ)(ն)(ե|ա)լ', inf)
-    return r.group(1) + '.|'\
-           + r.group(1) + r.group(2) + r.group(3) + '.|' \
-           + r.group(1) + r.group(2) + r.group(3) + r.group(4) + '.|'\
-           + r.group(1) + 'րձ.'
-
-def ken_kac_kan(inf):
-    r = re.search('(.*)(են)(ա)լ', inf)
-    return 'կեն.|կենա.|կաց.|կացա.|կան.|կանա.'
-
-def ut_ker(inf):
-    return 'ուտ.|ուտե.|կեր.|կերե.'
-
-def lin_egh(inf):
-    return 'լին.|լինե.|եղ.|ըլն.|ըլնե|էղ.'
-
-def g_ek_ari(inf):
-    return 'գ.|գա.|եկ.|արի.'
-
-def t_tv_tu(inf):
-    return 'տ.|տա.|տվ.|տվե.|տու.'
-
-def lal__la(inf):
-    return 'լա.|լաց.|լացե.'
-
-def e_e(inf):
-    return 'է.|ե.'
-
-def enal(inf):
-    r = re.search('(.*)(ենա)լ', inf)
-    return r.group(1) + '.|'\
-           + r.group(1) + 'են.|' + r.group(1) + 'ենա.|'\
-           + r.group(1) + 'ե.'
-
-def del_el_al(inf):
-    r = re.search('(.*)(ել|ալ)', inf)
-    return r.group(1) + '.'
-
-def del_nel_nal(inf):
-    r = re.search('(.*)(նել|նալ)', inf)
-    return r.group(1) + '.'
-
-def a__ra(nom):
-    r = re.search('(.*)(ա)', nom)
-    return r.group(1) + 'րա.'
-
-def a__ran(nom):
-    r = re.search('(.*)(ա)', nom)
-    return r.group(1) + 'րան.'
-
-def stem(nom):
-    return nom + '.'
-
-
 def make_stems(lexeme, ft):
     """
     Return the stem (with all variants) for a lexeme,
     taking into account its flextype.
     """
     lex = lexeme['lex'].lower()
-    if ft in ['N12c', 'N52a', 'N54', 'N81', 'N81b', 'P24']:
+    if ft in ['N12c', 'N52a', 'N81', 'P24']:
         return [lex[:-1] + '.']
     if ft in ['N13', 'N14', 'N14a', 'N18', 'N22', 'N23',
               'N23a', 'N32', 'N32a', 'N32b', 'N32e', 'N33',
-              'N34', 'N52', 'N62', 'N63']:
+              'N34', 'N52', 'N54', 'N62', 'N63']:
         return [lex + '.|' +
-                re.sub('(?:[իո]|ու|ույ(?=[^իու]))([^իու]*$)', '\\1', lex) + '.']
+                re.sub('(?:[իոեա]|ույ(?=[^իու])|ու)([^իուեա]*$)', '\\1', lex) + '.']
     if ft in ['N13a', 'N64', 'N92']:
         return [lex + './/' + re.sub('ե([^ե]*)$', 'է\\1', lex) + '.|' + re.sub('ե([^ե]*)$', 'ի\\1', lex) + '.']
     if ft in ['N72']:
@@ -361,11 +51,11 @@ def make_stems(lexeme, ft):
     if ft in ['N63']:
         return [lex + '.|' + re.sub('ի([^ի]*)$', '\\1', lex) + '.|'
                 + re.sub('ի([^ի]*)$', '\\1', lex) + '.']
-    if ft in ['N63a']:
+    if ft in ['N63a', 'N63'] and lex.endswith('կին'):
         return [lex + '.|' + re.sub('ի([^ի]*)$', '\\1', lex) + '.|'
                 + re.sub('ի([^ի]*)$', 'ա\\1', lex) + '.']
-    if ft in ['N63b', 'N81a']:
-        return [lex[:-3] + '.']
+    # if ft in ['N63b']:
+    #     return [lex[:-3] + '.']
     if ft in ['N71', 'N71a']:
         return [lex + '.|' + re.sub('այ([^ա]*)$', 'ո\\1', lex) + '.']
     if ft in ['N72']:
@@ -380,7 +70,7 @@ def make_stems(lexeme, ft):
     if ft in ['P21']:
         return [lex + '.|' + lex[:-1] + 'ր.']
     if ft in ['P22']:
-        return [lex + '.|' + lex[:-2] + 'ուն.']
+        return [lex + '.|' + lex[:-2] + 'ում.']
     if ft in ['P23']:
         return [lex[:-1] + '.|' + lex[:-3] + 'ր.']
     if ft in ['V12', 'V13', 'V14', 'V22', 'V12a', 'V12b',
@@ -400,6 +90,8 @@ def make_stems(lexeme, ft):
         return ['.' + lex[:-2] + '.|.էղ.']
     if ft in ['V32a']:
         return ['.' + lex[:-2] + '.|.եկ.//.էկ.|.արի.']
+    if ft in ['V32d']:
+        return ['.NONE.|.էկ.|.NONE.']
     if ft in ['V32b']:
         return ['.' + lex[:-2] + '.|.' + lex[:-2] + 'վ.|.' + lex[:-2] + 'ու.']
     if ft in ['V41']:
@@ -410,6 +102,16 @@ def make_stems(lexeme, ft):
         return ['.' + lex[:-3] + '.|.' + lex[:-4] + 'ի.']
     if ft.startswith('V'):
         return ['.' + lex[:-2] + '.']
+    if ft in ['P31a', 'P31'] and lex == 'ես':
+        return ['ես.|իմ.|ինձ.|ինձն.|ինձան.|ընձ.']
+    if ft in ['P31c', 'P31'] and lex == 'մենք':
+        return ['մենք.|մեր.|մեզ.|մեզն.|մեզան.']
+    if ft in ['P31b', 'P31'] and lex == 'դու':
+        return ['դու.|քո.|քեզ.|քեզն.|քեզան.|քու.']
+    if ft in ['P31d', 'P31'] and lex == 'դուք':
+        return ['դուք.|ձեր.|ձեզ.|ձեզն.|ձեզան.']
+    if ft in ['NEG']:
+        return ['.' + lex + '.']
     return [lex + '.']
 
 
@@ -421,13 +123,16 @@ def add_orth_variation(stems):
             varYun = re.sub('(?<=[աիօըեէ])վ', 'ւ', stemVar)
             if varYun not in newVars:
                 newVars.add(varYun)
-            varNoYun = re.sub('(?<=[աիօըեէ])ւ', 'վ', stemVar)
+            varNoYun = re.sub('(?<=[աօըեէ])ւ', 'վ', stemVar)
             if varNoYun not in newVars:
                 newVars.add(varNoYun)
             varEw = re.sub('եւ', 'և', stemVar)
             if varEw not in newVars:
                 newVars.add(varEw)
             varJ = re.sub('^\\.հա', '.յա', stemVar)
+            if varJ not in newVars:
+                newVars.add(varJ)
+            varJ = re.sub('^([^.<>]+)ե([^աիօըեէո]*)$', '\\1է\\2', stemVar)
             if varJ not in newVars:
                 newVars.add(varJ)
         if len(newStems) > 0:
@@ -453,10 +158,16 @@ def make_lexemes(dictLex):
         'N18': 'N14a',
         'N42': 'N41',
         'N63a': 'N63',
-        'N72': 'N71'
+        'N72': 'N71',
+        'V32d': 'V32',
+        'P31a': 'P31',
+        'P31b': 'P31',
+        'P31c': 'P31',
+        'P31d': 'P31'
     }
     for para in dictLex['flextype'].split('/'):
         for stem in make_stems(dictLex, para):
+            paraNonCollated = para
             if para in paraCollation:
                 para = paraCollation[para]
             if para in ['N11', 'N12', 'N13', 'N14'] and gramm.startswith('A'):
@@ -465,11 +176,11 @@ def make_lexemes(dictLex):
             paradigms = [para]
             if 'apl' in gramm:
                 gramm = re.sub(',apl\\+?', '', gramm)
-                if dictLex['flextype'] in ['N11', 'N11-onk\'']:
+                if paraNonCollated in ['N11', 'N11-onk\'']:
                     paradigms.append('apl_o')
-                if dictLex['flextype'] in ['N11', 'N12', 'N11-ank\'']:
+                if paraNonCollated in ['N11', 'N12', 'N11-ank\'']:
                     paradigms.append('apl_a')
-                if dictLex['flextype'] in ['N14']:
+                if paraNonCollated in ['N14']:
                     paradigms.append('apl_2a')
                     paradigms.append('apl_2e')
                 else:
@@ -486,6 +197,8 @@ def make_lexemes(dictLex):
                 paradigms.append('V22')
             elif para in ['V31a', 'V31b']:
                 paradigms.append('V31')
+            elif para in ['V32a', 'V32b']:
+                paradigms.append('V32')
             elif para in ['V11']:
                 paradigms.append('V11_main')
             elif para in ['V12']:
