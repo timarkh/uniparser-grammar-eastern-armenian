@@ -696,7 +696,7 @@
 
 -lexeme
  lex: դա
- stem: դա.|դր.
+ stem: դա.|դր.//դըր.
  gramm: PRON,dem
  gloss: that
  paradigm: P21
@@ -2335,6 +2335,14 @@
  trans_en: 
 
 -lexeme
+ lex: հը
+ stem: հը.
+ gramm: INTJ
+ gloss: ha
+ paradigm: Empty
+ trans_en: ha (laughter)
+
+-lexeme
  lex: հըմ
  stem: հըմ.
  gramm: INTJ
@@ -2552,7 +2560,7 @@
 
 -lexeme
  lex: նա
- stem: նա.|նր.
+ stem: նա.|նր.//նըր.
  gramm: PRON,S,hum
  gloss: it
  paradigm: P21
@@ -2560,7 +2568,7 @@
 
 -lexeme
  lex: նաեւ
- stem: նաէւ.//նաեւ.//նաեվ.//նաև.
+ stem: նաեւ.//նաեվ.//նաև.
  gramm: CONJ
  gloss: also
  paradigm: Empty
@@ -3136,7 +3144,7 @@
 
 -lexeme
  lex: սա
- stem: սա.|սր.
+ stem: սա.|սր.//սըր.
  gramm: PRON,dem
  gloss: this
  paradigm: P21

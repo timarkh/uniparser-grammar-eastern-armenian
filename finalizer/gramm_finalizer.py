@@ -1,5 +1,6 @@
 import re
 import os
+import shutil
 
 rxDiacritics = re.compile('[ӥӧӵӟӝёӱ]')
 rxDiaPartsStem = re.compile('( stem:)( *[^\r\n]+)')
@@ -82,13 +83,16 @@ def main():
     fOutLemmata = open('lexemes.txt', 'w', encoding='utf-8')
     fOutLemmata.write(lemmata)
     fOutLemmata.close()
+    shutil.copyfile('lexemes.txt', '../analyzer/lexemes.txt')
     if len(lexrules) > 0:
         fOutLexrules = open('lex_rules.txt', 'w', encoding='utf-8')
         fOutLexrules.write(lexrules)
         fOutLexrules.close()
+        shutil.copyfile('lex_rules.txt', '../analyzer/lex_rules.txt')
     fOutParadigms = open('paradigms.txt', 'w', encoding='utf-8')
     fOutParadigms.write(paradigms)
     fOutParadigms.close()
+    shutil.copyfile('paradigms.txt', '../analyzer/paradigms.txt')
 
 
 if __name__ == '__main__':

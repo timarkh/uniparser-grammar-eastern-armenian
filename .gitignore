@@ -1,3 +1,7 @@
 **.pyc
 **.idea/**
 source_xls/**
+**/errors.log
+analyzer/wordlist.csv
+analyzer/wordlist.csv-parsed.txt
+analyzer/wordlist.csv-unparsed.txt
