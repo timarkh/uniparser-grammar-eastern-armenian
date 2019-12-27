@@ -1,0 +1,69 @@
+DELIMITERS = "<SENT_BOUNDARY>";
+
+LIST NegVerbs = ("է" V neg);
+LIST Aux = ("է" V);
+LIST PredSbjv = "պետք" "պիտի" "պտի";
+LIST PostGen = "մեջ" "վրա" "հետ";
+LIST PrepGen = "ի" "ըստ";
+LIST Clitics = "էլ";
+SET NotClitics = (*) - Clitics;
+SET NotAux = (*) - Aux;
+LIST PossDef = poss.1 poss.2 def;
+LIST NAdj = N A;
+LIST VPred = V PREDIC;
+SET VTr1 = (V tr) OR (V caus);
+SET VTr = VTr1 - (pass);
+LIST VFin = (V prs) (V pst) (V imp) (V sbjv) (V cond);
+LIST BOS = (>>>);
+SET BOSPunct = (punct) | BOS;
+
+
+
+SECTION    # Verbs
+# Only leave V,conneg analysis if there is a negative verb nearby.
+REMOVE (V cvb conneg) IF (NEGATE *-1 NegVerbs BARRIER NotClitics);
+REMOVE (V imp) IF (*-1 NegVerbs BARRIER NotClitics);
+REMOVE (V sbjv) IF (*-1 NegVerbs BARRIER NotClitics)
+                   (NOT 0 (neg));
+
+# Select sbjv analysis if certain predicates are present.
+SELECT (V sbjv) IF (*-1 PredSbjv BARRIER NotAux);
+
+# Gen in -i vs. sbjv/imp/conneg
+SELECT (obl) IF (1 PostGen);
+SELECT (obl) IF (-1 PrepGen);
+
+# cvb,pfv vs. inf
+REMOVE (V cvb pfv) IF (0 (V inf))
+                      (NEGATE *0 Aux BARRIER BOS);
+
+# cvb,ipfv vs. N,loc
+SELECT (V cvb ipfv) IF (0 ("<.*ում>"r))
+                       (1 Aux)
+                       (NEGATE *0 VFin - Aux BARRIER BOS);
+SELECT (V cvb ipfv) IF (0 ("<.*ում>"r))
+                       (-1 Aux)
+                       (NEGATE *0 VFin - Aux BARRIER BOS);
+
+REMOVE (V inf sg nom nonposs);
+
+
+SECTION    # Nouns
+
+SECTION    # Adjectives
+
+SECTION    # Pronouns
+
+SECTION    # Unchangeable POS
+
+SECTION    # Other inter-POS homonymy
+
+
+# Aveli
+SELECT (ADV) if (0 ("<ավելի>"i))
+                (*-1 (abl) BARRIER NotClitics);
+
+# Hazar
+SELECT (NUM) if (0 ("<հազար>"i))
+                (-1 (NUM));
+
