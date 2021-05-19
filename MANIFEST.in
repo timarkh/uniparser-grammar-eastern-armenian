@@ -1,0 +1,2 @@
+include uniparser_eastern_armenian/data/*.txt
+include uniparser_eastern_armenian/data/*.cg3
