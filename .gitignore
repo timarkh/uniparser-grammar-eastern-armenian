@@ -39,3 +39,4 @@ pip-delete-this-directory.txt
 .env
 venv/
 ENV/
+uniparser_eastern_armenian/data/*.cg3

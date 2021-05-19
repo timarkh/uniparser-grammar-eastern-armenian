@@ -7,11 +7,11 @@ def collect_lemmata(dirName):
     lemmata = ''
     lexrules = ''
     for fname in os.listdir(dirName):
-        if fname.endswith('.txt') and fname.startswith('hye_lexemes_'):
+        if fname.endswith('.txt') and fname.startswith('hye-lexemes-'):
             f = open(os.path.join(dirName, fname), 'r', encoding='utf-8-sig')
             lemmata += f.read() + '\n'
             f.close()
-        elif fname.endswith('.txt') and fname.startswith('hye_lexrules_'):
+        elif fname.endswith('.txt') and fname.startswith('hye-lexrules-'):
             f = open(os.path.join(dirName, fname), 'r', encoding='utf-8-sig')
             lexrules += f.read() + '\n'
             f.close()
