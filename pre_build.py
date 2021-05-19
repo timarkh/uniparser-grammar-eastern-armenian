@@ -49,9 +49,9 @@ def parse_wordlists():
     """
     from uniparser_eastern_armenian import EasternArmenianAnalyzer
     a = EasternArmenianAnalyzer()
-    a.analyze_wordlist(freqListFile='wordlists/wordlist.csv',
-                       parsedFile='wordlists/wordlist_analyzed.txt',
-                       unparsedFile='wordlists/wordlist_unanalyzed.txt',
+    a.analyze_wordlist(freqListFile='wordlists/eanc_wordlist.csv',
+                       parsedFile='wordlists/eanc_wordlist_analyzed.txt',
+                       unparsedFile='wordlists/eanc_wordlist_unanalyzed.txt',
                        verbose=True)
 
 
