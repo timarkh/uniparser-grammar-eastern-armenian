@@ -1,14 +1,61 @@
-uniparser-grammar-eastern-armenian
-==================================
+# Eastern Armenian morphological analyzer
+This is a rule-based morphological analyzer for Modern Eastern Armenian (``hye``). It is based on a formalized description of literary Eastern Armenian morphology, which also includes a number of dialectal elements, and uses [uniparser-morph](https://github.com/timarkh/uniparser-morph) for parsing. It performs full morphological analysis of Eastern Armenian words (lemmatization, POS tagging, grammatical tagging, glossing).
 
-This is a rule-based morphological analyzer for Modern Eastern Armenian. It is based on a formalized description of standard Eastern Armenian morphology, which also includes a number of oral and historical elements. The description is carried out in the UniParser format and includes a list of paradigms (paradigms.txt) and a grammatical dictionary (hye-lexemes-XXX.txt files). The dictionary contains descriptions of individual lexemes, each of which is accompanied by information about its stem, its part-of-speech tag and some other grammatical information, its inflectional type (paradigm), and, for some items, their English translation and stem gloss. The recall of the analyzer on literary texts is about 93%, e.g. 93% tokens receive at least one analysis.
+## How to use
+### Python package
+The analyzer is available as a Python package. If you want to analyze Eastern Armenian texts in Python, install the module:
 
-This description can be used for morphological analysis of Armenian texts in the following ways:
+```
+pip3 install uniparser-eastern-armenian
+```
 
-1. The ``wordlists`` directory contains the output of the analyzer for a frequency list of tokens based on the Eastern Armenian National Corpus. The simplest solution is to use this analyzed wordlist for analyzing your texts. The lists include over 450 thousand analyzed types (unique words), as well as almost 1 million unanalyzed ones (which tend to have lower frequency though). Since the corpus is large, almost all tokens in your texts will be on that list.
+Import the module and create an instance of ``EasternArmenianAnalyzer`` class. After that, you can either parse tokens or lists of tokens with ``analyze_words()``, or parse a frequency list with ``analyze_wordlist()``. Here is a simple example:
 
-2. The ``analyzer`` directory contains the UniParser set of scripts together with all necessary language files. You can use it to analyze your own frequency word list. Your have to name your list "wordlist.csv" and put it to that directory. Each line should contain one token and its frequency, tab-delimited. Frequencies are only needed to calculate recall, so if you don't need that, you could just write e.g. 1 for each token. When you run ``analyzer/UniParser/analyze.py``, the analyzer will produce two files, one with analyzed tokens, the other with unanalyzed ones. (You can also use other file names and separators with command line options, see the code of ``analyze.py``.) This way, you will not be restricted by the word list, but the analyzer works pretty slowly.
+```python
+from uniparser_eastern_armenian import EasternArmenianAnalyzer
+a = EasternArmenianAnalyzer()
 
-3. Finally, you are free to convert/adapt the description to whatever kind of morphological analysis you prefer to use.
+analyses = a.analyze_words('Ձևաբանություն')
+# The parser is initialized before first use, so expect
+# some delay here (usually several seconds)
 
-Since the analyzer is rule-based and does not take the context into account, it produces all potentially valid analyses for each word, which leads to ambiguity (1.25 analyses per analyzed token, on average). Apart from the analyzer, this repository contains a set of (Constraint Grammar)[https://visl.sdu.dk/constraint_grammar.html] rules, which can be used to partially disambiguate analyzed Armenian texts.
+# You will get a list of Wordform objects
+# The analysis attributes are stored in its properties
+# as string values, e.g.:
+for ana in analyses:
+        print(ana.wf, ana.lemma, ana.gramm, ana.gloss)
+
+# You can also pass lists (even nested lists) and specify
+# output format ('xml' or 'json')
+# If you pass a list, you will get a list of analyses
+# with the same structure
+analyses = a.analyze_words([['և'], ['Ես', 'սիրում', 'եմ', 'քեզ', ':']],
+	                       format='xml')
+analyses = a.analyze_words(['Ձևաբանություն', [['և'], ['Ես', 'սիրում', 'եմ', 'քեզ', ':']]],
+	                       format='json')
+```
+
+Refer to the [uniparser-morph documentation](https://uniparser-morph.readthedocs.io/en/latest/) for the full list of options.
+
+### Disambiguation
+Apart from the analyzer, this repository contains a small set of [Constraint Grammar](https://visl.sdu.dk/constraint_grammar.html) rules that can be used for partial disambiguation of analyzed Armenian texts. If you want to use them, set ``disambiguation=True`` when calling ``analyze_words``:
+
+```python
+analyses = a.analyze_words(['Ես', 'սիրում', 'եմ', 'քեզ'], disambiguate=True)
+```
+
+In order for this to work, you have to install the ``cg3`` executable separately. On Ubuntu/Debian, you can use ``apt-get``:
+
+```
+sudo apt-get install cg3
+```
+
+On Windows, download the binary and add the path to the ``PATH`` environment variable. See [the documentation](https://visl.sdu.dk/cg3/single/#installation) for other options.
+
+Note that each time you call ``analyze_words()`` with ``disambiguate=True``, the CG grammar is loaded and compiled from scratch, which makes the analysis even slower. If you are analyzing a large text, it would make sense to pass the entire text contents in a single function call rather than do it sentence-by-sentence, for optimal performance.
+
+### Word lists
+Alternatively, you can use a preprocessed word list. The ``wordlists`` directory contains a list of words from a 100-million-word [Eastern Armenian National Corpus](http://www.eanc.net/) (``wordlist.csv``), list of analyzed tokens (``wordlist_analyzed.txt``; each line contains all possible analyses for one word in an XML format), and list of tokens the parser could not analyze (``wordlist_unanalyzed.txt``). The recall of the analyzer on literary texts is about 93%, i.e. 93% of the tokens receive at least one analysis.
+
+## Description format
+The description is carried out in the ``uniparser-morph`` format and involves a description of the inflection (paradigms.txt), a grammatical dictionary (hye_lexemes_XXX.txt files), and a short list of analyses that should be avoided (bad_analyses.txt). The dictionary contains descriptions of individual lexemes, each of which is accompanied by information about its stem, its part-of-speech tag and some other grammatical/borrowing information, its inflectional type (paradigm), its English translation and (in some cases) its stem gloss. See more about the format [in the uniparser-morph documentation](https://uniparser-morph.readthedocs.io/en/latest/format.html).
