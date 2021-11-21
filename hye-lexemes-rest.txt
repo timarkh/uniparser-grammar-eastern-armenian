@@ -186,7 +186,7 @@
  lex: այդչափ
  stem: այդչափ.
  gramm: PRON,ADV
- gloss: so_that.much_so.few_little
+ gloss: that.much
  paradigm: Empty
  trans_en: so/that much, so few/little
 
@@ -346,7 +346,7 @@
  lex: այսինչ
  stem: այսինչ.
  gramm: PRON,A
- gloss: such-and-such_so-and-so
+ gloss: such.and.such
  paradigm: Empty
  trans_en: such-and-such, so-and-so
 
@@ -538,7 +538,7 @@
  lex: ավաղ
  stem: աւաղ.//ավաղ.
  gramm: INTJ
- gloss: alas!.oh!.what.a.pity!
+ gloss: alas
  paradigm: Empty
  trans_en: alas! oh! what a pity!
 
@@ -906,7 +906,7 @@
  lex: երեսից
  stem: երեսից.
  gramm: CONJ
- gloss: through.smb.'s.fault_on_from.the.outside
+ gloss: through.fault
  paradigm: Empty
  trans_en: through smb.'s fault, on/from the outside
 
@@ -962,14 +962,6 @@
  lex: զանց
  stem: զանց.
  gramm: PART
- gloss: STEM
- paradigm: Empty
- trans_en: 
-
--lexeme
- lex: զեթ
- stem: զեթ.//զէթ.
- gramm: 
  gloss: STEM
  paradigm: Empty
  trans_en: 
@@ -1098,7 +1090,7 @@
  lex: էյ
  stem: էյ.
  gramm: INTJ
- gloss: hey!.I.say!.look.here!.hello!
+ gloss: hey
  paradigm: Empty
  trans_en: hey! I say! look here! hello!
 
@@ -1282,7 +1274,7 @@
  lex: էստեղ-էնտեղ
  stem: էստեղ-էնտեղ.//էստեղ-էնտէղ.
  gramm: PRON,ADV,oral
- gloss: here-there
+ gloss: here.there
  paradigm: N11+N11
  trans_en: here-there
 
@@ -1354,7 +1346,7 @@
  lex: ըհը
  stem: ըհը.
  gramm: INTJ
- gloss: aha!.oho!.really!.indeed!.is.that.so?.is.that.right?.that's.the.way_right_no.way!
+ gloss: aha
  paradigm: Empty
  trans_en: aha! oho! really! indeed! is that so? is that right? that's the way/right, no way!
 
@@ -1706,7 +1698,7 @@
  lex: իհ
  stem: իհ.
  gramm: INTJ
- gloss: tut-tut!_shame.upon.you!
+ gloss: shame.upon.you
  paradigm: Empty
  trans_en: tut-tut!, shame upon you!
 
@@ -1770,7 +1762,7 @@
  lex: ինչեւիցե
  stem: ինչեվիցե.//ինչեւիցե.//ինչևիցե.//ինչեւիցէ.
  gramm: PART
- gloss: anyhow_after.all_one.way.or.another
+ gloss: anyhow
  paradigm: Empty
  trans_en: anyhow, after all, one way or another
 
@@ -1874,7 +1866,7 @@
  lex: լայ-լայ
  stem: լայ-լայ.
  gramm: INTJ
- gloss: bye-bye_hushaby
+ gloss: bye.bye_hushaby
  paradigm: Empty
  trans_en: bye-bye, hushaby
 
@@ -1970,7 +1962,7 @@
  lex: ծուղրուղու
  stem: ծուղրուղու.
  gramm: INTJ
- gloss: cock-a-doodle-do
+ gloss: cock.a.doodle.do
  paradigm: Empty
  trans_en: cock-a-doodle-do
 
@@ -2258,7 +2250,7 @@
  lex: հեյ
  stem: հէյ.//հեյ.
  gramm: INTJ
- gloss: hey!.hi!.I.say!.look.here!
+ gloss: hey
  paradigm: Empty
  trans_en: hey! hi! I say! look here!
 
@@ -2410,7 +2402,7 @@
  lex: մեկնումեկ
  stem: մեկնումէկ.//մեկնումեկ.
  gramm: PRON,S,hum,sg
- gloss: someone_something_some
+ gloss: some
  paradigm: N11
  trans_en: someone, something, some
 
@@ -2538,7 +2530,7 @@
  lex: յոլա
  stem: յոլա.
  gramm: PART
- gloss: manage_get.on.(with)
+ gloss: get.on
  paradigm: Empty
  trans_en: manage, get on (with)
 
@@ -2914,7 +2906,7 @@
  lex: ուխ
  stem: ուխ.
  gramm: INTJ
- gloss: tee-hee!
+ gloss: tee.hee!
  paradigm: Empty
  trans_en: tee-hee!
 
@@ -2930,7 +2922,7 @@
  lex: ուհ
  stem: ուհ.
  gramm: INTJ
- gloss: damn!_ouch!.gosh!.gee!.gee-whiz!
+ gloss: ouch
  paradigm: Empty
  trans_en: damn!, ouch! gosh! gee! gee-whiz!
 
@@ -3210,7 +3202,7 @@
  lex: վա
  stem: վա.
  gramm: INTJ
- gloss: oh!.well!.gosh!.wow!.oh
+ gloss: wow
  paradigm: Empty
  trans_en: oh! well! gosh! wow! oh
 
@@ -3218,7 +3210,7 @@
  lex: վահ
  stem: վահ.
  gramm: INTJ
- gloss: ah!.oh!.oh_hullo!_tut-tut!
+ gloss: ah
  paradigm: Empty
  trans_en: ah! oh! oh, hullo!, tut-tut!
 
@@ -3226,7 +3218,7 @@
  lex: վայ
  stem: վայ.
  gramm: INTJ
- gloss: oh!_o!
+ gloss: oh!
  paradigm: Empty
  trans_en: oh!, o!
 
@@ -3386,7 +3378,7 @@
  lex: փահ
  stem: փահ.
  gramm: INTJ
- gloss: ah!.oh!.gosh!_wow!_pshaw!
+ gloss: wow
  paradigm: Empty
  trans_en: ah! oh! gosh!, wow!, pshaw!
 
@@ -3458,7 +3450,7 @@
  lex: փուհ
  stem: փուհ.
  gramm: INTJ
- gloss: damn!.hell!_bother!.blast!
+ gloss: damn
  paradigm: Empty
  trans_en: damn! hell!, bother! blast!
 
@@ -3562,7 +3554,7 @@
  lex: քըս-քըս
  stem: քըս-քըս.
  gramm: INTJ
- gloss: tally-ho!.halloo!
+ gloss: tally.ho!.halloo!
  paradigm: Empty
  trans_en: tally-ho! halloo!
 

@@ -1530,7 +1530,7 @@
  lex: ահազանգել
  stem: .ահազանգ.
  gramm: V,intr
- gloss: give_sound.the.alarm_raise.an_the.alarm_warn.(against)
+ gloss: raise.alarm
  paradigm: V11
  paradigm: V11_main
  trans_en: give/sound the alarm, raise an/the alarm, warn (against)
@@ -2447,7 +2447,7 @@
  lex: աղքատանալ
  stem: .աղքատա.
  gramm: V,intr
- gloss: become.poor_a.pauper_impoverished_grow.poor_scarce
+ gloss: become.poor
  paradigm: V22
  paradigm: V22_main
  trans_en: become poor/a pauper/impoverished, grow poor/scarce
@@ -2806,7 +2806,7 @@
  lex: ամբարտավանանալ
  stem: .ամբարտաւանա.//.ամբարտավանա.
  gramm: V,intr
- gloss: become.haughty_arrogant_supercilious_be.inflated.with.conceit
+ gloss: become.arrogant
  paradigm: V22
  paradigm: V22_main
  trans_en: become haughty/arrogant/supercilious, be inflated with conceit
@@ -6159,7 +6159,7 @@
  lex: անվանարկվել
  stem: .անվանարկվ.
  gramm: V,med,intr
- gloss: be.compromised_discredited_defamed_get.a.bad.name_reputation
+ gloss: be.compromised
  paradigm: V11
  paradigm: V11_main
  trans_en: be compromised/discredited/defamed, get a bad name/reputation
@@ -9067,7 +9067,7 @@
  lex: առյուծանալ
  stem: .առյուծա.
  gramm: V,intr
- gloss: screw.up.enough.courage_become.fearless_brave_boast.of
+ gloss: become.brave
  paradigm: V22
  paradigm: V22_main
  trans_en: screw up enough courage, become fearless/brave, boast of
@@ -10744,7 +10744,7 @@
  lex: արդիականանալ
  stem: .արդիականա.
  gramm: V,intr
- gloss: become_get.modernized_up-to-date_contemporized
+ gloss: become_get.modernized_up.to.date_contemporized
  paradigm: V22
  paradigm: V22_main
  trans_en: become/get modernized/up-to-date/contemporized
@@ -11643,7 +11643,7 @@
  lex: արձանանալ
  stem: .արձանա.
  gramm: V,intr
- gloss: stand.stock-still_petrify_be.dumbfounded
+ gloss: stand.stock.still_petrify_be.dumbfounded
  paradigm: V22
  paradigm: V22_main
  trans_en: stand stock-still, petrify, be dumbfounded
@@ -15774,7 +15774,7 @@
  lex: բարոյազրկվել
  stem: .բարոյազրկվ.
  gramm: V,med,intr
- gloss: grow_become.profligate_depraved_immoral_get.corrupted_demoralized_grow_become.dissipated
+ gloss: become.corrupted
  paradigm: V11
  paradigm: V11_main
  trans_en: grow/become profligate/depraved/immoral, get corrupted/demoralized, grow/become dissipated
@@ -16841,7 +16841,7 @@
  lex: բթանալ
  stem: .բթա.
  gramm: V,intr
- gloss: get_grow.stupid_dull_be.in.a.torpor.deaden_grow_become_get.blunt
+ gloss: become.stupid
  paradigm: V22
  paradigm: V22_main
  trans_en: get/grow stupid/dull, be in a torpor deaden, grow/become/get blunt
@@ -22652,7 +22652,7 @@
  lex: գինովանալ
  stem: .գինովա.
  gramm: V,intr
- gloss: get_grow.intoxicated_tipsy_inebriated_be.drunk_tipsy_intoxicated.(with)
+ gloss: be.drunk
  paradigm: V22
  paradigm: V22_main
  trans_en: get/grow intoxicated/tipsy/inebriated, be drunk/tipsy/intoxicated (with)
@@ -22670,7 +22670,7 @@
  lex: գինովնալ
  stem: .գինով.
  gramm: V,intr
- gloss: get_grow.intoxicated_tipsy_inebriated_be.drunk_tipsy_intoxicated.(with)
+ gloss: be.drunk
  paradigm: V22
  paradigm: V22_main
  trans_en: get/grow intoxicated/tipsy/inebriated, be drunk/tipsy/intoxicated (with)
@@ -23810,7 +23810,7 @@
  lex: գնդակոծել
  stem: .գնդակոծ.
  gramm: V,tr
- gloss: fire.(at_upon)_machine-gun_shell
+ gloss: fire.(at_upon)_machine.gun_shell
  paradigm: V11
  paradigm: V11_main
  trans_en: fire (at, upon), machine-gun, shell
@@ -24526,7 +24526,7 @@
  lex: գովերգել
  stem: .գովերգ.
  gramm: V,tr
- gloss: sing.the.praises.(of)_glorify_extol_praise.(to.the.skies)
+ gloss: glorify
  paradigm: V11
  paradigm: V11_main
  trans_en: sing the praises (of), glorify, extol/praise (to the skies)
@@ -26799,7 +26799,7 @@
  lex: դաշնակցել
  stem: .դաշնակց.
  gramm: V,intr
- gloss: conclude.an.alliance_enter.into.an.alliance_make.an.alliance
+ gloss: make.alliance
  paradigm: V11
  paradigm: V11_main
  trans_en: conclude an alliance, enter into an alliance, make an alliance
@@ -27804,7 +27804,7 @@
  lex: դեգերել
  stem: .դեգեր.
  gramm: V,intr
- gloss: roam_rove_dilly-dally
+ gloss: roam_rove_dilly.dally
  paradigm: V11
  paradigm: V11_main
  trans_en: roam, rove, dilly-dally
@@ -32946,7 +32946,7 @@
  lex: երկնել
  stem: .երկն.
  gramm: V,intr/tr
- gloss: experience.birth.throes_create.with.difficulty_hard.labour
+ gloss: create.with.difficulty
  paradigm: V11
  paradigm: V11_main
  trans_en: experience birth throes, create with difficulty/hard labour
@@ -33378,7 +33378,7 @@
  lex: երփներանգվել
  stem: .երփներանգվ.
  gramm: V,med,intr
- gloss: show_appear.party-coloured_many-coloured
+ gloss: show_appear.party.coloured_many.coloured
  paradigm: V11
  paradigm: V11_main
  trans_en: show/appear party-coloured/many-coloured
@@ -34299,7 +34299,7 @@
  lex: զինակցել
  stem: .զինակց.
  gramm: V,intr
- gloss: be.companions-in-arms_comrades-in-arms_be.allies
+ gloss: be.companions.in.arms_comrades.in.arms_be.allies
  paradigm: V11
  paradigm: V11_main
  trans_en: be companions-in-arms/comrades-in-arms, be allies
@@ -35030,7 +35030,7 @@
  lex: զուլալել
  stem: .զուլալ.
  gramm: V,intr/tr
- gloss: become.clear_lucid_pure_become.serene_become.limpid_transparent
+ gloss: become.clear
  paradigm: V11
  paradigm: V11_main
  trans_en: become clear/lucid/pure, become serene, become limpid/transparent
@@ -36651,7 +36651,7 @@
  lex: ըմբոստացնել
  stem: .ըմբոստաց.
  gramm: V,caus,tr
- gloss: stimulate_induce_incite.to.protest_remonstrance_rebellion_revolt
+ gloss: incite.protest
  paradigm: V14
  paradigm: V14_main
  trans_en: stimulate/induce/incite to protest/remonstrance/rebellion/revolt
@@ -36750,7 +36750,7 @@
  lex: ընդառաջել
  stem: .ընդառաջ.
  gramm: V,intr
- gloss: lead_meet_meet.smb..half-way
+ gloss: lead_meet_meet.smb..half.way
  paradigm: V11
  paradigm: V11_main
  trans_en: lead, meet, meet smb. half-way
@@ -37191,7 +37191,7 @@
  lex: ընդհանրանալ
  stem: .ընդհանրա.
  gramm: V,intr
- gloss: be.generalized_be.spread_popularized_become.well-known
+ gloss: be.spread
  paradigm: V22
  paradigm: V22_main
  trans_en: be generalized, be spread/popularized, become well-known
@@ -37254,7 +37254,7 @@
  lex: ընդհարվել
  stem: .ընդհարվ.
  gramm: V,med,intr
- gloss: collide.(with)_strike.against.one.another_clash_conflict_call.out.(with)
+ gloss: clash
  paradigm: V11
  paradigm: V11_main
  trans_en: collide (with), strike against one another, clash/conflict/call out (with)
@@ -37452,7 +37452,7 @@
  lex: ընդվզել
  stem: .ընդվզ.
  gramm: V,intr
- gloss: rise.(against)_rise.in.rebellion.(against)_be.indignant.(at.smth._with.smb.)
+ gloss: rise.against
  paradigm: V11
  paradigm: V11_main
  trans_en: rise (against), rise in rebellion (against), be indignant (at smth., with smb.)
@@ -37747,7 +37747,7 @@
  lex: ընկերանալ
  stem: .ընկերա.
  gramm: V,intr
- gloss: become_make.friends.(with)_become.one's.companion_join
+ gloss: become.friends
  paradigm: V22
  paradigm: V22_main
  trans_en: become/make friends (with), become one's companion, join
@@ -37846,7 +37846,7 @@
  lex: ընկնավորել
  stem: .ընկնաւոր.//.ընկնավոր.
  gramm: V,intr
- gloss: have.a.fit.of.epilepsy_madness_falling.sickness_rage
+ gloss: have.fit.of.epilepsy
  paradigm: V11
  paradigm: V11_main
  trans_en: have a fit of epilepsy/madness/falling sickness, rage
@@ -37855,7 +37855,7 @@
  lex: ընկնավորվել
  stem: .ընկնաւորվ.//.ընկնավորվ.
  gramm: V,med,intr
- gloss: have.a.fit.of.epilepsy_madness_falling.sickness_rage
+ gloss: have.fit.of.epilepsy
  paradigm: V11
  paradigm: V11_main
  trans_en: have a fit of epilepsy/madness/falling sickness, rage
@@ -38134,7 +38134,7 @@
  lex: ընտելանալ
  stem: .ընտելա.
  gramm: V,intr
- gloss: get.accustomed_used.to_adjust_adapt_accommodate.oneself.(to)_become.close_intimate.friends
+ gloss: get.used
  paradigm: V22
  paradigm: V22_main
  trans_en: get accustomed/used to, adjust/adapt/accommodate oneself (to), become close/intimate friends
@@ -39866,7 +39866,7 @@
  lex: թարսվել
  stem: .թարսվ.
  gramm: V,med,intr
- gloss: be.turned_turned.over_be.obstinate_take.an.unlucky.turn
+ gloss: be.turned
  paradigm: V11
  paradigm: V11_main
  trans_en: be turned/turned over, be obstinate, take an unlucky turn
@@ -39875,7 +39875,7 @@
  lex: թացանալ
  stem: .թացա.
  gramm: V,intr
- gloss: become_get.wet_become.humid_moist_damp_be_get.soaked_drenched
+ gloss: become.wet
  paradigm: V22
  paradigm: V22_main
  trans_en: become/get wet, become humid/moist/damp, be/get soaked/drenched
@@ -41132,7 +41132,7 @@
  lex: թերանալ
  stem: .թերա.
  gramm: V,intr
- gloss: display.unconscientiousness_neglect.in.one's.duties_evade
+ gloss: display.neglect
  paradigm: V22
  paradigm: V22_main
  trans_en: display unconscientiousness/neglect in one's duties, evade
@@ -41609,7 +41609,7 @@
  lex: թերթատել
  stem: .թերթատ.
  gramm: V,tr
- gloss: turn.over_look.through.the.pages.(of)_thumb.(the.pages.of.a.book)
+ gloss: look.through.pages
  paradigm: V11
  paradigm: V11_main
  trans_en: turn over/look through the pages (of), thumb (the pages of a book)
@@ -42800,7 +42800,7 @@
  lex: թխանալ
  stem: .թխա.
  gramm: V,intr
- gloss: become_grow.dark-complexioned
+ gloss: become_grow.dark.complexioned
  paradigm: V22
  paradigm: V22_main
  trans_en: become/grow dark-complexioned
@@ -43209,7 +43209,7 @@
  lex: թմրել
  stem: .թմր.
  gramm: V,intr
- gloss: become_grow.stiff_become_grow.numb_grow_become.frowsy_somnolent
+ gloss: become.numb
  paradigm: V11
  paradigm: V11_main
  trans_en: become/grow stiff, become/grow numb, grow/become frowsy/somnolent
@@ -43637,7 +43637,7 @@
  lex: թշվառանալ
  stem: .թշվառա.
  gramm: V,intr
- gloss: become.wretched_miserable_become.poor_deprived_become.unhappy_unfortunate
+ gloss: become.poor
  paradigm: V22
  paradigm: V22_main
  trans_en: become wretched/miserable, become poor/deprived, become unhappy/unfortunate
@@ -43646,7 +43646,7 @@
  lex: թշվառացնել
  stem: .թշվառաց.
  gramm: V,caus,tr
- gloss: make_render.unhappy_miserable_wretched
+ gloss: make.unhappy
  paradigm: V14
  paradigm: V14_main
  trans_en: make/render unhappy/miserable/wretched
@@ -46155,7 +46155,7 @@
  lex: ժայթքել
  stem: .ժայթք.
  gramm: V,intr/tr
- gloss: throw.out.(violently)_break.out.(war_disease.etc.)_erupt
+ gloss: erupt
  paradigm: V11
  paradigm: V11_main
  trans_en: throw out (violently), break out (war, disease etc.), erupt
@@ -47954,7 +47954,7 @@
  lex: ինքնախարազանել
  stem: .ինքնախարազան.
  gramm: V,tr
- gloss: (self-)flagellate
+ gloss: (self.)flagellate
  paradigm: V11
  paradigm: V11_main
  trans_en: (self-)flagellate
@@ -48080,7 +48080,7 @@
  lex: ինքնամփոփվել
  stem: .ինքնամփոփվ.
  gramm: V,med,intr
- gloss: shrink_retire_withdraw.into.oneself_become_be.reserved_sullen
+ gloss: become.reserved
  paradigm: V11
  paradigm: V11_main
  trans_en: shrink/retire/withdraw into oneself, become/be reserved, sullen
@@ -50309,7 +50309,7 @@
  lex: լիանալ
  stem: .լիա.
  gramm: V,intr
- gloss: be.sated_satiated.(with)_be.full_be.fully_completely.satisfied
+ gloss: be.satiated
  paradigm: V22
  paradigm: V22_main
  trans_en: be sated/satiated (with), be full, be fully/completely satisfied
@@ -50905,7 +50905,7 @@
  lex: լկտիանալ
  stem: .լկտիա.
  gramm: V,intr
- gloss: become.impudent_insolent_obscene_become.depraved_pervert_corrupt
+ gloss: become.obscene
  paradigm: V22
  paradigm: V22_main
  trans_en: become impudent/insolent/obscene, become depraved/pervert/corrupt
@@ -52223,7 +52223,7 @@
  lex: լուսաքողարկել
  stem: .լուսաքողարկ.
  gramm: V,tr
- gloss: black-out
+ gloss: black.out
  paradigm: V11
  paradigm: V11_main
  trans_en: black-out
@@ -52304,7 +52304,7 @@
  lex: լուսնոտել
  stem: .լուսնոտ.
  gramm: V,intr
- gloss: sleep-walk
+ gloss: sleep.walk
  paradigm: V11
  paradigm: V11_main
  trans_en: sleep-walk
@@ -53626,7 +53626,7 @@
  lex: խաղաղվել
  stem: .խաղաղվ.
  gramm: V,med,intr
- gloss: become.appeased_become_get.quiet_calm_quiet_settle.down
+ gloss: calm.down
  paradigm: V11
  paradigm: V11_main
  trans_en: become appeased, become/get quiet, calm/quiet/settle down
@@ -54109,7 +54109,7 @@
  lex: խանդավառվել
  stem: .խանդաւառվ.//.խանդավառվ.
  gramm: V,med,intr
- gloss: be.enthusiastic.(about)_be.animated_be.filled.with.enthusiasm
+ gloss: be.enthusiastic
  paradigm: V11
  paradigm: V11_main
  trans_en: be enthusiastic (about), be animated, be filled with enthusiasm
@@ -56205,7 +56205,7 @@
  lex: խենթանալ
  stem: .խենթա.
  gramm: V,intr
- gloss: become.reckless_impudent_go.mad_crazy_become.foolish_senseless
+ gloss: become.crazy
  paradigm: V22
  paradigm: V22_main
  trans_en: become reckless/impudent, go mad/crazy, become foolish/senseless
@@ -57576,7 +57576,7 @@
  lex: խմեցնել
  stem: .խմեց.
  gramm: V,caus,tr
- gloss: give.to.drink_make.tipsy_drunk_accustom.to.(hard).drinking
+ gloss: make.drunk
  paradigm: V14
  paradigm: V14_main
  trans_en: give to drink, make tipsy/drunk, accustom to (hard) drinking
@@ -59093,7 +59093,7 @@
  lex: խոսեցնել
  stem: .խոսեց.
  gramm: V,caus,tr
- gloss: draw.out_chat.up.(a.girl)_make.smb..angry_incensed
+ gloss: draw.out
  paradigm: V14
  paradigm: V14_main
  trans_en: draw out, chat up (a girl), make smb. angry/incensed
@@ -60859,7 +60859,7 @@
  lex: խստանալ
  stem: .խստա.
  gramm: V,intr
- gloss: become.strict_severe_harden_become.stronger_intensive
+ gloss: become.strict
  paradigm: V22
  paradigm: V22_main
  trans_en: become strict/severe, harden, become stronger/intensive
@@ -61492,7 +61492,7 @@
  lex: խրոխտանալ
  stem: .խրոխտա.
  gramm: V,intr
- gloss: plume.oneself_become.proud_conceited_become_get.impudent_impertinent
+ gloss: become.proud
  paradigm: V22
  paradigm: V22_main
  trans_en: plume oneself, become proud/conceited, become/get impudent/impertinent
@@ -61698,7 +61698,7 @@
  lex: խցկվել
  stem: .խցկվ.
  gramm: V,med,intr
- gloss: squeeze.(in_into)_force_push_shoulder_elbow.one's.way.(through)_worm.oneself.(into)
+ gloss: squeeze.in
  paradigm: V11
  paradigm: V11_main
  trans_en: squeeze (in, into), force/push/shoulder/elbow one's way (through), worm oneself (into)
@@ -63299,7 +63299,7 @@
  lex: ծանրացնել
  stem: .ծանրաց.
  gramm: V,caus,tr
- gloss: make.heavier_worse_make.more.difficult_complicated_compound
+ gloss: make.heavier
  paradigm: V14
  paradigm: V14_main
  trans_en: make heavier/worse, make more difficult/complicated, compound
@@ -66990,7 +66990,7 @@
  lex: կախարդվել
  stem: .կախարդվ.
  gramm: V,med,intr
- gloss: be.bewitched_spell-bound_be.charmed_taken.(with)
+ gloss: be.bewitched_spell.bound_be.charmed_taken.(with)
  paradigm: V11
  paradigm: V11_main
  trans_en: be bewitched/spell-bound, be charmed/taken (with)
@@ -68376,7 +68376,7 @@
  lex: կանթել
  stem: .կանթ.
  gramm: V,tr
- gloss: put.one's.hands.on.one's.hips_put.holders_handles.on.cups_buckets.etc
+ gloss: put.hands.on.hips
  paradigm: V11
  paradigm: V11_main
  trans_en: put one's hands on one's hips, put holders/handles on cups/buckets etc
@@ -71230,7 +71230,7 @@
  lex: կարմրացնել
  stem: .կարմրաց.
  gramm: V,caus,tr
- gloss: redden_make.burning.hot_red-hot_shame
+ gloss: redden_make.burning.hot_red.hot_shame
  paradigm: V14
  paradigm: V14_main
  trans_en: redden, make burning hot/red-hot, shame
@@ -71257,7 +71257,7 @@
  lex: կարմրեցնել
  stem: .կարմրեց.
  gramm: V,caus,intr/tr
- gloss: redden_make.burning.hot_red-hot_shame
+ gloss: redden_make.burning.hot_red.hot_shame
  paradigm: V14
  paradigm: V14_main
  trans_en: redden, make burning hot/red-hot, shame
@@ -72241,7 +72241,7 @@
  lex: կենցաղավարել
  stem: .կենցաղավար.//.կենցաղաւար.
  gramm: V,intr
- gloss: co-exist
+ gloss: co.exist
  paradigm: V11
  paradigm: V11_main
  trans_en: co-exist
@@ -74719,7 +74719,7 @@
  lex: կղզիանալ
  stem: .կղզիա.
  gramm: V,intr
- gloss: become.an.island_be.encapsulated_encased_stand.apart
+ gloss: become.island
  paradigm: V22
  paradigm: V22_main
  trans_en: become an island, be encapsulated/encased, stand apart
@@ -75020,7 +75020,7 @@
  lex: կմախքանալ
  stem: .կմախքա.
  gramm: V,intr
- gloss: become.a.skeleton_become.hollow-checked
+ gloss: become.a.skeleton_become.hollow.checked
  paradigm: V22
  paradigm: V22_main
  trans_en: become a skeleton, become hollow-checked
@@ -76916,7 +76916,7 @@
  lex: կոշտանալ
  stem: .կոշտա.
  gramm: V,intr
- gloss: become.hard_solid_become.coarse_become.rude_clumsy
+ gloss: harden
  paradigm: V22
  paradigm: V22_main
  trans_en: become hard/solid, become coarse, become rude/clumsy
@@ -76961,7 +76961,7 @@
  lex: կոոպերացնել
  stem: .կոոպերաց.
  gramm: V,caus,tr
- gloss: organize.into.a.co-operative
+ gloss: organize.into.a.co.operative
  paradigm: V14
  paradigm: V14_main
  trans_en: organize into a co-operative
@@ -76970,7 +76970,7 @@
  lex: կոոպերացվել
  stem: .կոոպերացվ.
  gramm: V,caus,med,intr
- gloss: co-operate_be.formed_grouped.into.a.cooperative
+ gloss: co.operate_be.formed_grouped.into.a.cooperative
  paradigm: V11
  paradigm: V11_main
  trans_en: co-operate, be formed/grouped into a cooperative
@@ -76979,7 +76979,7 @@
  lex: կոորդինացնել
  stem: .կոորդինաց.
  gramm: V,caus,tr
- gloss: co-ordinate.(with)
+ gloss: co.ordinate.(with)
  paradigm: V14
  paradigm: V14_main
  trans_en: co-ordinate (with)
@@ -80809,7 +80809,7 @@
  lex: հազարապատկել
  stem: .հազարապատկ.//.յազարապատկ.
  gramm: V,tr
- gloss: increase.a.thousand.times_multiply.by.a.thousand.(a.thousand.times.over)
+ gloss: multiply.by.thousand
  paradigm: V11
  paradigm: V11_main
  trans_en: increase a thousand times, multiply by a thousand (a thousand times over)
@@ -81087,7 +81087,7 @@
  lex: հակագրոհել
  stem: .հակագրոհ.//.յակագրոհ.
  gramm: V,intr
- gloss: counter-attack
+ gloss: counter.attack
  paradigm: V11
  paradigm: V11_main
  trans_en: counter-attack
@@ -81573,7 +81573,7 @@
  lex: հաղորդակցվել
  stem: .հաղորդակցվ.//.յաղորդակցվ.
  gramm: V,med,intr
- gloss: associate.(with)_rub.shoulders.(with)_communicate.(with)
+ gloss: communicate
  paradigm: V11
  paradigm: V11_main
  trans_en: associate (with), rub shoulders (with), communicate (with)
@@ -86144,7 +86144,7 @@
  lex: հարաբերել
  stem: .հարաբեր.//.յարաբեր.
  gramm: V,tr
- gloss: bear.a.relation.to.smth._have.a.bearing.on.smth._concern
+ gloss: bear.relation
  paradigm: V11
  paradigm: V11_main
  trans_en: bear a relation to smth., have a bearing on smth., concern
@@ -88317,7 +88317,7 @@
  lex: հետամտել
  stem: .հետամտ.
  gramm: V,tr
- gloss: strive.for_try.to.get_obtain_achieve_make.efforts.to.attain
+ gloss: strive
  paradigm: V11
  paradigm: V11_main
  trans_en: strive for, try to get/obtain/achieve, make efforts to attain
@@ -89503,7 +89503,7 @@
  lex: հմտանալ
  stem: .հմտա.
  gramm: V,intr
- gloss: acquire.a.habit_skill_acquire.skill_skillfulness_become_get.skilled.(at)
+ gloss: acquire.habit
  paradigm: V22
  paradigm: V22_main
  trans_en: acquire a habit/skill, acquire skill/skillfulness, become/get skilled (at)
@@ -93389,7 +93389,7 @@
  lex: ճայթել
  stem: .ճայթ.
  gramm: V,intr
- gloss: burst.out_break.out_split_burst.(with.laughter_indignation)
+ gloss: burst.out
  paradigm: V11
  paradigm: V11_main
  trans_en: burst out, break out, split/burst (with laughter/indignation)
@@ -93803,7 +93803,7 @@
  lex: ճգնել
  stem: .ճգն.
  gramm: V,intr
- gloss: oneself.to.an.ascetic.life_try.hard_make_exert_strain.efforts
+ gloss: make.effort
  paradigm: V11
  paradigm: V11_main
  trans_en: oneself to an ascetic life, try hard, make/exert/strain efforts
@@ -94443,7 +94443,7 @@
  lex: ճշգրտվել
  stem: .ճշգրտվ.
  gramm: V,med,intr
- gloss: become_be.defined.more.exactly_precisely_accurately
+ gloss: be.defined.more.precisely
  paradigm: V11
  paradigm: V11_main
  trans_en: become/be defined more exactly/precisely/accurately
@@ -94470,7 +94470,7 @@
  lex: ճշտվել
  stem: .ճշտվ.
  gramm: V,med,intr
- gloss: become_be.defined.more.exactly_precisely_accurately_be.confirmed_be.corroborated_born.out
+ gloss: be.defined.more.precisely
  paradigm: V11
  paradigm: V11_main
  trans_en: become/be defined more exactly/precisely/accurately, be confirmed, be corroborated/born out
@@ -95390,7 +95390,7 @@
  lex: մանրանալ
  stem: .մանրա.
  gramm: V,intr
- gloss: become_grow.small_smaller_become.petty_squander.one's.gifts_talents.on.trifles
+ gloss: become.small
  paradigm: V22
  paradigm: V22_main
  trans_en: become/grow small/smaller, become petty, squander one's gifts/talents on trifles
@@ -96038,7 +96038,7 @@
  lex: մգանալ
  stem: .մգա.
  gramm: V,intr
- gloss: grow_get_become.dark_darken_become_grow.dark-complexioned
+ gloss: become.dark
  paradigm: V22
  paradigm: V22_main
  trans_en: grow/get/become dark, darken, become/grow dark-complexioned
@@ -96110,7 +96110,7 @@
  lex: մեծամտանալ
  stem: .մեծամտա.
  gramm: V,intr
- gloss: become.lofty_insolent_become.haughty_arrogant_give.oneself.airs
+ gloss: become.arrogant
  paradigm: V22
  paradigm: V22_main
  trans_en: become lofty/insolent, become haughty/arrogant, give oneself airs
@@ -96218,7 +96218,7 @@
  lex: մեկուսանալ
  stem: .մեկուսա.
  gramm: V,intr
- gloss: isolate.oneself_keep_stand.apart_aloof_seclude.oneself.(from)
+ gloss: keep.apart
  paradigm: V22
  paradigm: V22_main
  trans_en: isolate oneself, keep/stand apart/aloof, seclude oneself (from)
@@ -96515,7 +96515,7 @@
  lex: մերվել
  stem: .մերվ.
  gramm: V,med,intr
- gloss: reconcile_resign.oneself.(to.smth.)_make.it.up.(with.smb.)_adapt_accommodate.oneself.(to)
+ gloss: reconcile
  paradigm: V11
  paradigm: V11_main
  trans_en: reconcile/resign oneself (to smth.), make it up (with smb.), adapt/accommodate oneself (to)
@@ -96577,7 +96577,7 @@
  lex: մթագնել
  stem: .մթագն.
  gramm: V,intr
- gloss: grow_get_become.dark_become.obscure_grow.gloomy_sombre
+ gloss: become.dark
  paradigm: V11
  paradigm: V11_main
  trans_en: grow/get/become dark, become obscure, grow gloomy/sombre
@@ -97167,7 +97167,7 @@
  lex: մղկտացնել
  stem: .մղկտաց.
  gramm: V,caus,tr
- gloss: make.whine_whimper_complain_make.cry.bitterly_give.pain
+ gloss: make.whine
  paradigm: V14
  paradigm: V14_main
  trans_en: make whine/whimper/complain, make cry bitterly, give pain
@@ -97597,9 +97597,9 @@
  lex: մուրալ
  stem: .մուր.
  gramm: V,intr
- gloss: bag_obtain_get.by.incessant.begging.(smth..Out.of.smb)
+ gloss: beg
  paradigm: V21
- trans_en: bag, obtain/get by incessant begging (smth. Out of smb)
+ trans_en: beg, obtain/get by incessant begging (smth. Out of smb)
 
 -lexeme
  lex: մուրանալ
@@ -97844,7 +97844,7 @@
  lex: մտերմանալ
  stem: .մտերմա.
  gramm: V,intr
- gloss: become.intimate.(with)_make.friends.(with)_become.good_close.friends.(with)
+ gloss: make.friends
  paradigm: V22
  paradigm: V22_main
  trans_en: become intimate (with), make friends (with), become good/close friends (with)
@@ -98002,7 +98002,7 @@
  lex: մրոտել
  stem: .մրոտ.
  gramm: V,tr
- gloss: cover.with.soot_smut_blacken.with.smoke_soot_sully
+ gloss: cover.with.soot
  paradigm: V11
  paradigm: V11_main
  trans_en: cover with soot/smut, blacken with smoke/soot, sully
@@ -98011,7 +98011,7 @@
  lex: մրոտվել
  stem: .մրոտվ.
  gramm: V,med,intr
- gloss: be_become.covered.with.soot_be.blackened.with.soot_be.stained_sullied
+ gloss: become.covered.with.soot
  paradigm: V11
  paradigm: V11_main
  trans_en: be/become covered with soot, be blackened with soot, be stained/sullied
@@ -98289,7 +98289,7 @@
  lex: նախազգուշացնել
  stem: .նախազգուշաց.
  gramm: V,caus,tr
- gloss: warn.(of_about)_warn.(against)_let.know.beforehand.of
+ gloss: warn
  paradigm: V14
  paradigm: V14_main
  trans_en: warn (of, about), warn (against), let know beforehand of
@@ -98855,7 +98855,7 @@
  lex: նեղացնել
  stem: .նեղաց.
  gramm: V,caus,tr
- gloss: narrow_offend.(smb.)_anger
+ gloss: narrow_offend
  paradigm: V14
  paradigm: V14_main
  trans_en: narrow, offend (smb.), anger
@@ -98873,7 +98873,7 @@
  lex: նեղսրտել
  stem: .նեղսրտ.
  gramm: V,intr
- gloss: get.irritated_annoyed_chafe_be_feel.nervous
+ gloss: get.annoyed
  paradigm: V11
  paradigm: V11_main
  trans_en: get irritated/annoyed, chafe, be/feel nervous
@@ -98882,7 +98882,7 @@
  lex: նեղվել
  stem: .նեղվ.
  gramm: V,med,intr
- gloss: crowd_take.offence_umbrage_be.confused_embarrassed
+ gloss: be.confused
  paradigm: V11
  paradigm: V11_main
  trans_en: crowd, take offence/umbrage, be confused/embarrassed
@@ -99133,7 +99133,7 @@
  lex: ներթափանցել
  stem: .ներթափանց.
  gramm: V,tr
- gloss: penetrate.(into_through)_pierce.(through)_go_pass.through
+ gloss: penetrate
  paradigm: V11
  paradigm: V11_main
  trans_en: penetrate (into, through), pierce (through), go/pass through
@@ -99169,7 +99169,7 @@
  lex: ներծծվել
  stem: .ներծծվ.
  gramm: V,med,intr
- gloss: percolate.(through)_be.absorbed.(into_in)_be.rubbed.in_absorbed
+ gloss: percolate
  paradigm: V11
  paradigm: V11_main
  trans_en: percolate (through), be absorbed (into, in), be rubbed in/absorbed
@@ -99573,7 +99573,7 @@
  lex: ներքաշել
  stem: .ներքաշ.
  gramm: V,tr
- gloss: pull.(in_into_on_up)_involve.(in)_force.to.participate.(in)
+ gloss: involve
  paradigm: V11
  paradigm: V11_main
  trans_en: pull (in, into, on, up), involve (in), force to participate (in)
@@ -100890,7 +100890,7 @@
  lex: շաղակրատել
  stem: .շաղակրատ.
  gramm: V,intr
- gloss: talk.profusely.(about)_twaddle_talk.nonsense_rubbish
+ gloss: talk.profusely
  paradigm: V11
  paradigm: V11_main
  trans_en: talk profusely (about), twaddle, talk nonsense/rubbish
@@ -101259,7 +101259,7 @@
  lex: շարակցել
  stem: .շարակց.
  gramm: V,tr
- gloss: co-ordinate.(with)
+ gloss: co.ordinate.(with)
  paradigm: V11
  paradigm: V11_main
  trans_en: co-ordinate (with)
@@ -101799,7 +101799,7 @@
  lex: շիկացնել
  stem: .շիկաց.
  gramm: V,caus,tr
- gloss: incandesce_make.red-hot_rouse.to.a.fury
+ gloss: incandesce_make.red.hot_rouse.to.a.fury
  paradigm: V14
  paradigm: V14_main
  trans_en: incandesce, make red-hot, rouse to a fury
@@ -101934,7 +101934,7 @@
  lex: շլանալ
  stem: .շլա.
  gramm: V,intr
- gloss: become.dazzled_blinded_become_be.attracted_fascinated_be.satiated.with
+ gloss: become.attracted
  paradigm: V22
  paradigm: V22_main
  trans_en: become dazzled/blinded, become/be attracted/fascinated, be satiated with
@@ -102449,7 +102449,7 @@
  lex: շշմել
  stem: .շշմ.
  gramm: V,intr
- gloss: be.struck.dumb_taken.aback_be.stunned_struck.with.surprise
+ gloss: be.stunned
  paradigm: V11
  paradigm: V11_main
  trans_en: be struck dumb/taken aback, be stunned/struck with surprise
@@ -102787,7 +102787,7 @@
  lex: շուրջկալել
  stem: .շուրջկալ.
  gramm: V,tr
- gloss: round-up
+ gloss: round.up
  paradigm: V11
  paradigm: V11_main
  trans_en: round-up
@@ -103601,7 +103601,7 @@
  lex: շքեղացնել
  stem: .շքեղաց.
  gramm: V,caus,tr
- gloss: add.magnificence_luxury_splendour_make.magnificent_luxurious_splendid
+ gloss: make.luxurious
  paradigm: V14
  paradigm: V14_main
  trans_en: add magnificence/luxury/splendour, make magnificent/luxurious/splendid
@@ -103637,7 +103637,7 @@
  lex: ոգեկոչել
  stem: .ոգեկոչ.
  gramm: V,tr
- gloss: evoke_raise.up_call.up_exorcise.a.spirit_appeal.to.one's.memory_inspire
+ gloss: inspire
  paradigm: V11
  paradigm: V11_main
  trans_en: evoke/raise up/call up/exorcise a spirit, appeal to one's memory, inspire
@@ -103646,7 +103646,7 @@
  lex: ոգեշնչել
  stem: .ոգեշնչ.
  gramm: V,tr
- gloss: inspire_spiritualize_inspirit
+ gloss: inspire
  paradigm: V11
  paradigm: V11_main
  trans_en: inspire, spiritualize, inspirit
@@ -105194,7 +105194,7 @@
  lex: ուռճանալ
  stem: .ուռճա.
  gramm: V,intr
- gloss: grow.intensive_immoderately_make.a.fortune.by.grabbing.from.others_get.stronger
+ gloss: make.fortune.by.grabbing.from.others
  paradigm: V22
  paradigm: V22_main
  trans_en: grow intensive/immoderately, make a fortune by grabbing from others, get stronger
@@ -105203,7 +105203,7 @@
  lex: ուռճացնել
  stem: .ուռճաց.
  gramm: V,caus,tr
- gloss: make.(it).grow.intensively_widely_make.richer_swell
+ gloss: make.richer
  paradigm: V14
  paradigm: V14_main
  trans_en: make (it) grow intensively/widely, make richer, swell
@@ -105751,7 +105751,7 @@
  lex: չարչարվել
  stem: .չարչարվ.
  gramm: V,med,intr
- gloss: torment.oneself.(over)_worry_take.pains_trouble.(over)
+ gloss: torment.oneself
  paradigm: V11
  paradigm: V11_main
  trans_en: torment oneself (over), worry, take pains/trouble (over)
@@ -106545,7 +106545,7 @@
  lex: չքմեղանալ
  stem: .չքմեղա.
  gramm: V,intr
- gloss: pretend.to.be.innocent_guiltless_pretend.to.be.as.meek.as.a.lamb
+ gloss: pretend.to.be.innocent
  paradigm: V22
  paradigm: V22_main
  trans_en: pretend to be innocent/guiltless, pretend to be as meek as a lamb
@@ -110172,7 +110172,7 @@
  lex: պրպտել
  stem: .պրպտ.
  gramm: V,tr
- gloss: search.(after_for)_try.to.discover_to.find.out_rummage.(in)
+ gloss: search
  paradigm: V11
  paradigm: V11_main
  trans_en: search (after, for), try to discover/to find out, rummage (in)
@@ -110253,7 +110253,7 @@
  lex: ջահելանալ
  stem: .ջահելա.
  gramm: V,intr
- gloss: become.younger_try.to.look.younger.than.one's.age_rejuvenate
+ gloss: become.younger
  paradigm: V22
  paradigm: V22_main
  trans_en: become younger, try to look younger than one's age, rejuvenate
@@ -110405,7 +110405,7 @@
  lex: ջերմանալ
  stem: .ջերմա.
  gramm: V,intr
- gloss: grow_get.warm_warm.(oneself)_become_get_grow.closer_friends
+ gloss: get.warm
  paradigm: V22
  paradigm: V22_main
  trans_en: grow/get warm, warm (oneself), become/get/grow closer/friends
@@ -110513,7 +110513,7 @@
  lex: ջղայնանալ
  stem: .ջղայնա.
  gramm: V,intr
- gloss: get.irritated_annoyed_be_feel.nervous_become_get.angry.(with)
+ gloss: feel.nervous
  paradigm: V22
  paradigm: V22_main
  trans_en: get irritated/annoyed, be/feel nervous, become/get angry (with)
@@ -110522,7 +110522,7 @@
  lex: ջղայնացնել
  stem: .ջղայնաց.
  gramm: V,caus,tr
- gloss: make.angry_make.(smb.).nervous_get.on.(smb.'s).nerves
+ gloss: make.nervous
  paradigm: V14
  paradigm: V14_main
  trans_en: make angry, make (smb.) nervous, get on (smb.'s) nerves
@@ -110845,7 +110845,7 @@
  lex: ջրիկանալ
  stem: .ջրիկա.
  gramm: V,intr
- gloss: become.diluted_watery_be_become.light-headed_thoughtless_frivolous
+ gloss: become.diluted
  paradigm: V22
  paradigm: V22_main
  trans_en: become diluted/watery, be/become light-headed/thoughtless/frivolous
@@ -111124,7 +111124,7 @@
  lex: ռամկանալ
  stem: .ռամկա.
  gramm: V,intr
- gloss: take.to.plain.living_become.vulgar_crude_impolite_rough
+ gloss: become.crude
  paradigm: V22
  paradigm: V22_main
  trans_en: take to plain living, become vulgar/crude/impolite/rough
@@ -111601,7 +111601,7 @@
  lex: սահմանակցել
  stem: .սահմանակց.
  gramm: V,intr
- gloss: border.(upon)_be.contiguous.(to)_be.conterminous.(with)
+ gloss: border
  paradigm: V11
  paradigm: V11_main
  trans_en: border (upon), be contiguous (to), be conterminous (with)
@@ -113344,7 +113344,7 @@
  lex: սիրունանալ
  stem: .սիրունա.
  gramm: V,intr
- gloss: grow.pretty_better-looking
+ gloss: grow.pretty_better.looking
  paradigm: V22
  paradigm: V22_main
  trans_en: grow pretty/better-looking
@@ -113537,7 +113537,7 @@
  lex: սկզբնավորել
  stem: .սկզբնավոր.//.սկզբնաւոր.
  gramm: V,tr
- gloss: start_begin_commence_initiate.smth._begin_initiate
+ gloss: start
  paradigm: V11
  paradigm: V11_main
  trans_en: start/begin/commence/initiate smth., begin, initiate
@@ -114200,7 +114200,7 @@
  lex: սուզվել
  stem: .սուզվ.
  gramm: V,med,intr
- gloss: dip_submerge_become.(utterly).immersed_absorbed_engrossed
+ gloss: dip
  paradigm: V11
  paradigm: V11_main
  trans_en: dip, submerge, become (utterly) immersed/absorbed/engrossed
@@ -114236,7 +114236,7 @@
  lex: սուրալ
  stem: .սուր.
  gramm: V,intr
- gloss: rush_speed_tear.along_tear_sweep.(by_past)_go_tear_rush_whirl.away
+ gloss: rush.along
  paradigm: V21
  trans_en: rush/speed/tear along, tear/sweep (by, past), go/tear/rush/whirl away
 
@@ -114414,7 +114414,7 @@
  lex: սպիտակել
  stem: .սպիտակ.
  gramm: V,intr
- gloss: become.white_go_grow_turn.grey_be.touched.with.grey
+ gloss: become.white
  paradigm: V11
  paradigm: V11_main
  trans_en: become white, go/grow/turn grey/be touched with grey
@@ -115973,7 +115973,7 @@
  lex: վայրենանալ
  stem: .վայրենա.
  gramm: V,intr
- gloss: run.wild_savage_become_grow.wild_become.shy_unsociable
+ gloss: run.wild
  paradigm: V22
  paradigm: V22_main
  trans_en: run wild/savage, become/grow wild, become shy/unsociable
@@ -116655,7 +116655,7 @@
  lex: վերաբաժանել
  stem: .վերաբաժան.
  gramm: V,tr
- gloss: re-divide
+ gloss: re.divide
  paradigm: V11
  paradigm: V11_main
  trans_en: re-divide
@@ -116897,7 +116897,7 @@
  lex: վերադաստիարակել
  stem: .վերադաստիարակ.
  gramm: V,tr
- gloss: re-educate
+ gloss: re.educate
  paradigm: V11
  paradigm: V11_main
  trans_en: re-educate
@@ -117140,7 +117140,7 @@
  lex: վերածաղկել
  stem: .վերածաղկ.
  gramm: V,intr
- gloss: re-blossom_flourish_prosper.again
+ gloss: re.blossom_flourish_prosper.again
  paradigm: V11
  paradigm: V11_main
  trans_en: re-blossom, flourish/prosper again
@@ -117275,7 +117275,7 @@
  lex: վերակառուցել
  stem: .վերակառուց.
  gramm: V,tr
- gloss: rebuild_re-educate_reform
+ gloss: rebuild_re.educate_reform
  paradigm: V11
  paradigm: V11_main
  trans_en: rebuild, re-educate, reform
@@ -117544,7 +117544,7 @@
  lex: վերահարցաքննել
  stem: .վերահարցաքնն.
  gramm: V,tr
- gloss: re-examine
+ gloss: re.examine
  paradigm: V11
  paradigm: V11_main
  trans_en: re-examine
@@ -117715,7 +117715,7 @@
  lex: վերամարմնավորել
  stem: .վերամարմնավոր.//.վերամարմնաւոր.
  gramm: V,tr
- gloss: re-embody
+ gloss: re.embody
  paradigm: V11
  paradigm: V11_main
  trans_en: re-embody
@@ -118074,7 +118074,7 @@
  lex: վերառազմականացնել
  stem: .վերառազմականաց.
  gramm: V,caus,tr
- gloss: re-militarize
+ gloss: re.militarize
  paradigm: V14
  paradigm: V14_main
  trans_en: re-militarize
@@ -118191,7 +118191,7 @@
  lex: վերաստեղծել
  stem: .վերաստեղծ.
  gramm: V,tr
- gloss: re-create_revive_restore
+ gloss: re.create_revive_restore
  paradigm: V11
  paradigm: V11_main
  trans_en: re-create, revive, restore
@@ -118407,7 +118407,7 @@
  lex: վերաքննել
  stem: .վերաքնն.
  gramm: V,tr
- gloss: re-examine_revise
+ gloss: re.examine_revise
  paradigm: V11
  paradigm: V11_main
  trans_en: re-examine, revise
@@ -118496,7 +118496,7 @@
  lex: վերընթերցել
  stem: .վերընթերց.
  gramm: V,tr
- gloss: re-read
+ gloss: re.read
  paradigm: V11
  paradigm: V11_main
  trans_en: re-read
@@ -118532,7 +118532,7 @@
  lex: վերընտրել
  stem: .վերընտր.
  gramm: V,tr
- gloss: re-elect
+ gloss: re.elect
  paradigm: V11
  paradigm: V11_main
  trans_en: re-elect
@@ -118757,7 +118757,7 @@
  lex: վերստանալ
  stem: .վերստա.
  gramm: V,intr
- gloss: re-obtain
+ gloss: re.obtain
  paradigm: V22
  paradigm: V22_main
  trans_en: re-obtain
@@ -119857,7 +119857,7 @@
  lex: տաղերգել
  stem: .տաղերգ.
  gramm: V,tr
- gloss: play.(a.musical.instrument).and.sing_sing.the.praise.of.smb.
+ gloss: play.and.sing
  paradigm: V11
  paradigm: V11_main
  trans_en: play (a musical instrument) and sing, sing the praise of smb.
@@ -120424,7 +120424,7 @@
  lex: տարհամոզել
  stem: .տարհամոզ.
  gramm: V,tr
- gloss: dissuade.smb..(from)_make.smb..change.his.mind_talk.smb..out.(of)
+ gloss: dissuade
  paradigm: V11
  paradigm: V11_main
  trans_en: dissuade smb. (from), make smb. change his mind, talk smb. out (of)
@@ -120505,7 +120505,7 @@
  lex: տարտամել
  stem: .տարտամ.
  gramm: V,intr/tr
- gloss: become.unsteady_uncertain_vague_indistinct_dull_become.mentally.weak_dull_become.physically.weak_unsteady
+ gloss: become.unsteady
  paradigm: V11
  paradigm: V11_main
  trans_en: become unsteady/uncertain/vague/indistinct/dull, become mentally weak/dull, become physically weak/unsteady
@@ -121394,7 +121394,7 @@
  lex: տնանկանալ
  stem: .տնանկա.
  gramm: V,intr
- gloss: become.bankrupt_broke_poverty-stricken
+ gloss: become.bankrupt_broke_poverty.stricken
  paradigm: V22
  paradigm: V22_main
  trans_en: become bankrupt/broke/poverty-stricken
@@ -122249,7 +122249,7 @@
  lex: ցանցառանալ
  stem: .ցանցառա.
  gramm: V,intr
- gloss: thin_become.rare_occasional_become_grow.stupid_foolish
+ gloss: become.rare
  paradigm: V22
  paradigm: V22_main
  trans_en: thin, become rare/occasional, become/grow stupid/foolish
@@ -122564,7 +122564,7 @@
  lex: ցնդաբանել
  stem: .ցնդաբան.
  gramm: V,intr
- gloss: talk.nonsense_rubbish_rot_be.delirious_be.mad.(with_on)
+ gloss: talk.nonsense
  paradigm: V11
  paradigm: V11_main
  trans_en: talk nonsense/rubbish/rot, be delirious, be mad (with/on)
@@ -122573,7 +122573,7 @@
  lex: ցնդել
  stem: .ցնդ.
  gramm: V,intr
- gloss: evaporate_vanish.(into.thin.air)_go_be.off.one's.head
+ gloss: evaporate
  paradigm: V11
  paradigm: V11_main
  trans_en: evaporate, vanish (into thin air), go/be off one's head
@@ -122653,7 +122653,7 @@
  lex: ցնորվել
  stem: .ցնորվ.
  gramm: V,med,intr
- gloss: go.crazy.(with)_be.delirious_be.charmed_taken.(with)
+ gloss: go.crazy
  paradigm: V11
  paradigm: V11_main
  trans_en: go crazy (with), be delirious, be charmed/taken (with)
@@ -122918,7 +122918,7 @@
  lex: ցողվել
  stem: .ցողվ.
  gramm: V,med,intr
- gloss: sprinkle.oneself.(with)_splash.upon.oneself_bespatter.oneself
+ gloss: sprinkle.oneself
  paradigm: V11
  paradigm: V11_main
  trans_en: sprinkle oneself (with), splash upon oneself, bespatter oneself
@@ -123697,7 +123697,7 @@
  lex: փառակալել
  stem: .փառակալ.
  gramm: V,intr
- gloss: cover.with.thin.coating_beeswing_a.patch_scum_skin
+ gloss: cover.with.thin.coating
  paradigm: V11
  paradigm: V11_main
  trans_en: cover with thin coating/beeswing/a patch/scum/skin
@@ -123976,7 +123976,7 @@
  lex: փեսայանալ
  stem: .փեսայա.
  gramm: V,intr
- gloss: become.smb.'s.son-in-law_brother-in-law
+ gloss: become.smb.'s.son.in.law_brother.in.law
  paradigm: V22
  paradigm: V22_main
  trans_en: become smb.'s son-in-law/brother-in-law
@@ -124707,7 +124707,7 @@
  lex: փոխազդել
  stem: .փոխազդ.
  gramm: V,tr
- gloss: interact_co-operate
+ gloss: interact_co.operate
  paradigm: V11
  paradigm: V11_main
  trans_en: interact, co-operate
@@ -126054,7 +126054,7 @@
  lex: քամահարվել
  stem: .քամահարվ.
  gramm: V,med,intr
- gloss: be_become.weather-beaten
+ gloss: be_become.weather.beaten
  paradigm: V11
  paradigm: V11_main
  trans_en: be/become weather-beaten
@@ -127217,7 +127217,7 @@
  lex: քոռանալ
  stem: .քոռա.
  gramm: V,intr
- gloss: become_go.blind
+ gloss: become.blind
  paradigm: V22
  paradigm: V22_main
  trans_en: become/go blind
@@ -127244,7 +127244,7 @@
  lex: քոսոտել
  stem: .քոսոտ.
  gramm: V,intr
- gloss: become.mangy_catch_be.infected.with.scab_mange_herpes
+ gloss: catch.herpes
  paradigm: V11
  paradigm: V11_main
  trans_en: become mangy, catch/be infected with scab/mange/herpes

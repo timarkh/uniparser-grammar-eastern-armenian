@@ -178,7 +178,7 @@
  lex: ակամայից
  stem: ակամայից.
  gramm: ADV
- gloss: unwillingly_reluctantly_willy-nilly
+ gloss: unwillingly_reluctantly_willy.nilly
  paradigm: Empty
  trans_en: unwillingly, reluctantly, willy-nilly
 
@@ -1418,7 +1418,7 @@
  lex: անխղճորեն
  stem: անխղճորեն.//անխղճորէն.
  gramm: ADV
- gloss: mercilessly_cold-heartedly_ruthlessly
+ gloss: mercilessly_cold.heartedly_ruthlessly
  paradigm: Empty
  trans_en: mercilessly, cold-heartedly, ruthlessly
 
@@ -1530,7 +1530,7 @@
  lex: անխտիր
  stem: անխտիր.
  gramm: ADV
- gloss: without.exception_exclusion_distinction_unexceptionable
+ gloss: without.exception
  paradigm: Empty
  trans_en: without exception/exclusion/distinction, unexceptionable
 
@@ -1538,7 +1538,7 @@
  lex: անխտրաբար
  stem: անխտրաբար.
  gramm: ADV
- gloss: without.exception_exclusion_distinction_unexceptionable
+ gloss: without.exception
  paradigm: Empty
  trans_en: without exception/exclusion/distinction, unexceptionable
 
@@ -1546,7 +1546,7 @@
  lex: անկազմակերպորեն
  stem: անկազմակերպորեն.//անկազմակերպորէն.
  gramm: ADV
- gloss: without.organization_order_coordination
+ gloss: without.coordination
  paradigm: Empty
  trans_en: without organization/order/coordination
 
@@ -2018,7 +2018,7 @@
  lex: անհոգաբար
  stem: անհոգաբար.
  gramm: ADV
- gloss: light-heartedly
+ gloss: light.heartedly
  paradigm: Empty
  trans_en: light-heartedly
 
@@ -2042,7 +2042,7 @@
  lex: անհոգորեն
  stem: անհոգորեն.//անհոգորէն.
  gramm: ADV
- gloss: light-heartedly
+ gloss: light.heartedly
  paradigm: Empty
  trans_en: light-heartedly
 
@@ -3770,7 +3770,7 @@
  lex: արժանավորապես
  stem: արժանաւորապես.//արժանավորապէս.//արժանավորապես.
  gramm: ADV
- gloss: befittingly_in.an.appropriate_adequate_proper.manner
+ gloss: befittingly
  paradigm: Empty
  trans_en: befittingly, in an appropriate/adequate/proper manner
 
@@ -3786,7 +3786,7 @@
  lex: արիաբար
  stem: արիաբար.
  gramm: ADV
- gloss: bravely_courageously
+ gloss: bravely
  paradigm: Empty
  trans_en: bravely, courageously
 
@@ -3962,7 +3962,7 @@
  lex: ափիբերան
  stem: ափիբերան.
  gramm: ADV
- gloss: dumb-founded
+ gloss: dumb.founded
  paradigm: Empty
  trans_en: dumb-founded
 
@@ -4482,7 +4482,7 @@
  lex: բերանբաց
  stem: բերանբաց.
  gramm: ADV
- gloss: agaped_stunned_enchanted;.gaper_gawk_gullible.person
+ gloss: stunned
  paradigm: Empty
  trans_en: agaped, stunned, enchanted; gaper, gawk, gullible person
 
@@ -5066,7 +5066,7 @@
  lex: գթասիրաբար
  stem: գթասիրաբար.
  gramm: ADV
- gloss: tender-heartedly
+ gloss: tender.heartedly
  paradigm: Empty
  trans_en: tender-heartedly
 
@@ -5266,7 +5266,7 @@
  lex: գլխիվայր
  stem: գլխիվայր.//գլխիւայր.
  gramm: ADV
- gloss: head-down
+ gloss: head.down
  paradigm: Empty
  trans_en: head-down
 
@@ -5274,7 +5274,7 @@
  lex: գլխիվեր
  stem: գլխիվէր.//գլխիվեր.//գլխիւեր.
  gramm: ADV
- gloss: head-up
+ gloss: head.up
  paradigm: Empty
  trans_en: head-up
 
@@ -5714,7 +5714,7 @@
  lex: դատարկաձեռն
  stem: դատարկաձէռն.//դատարկաձեռն.
  gramm: ADV
- gloss: empty-handed
+ gloss: empty.handed
  paradigm: Empty
  trans_en: empty-handed
 
@@ -5754,7 +5754,7 @@
  lex: դեմառդեմ
  stem: դեմառդէմ.//դեմառդեմ.
  gramm: ADV
- gloss: just.opposite_face-to-face
+ gloss: just.opposite_face.to.face
  paradigm: Empty
  trans_en: just opposite, face-to-face
 
@@ -6234,7 +6234,7 @@
  lex: եռանվագ
  stem: եռանվագ.
  gramm: ADV
- gloss: three-times
+ gloss: three.times
  paradigm: Empty
  trans_en: three-times
 
@@ -7106,7 +7106,7 @@
  lex: ընդհակառակն
  stem: ընդհակառակն.
  gramm: ADV
- gloss: on.the.contrary_quite.the.reverse_(just).the.other.way
+ gloss: on.the.contrary
  paradigm: Empty
  trans_en: on the contrary, quite the reverse, (just) the other way
 
@@ -7298,7 +7298,7 @@
  lex: թավալգլոր
  stem: թաւալգլոր.//թավալգլոր.
  gramm: ADV
- gloss: topsy-turvy
+ gloss: topsy.turvy
  paradigm: Empty
  trans_en: topsy-turvy
 
@@ -7386,7 +7386,7 @@
  lex: թեթեւամտաբար
  stem: թեթեվամտաբար.//թեթևամտաբար.//թեթեւամտաբար.
  gramm: ADV
- gloss: light-mindedly
+ gloss: light.mindedly
  paradigm: Empty
  trans_en: light-mindedly
 
@@ -7394,7 +7394,7 @@
  lex: թեթեւամտորեն
  stem: թեթևամտորեն.//թեթեւամտորեն.//թեթեւամտորէն.//թեթեվամտորեն.
  gramm: ADV
- gloss: light-mindedly
+ gloss: light.mindedly
  paradigm: Empty
  trans_en: light-mindedly
 
@@ -7442,7 +7442,7 @@
  lex: թեւանցուկ
  stem: թեվանցուկ.//թևանցուկ.//թեւանցուկ.
  gramm: ADV
- gloss: arm-in-arm
+ gloss: arm.in.arm
  paradigm: Empty
  trans_en: arm-in-arm
 
@@ -7842,7 +7842,7 @@
  lex: ինքնավստահաբար
  stem: ինքնաւստահաբար.//ինքնավստահաբար.
  gramm: ADV
- gloss: self-confidently
+ gloss: self.confidently
  paradigm: Empty
  trans_en: self-confidently
 
@@ -7850,7 +7850,7 @@
  lex: ինքնավստահորեն
  stem: ինքնաւստահորեն.//ինքնավստահորեն.//ինքնավստահորէն.
  gramm: ADV
- gloss: self-confidently
+ gloss: self.confidently
  paradigm: Empty
  trans_en: self-confidently
 
@@ -8250,7 +8250,7 @@
  lex: լիաբերան
  stem: լիաբերան.
  gramm: ADV
- gloss: at.the.top.of.one's.voice_from.the.bottom.of.one's.heart
+ gloss: at.the.top.of.voice
  paradigm: Empty
  trans_en: at the top of one's voice, from the bottom of one's heart
 
@@ -8426,7 +8426,7 @@
  lex: լուսով
  stem: լուսով.
  gramm: ADV
- gloss: in.the.day-time
+ gloss: in.the.day.time
  paradigm: Empty
  trans_en: in the day-time
 
@@ -8826,7 +8826,7 @@
  lex: խղճահար
  stem: խղճահար.
  gramm: ADV
- gloss: compassionate_conscience-stricken
+ gloss: compassionate_conscience.stricken
  paradigm: Empty
  trans_en: compassionate, conscience-stricken
 
@@ -9210,7 +9210,7 @@
  lex: խստասրտորեն
  stem: խստասրտորեն.//խստասրտորէն.
  gramm: ADV
- gloss: hard-heartedly
+ gloss: hard.heartedly
  paradigm: Empty
  trans_en: hard-heartedly
 
@@ -10066,7 +10066,7 @@
  lex: կարճամտաբար
  stem: կարճամտաբար.
  gramm: ADV
- gloss: short-sightedly_foolishly_improvidently
+ gloss: short.sightedly_foolishly_improvidently
  paradigm: Empty
  trans_en: short-sightedly, foolishly, improvidently
 
@@ -10074,7 +10074,7 @@
  lex: կարճամտորեն
  stem: կարճամտորէն.//կարճամտորեն.
  gramm: ADV
- gloss: short-sightedly_foolishly_improvidently
+ gloss: short.sightedly_foolishly_improvidently
  paradigm: Empty
  trans_en: short-sightedly, foolishly, improvidently
 
@@ -10138,7 +10138,7 @@
  lex: կես-կատակ
  stem: կես-կատակ.
  gramm: ADV
- gloss: semi-joking
+ gloss: semi.joking
  paradigm: Empty
  trans_en: semi-joking
 
@@ -10154,7 +10154,7 @@
  lex: կիսաբերան
  stem: կիսաբերան.
  gramm: ADV
- gloss: half-heartedly_unwillingly
+ gloss: half.heartedly_unwillingly
  paradigm: Empty
  trans_en: half-heartedly, unwillingly
 
@@ -10170,7 +10170,7 @@
  lex: կիսագին
  stem: կիսագին.
  gramm: ADV
- gloss: (pay).half-price.(for.smth.)
+ gloss: (pay).half.price.(for.smth.)
  paradigm: Empty
  trans_en: (pay) half-price (for smth.)
 
@@ -10186,7 +10186,7 @@
  lex: կիսաձայն
  stem: կիսաձայն.
  gramm: ADV
- gloss: in.an.undertone_semi-vowel
+ gloss: in.an.undertone_semi.vowel
  paradigm: Empty
  trans_en: in an undertone, semi-vowel
 
@@ -10986,7 +10986,7 @@
  lex: հայաբարբառ
  stem: հայաբարբառ.
  gramm: ADV
- gloss: Armenian-speaking
+ gloss: Armenian.speaking
  paradigm: Empty
  trans_en: Armenian-speaking
 
@@ -12674,7 +12674,7 @@
  lex: ձեռնունայն
  stem: ձեռնունայն.
  gramm: ADV
- gloss: empty-handed
+ gloss: empty.handed
  paradigm: Empty
  trans_en: empty-handed
 
@@ -13530,7 +13530,7 @@
  lex: միակողմանիորեն
  stem: միակողմանիորէն.//միակողմանիորեն.
  gramm: ADV
- gloss: one-sidedly
+ gloss: one.sidedly
  paradigm: Empty
  trans_en: one-sidedly
 
@@ -14483,7 +14483,7 @@
  lex: շեշտակի
  stem: շեշտակի.
  gramm: ADV
- gloss: well-aimed_abrupt_sudden
+ gloss: well.aimed_abrupt_sudden
  paradigm: Empty
  trans_en: well-aimed, abrupt, sudden
 
@@ -15323,7 +15323,7 @@
  lex: չարագործաբար
  stem: չարագործաբար.
  gramm: ADV
- gloss: ill-intentioned_villainous_villainously
+ gloss: ill.intentioned_villainous_villainously
  paradigm: Empty
  trans_en: ill-intentioned, villainous, villainously
 
@@ -17148,7 +17148,7 @@
  lex: սրտանց
  stem: սրտանց.
  gramm: ADV
- gloss: whole-heartedly_sincerely_from.the.bottom.of.one's.heart
+ gloss: whole.heartedly
  paradigm: Empty
  trans_en: whole-heartedly, sincerely, from the bottom of one's heart
 
@@ -19517,7 +19517,7 @@
  lex: օրինապահորեն
  stem: օրինապահորէն.//օրինապահորեն.
  gramm: ADV
- gloss: law-abidingly
+ gloss: law.abidingly
  paradigm: Empty
  trans_en: law-abidingly
 
