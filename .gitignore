@@ -10,8 +10,6 @@ unanalyzed.txt
 import_test.py
 lexemes.txt
 paradigms.txt
-bad_analyses.txt
-derivations.txt
 lex_rules.txt
 add_lex/
 .Python
@@ -40,3 +38,4 @@ pip-delete-this-directory.txt
 venv/
 ENV/
 uniparser_eastern_armenian/data/*.cg3
+uniparser_eastern_armenian/data/*.txt

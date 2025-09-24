@@ -26931,11 +26931,11 @@
 
 -lexeme
  lex: դառնալ
- stem: .դառն.
- gramm: V,oral
- gloss: STEM
- paradigm: V22d
- trans_en: 
+ stem: .դառ.
+ gramm: V,intr,oral
+ gloss: become
+ paradigm: paradigm: aor-av
+ trans_en: become, turn
 
 -lexeme
  lex: դառնանալ

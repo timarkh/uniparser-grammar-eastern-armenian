@@ -1719,14 +1719,6 @@
  trans_en: 
 
 -lexeme
- lex: ինձի
- stem: ինձի.
- gramm: PRON,oral
- gloss: STEM
- paradigm: P31
- trans_en: 
-
--lexeme
  lex: ինչ
  stem: ինչ.
  gramm: PRON,S,intrg,sg
@@ -2416,7 +2408,7 @@
 
 -lexeme
  lex: մենք
- stem: մէնք.//մենք.|մեր.//մէր.|մէզ.//մեզ.|մեզն.//մէզն.|մեզան.
+ stem: մէնք.//մենք.|մեր.//մէր.|մէզ.//մեզ.|մեզն.//մէզն.|մեզան.|NONE.
  gramm: PRON,S,hum,pl
  gloss: we
  paradigm: P31
@@ -3511,14 +3503,6 @@
  trans_en: 
 
 -lexeme
- lex: քեզի
- stem: քեզի.
- gramm: PRON,oral
- gloss: STEM
- paradigm: P31
- trans_en: 
-
--lexeme
  lex: քըխ
  stem: քըխ.
  gramm: INTJ
@@ -3572,14 +3556,6 @@
  gramm: POST
  gloss: STEM
  paradigm: N11
- trans_en: 
-
--lexeme
- lex: քու
- stem: քու.
- gramm: PRON,oral
- gloss: STEM
- paradigm: P31b
  trans_en: 
 
 -lexeme
