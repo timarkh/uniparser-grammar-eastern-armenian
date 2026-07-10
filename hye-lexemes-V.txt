@@ -118434,10 +118434,10 @@
  lex: վերաքվեարկվել
  stem: .վերաքվեարկվ.
  gramm: V,med,intr
- gloss: STEM
+ gloss: revote
  paradigm: V11
  paradigm: V11_main
- trans_en: 
+ trans_en: revote
 
 -lexeme
  lex: վերգրել
