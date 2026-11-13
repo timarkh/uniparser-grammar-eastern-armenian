@@ -1275,7 +1275,7 @@
  stem: էստեղ-էնտեղ.//էստեղ-էնտէղ.
  gramm: PRON,ADV,oral
  gloss: here.there
- paradigm: N11+N11
+ paradigm: Empty
  trans_en: here-there
 
 -lexeme
